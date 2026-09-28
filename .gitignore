@@ -1,4 +1,6 @@
 .DS_Store
+dist/
+.vercel/
 public/assets/team-betul-christina.jpg
 public/assets/team-neslisah.avif
 public/assets/team-neslisah.jpg
