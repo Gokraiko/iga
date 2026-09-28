@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&display=swap');
+
+.iga-hero,.iga-investment,.iga-cta{padding:96px max(calc((100% - 1200px)/2),6vw)!important}
+.iga-hero{min-height:680px;background:linear-gradient(90deg,rgba(10,31,46,.84),rgba(10,31,46,.4)),url('https://static.wixstatic.com/media/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg/v1/fill/w_1960,h_1636,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/11062b_597dd59057a4487da23613b799cd88e6~mv2.jpeg') center 46%/cover no-repeat;color:#fff}
+.iga-hero>.vc_column_container>.vc_column-inner>.wpb_wrapper{max-width:790px}
+.iga-eyebrow{color:#b98a51!important;text-transform:uppercase;letter-spacing:.18em;font:700 10px/1.5 'DM Sans','Noto Sans SC',sans-serif}
+.iga-hero .iga-eyebrow{color:#dfbd8c!important}
+.iga-hero-title,.iga-hero-title h1{font:400 clamp(54px,8vw,100px)/.98 'Playfair Display','Noto Sans SC',Georgia,serif!important;letter-spacing:-.045em;color:#fff!important;max-width:800px;margin:25px 0!important}
+.iga-hero-subtitle,.iga-hero-subtitle h3{font:400 clamp(17px,2vw,22px)/1.5 'DM Sans','Noto Sans SC',sans-serif!important;color:#edf0ee!important}
+.iga-hero-copy,.iga-hero-copy p{font:400 14px/1.85 'DM Sans','Noto Sans SC',sans-serif;color:#e0e5e3;max-width:600px}
+.iga-hero-button .vc_btn3{background:#d1ad7e!important;border-color:#d1ad7e!important;color:#152f40!important;border-radius:0!important;letter-spacing:.12em;font-size:10px;padding:15px 21px}
+.iga-stats{display:flex;justify-content:center;background:#f6f3ec;padding:25px 4vw}
+.iga-stats .vc_column_text{display:flex;align-items:center;gap:13px;color:#667174;font:500 10px 'DM Sans','Noto Sans SC',sans-serif;text-transform:uppercase;letter-spacing:.1em}
+.iga-stats strong{font:400 25px 'Playfair Display','Noto Sans SC',serif;color:#152f40}
+.iga-stats span{display:inline-block}
+.iga-section{max-width:1280px;margin:0 auto;padding:90px 44px}
+.iga-section h2,.iga-investment h2,.iga-cta h2{font:400 clamp(38px,5vw,64px)/1.08 'Playfair Display','Noto Sans SC',Georgia,serif!important;letter-spacing:-.035em;color:#152f40}
+.iga-section p,.iga-investment p,.iga-cta p{font:400 14px/1.8 'DM Sans','Noto Sans SC',sans-serif;color:#667174}
+.iga-service-grid{display:flex;gap:0;max-width:1280px;margin:0 auto;padding:0 44px}
+.iga-service-grid>.vc_column_container{border:1px solid rgba(21,47,64,.14);margin:0 -1px -1px 0}
+.iga-service-grid>.vc_column_container>.vc_column-inner{padding:23px!important}
+.iga-service-card{min-height:240px;display:flex;flex-direction:column}
+.iga-service-card small,.iga-process small{font:400 13px 'Playfair Display',serif;color:#b98a51}
+.iga-service-card h3,.iga-process h3{font:500 21px/1.2 'Playfair Display','Noto Sans SC',serif;color:#152f40;margin:24px 0 10px}
+.iga-service-card p,.iga-process p{font:400 12px/1.7 'DM Sans','Noto Sans SC',sans-serif;color:#727b7d}
+.iga-service-card a{margin-top:auto;padding-top:15px;color:#152f40;font-size:10px;letter-spacing:.1em;text-transform:uppercase}
+.iga-investment{background:#102a3b;color:#fff!important}
+.iga-investment h2,.iga-investment .iga-eyebrow,.iga-investment p{color:#fff!important}
+.iga-investment>.vc_column_container{align-self:center}
+.iga-investment-image img{width:100%;height:440px;object-fit:cover}
+.iga-investment .vc_btn3{border-radius:0!important}
+.iga-process{display:flex;gap:30px}
+.iga-process>.vc_column_container:not(:first-child){border-top:1px solid rgba(21,47,64,.18);padding-top:20px}
+.iga-about{display:flex;gap:50px;background:#f6f3ec;max-width:none;padding-left:max(calc((100% - 1192px)/2),6vw);padding-right:max(calc((100% - 1192px)/2),6vw)}
+.iga-cta{background:#e6ddcf;display:flex;align-items:center;gap:40px}
+.iga-cta p{color:#53636a}
+.iga-cta .vc_btn3{border-radius:0!important;background:#152f40!important;color:#fff!important;padding:15px 20px}
+@media(max-width:767px){.iga-hero,.iga-investment,.iga-cta{padding:70px 24px!important}.iga-hero{min-height:620px}.iga-hero-title,.iga-hero-title h1{font-size:54px!important}.iga-section{padding:65px 22px}.iga-service-grid{padding:0 22px;flex-wrap:wrap}.iga-service-grid>.vc_column_container{width:50%!important}.iga-service-card{min-height:230px}.iga-investment-image img{height:320px}.iga-process,.iga-about,.iga-cta{display:block}.iga-stats{padding:20px 12px}.iga-stats .vc_column_text{display:block;text-align:center}.iga-stats strong,.iga-stats span{display:block}.iga-cta .vc_btn3{margin-top:20px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*:before,*:after{transition:none!important;animation:none!important}}
