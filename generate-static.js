@@ -12,7 +12,7 @@ for (const file of ['app.js', 'blog-posts-data.js', 'citizenship-content.js', 's
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
-fs.copyFileSync('google0b359aa60505761e.html', path.join(out, 'google0b359aa60505761e.html'));
+fs.copyFileSync('google3d5df3fe239ec586.html', path.join(out, 'google3d5df3fe239ec586.html'));
 
 const emptyNode = () => ({ addEventListener() {}, querySelector: emptyNode, querySelectorAll: () => [] });
 function createDocument() {
@@ -86,5 +86,5 @@ for (const route of routes) {
 fs.writeFileSync(path.join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemap.join('')}</urlset>\n`);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
 fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0;url=/en/"><script>location.replace('/en/'+location.hash)</script></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
-fs.copyFileSync('google0b359aa60505761e.html', path.join(out, 'en', 'google0b359aa60505761e.html'));
+fs.copyFileSync('google3d5df3fe239ec586.html', path.join(out, 'en', 'google3d5df3fe239ec586.html'));
 console.log(`Generated ${routes.length * languages.length} localized pages and ${sitemap.length} sitemap entries`);
