@@ -5,19 +5,71 @@
   "buildCommand": "node generate-static.js",
   "trailingSlash": true,
   "redirects": [
-    { "source": "/post/:slug", "destination": "/en/blog/:slug/", "permanent": true },
-    { "source": "/igainvestment", "destination": "/en/turkish-citizenship-by-investment/", "permanent": true },
-    { "source": "/igaturkishcitizenshipbyinvestment", "destination": "/en/turkish-citizenship-by-investment-lawyer/", "permanent": true },
-    { "source": "/igalawpracticeareas", "destination": "/en/services/", "permanent": true },
-    { "source": "/igalawblog", "destination": "/en/blog/", "permanent": true },
-    { "source": "/map", "destination": "/en/contact/", "permanent": true },
-    { "source": "/igalawworkpermit", "destination": "/en/igalawworkpermit/", "permanent": true },
-    { "source": "/igalawcorporatelaw", "destination": "/en/igalawcorporatelaw/", "permanent": true },
-    { "source": "/igalawlegalconsultancy", "destination": "/en/igalawlegalconsultancy/", "permanent": true },
-    { "source": "/igalawlitigation", "destination": "/en/igalawlitigation/", "permanent": true },
-    { "source": "/igalawresidencepermit", "destination": "/en/igalawresidencepermit/", "permanent": true },
-    { "source": "/igalawrealestateduediligence", "destination": "/en/igalawrealestateduediligence/", "permanent": true },
-    { "source": "/igalawdocumentation", "destination": "/en/igalawdocumentation/", "permanent": true }
+    {
+      "source": "/post/:slug/",
+      "destination": "/en/blog/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/igainvestment/",
+      "destination": "/en/turkish-citizenship-by-investment/",
+      "permanent": true
+    },
+    {
+      "source": "/igaturkishcitizenshipbyinvestment/",
+      "destination": "/en/turkish-citizenship-by-investment-lawyer/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawpracticeareas/",
+      "destination": "/en/services/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawblog/",
+      "destination": "/en/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/map/",
+      "destination": "/en/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawworkpermit/",
+      "destination": "/en/igalawworkpermit/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawcorporatelaw/",
+      "destination": "/en/igalawcorporatelaw/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawlegalconsultancy/",
+      "destination": "/en/igalawlegalconsultancy/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawlitigation/",
+      "destination": "/en/igalawlitigation/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawresidencepermit/",
+      "destination": "/en/igalawresidencepermit/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawrealestateduediligence/",
+      "destination": "/en/igalawrealestateduediligence/",
+      "permanent": true
+    },
+    {
+      "source": "/igalawdocumentation/",
+      "destination": "/en/igalawdocumentation/",
+      "permanent": true
+    }
   ],
   "outputDirectory": "dist"
 }
