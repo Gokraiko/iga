@@ -58,7 +58,7 @@ for (const route of routes) {
     const schema = document.headItems.find(item => item.id === 'iga-structured-data');
     const title = document.title;
     const description = meta?.content || '';
-    const canonical = origin + pathname;
+    const canonical = origin + (route.sub && lang !== 'en' ? urlFor('en', route) : pathname);
     const alternates = route.sub ? '' : languages.map(code => `<link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${origin + urlFor(code, route)}" />`).join('\n    ');
     const head = `<link rel="canonical" href="${escapeHtml(canonical)}" />
     ${alternates}
@@ -78,11 +78,11 @@ for (const route of routes) {
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), html);
     const hreflang = route.sub ? '' : languages.map(code => `<xhtml:link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${escapeHtml(origin + urlFor(code, route))}"/>`).join('');
-    sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${hreflang}</url>`);
+    if (!route.sub || lang === 'en') sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${hreflang}</url>`);
   }
 }
 
 fs.writeFileSync(path.join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemap.join('')}</urlset>\n`);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
 fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0;url=/en/"><script>location.replace('/en/'+location.hash)</script></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
-console.log(`Generated ${sitemap.length} localized pages and sitemap.xml`);
+console.log(`Generated ${routes.length * languages.length} localized pages and ${sitemap.length} sitemap entries`);
