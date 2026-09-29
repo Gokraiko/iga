@@ -12,6 +12,7 @@ for (const file of ['app.js', 'blog-posts-data.js', 'citizenship-content.js', 's
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
+fs.copyFileSync('google0b359aa60505761e.html', path.join(out, 'google0b359aa60505761e.html'));
 
 const emptyNode = () => ({ addEventListener() {}, querySelector: emptyNode, querySelectorAll: () => [] });
 function createDocument() {
