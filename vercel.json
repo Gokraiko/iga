@@ -6,6 +6,29 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/",
+      "destination": "/tr/",
+      "has": [{ "type": "header", "key": "x-vercel-ip-country", "value": { "eq": "TR" } }],
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "/zh/",
+      "has": [{ "type": "header", "key": "x-vercel-ip-country", "value": { "inc": ["CN", "HK", "MO", "TW"] } }],
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "/ar/",
+      "has": [{ "type": "header", "key": "x-vercel-ip-country", "value": { "inc": ["AE", "SA", "QA", "KW", "BH", "OM", "EG", "JO", "LB", "IQ", "SY", "YE", "PS", "DZ", "MA", "TN", "LY", "SD", "MR", "SO", "DJ", "KM", "TD"] } }],
+      "permanent": false
+    },
+    {
+      "source": "/",
+      "destination": "/en/",
+      "permanent": false
+    },
+    {
       "source": "/post/:slug/",
       "destination": "/en/blog/:slug/",
       "permanent": true
