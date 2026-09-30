@@ -34,6 +34,8 @@ Gerçek bir çeviri ileride yayımlanırsa, ana makale gövdesi ve hukuki teriml
 
 Benzer konu içeren yazılar: Çinli başvuranların belge rehberi ile doğum belgesi olmayan başvurular; BES/Allianz stratejisi ve fon yapısı; mevduat rehberleri ile getiri vaka analizleri; gayrimenkul seçimi, İstanbul bölgeleri ve üç yıl sonrası satış. Gövde karşılaştırması bu yazıların aynı metin olduğunu göstermiyor. Birleştirme/301 için içerik sorumlusu, kaynaklar ve Search Console verileri incelenmeli.
 
+2026 tarihli `turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors` yazısı da hızlı hukukçu incelemesi gerektiriyor. 7582 sayılı Kanun mevcut olsa da 20/D istisnası belirli koşullara tabi; başlıktaki kısa ifade kapsamı olduğundan geniş algılatabilir. Yazıda uygunluk koşulları, istisnanın sınırları ve %1 oranının hangi miras intikallerine uygulandığı resmî metinle satır satır karşılaştırılmalı. Bu denetimde yazının gövdesini veya iddialarını değiştirmedim.
+
 ## Doğrulanmış teknik sonuçlar
 
 - Her yerel kopya ilk HTML'de tek H1, `<main>`, makalenin İngilizce gövdesi ve yerel dil uyarısı içeriyor.
