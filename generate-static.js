@@ -60,6 +60,7 @@ for (const route of routes) {
     const title = document.title;
     const description = meta?.content || '';
     const canonical = origin + (route.sub && lang !== 'en' ? urlFor('en', route) : pathname);
+    // Article copies have no translated body in the data set, so only the localized blog landing pages belong in hreflang clusters.
     const alternates = route.sub ? '' : languages.map(code => `<link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${origin + urlFor(code, route)}" />`).concat(`<link rel="alternate" hreflang="x-default" href="${origin + urlFor('en', route)}" />`).join('\n    ');
     const head = `<link rel="canonical" href="${escapeHtml(canonical)}" />
     ${alternates}
