@@ -60,14 +60,18 @@ for (const route of routes) {
     const title = document.title;
     const description = meta?.content || '';
     const canonical = origin + (route.sub && lang !== 'en' ? urlFor('en', route) : pathname);
-    const alternates = route.sub ? '' : languages.map(code => `<link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${origin + urlFor(code, route)}" />`).join('\n    ');
+    const alternates = route.sub ? '' : languages.map(code => `<link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${origin + urlFor(code, route)}" />`).concat(`<link rel="alternate" hreflang="x-default" href="${origin + urlFor('en', route)}" />`).join('\n    ');
     const head = `<link rel="canonical" href="${escapeHtml(canonical)}" />
     ${alternates}
+    ${route.sub && lang !== 'en' ? '<meta name="robots" content="noindex,follow" />' : ''}
     <meta property="og:type" content="${route.sub ? 'article' : 'website'}" />
+    <meta property="og:locale" content="${lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US'}" />
     <meta property="og:url" content="${escapeHtml(canonical)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="${escapeHtml(title)}" />
+    <meta name="twitter:description" content="${escapeHtml(description)}" />
     <script type="application/ld+json" id="iga-structured-data">${schema.textContent.replace(/<\//g, '<\\/')}</script>`;
     const html = template
       .replace('<html lang="en">', `<html lang="${lang === 'zh' ? 'zh-CN' : lang}"${lang === 'ar' ? ' dir="rtl"' : ''}>`)
@@ -78,7 +82,7 @@ for (const route of routes) {
     const dir = path.join(out, pathname);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), html);
-    const hreflang = route.sub ? '' : languages.map(code => `<xhtml:link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${escapeHtml(origin + urlFor(code, route))}"/>`).join('');
+    const hreflang = route.sub ? '' : languages.map(code => `<xhtml:link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${escapeHtml(origin + urlFor(code, route))}"/>`).concat(`<xhtml:link rel="alternate" hreflang="x-default" href="${escapeHtml(origin + urlFor('en', route))}"/>`).join('');
     if (!route.sub || lang === 'en') sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${hreflang}</url>`);
   }
 }

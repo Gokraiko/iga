@@ -27,7 +27,7 @@ const citizenshipContent = {
       ],
       source: 'Official programme conditions: Presidency of the Republic of Türkiye Investment Office',
       related: 'Need legal help with an application? See IGA’s Turkish citizenship by investment lawyer service.',
-      updated: 'Programme information reviewed September 2026. Confirm current rules before making an investment.'
+      updated: 'Official source checked September 2026. Confirm current rules before making an investment.'
     },
     tr: {
       title: 'Yatırım Yoluyla Türk Vatandaşlığı: Şartlar ve Seçenekler | IGA',
@@ -56,7 +56,7 @@ const citizenshipContent = {
       ],
       source: 'Resmî program koşulları: Türkiye Cumhuriyeti Cumhurbaşkanlığı Yatırım Ofisi',
       related: 'Başvuruda hukuki destek için IGA’nın yatırım yoluyla vatandaşlık avukatlığı hizmetini inceleyin.',
-      updated: 'Program bilgileri Eylül 2026’da gözden geçirilmiştir. Yatırım öncesinde güncel kuralları teyit edin.'
+      updated: 'Resmî kaynak Eylül 2026’da kontrol edilmiştir. Yatırım öncesinde güncel kuralları teyit edin.'
     },
     zh: {
       title: '土耳其投资入籍条件与投资方式 | IGA 律师事务所',
@@ -85,7 +85,7 @@ const citizenshipContent = {
       ],
       source: '官方项目条件：土耳其共和国总统府投资办公室',
       related: '如需申请法律协助，请了解 IGA 的土耳其投资入籍律师服务。',
-      updated: '项目信息于2026年9月核查。投资前请再次确认现行规定。'
+      updated: '官方来源于2026年9月核查。投资前请再次确认现行规定。'
     }
   },
   lawyer: {
