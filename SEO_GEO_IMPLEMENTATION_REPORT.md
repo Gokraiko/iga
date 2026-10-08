@@ -1,53 +1,49 @@
-# SEO ve GEO uygulama notu — 30 Eylül 2026
+# IGA Law Firm SEO/GEO uygulama raporu — 8 Ekim 2026
 
-## Envanter ve öncelikli bulgular
+## Mevcut durum ve kapsam
 
-`SEO_INVENTORY_BEFORE.csv` ve `SEO_INVENTORY_AFTER.csv`, üretilen 160 URL'nin her biri için dil, title, description, H1, canonical, hreflang, sitemap ve ilk HTML'deki ana içeriği gösterir. 160 URL'nin 60'ı temel sayfa, 100'ü blog yazısı URL'sidir (25 yazı × 4 dil). Başlangıçta temel sayfaların her birinde H1 ve ilk HTML'de ana içerik vardı. Ancak genel sayfa türlerinde tekrarlanan açıklamalar, İngilizce gövdeli blog yazılarının dil sinyalleri ve ülkeye göre değişen kök yönlendirmesi sorun oluşturuyordu.
+Statik üretici 15 temel sayfayı ve 25 blog yazısını EN/TR/ZH/AR yollarında üretiyor: toplam 160 URL. 25 yazının gövdesi yalnızca İngilizce; dolayısıyla 75 TR/ZH/AR kopyası çevrilmiş sayılmıyor. Üretim öncesi envanter `SEO_INVENTORY_BEFORE.csv`, güncel çıktı `SEO_INVENTORY_AFTER.csv`; URL başına eski/yeni title, description, H1, canonical, hreflang, indeksleme ve sitemap durumu `SEO_GEO_URL_CHANGELOG.csv` dosyasında.
 
-| Öncelik | Bulgu | Uygulama |
-| --- | --- | --- |
-| Yüksek | 75 TR/ZH/AR blog URL'sinin ana metni İngilizceydi. | Bu URL'ler İngilizce asıl yazıya canonical verir ve `noindex,follow` taşır. Blog liste ve öne çıkan kartlar asıl İngilizce yazıya bağlanır. Çevrilmiş gibi hreflang verilmez; eski doğrudan URL'ler çalışmaya devam eder. |
-| Yüksek | `/` IP ülkesine göre farklı dil sürümüne yönleniyordu. | Kök adres kararlı biçimde `/en/` sayfasına geçici yönlenir. EN/TR/ZH/AR dil seçici görünür; çevrilmiş temel sayfalar kendi URL'sinde erişilebilir. |
-| Yüksek | Genel sayfalarda benzer meta açıklamaları vardı. | Başlık ve açıklamalar sayfanın gerçek içeriğinden ve dilinden türetilir. Blog yazılarının açıklamaları yazının ilk anlamlı paragrafından gelir. |
-| Orta | Temel sayfaların alternatif dil kümesinde `x-default` yoktu. | 60 temel sayfanın HTML ve sitemap hreflang kümelerine `/en/` karşılığı `x-default` eklendi. Çince kodu HTML ve hreflang'da `zh-CN`. |
-| Orta | Vatandaşlık konu kümesindeki bağlantılar ve yatırım yetkili kurumları eksikti. | Hizmetler, ilgili gayrimenkul hizmeti, footer ve ilgili blog yazıları rehber/hizmet sayfalarına bağlandı; rehberde yedi yolun yetkili kurumu gösterildi. |
-| Orta | İstanbul görseli yaklaşık 2,4 MB PNG idi. | Görünümü koruyan JPEG sürümü yaklaşık 0,5 MB; ana sayfadaki mevcut görsel kompozisyonu korunur. |
+Canlı `www.igalawfirm.com` kontrolünde istek `https://igalawfirm.com/en/` adresine yönlendi ve yeni site HTML’i döndü. Bu doğrulama canlı URL yönlendirmesini gösterir; yerel değişikliklerin henüz deploy edildiğini göstermez. Web denetleyicisi canlı XML dosyalarını ve rehber sayfasını okuyamadı; sitemap/robots sonuçları bu nedenle üretilen yerel `dist` çıktısına göre raporlanıyor. DNS kayıtlarına dokunulmadı.
 
-## Çıktı kontrolü
+## Uygulananlar
 
-- Statik üretim: 160 sayfa; sitemap: 85 canonical ve indekslenebilir URL. 75 çevrilmemiş blog kopyası sitemap dışında ve `noindex`.
-- İndekslenebilir sayfalarda benzersiz title, description ve H1; tek H1 ve ilk HTML'de `<main>`.
-- Canonical adreslerin tamamı `https://igalawfirm.com` altında; sitemap, HTML hreflang ve karşılıklı alternatifler eşleşiyor.
-- İç bağlantı hedefleri, JSON-LD sözdizimi ve JSON-LD WebPage URL/canonical eşleşmesi denetlendi.
-- Schema'da doğrulanmamış adres, yazar ve yayın tarihi eklenmedi. Organization, WebSite, WebPage ve yazılar için BlogPosting kullanılıyor. Sayfada görünen gerçek SSS haricinde FAQPage işaretlemesi yok.
-- `https://igalawfirm.com/robots.txt` içinde sitemap adresi `https://igalawfirm.com/sitemap.xml` olarak üretiliyor.
+- Temel sayfa türleri için EN/TR/ZH/AR ayrı, içerikle uyumlu title, meta description ve H1 tanımlandı. Blog title’ları arama görünümünde kısaltıldı; açıklamalar yazı gövdesindeki anlamlı ilk paragraftan üretiliyor.
+- Vatandaşlık rehberi ve vatandaşlık avukatlığı sayfaları ayrı arama niyetlerine göre tutuldu. Rehberin başına doğrudan cevap özeti eklendi ve resmî Yatırım Ofisi kaynağına bağlandı. Kaynak kontrol tarihi sayfada gösteriliyor.
+- 75 İngilizce gövdeli TR/ZH/AR blog kopyası İngilizce asıl URL’lerine canonical veriyor, `noindex,follow` taşıyor ve hreflang/sitemap dışında kalıyor. Bunları 301’e çevirmek yerine var olan URL’leri korumak seçildi; 301 gerektirecek içerik kararı ve eski bağlantı gereksinimi kanıtlanmadı.
+- 60 özgün temel sayfanın canonical’ı kendine; EN/TR/ZH/AR alternate’ları karşılıklı ve `x-default` EN sürümüne gidiyor. Çince için `zh-CN`; HTML lang değerinde de `zh-CN` kullanılıyor. İngilizce blog yazılarında self-canonical, çevrilmemiş kopyalarda İngilizce canonical var.
+- `/` için ülkeye/ziyaretçi IP’sine göre zorunlu dil seçimi yok. Vercel’de kararlı varsayılan `/en/` yönlendirmesi ve sayfada görünür dil menüsü korunuyor.
+- Organization/WebSite ve uygun hizmet sayfalarında LegalService yapılandırılmış verisi kullanılıyor. Görünür sayfa ile doğrulanmamış adres, yazar, tam yayın tarihi, lisans veya ödül eklenmedi. Blog yazılarında mevcut kayıtlarda yalnızca yıl bulunduğundan yazar ve kesin tarih uydurulmadı.
+- Vatandaşlık rehberindeki yatırım seçenekleri, tutarlar ve yetkili makam açıklamaları için [Invest in Türkiye’nin resmî rehberi](https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx) ve [Türkçe resmî sürüm](https://www.invest.gov.tr/tr/investmentguide/sayfalar/acquiring-property-and-citizenship.aspx) kaynak gösteriliyor. Program kuralları değişebileceği için yayına almadan önce avukatın güncel hukuki kontrolünü yapması gerekir.
 
-## Editoryal doğrulama gerekenler
+## Üretim kontrolü
 
-1. EN/AR sürümleri ofisi **Bebek, Beşiktaş**; TR/ZH sürümleri **Esentepe, Şişli** olarak gösteriyor. Hangi adresin güncel olduğu kullanıcıdan doğrulanmalı. Doğrulama gelene kadar adres kodu ve adresli schema değiştirilmedi.
-2. Blog yazılarında doğrulanmış yazar ve tam yayın/güncelleme tarihi yok. BlogPosting'e bunlar eklenmedi. Gerçek editoryal kayıtlar edinildiğinde yazı bazında eklenmeli.
-3. Vatandaşlık rehberinde resmî kaynağın kontrol ayı görünüyor; avukat tarafından son hukuki gözden geçirme tarihi doğrulanmadı. Gerçek tarih ve inceleyen avukat bilgisi sağlandığında profiliyle birlikte eklenmeli.
-4. Google Search Console ve Analytics verileri bu kod tabanında bulunmuyor. İndekslenme, Google'ın seçtiği canonical, gösterim, trafik ve sıralama sonuçları hakkında iddiada bulunulmuyor.
+- JavaScript sözdizimi kontrolü ve `generate-static.js` başarılı: 160 HTML sayfası ve 85 sitemap URL’si üretildi.
+- 85 indekslenebilir URL ve 75 `noindex` kopya; sitemap tam olarak canonical/indekslenebilir URL’leri içeriyor.
+- Tüm 160 sayfada title, description, bir H1 ve ilk HTML yanıtında `<main>` içeriği var. İndekslenebilir sayfalarda title ve description değerleri benzersiz.
+- 60 temel sayfada 5 hreflang girdisi var; alternate hedefleri mevcut ve karşılıklı. 100 blog URL’sinde hreflang yok; bunlardan 25 EN asıl yazı indekslenebilir, 75 dil kopyası noindex.
+- Canonical alan adı her yerde `https://igalawfirm.com`; robots dosyası sitemap olarak `https://igalawfirm.com/sitemap.xml` bildiriyor. JSON-LD parse kontrolü, tek H1, canonical/sitemap uyumu ve hreflang hedefleri denetiminde 0 hata bulundu.
+- Canlı tarama verisi, Google’ın seçtiği canonical, gösterim veya sıralama verisi bu çalışma alanında yok. Kod değişiklikleri indekslenmeyi garanti etmez.
 
-## Search Console teslimi
+## İçerik ekibinin doğrulaması gerekenler
 
-Önce `https://igalawfirm.com/sitemap.xml` gönderin. Ardından URL Denetimi'nde aşağıdaki adresleri ayrı ayrı inceleyin; canlı URL testi isteyin ve **Kullanıcı tarafından belirtilen canonical**, **Google tarafından seçilen canonical**, indekslenebilirlik, taranan HTML ve hreflang durumunu karşılaştırın:
+1. EN/AR sayfaları ofis adresini Bebek, Beşiktaş; TR/ZH sayfaları Esentepe, Şişli olarak gösteriyor. Gerçek adres teyit edilene kadar adres ya da adres temelli yapılandırılmış veri değiştirilmedi.
+2. Bloglar için gerçek yazar ve kesin yayın/güncelleme tarihleri mevcut veri kaydında yok. Editoryal kayıtlar geldikten sonra yazı bazında eklenebilir.
+3. Vatandaşlık rehberindeki görünür resmî kaynak tarihi, avukatın inceleme tarihi değildir. Hukuki inceleme tarihi ve inceleyen kişinin adı doğrulanırsa ayrıca belirtilmeli.
 
-- `https://igalawfirm.com/en/`
-- `https://igalawfirm.com/tr/`
-- `https://igalawfirm.com/zh/`
-- `https://igalawfirm.com/ar/`
+## Google Search Console teslimi
+
+Önce `https://igalawfirm.com/sitemap.xml` gönderin. URL Denetimi’nde canlı testi çalıştırıp kullanıcı canonical’ı, Google canonical’ı, indekslenebilirlik ve taranan HTML’i karşılaştırın. İlk kontrol listesi:
+
+- `https://igalawfirm.com/en/`, `/tr/`, `/zh/`, `/ar/`
 - `https://igalawfirm.com/en/turkish-citizenship-by-investment/`
 - `https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/`
 - `https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/`
 - `https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi-avukati/`
-- `https://igalawfirm.com/zh/tuerqi-touzi-ruji/`
-- `https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/`
-- `https://igalawfirm.com/ar/turkish-citizenship-by-investment/`
-- `https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/`
-- `https://igalawfirm.com/en/blog/`
-- `https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/`
+- `https://igalawfirm.com/zh/tuerqi-touzi-ruji/` ve `/zh/tuerqi-touzi-ruji-lushi/`
+- Arapça vatandaşlık rehberi ve avukatlık sayfaları: `https://igalawfirm.com/ar/turkish-citizenship-by-investment/` ve `https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/`
+- `https://igalawfirm.com/en/blog/` ve `https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/`
 
-TR/ZH/AR blog yazısı URL'lerinden birkaçını ayrıca denetleyin: Google'ın İngilizce asıl yazıyı canonical olarak kabul edip etmediğine bakın. Yeniden tarama ve indeksleme Google'ın takvimine bağlıdır; belirli bir sıralama veya görünürlük garantisi yoktur.
+İngilizce gövdeli bir blog kopyasını da seçip Google’ın İngilizce canonical’ı tanıdığını kontrol edin. Tekrar tarama isteği göndermek mümkün olsa da sonuç ve zamanlama Google’a bağlıdır.
 
-Kaynaklar: [Google title link önerileri](https://developers.google.com/search/docs/appearance/title-link), [çok dilli URL/hreflang](https://developers.google.com/search/docs/specialty/international/localized-versions), [AI özellikleri ve SEO](https://developers.google.com/search/docs/appearance/ai-features), [Türkiye Cumhuriyeti Cumhurbaşkanlığı Yatırım Ofisi](https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx).
+Kaynaklar: [Google title link yönergeleri](https://developers.google.com/search/docs/appearance/title-link), [Google çok dilli sayfa yönergeleri](https://developers.google.com/search/docs/specialty/international/localized-versions), [Google AI özellikleri ve SEO](https://developers.google.com/search/docs/appearance/ai-features), [Invest in Türkiye resmî vatandaşlık rehberi](https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx).

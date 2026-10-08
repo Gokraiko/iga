@@ -1,10 +1,11 @@
 const citizenshipContent = {
   guide: {
     en: {
-      title: 'Turkish Citizenship by Investment: Requirements & Options | IGA Law Firm',
-      description: 'Explore Turkish citizenship by investment requirements, seven eligible investment routes, minimum amounts and three-year holding rules. Official sources and legal considerations.',
+      title: 'Turkish Citizenship by Investment: Routes & Rules | IGA',
+      description: 'Official guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.',
       h1: 'Turkish Citizenship by Investment: Requirements and Options',
       lead: 'Türkiye offers several routes to exceptional citizenship through qualifying investment. This guide explains the published thresholds, holding periods and principal checks to make before committing funds.',
+      summary: 'Foreign nationals may qualify through one of seven published investment routes. The official thresholds include USD 400,000 for real estate and USD 500,000 for several capital or financial routes; some options require a three-year holding period, while the employment route requires at least 50 jobs. Meeting a threshold does not guarantee citizenship; the application remains subject to official review and a presidential decision.',
       sections: [
         ['How the programme works', 'An eligible investment is one part of the process. The competent authority must confirm the relevant investment condition, and citizenship remains subject to the decision of the President of the Republic of Türkiye. Meeting a financial threshold alone does not guarantee approval.'],
         ['Core conditions before you invest', 'Confirm that your nationality and proposed asset meet the applicable rules, that the money and transaction can be documented, and that the investment can remain in place for the required period. Property purchases require particular attention to title, valuation, payment evidence and the three-year no-sale annotation.'],
@@ -27,13 +28,14 @@ const citizenshipContent = {
       ],
       source: 'Official programme conditions: Presidency of the Republic of Türkiye Investment Office',
       related: 'Need legal help with an application? See IGA’s Turkish citizenship by investment lawyer service.',
-      updated: 'Official source checked September 2026. Confirm current rules before making an investment.'
+      updated: 'Official source checked October 2026. Confirm current rules before making an investment.'
     },
     tr: {
       title: 'Yatırım Yoluyla Türk Vatandaşlığı: Şartlar ve Seçenekler | IGA',
       description: 'Yatırım yoluyla Türk vatandaşlığı için güncel yatırım seçenekleri, asgari tutarlar, üç yıllık elde tutma koşulları ve başvuru öncesi kontroller.',
       h1: 'Yatırım Yoluyla Türk Vatandaşlığı: Şartlar ve Yatırım Seçenekleri',
       lead: 'Türkiye’de belirli yatırımları gerçekleştiren yabancılar istisnai yoldan vatandaşlığa başvurabilir. Bu rehber, yayımlanan yatırım eşiklerini, elde tutma sürelerini ve yatırım öncesindeki temel kontrolleri açıklar.',
+      summary: 'Yabancılar, yayımlanmış yedi yatırım yolundan birini kullanarak başvuru koşullarını sağlayabilir. Resmî eşikler gayrimenkulde 400.000 ABD doları, bazı sermaye ve finans seçeneklerinde 500.000 ABD dolarıdır; bazı seçeneklerde üç yıl elde tutma koşulu, istihdam yolunda ise en az 50 kişilik istihdam şartı bulunur. Eşiği karşılamak vatandaşlık garantisi vermez; başvuru resmî incelemeye ve Cumhurbaşkanı kararına tabidir.',
       sections: [
         ['Program nasıl işler?', 'Uygun bir yatırım sürecin yalnızca bir parçasıdır. İlgili kurumun yatırım şartının sağlandığını tespit etmesi gerekir; vatandaşlık Cumhurbaşkanı kararıyla kazanılabilir. Parasal eşiğin karşılanması tek başına onay garantisi vermez.'],
         ['Yatırım öncesi temel koşullar', 'Vatandaşlığınızın ve seçtiğiniz varlığın ilgili kurallara uygunluğunu, ödeme ve işlem kayıtlarının belgelenebilirliğini, yatırımın gerekli süre korunmasını kontrol edin. Gayrimenkulde tapu, değerleme, ödeme belgeleri ve üç yıl satmama şerhi özellikle incelenmelidir.'],
@@ -56,13 +58,14 @@ const citizenshipContent = {
       ],
       source: 'Resmî program koşulları: Türkiye Cumhuriyeti Cumhurbaşkanlığı Yatırım Ofisi',
       related: 'Başvuruda hukuki destek için IGA’nın yatırım yoluyla vatandaşlık avukatlığı hizmetini inceleyin.',
-      updated: 'Resmî kaynak Eylül 2026’da kontrol edilmiştir. Yatırım öncesinde güncel kuralları teyit edin.'
+      updated: 'Resmî kaynak Ekim 2026’da kontrol edilmiştir. Yatırım öncesinde güncel kuralları teyit edin.'
     },
     zh: {
       title: '土耳其投资入籍条件与投资方式 | IGA 律师事务所',
       description: '了解土耳其投资入籍的申请条件、七种投资方式、最低金额及三年持有要求，并在投资前核查适用规定。',
       h1: '土耳其投资入籍：申请条件与投资方式',
       lead: '符合条件的外国投资者可依照土耳其的特别入籍程序提出申请。本指南介绍官方公布的投资门槛、持有期限以及投资前需要核查的主要事项。',
+      summary: '外国人可通过官方公布的七种投资方式之一申请。官方门槛包括房地产40万美元，以及部分资本或金融方式50万美元；部分方式要求持有三年，就业方式要求至少创造50个岗位。达到投资门槛并不保证获批，申请仍须经过主管机关审查并由土耳其总统作出决定。',
       sections: [
         ['项目如何运作？', '完成合资格投资只是申请流程的一部分。主管机关须确认相应投资条件已经满足；入籍仍须经土耳其共和国总统决定。达到投资金额并不保证获批。'],
         ['投资前应核查什么？', '应确认国籍和拟投资资产是否符合适用规定、资金与交易记录能否证明，以及投资是否能够维持规定期限。房产交易尤其需要核查产权、估值、付款凭证及三年内不得出售的产权登记。'],
@@ -85,7 +88,7 @@ const citizenshipContent = {
       ],
       source: '官方项目条件：土耳其共和国总统府投资办公室',
       related: '如需申请法律协助，请了解 IGA 的土耳其投资入籍律师服务。',
-      updated: '官方来源于2026年9月核查。投资前请再次确认现行规定。'
+      updated: '官方来源于2026年10月核查。投资前请再次确认现行规定。'
     }
   },
   lawyer: {
