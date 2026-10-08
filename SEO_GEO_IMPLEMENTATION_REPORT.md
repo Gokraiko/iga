@@ -4,7 +4,7 @@
 
 Statik üretici 15 temel sayfayı ve 25 blog yazısını EN/TR/ZH/AR yollarında üretiyor: toplam 160 URL. 25 yazının gövdesi yalnızca İngilizce; dolayısıyla 75 TR/ZH/AR kopyası çevrilmiş sayılmıyor. Üretim öncesi envanter `SEO_INVENTORY_BEFORE.csv`, güncel çıktı `SEO_INVENTORY_AFTER.csv`; URL başına eski/yeni title, description, H1, canonical, hreflang, indeksleme ve sitemap durumu `SEO_GEO_URL_CHANGELOG.csv` dosyasında.
 
-Canlı `www.igalawfirm.com` kontrolünde istek `https://igalawfirm.com/en/` adresine yönlendi ve yeni site HTML’i döndü. Bu doğrulama canlı URL yönlendirmesini gösterir; yerel değişikliklerin henüz deploy edildiğini göstermez. Web denetleyicisi canlı XML dosyalarını ve rehber sayfasını okuyamadı; sitemap/robots sonuçları bu nedenle üretilen yerel `dist` çıktısına göre raporlanıyor. DNS kayıtlarına dokunulmadı.
+Değişiklikler `8a85991` commit’iyle GitHub `main` dalına gönderildi ve Vercel’de yayımlandı. Canlı rehber URL’sinde HTTP 200, yeni sayfaya özgün title ve canonical doğrulandı. Canlı `www.igalawfirm.com` isteği 308 ile `https://igalawfirm.com/` adresine, kök adres de `/en/` sayfasına yönleniyor. Canlı `robots.txt` sitemap’i bildiriyor; canlı sitemap XML’i 85 URL içeriyor. DNS kayıtlarına dokunulmadı.
 
 ## Uygulananlar
 
