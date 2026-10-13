@@ -47,3 +47,12 @@ Değişiklikler `8a85991` commit’iyle GitHub `main` dalına gönderildi ve Ver
 İngilizce gövdeli bir blog kopyasını da seçip Google’ın İngilizce canonical’ı tanıdığını kontrol edin. Tekrar tarama isteği göndermek mümkün olsa da sonuç ve zamanlama Google’a bağlıdır.
 
 Kaynaklar: [Google title link yönergeleri](https://developers.google.com/search/docs/appearance/title-link), [Google çok dilli sayfa yönergeleri](https://developers.google.com/search/docs/specialty/international/localized-versions), [Google AI özellikleri ve SEO](https://developers.google.com/search/docs/appearance/ai-features), [Invest in Türkiye resmî vatandaşlık rehberi](https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx).
+
+## 13 Ekim 2026 güncellemesi
+
+- Build artık 160 sayfanın title, description, canonical, gerçek dil eşdeğerleri, Open Graph alanları ve JSON-LD verilerini tek `seo-config.json` manifestine yazıyor ve bu yapıdan statik `<head>` üretip `dist/seo-config.json` dosyasına kopyalıyor. Üretimde çalışan JavaScript SEO etiketlerini yeniden yazmıyor.
+- Dil menüsü butonları ilgili dil sayfasına giden gerçek `<a href>` bağlantıları oldu. Ana ve hizmet sayfalarında örnekle eşleşen beş alternate bulunuyor. Tam metni İngilizce olan blog kopyaları gerçek çeviri olmadıkları için hreflang grubuna eklenmiyor; bu kopyalar canonical/noindex davranışını koruyor. Makale sayfasındaki dil bağlantıları yerelleştirilmiş blog listelerine gider.
+- Blog yazısı, blog listesi, hizmet listesi ve hizmet ayrıntılarında mevcut iletişim formu gösteriliyor; formun var olan e-posta uygulaması davranışı korundu.
+- Kaynak kodundaki 62 Wix görsel URL’sinin görselleri `public/assets/media/` altına alındı; uygulama, blog verisi ve CSS artık Wix görsel sunucusuna başvurmuyor.
+- Organization + LegalService düğümü `https://igalawfirm.com/#organization` kimliğini kullanıyor. Hizmet ayrıntılarında Service, görünür sorulara eşlenen FAQPage ve BreadcrumbList; blog yazılarında BlogPosting ve BreadcrumbList var. Mesajda atıf yapılan ayrı LegalService JSON-LD bloğu ek dosya olarak gelmedi; düğüm mevcut doğrulanmış iletişim bilgileriyle üretildi.
+- Üretim kontrolü: 160 URL/config girdisi, 85 sitemap URL’si, 148 sayfada form, 32 hizmet sayfasında Service+FAQPage ve 100 blog URL’sinde BlogPosting; canonical/hreflang, görünür FAQ, sayfa dili, tek H1 ve yerel medya yolları kontrollerinde hata yok.

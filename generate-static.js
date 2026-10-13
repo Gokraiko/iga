@@ -31,7 +31,7 @@ function createDocument() {
 }
 
 let document = createDocument();
-const window = { addEventListener() {}, blogPostContent: {} };
+const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
 for (const file of ['blog-posts-data.js', 'citizenship-content.js', 'arabic-content.js', 'app.js']) {
@@ -47,6 +47,7 @@ const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&
 const urlFor = (lang, route) => vm.runInContext(`pathFor(${JSON.stringify(lang)},${JSON.stringify(route.page)},${JSON.stringify(route.sub)})`, context);
 
 const sitemap = [];
+const seoConfig = {};
 for (const route of routes) {
   for (const lang of languages) {
     const pathname = urlFor(lang, route);
@@ -60,20 +61,31 @@ for (const route of routes) {
     const title = document.title;
     const description = meta?.content || '';
     const canonical = origin + (route.sub && lang !== 'en' ? urlFor('en', route) : pathname);
-    // Article copies have no translated body in the data set, so only the localized blog landing pages belong in hreflang clusters.
-    const alternates = route.sub ? '' : languages.map(code => `<link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${origin + urlFor(code, route)}" />`).concat(`<link rel="alternate" hreflang="x-default" href="${origin + urlFor('en', route)}" />`).join('\n    ');
-    const head = `<link rel="canonical" href="${escapeHtml(canonical)}" />
-    ${alternates}
-    ${route.sub && lang !== 'en' ? '<meta name="robots" content="noindex,follow" />' : ''}
-    <meta property="og:type" content="${route.sub ? 'article' : 'website'}" />
-    <meta property="og:locale" content="${lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US'}" />
-    <meta property="og:url" content="${escapeHtml(canonical)}" />
-    <meta property="og:title" content="${escapeHtml(title)}" />
-    <meta property="og:description" content="${escapeHtml(description)}" />
+    // Hreflang is limited to equivalent, indexable localized pages. English-only article copies are canonicalized and noindexed instead.
+    const alternateEntries = route.sub ? [] : languages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
+    const structuredData = JSON.parse(schema?.textContent || '{"@context":"https://schema.org","@graph":[]}');
+    const graph = structuredData['@graph'] || [];
+    const blogPosting = graph.find(item => item['@type'] === 'BlogPosting');
+    const pageType = route.sub ? 'BlogPosting' : ['igaturkishcitizenshipbyinvestment','igalawworkpermit','igalawcorporatelaw','igalawlegalconsultancy','igalawlitigation','igalawresidencepermit','igalawrealestateduediligence','igalawdocumentation'].includes(route.page) ? 'Service' : route.page === 'journal' ? 'Blog' : route.page;
+    const languageCode = lang === 'zh' ? 'zh-CN' : lang;
+    const ogImage = blogPosting?.image || origin + '/public/assets/bosphorus-editorial.jpg';
+    const pageConfig = { path: pathname, language: languageCode, pageType, title, description, canonical, alternates: alternateEntries, robots: route.sub && lang !== 'en' ? 'noindex,follow' : 'index,follow', openGraph: { type: route.sub ? 'article' : 'website', locale: lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US', url: canonical, title, description, image: ogImage }, structuredData };
+    seoConfig[pathname] = pageConfig;
+    const alternateHtml = alternateEntries.map(item => `<link rel="alternate" hreflang="${item.hreflang}" href="${escapeHtml(item.href)}" />`).join('\n    ');
+    const head = `<link rel="canonical" href="${escapeHtml(pageConfig.canonical)}" />
+    ${alternateHtml}
+    ${pageConfig.robots === 'noindex,follow' ? '<meta name="robots" content="noindex,follow" />' : ''}
+    <meta property="og:type" content="${pageConfig.openGraph.type}" />
+    <meta property="og:locale" content="${pageConfig.openGraph.locale}" />
+    <meta property="og:url" content="${escapeHtml(pageConfig.openGraph.url)}" />
+    <meta property="og:title" content="${escapeHtml(pageConfig.openGraph.title)}" />
+    <meta property="og:description" content="${escapeHtml(pageConfig.openGraph.description)}" />
+    <meta property="og:image" content="${escapeHtml(pageConfig.openGraph.image)}" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="${escapeHtml(title)}" />
     <meta name="twitter:description" content="${escapeHtml(description)}" />
-    <script type="application/ld+json" id="iga-structured-data">${schema.textContent.replace(/<\//g, '<\\/')}</script>`;
+    <meta name="twitter:image" content="${escapeHtml(pageConfig.openGraph.image)}" />
+    <script type="application/ld+json" id="iga-structured-data">${JSON.stringify(pageConfig.structuredData).replace(/<\//g, '<\\/')}</script>`;
     const html = template
       .replace('<html lang="en">', `<html lang="${lang === 'zh' ? 'zh-CN' : lang}"${lang === 'ar' ? ' dir="rtl"' : ''}>`)
       .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${escapeHtml(description)}" />`)
@@ -83,11 +95,13 @@ for (const route of routes) {
     const dir = path.join(out, pathname);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), html);
-    const hreflang = route.sub ? '' : languages.map(code => `<xhtml:link rel="alternate" hreflang="${code === 'zh' ? 'zh-CN' : code}" href="${escapeHtml(origin + urlFor(code, route))}"/>`).concat(`<xhtml:link rel="alternate" hreflang="x-default" href="${escapeHtml(origin + urlFor('en', route))}"/>`).join('');
-    if (!route.sub || lang === 'en') sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${hreflang}</url>`);
+    const sitemapAlternates = alternateEntries.map(item => `<xhtml:link rel="alternate" hreflang="${item.hreflang}" href="${escapeHtml(item.href)}"/>`).join('');
+    if (!route.sub || lang === 'en') sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${sitemapAlternates}</url>`);
   }
 }
 
+fs.writeFileSync(path.join(__dirname, 'seo-config.json'), JSON.stringify(seoConfig, null, 2) + '\n');
+fs.writeFileSync(path.join(out, 'seo-config.json'), JSON.stringify(seoConfig, null, 2) + '\n');
 fs.writeFileSync(path.join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemap.join('')}</urlset>\n`);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
 fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0;url=/en/"><script>location.replace('/en/'+location.hash)</script></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
