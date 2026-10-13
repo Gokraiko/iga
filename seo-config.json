@@ -6335,6 +6335,1706 @@
       ]
     }
   },
+  "/en/blog/dual-citizenship-for-americans/": {
+    "path": "/en/blog/dual-citizenship-for-americans/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+    "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+    "canonical": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+    "alternates": [],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+      "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+          "name": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Dual Citizenship for Americans: Is a Turkish Passport the Smartest Plan B?",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Citizenship"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/dual-citizenship-for-americans/": {
+    "path": "/tr/blog/dual-citizenship-for-americans/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+    "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+    "canonical": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+      "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+          "name": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Dual Citizenship for Americans: Is a Turkish Passport the Smartest Plan B?",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vatandaşlık"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/dual-citizenship-for-americans/": {
+    "path": "/zh/blog/dual-citizenship-for-americans/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+    "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+    "canonical": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+      "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+          "name": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Dual Citizenship for Americans: Is a Turkish Passport the Smartest Plan B?",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "入籍"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/dual-citizenship-for-americans/": {
+    "path": "/ar/blog/dual-citizenship-for-americans/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+    "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+    "canonical": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "title": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+      "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+          "name": "Dual Citizenship for Americans: Turkish Passport Guide | IGA Law Firm",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Dual Citizenship for Americans: Is a Turkish Passport the Smartest Plan B?",
+          "description": "Can Americans hold dual citizenship? Compare legal routes, Turkish citizenship options, tax reporting and key risks before seeking a second passport.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الجنسية"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/best-countries-to-move-to-from-the-us/": {
+    "path": "/en/blog/best-countries-to-move-to-from-the-us/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+    "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+    "alternates": [],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+      "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+          "name": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Move to from the US in 2026: A Legal Comparison",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "International"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/best-countries-to-move-to-from-the-us/": {
+    "path": "/tr/blog/best-countries-to-move-to-from-the-us/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+    "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+      "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+          "name": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Move to from the US in 2026: A Legal Comparison",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Uluslararası"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/best-countries-to-move-to-from-the-us/": {
+    "path": "/zh/blog/best-countries-to-move-to-from-the-us/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+    "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+      "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+          "name": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Move to from the US in 2026: A Legal Comparison",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "国际"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/best-countries-to-move-to-from-the-us/": {
+    "path": "/ar/blog/best-countries-to-move-to-from-the-us/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+    "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+      "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+          "name": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Move to from the US in 2026: A Legal Comparison",
+          "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "دولي"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/easiest-country-to-get-citizenship/": {
+    "path": "/en/blog/easiest-country-to-get-citizenship/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+    "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+    "canonical": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+    "alternates": [],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+      "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+          "name": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "The Easiest Country to Get Citizenship in 2026: Every Legal Route Compared",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Citizenship"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/easiest-country-to-get-citizenship/": {
+    "path": "/tr/blog/easiest-country-to-get-citizenship/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+    "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+    "canonical": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+      "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+          "name": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "The Easiest Country to Get Citizenship in 2026: Every Legal Route Compared",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vatandaşlık"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/easiest-country-to-get-citizenship/": {
+    "path": "/zh/blog/easiest-country-to-get-citizenship/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+    "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+    "canonical": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+      "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+          "name": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "The Easiest Country to Get Citizenship in 2026: Every Legal Route Compared",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "入籍"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/easiest-country-to-get-citizenship/": {
+    "path": "/ar/blog/easiest-country-to-get-citizenship/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+    "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+    "canonical": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+      "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+          "name": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "The Easiest Country to Get Citizenship in 2026: Every Legal Route Compared",
+          "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الجنسية"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/best-countries-to-retire-in-for-americans/": {
+    "path": "/en/blog/best-countries-to-retire-in-for-americans/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+    "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+    "alternates": [],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+      "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+          "name": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Retire in for Americans: Why Turkey Makes the List",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "International"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/best-countries-to-retire-in-for-americans/": {
+    "path": "/tr/blog/best-countries-to-retire-in-for-americans/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+    "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+      "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+          "name": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Retire in for Americans: Why Turkey Makes the List",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Uluslararası"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/best-countries-to-retire-in-for-americans/": {
+    "path": "/zh/blog/best-countries-to-retire-in-for-americans/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+    "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+      "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+          "name": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Retire in for Americans: Why Turkey Makes the List",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "国际"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/best-countries-to-retire-in-for-americans/": {
+    "path": "/ar/blog/best-countries-to-retire-in-for-americans/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+    "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+    "canonical": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+      "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+          "name": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Best Countries to Retire in for Americans: Why Turkey Makes the List",
+          "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "دولي"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/citizenship-by-investment-programs/": {
+    "path": "/en/blog/citizenship-by-investment-programs/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+    "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+    "canonical": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+    "alternates": [],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+      "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage",
+          "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Investment"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/citizenship-by-investment-programs/": {
+    "path": "/tr/blog/citizenship-by-investment-programs/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+    "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+    "canonical": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+      "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage",
+          "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Yatırım"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/citizenship-by-investment-programs/": {
+    "path": "/zh/blog/citizenship-by-investment-programs/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+    "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+    "canonical": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+      "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage",
+          "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "投资"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/citizenship-by-investment-programs/": {
+    "path": "/ar/blog/citizenship-by-investment-programs/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+    "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+    "canonical": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+    "alternates": [],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+      "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage",
+          "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
+          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-13"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الاستثمار"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
     "path": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
     "language": "en",

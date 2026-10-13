@@ -19,3 +19,4 @@ html[dir="rtl"]{--sans:'Noto Sans Arabic',Arial,sans-serif;--serif:'Noto Naskh A
 .answer-summary{margin:0 0 32px;padding:22px 24px;border:1px solid rgba(196,155,99,.45);border-left:4px solid #c49b63;border-radius:8px;background:#f7f5f1}.answer-summary>strong{display:block;margin:0 0 8px;color:#172a40;font-size:13px;letter-spacing:.08em;text-transform:uppercase}.answer-summary p{margin:0 0 12px;line-height:1.75}.answer-summary a{color:#172a40;font-size:14px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
 
 .service-faq{max-width:790px;margin:48px auto 0}.service-faq>h2{font:400 32px var(--serif);margin:0 0 18px}.contact-form-section .contact-form{max-width:920px}.language-menu a{cursor:pointer}
+.article-content h3{font:400 25px/1.25 var(--serif);letter-spacing:-.02em;margin:30px 0 10px}.article-content h4{font:600 16px/1.4 var(--sans);margin:24px 0 8px}
