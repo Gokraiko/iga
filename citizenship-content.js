@@ -21,6 +21,22 @@ const citizenshipContent = {
         ['Employment', 'Creation of jobs for at least 50 people, as attested by the Ministry of Labor and Social Security.']
       ],
       closing: ['What happens after the investment?', 'The relevant authority issues a conformity determination for the chosen route. The applicant then prepares the residence and citizenship file with civil-status, identity and family records as applicable. Document requirements and timing depend on the applicant’s circumstances and the current administrative practice.'],
+      bankStepsTitle: 'Turkish Citizenship by Investment: Bank Deposit Steps',
+      bankStepsIntro: 'For the bank deposit route, the following sequence is an indicative case plan. The bank and competent authorities determine the documents, appointments and processing times for each application.',
+      bankSteps: [
+        'Issue a power of attorney if a representative will handle the permitted preparatory steps.',
+        'Obtain a Turkish tax identification number where needed for the bank and application file.',
+        'Open an account with a bank operating in Türkiye and arrange online banking if available.',
+        'Deposit at least USD 500,000 or the permitted foreign-currency equivalent, commit to the three-year no-withdrawal period and request the investment conformity determination.',
+        'Obtain the conformity certificate from the competent authority; the review period varies and four weeks is only an indicative planning estimate.',
+        'Arrange fingerprints and other biometric steps for the main applicant and spouse where required; personal attendance may be necessary.',
+        'Submit the investment-based short-term residence permit application; follow the authority’s current personal-attendance requirements.',
+        'Prepare and submit the citizenship applications for the eligible family members; attend in person where required.',
+        'Follow the official review of the citizenship file; around four months is only a planning estimate, not an official deadline or guarantee.',
+        'If approved, obtain the official citizenship decision or notification.',
+        'After registration, apply separately for Turkish identity cards and passports.'
+      ],
+      bankStepsNote: 'Personal attendance and document requirements vary by applicant and office. A power of attorney does not replace an appearance required by the authorities.',
       faq: [
         ['Is buying property enough to obtain citizenship?', 'No. A qualifying property transaction and the required official determination are necessary steps, while the citizenship decision is discretionary.'],
         ['How long must the investment be retained?', 'The published property, deposit, bond, fund and BES routes specify a three-year restriction or holding period. Check the precise condition for the chosen route before investing.'],
@@ -51,6 +67,22 @@ const citizenshipContent = {
         ['İstihdam', 'Çalışma ve Sosyal Güvenlik Bakanlığınca tespit edilen en az 50 kişilik istihdam oluşturulması.']
       ],
       closing: ['Yatırımdan sonra ne olur?', 'Seçilen yatırım için yetkili kurum uygunluk tespitini yapar. Ardından koşullara göre ikamet ve vatandaşlık dosyası kimlik, medeni hâl ve aile belgeleriyle hazırlanır. Belgeler ve süreler başvuranın durumuna ve güncel idari uygulamaya göre değişir.'],
+      bankStepsTitle: 'Yatırım Yoluyla Türk Vatandaşlığı: Banka Mevduatı Adımları',
+      bankStepsIntro: 'Banka mevduatı seçeneğinde aşağıdaki sıra örnek bir süreç planıdır. Belgeleri, randevuları ve işlem sürelerini banka ile yetkili kurumlar başvuruya göre belirler.',
+      bankSteps: [
+        'İzin verilen hazırlık işlemleri temsilci aracılığıyla yürütülecekse vekâletname düzenlenir.',
+        'Banka ve başvuru dosyası için gerektiğinde vergi kimlik numarası alınır.',
+        'Türkiye’de faaliyet gösteren bir bankada hesap açılır; mevcutsa internet bankacılığı hizmeti kurulur.',
+        'En az 500.000 ABD doları veya izin verilen döviz karşılığı yatırılır, üç yıl çekmeme taahhüdü verilir ve yatırım uygunluk tespiti talep edilir.',
+        'Yetkili kurumdan uygunluk belgesi alınır; inceleme süresi değişebilir ve dört hafta yalnızca örnek planlama tahminidir.',
+        'Gerektiğinde asıl başvuru sahibi ve eş için parmak izi ve diğer biyometrik işlemler planlanır; şahsen bulunma gerekebilir.',
+        'Yatırıma dayalı kısa dönem ikamet izni başvurusu yapılır; kurumun güncel şahsen başvuru koşulları izlenir.',
+        'Uygun aile üyelerinin vatandaşlık dosyaları hazırlanır ve sunulur; gerektiğinde şahsen başvurulur.',
+        'Vatandaşlık dosyasının resmî incelemesi takip edilir; yaklaşık dört ay yalnızca planlama tahminidir, resmî süre veya garanti değildir.',
+        'Onay verilirse resmî vatandaşlık kararı veya bildirimi alınır.',
+        'Tescilden sonra Türk kimlik kartı ve pasaport için ayrıca başvurulur.'
+      ],
+      bankStepsNote: 'Şahsen bulunma ve belge koşulları başvurana ve işlem yapılan kuruma göre değişir. Vekâletname, kurumun zorunlu tuttuğu şahsen başvurunun yerine geçmez.',
       faq: [
         ['Taşınmaz satın almak vatandaşlık için yeterli mi?', 'Hayır. Şartlara uygun alım ve resmî uygunluk tespiti gerekli aşamalardır; vatandaşlık kararı ayrıca değerlendirilir.'],
         ['Yatırım ne kadar süre korunmalı?', 'Yayımlanan gayrimenkul, mevduat, tahvil, fon ve BES seçeneklerinde üç yıllık kısıtlama veya elde tutma süresi vardır. Seçilen yolun ayrıntılı şartını yatırım öncesi doğrulayın.'],
@@ -81,6 +113,22 @@ const citizenshipContent = {
         ['创造就业', '创造至少50个就业岗位，由劳动和社会保障部确认。']
       ],
       closing: ['投资完成后有哪些步骤？', '选定投资方式的主管机关会进行合规确认。随后根据个案准备居留和入籍申请材料，包括身份、婚姻状况及家庭关系文件。具体文件和办理时间取决于申请人的情况及当时的行政实践。'],
+      bankStepsTitle: '通过银行存款申请土耳其投资入籍：办理步骤',
+      bankStepsIntro: '以下是银行存款途径的参考流程。所需文件、预约和办理时间由银行及主管机关根据具体申请确定。',
+      bankSteps: [
+        '如由代理人办理获准委托的准备事项，先签发授权委托书。',
+        '如银行开户或申请材料需要，取得土耳其税号。',
+        '在土耳其境内经营的银行开立账户，并在可用时开通网上银行。',
+        '存入至少50万美元或允许的等值外币，承诺三年内不提取，并申请投资合规确认。',
+        '取得主管机关的合规证明；审核时间因个案而异，四周仅供安排进度时参考。',
+        '如有要求，为主申请人及配偶安排指纹和其他生物识别手续；可能需要本人到场。',
+        '申请投资类短期居留许可，并遵守主管机关当时关于本人到场的要求。',
+        '准备并递交符合条件的家庭成员的入籍申请；按要求本人到场。',
+        '跟进入籍申请的官方审核；约四个月仅为计划参考，并非法定期限或获批保证。',
+        '如获批准，领取官方入籍决定或通知。',
+        '完成国籍登记后，另行申请土耳其身份证和护照。'
+      ],
+      bankStepsNote: '本人到场和文件要求依申请人及受理机关而异。授权委托书不能替代主管机关要求的本人到场。',
       faq: [
         ['购买房产就一定能获得国籍吗？', '不能。合规交易及官方确认是必要环节，入籍申请仍须另行审查和决定。'],
         ['投资需要保持多久？', '官方列出的房地产、存款、债券、基金及BES方式均规定三年的限制或持有期限。投资前应核查所选方式的具体要求。'],
