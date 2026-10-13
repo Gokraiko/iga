@@ -1,8 +1,8 @@
 // Service-page content: practical file preparation and coordination, distinct from the programme guide.
 const lawyerProcess = {
   en: {
-    routesTitle: 'Which investment routes can we assist with?',
-    routesIntro: 'Our team can review the legal file for any of the seven official routes. The figures below are the published minimums; an eligible investment does not guarantee citizenship.',
+    routesTitle: 'Turkish Citizenship by Investment',
+    routesIntro: 'Under the Turkish Citizenship by Investment programme, the Republic of Türkiye may grant citizenship to foreign nationals who satisfy one of the following investment conditions. IGA helps review the legal file for each route. Meeting a threshold does not guarantee approval.',
     routes: [
       'Real estate: at least USD 400,000, with a three-year restriction on resale in the title deed.',
       'Bank deposit: at least USD 500,000 in a bank operating in Türkiye, retained for three years.',
@@ -12,57 +12,57 @@ const lawyerProcess = {
       'Real estate or venture capital investment fund shares: at least USD 500,000, held for three years.',
       'Employment: creation of jobs for at least 50 people.'
     ],
-    documentsTitle: 'Documents we help prepare for the citizenship file',
+    documentsTitle: 'Necessary Documents for Turkish Citizenship',
     documentsIntro: 'The precise list depends on nationality, family circumstances and the receiving office. We check the current requirements before documents are issued or legalised.',
     documents: [
-      'A specific power of attorney from the investor, and from the spouse if representation is needed and permitted.',
+      'Power of attorney from the investor, and from the spouse if representation is needed and permitted.',
       'Birth or civil registry records for each applicant, showing the required identity and family details.',
       'Marriage certificate if married, or the relevant current civil-status record.',
       'Passport and the required certified Turkish translation or copy for each applicant.',
-      'Criminal record certificates for the applicant and spouse where required; the issuing country and acceptable issue date must be confirmed for the case.',
+      'Criminal record certificates for the investor and spouse where required; some offices request documents issued within the preceding six months, so the current rule and issuing country must be confirmed.',
       'Compliant biometric photographs; a digital image may be shared for preliminary review, but the official format must meet the authority’s rules.',
       'Evidence of lawful entry or a Turkish visa where applicable, plus the investment-based residence permit and conformity certificate.'
     ],
-    documentsNote: 'Foreign public documents generally need an apostille when the issuing country participates in the Hague system, or the applicable consular legalisation route otherwise, followed by any required Turkish translation and notarisation. A Ministry of Foreign Affairs stamp and Turkish consular attestation are not required in addition to an accepted apostille for every document. We confirm the issuing country and authentication route before filing.',
-    propertyTitle: 'Property acquisition: how we coordinate the application',
+    documentsNote: 'Marriage and criminal record certificates should be obtained from the authorities accepted for the applicant’s nationality and circumstances; the passport country may be relevant. Foreign public documents generally need an apostille when the issuing country participates in the Hague system, or the applicable consular legalisation route otherwise, followed by any required Turkish translation and notarisation. A Ministry of Foreign Affairs stamp and Turkish consular attestation are not required in addition to an accepted apostille for every document.',
+    propertyTitle: 'Steps of Turkish Citizenship by Investment – Property Acquisition',
     propertyIntro: 'The sequence may change with the transaction. Reservation and a promise to sell are optional commercial steps and do not themselves transfer title.',
     propertySteps: [
-      'Prepare a suitable power of attorney if a representative will carry out permitted tasks.',
-      'Select the property and complete title, valuation and legal due diligence before committing funds.',
-      'If appropriate, review the reservation or promise-to-sell agreement and its legal effect.',
-      'Obtain a tax identification number where required for the transaction.',
-      'Arrange a Turkish bank account and online access if needed for documented payments.',
-      'Pay the purchase price through the required traceable banking channel and keep the evidence.',
-      'Complete the land registry transfer and obtain the title deed.',
-      'Record the three-year no-sale restriction and request the property conformity certificate.',
-      'Follow the conformity review; four weeks is only a planning estimate, not an official deadline.',
-      'Arrange fingerprints or other biometric steps for the main applicant and spouse where required; personal attendance may be necessary.',
-      'Submit the investment-based short-term residence permit application in line with the authority’s attendance rules.',
-      'Prepare and submit citizenship files for eligible family members, with personal attendance where required.',
-      'Track the official review; around four months is only an indicative estimate, not a guaranteed decision period.',
-      'If approved, obtain the official citizenship decision or notification.',
-      'After registration, submit separate Turkish identity card and passport applications.'
+      'Power of Attorney Issuance: Prepare a suitable power of attorney if a representative will carry out permitted tasks.',
+      'Finalizing the property: Select the property and complete title, valuation and legal due diligence before committing funds.',
+      'Reservation and Promissory Sales Agreement: If appropriate, review the agreement and its legal effect before signing.',
+      'Tax ID Number Registration: Obtain a Turkish tax identification number where required for the transaction.',
+      'Bank Account Opening: Arrange an account and online banking if needed for documented payments.',
+      'Property Purchase Price Payment: Pay through the required traceable banking channel and keep the evidence.',
+      'Title Deed Acquisition: Complete the land registry transfer and obtain the title deed.',
+      'Three-Year No-Sale Annotation and Conformity Report: Record the restriction and request the property conformity certificate.',
+      'Conformity Report: Follow the review; four weeks is only a planning estimate, not an official deadline.',
+      'Fingerprints: Arrange required biometrics for the main applicant and spouse; personal attendance may be necessary.',
+      'Residence Permit Application: Submit the investment-based short-term application under the authority’s attendance rules.',
+      'Family Citizenship Applications: Prepare and submit files for eligible relatives, attending in person where required.',
+      'Citizenship Application Review: Track the official review; around four months is an estimate, not a guaranteed decision period.',
+      'Citizenship Approval: If approved, obtain the official decision or notification.',
+      'Turkish ID Card and Passport Applications: Submit separate applications after citizenship registration.'
     ],
-    bankTitle: 'Bank deposit: how we coordinate the application',
+    bankTitle: 'Steps of Turkish Citizenship by Investment – Bank Deposit',
     bankIntro: 'The bank deposit route also requires an official conformity determination. The bank and authorities set the detailed documents and appointments.',
     bankSteps: [
-      'Prepare a power of attorney for permitted preparatory work, if representation is needed.',
-      'Obtain a Turkish tax identification number where the bank requires one.',
-      'Open an account with a bank operating in Türkiye and arrange online banking if available.',
-      'Deposit at least USD 500,000 or its permitted foreign-currency equivalent, commit to retaining it for three years and apply for the conformity certificate.',
-      'Follow the conformity review; four weeks is only an indicative estimate.',
-      'Complete required fingerprints or other biometric steps for the main applicant and spouse, attending in person where required.',
-      'Apply for the investment-based short-term residence permit under the current attendance rules.',
-      'Prepare and submit citizenship files for eligible family members, attending in person where required.',
-      'Track the official review; around four months is a planning estimate, not a guarantee.',
-      'If approved, obtain the official citizenship decision or notification.',
-      'After registration, apply separately for Turkish identity cards and passports.'
+      'Power of Attorney Issuance: Prepare one for permitted preparatory work if representation is needed.',
+      'Tax ID Number Registration: Obtain a Turkish tax identification number where the bank requires one.',
+      'Bank Account Opening: Open an account with a bank operating in Türkiye and arrange online banking if available.',
+      'Three-Year Deposit Restriction and Conformity Report: Deposit at least USD 500,000 or its permitted foreign-currency equivalent, commit to retaining it for three years and request the certificate.',
+      'Conformity Report: Follow the review; four weeks is only an indicative estimate.',
+      'Fingerprints: Complete required biometrics for the main applicant and spouse, attending in person where required.',
+      'Residence Permit Application: Apply for the investment-based short-term permit under current attendance rules.',
+      'Family Citizenship Applications: Prepare and submit files for eligible family members, attending in person where required.',
+      'Citizenship Application Review: Track the official review; around four months is a planning estimate, not a guarantee.',
+      'Citizenship Approval: If approved, obtain the official decision or notification.',
+      'Turkish ID Card and Passport Applications: Apply separately after citizenship registration.'
     ],
     timingNote: 'Each step depends on the applicant, the investment and the competent office. A power of attorney cannot replace an appearance required by an authority.',
     sourcesTitle: 'Official sources checked October 2026'
   },
   tr: {
-    routesTitle: 'Hangi yatırım seçeneklerinde destek sağlıyoruz?',
+    routesTitle: 'Yatırım Yoluyla Türk Vatandaşlığı',
     routesIntro: 'Ekibimiz, resmî olarak yayımlanan yedi yolun her biri için hukuki dosyayı inceleyebilir. Aşağıdaki tutarlar asgari eşiklerdir; uygun yatırım vatandaşlık garantisi vermez.',
     routes: [
       'Gayrimenkul: en az 400.000 ABD doları; tapuda üç yıl satmama şerhi.',
@@ -73,7 +73,7 @@ const lawyerProcess = {
       'Gayrimenkul veya girişim sermayesi yatırım fonu payları: en az 500.000 ABD doları; üç yıl elde tutma.',
       'İstihdam: en az 50 kişilik iş imkânı oluşturma.'
     ],
-    documentsTitle: 'Vatandaşlık dosyası için hazırladığımız belgeler',
+    documentsTitle: 'Türk Vatandaşlığı Başvurusu için Gerekli Belgeler',
     documentsIntro: 'Kesin liste vatandaşlığa, aile durumuna ve başvuruyu alan kuruma göre değişir. Belgeler düzenlenmeden veya tasdik edilmeden güncel koşulları kontrol ederiz.',
     documents: [
       'Temsil gerekiyorsa ve izin veriliyorsa yatırımcıdan, gerektiğinde eşinden özel vekâletname.',
@@ -85,7 +85,7 @@ const lawyerProcess = {
       'Uygulanıyorsa yasal giriş belgesi veya Türk vizesi; ayrıca yatırıma dayalı ikamet izni ve uygunluk belgesi.'
     ],
     documentsNote: 'Yabancı resmî belgeler için, düzenleyen ülke Lahey Apostil Sözleşmesi’ne tarafsa genellikle apostil; değilse uygulanabilir konsolosluk tasdik zinciri gerekir. Gerekli Türkçe tercüme ve noter işlemleri ayrıca yapılır. Kabul edilen apostilli belgelere her durumda ayrıca dışişleri ve Türk konsolosluğu onayı gerekmez. Dosyanın ülkesine göre tasdik yolunu önceden doğrularız.',
-    propertyTitle: 'Gayrimenkul edinimi: başvuruyu nasıl koordine ediyoruz?',
+    propertyTitle: 'Yatırım Yoluyla Türk Vatandaşlığı Adımları – Gayrimenkul Edinimi',
     propertyIntro: 'İşlem sırası somut alıma göre değişebilir. Rezervasyon ve satış vaadi isteğe bağlı ticari adımlardır; tek başlarına tapu devri sağlamaz.',
     propertySteps: [
       'Temsilci izin verilen işlemleri yapacaksa uygun vekâletname hazırlanır.',
@@ -104,7 +104,7 @@ const lawyerProcess = {
       'Onay verilirse resmî vatandaşlık kararı veya bildirimi alınır.',
       'Tescil sonrasında Türk kimlik kartı ve pasaport için ayrı başvurular yapılır.'
     ],
-    bankTitle: 'Banka mevduatı: başvuruyu nasıl koordine ediyoruz?',
+    bankTitle: 'Yatırım Yoluyla Türk Vatandaşlığı Adımları – Banka Mevduatı',
     bankIntro: 'Mevduat yolunda da resmî uygunluk tespiti gerekir. Ayrıntılı belge ve randevuları banka ile yetkili kurumlar belirler.',
     bankSteps: [
       'Temsil gerekiyorsa izin verilen hazırlık işlemleri için vekâletname hazırlanır.',
@@ -123,7 +123,7 @@ const lawyerProcess = {
     sourcesTitle: 'Ekim 2026’da kontrol edilen resmî kaynaklar'
   },
   zh: {
-    routesTitle: '我们可以协助哪些投资方式？',
+    routesTitle: '土耳其投资入籍',
     routesIntro: '我们的团队可审核官方公布的七种途径对应的法律文件。以下金额为最低门槛；合资格投资并不保证获批入籍。',
     routes: [
       '房地产：至少40万美元，产权登记中须注明三年内不得出售。',
@@ -134,7 +134,7 @@ const lawyerProcess = {
       '房地产或风险投资基金份额：至少50万美元，持有三年。',
       '创造就业：至少提供50个工作岗位。'
     ],
-    documentsTitle: '我们协助准备的入籍申请文件',
+    documentsTitle: '土耳其入籍申请所需文件',
     documentsIntro: '具体清单取决于国籍、家庭情况及受理机关。我们会在文件签发或认证前核查当时的要求。',
     documents: [
       '需要且允许代理时，投资人以及适用情况下其配偶签署的特别授权委托书。',
@@ -146,7 +146,7 @@ const lawyerProcess = {
       '适用时的合法入境证明或土耳其签证，以及投资类居留许可和投资合规证明。'
     ],
     documentsNote: '外国公文通常在签发国加入海牙认证体系时办理附加证明书（Apostille），否则采用适用的领事认证程序；还可能需要土耳其语翻译及公证。已被接受的附加证明书并非一律还要另办外交部及土耳其领事馆认证。我们按签发国核查具体路径。',
-    propertyTitle: '购置房产：我们如何协调申请？',
+    propertyTitle: '土耳其投资入籍办理步骤——购置房产',
     propertyIntro: '具体顺序随交易而变。预订及承诺出售协议属于可选交易步骤，本身不转移产权。',
     propertySteps: [
       '如需代理完成获准事项，先准备合适的授权委托书。',
@@ -165,7 +165,7 @@ const lawyerProcess = {
       '如获批准，领取官方入籍决定或通知。',
       '完成登记后，分别申请土耳其身份证和护照。'
     ],
-    bankTitle: '银行存款：我们如何协调申请？',
+    bankTitle: '土耳其投资入籍办理步骤——银行存款',
     bankIntro: '银行存款途径同样需要官方合规确认。具体材料及预约由银行和主管机关确定。',
     bankSteps: [
       '如需代理准备事项，签发适用的授权委托书。',
@@ -184,7 +184,7 @@ const lawyerProcess = {
     sourcesTitle: '2026年10月核查的官方来源'
   },
   ar: {
-    routesTitle: 'ما طرق الاستثمار التي يمكننا المساعدة فيها؟',
+    routesTitle: 'الجنسية التركية عبر الاستثمار',
     routesIntro: 'يمكن لفريقنا مراجعة الملف القانوني لكل طريق من الطرق السبع الرسمية. المبالغ أدناه حدود دنيا منشورة، والاستثمار المؤهل لا يضمن منح الجنسية.',
     routes: [
       'العقار: 400,000 دولار أمريكي على الأقل مع قيد في سند الملكية يمنع البيع ثلاث سنوات.',
@@ -195,7 +195,7 @@ const lawyerProcess = {
       'حصص صناديق الاستثمار العقاري أو رأس المال المغامر: 500,000 دولار أمريكي على الأقل مع الاحتفاظ بها ثلاث سنوات.',
       'التوظيف: توفير وظائف لما لا يقل عن 50 شخصاً.'
     ],
-    documentsTitle: 'الوثائق التي نساعد في إعدادها لملف الجنسية',
+    documentsTitle: 'الوثائق اللازمة لطلب الجنسية التركية',
     documentsIntro: 'تختلف القائمة الدقيقة بحسب الجنسية والوضع العائلي والجهة التي تتلقى الطلب. نراجع الشروط الحالية قبل إصدار الوثائق أو تصديقها.',
     documents: [
       'وكالة خاصة من المستثمر ومن الزوج أو الزوجة عند الحاجة إلى التمثيل وحيث يسمح به.',
@@ -207,7 +207,7 @@ const lawyerProcess = {
       'إثبات الدخول القانوني أو التأشيرة التركية إن انطبقت، إلى جانب تصريح الإقامة القائم على الاستثمار وشهادة المطابقة.'
     ],
     documentsNote: 'تحتاج الوثائق العامة الأجنبية عادة إلى أبوستيل إذا كانت دولة الإصدار طرفاً في اتفاقية لاهاي، أو إلى مسار التصديق القنصلي المطبق خلافاً لذلك، ثم الترجمة التركية والتوثيق عند طلبهما. ولا يلزم لكل وثيقة تحمل أبوستيل مقبول تصديق إضافي من الخارجية والقنصلية التركية. نتحقق من المسار المناسب لبلد الإصدار قبل التقديم.',
-    propertyTitle: 'شراء العقار: كيف ننسق إجراءات الطلب؟',
+    propertyTitle: 'خطوات الجنسية التركية عبر الاستثمار – شراء العقار',
     propertyIntro: 'قد يختلف ترتيب الخطوات بحسب المعاملة. الحجز ووعد البيع خطوتان تجاريتان اختياريتان ولا تنقلان الملكية بذاتهما.',
     propertySteps: [
       'إعداد وكالة مناسبة إذا سيتولى ممثل الأعمال المسموح بالتوكيل فيها.',
@@ -226,7 +226,7 @@ const lawyerProcess = {
       'في حال الموافقة، تسلم قرار الجنسية الرسمي أو إشعارها.',
       'بعد التسجيل، تقديم طلبين منفصلين لبطاقة الهوية التركية وجواز السفر.'
     ],
-    bankTitle: 'الوديعة المصرفية: كيف ننسق إجراءات الطلب؟',
+    bankTitle: 'خطوات الجنسية التركية عبر الاستثمار – الوديعة المصرفية',
     bankIntro: 'يتطلب مسار الوديعة المصرفية أيضاً إثبات مطابقة رسمياً. ويحدد البنك والجهات المختصة تفاصيل الوثائق والمواعيد.',
     bankSteps: [
       'إعداد وكالة لأعمال التحضير المسموح بها إذا لزم التمثيل.',
