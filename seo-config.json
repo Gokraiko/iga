@@ -4324,7 +4324,7 @@
     "language": "en",
     "pageType": "Service",
     "title": "Litigation & Dispute Resolution | IGA Law Firm",
-    "description": "Strategic representation in civil, commercial and administrative matters before Turkish courts.",
+    "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
     "canonical": "https://igalawfirm.com/en/igalawlitigation/",
     "alternates": [
       {
@@ -4354,7 +4354,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawlitigation/",
       "title": "Litigation & Dispute Resolution | IGA Law Firm",
-      "description": "Strategic representation in civil, commercial and administrative matters before Turkish courts.",
+      "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -4386,7 +4386,7 @@
           "@id": "https://igalawfirm.com/en/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/en/igalawlitigation/",
           "name": "Litigation & Dispute Resolution | IGA Law Firm",
-          "description": "Strategic representation in civil, commercial and administrative matters before Turkish courts.",
+          "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -4396,7 +4396,7 @@
           "@type": "Service",
           "@id": "https://igalawfirm.com/en/igalawlitigation/#service",
           "name": "Litigation & Dispute Resolution",
-          "description": "Strategic representation in civil, commercial and administrative matters before Turkish courts.",
+          "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
           "url": "https://igalawfirm.com/en/igalawlitigation/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -4411,7 +4411,7 @@
               "name": "What does Litigation & Dispute Resolution cover?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Strategic representation in civil, commercial and administrative matters before Turkish courts."
+                "text": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts."
               }
             },
             {
@@ -4450,7 +4450,7 @@
     "language": "tr",
     "pageType": "Service",
     "title": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
-    "description": "Türk mahkemelerinde hukuk, ticaret ve idare hukuku uyuşmazlıklarında stratejik temsil.",
+    "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
     "canonical": "https://igalawfirm.com/tr/igalawlitigation/",
     "alternates": [
       {
@@ -4480,7 +4480,7 @@
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawlitigation/",
       "title": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
-      "description": "Türk mahkemelerinde hukuk, ticaret ve idare hukuku uyuşmazlıklarında stratejik temsil.",
+      "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -4512,7 +4512,7 @@
           "@id": "https://igalawfirm.com/tr/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/tr/igalawlitigation/",
           "name": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
-          "description": "Türk mahkemelerinde hukuk, ticaret ve idare hukuku uyuşmazlıklarında stratejik temsil.",
+          "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -4522,7 +4522,7 @@
           "@type": "Service",
           "@id": "https://igalawfirm.com/tr/igalawlitigation/#service",
           "name": "Dava Takibi ve Uyuşmazlık Çözümü",
-          "description": "Türk mahkemelerinde hukuk, ticaret ve idare hukuku uyuşmazlıklarında stratejik temsil.",
+          "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
           "url": "https://igalawfirm.com/tr/igalawlitigation/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -4537,7 +4537,7 @@
               "name": "Dava Takibi ve Uyuşmazlık Çözümü hangi konuları kapsar?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Türk mahkemelerinde hukuk, ticaret ve idare hukuku uyuşmazlıklarında stratejik temsil."
+                "text": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil."
               }
             },
             {
@@ -4576,7 +4576,7 @@
     "language": "zh-CN",
     "pageType": "Service",
     "title": "诉讼与争议解决 | IGA Law Firm",
-    "description": "在土耳其法院民事、商事及行政案件中提供策略性代理。",
+    "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
     "canonical": "https://igalawfirm.com/zh/igalawlitigation/",
     "alternates": [
       {
@@ -4606,7 +4606,7 @@
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawlitigation/",
       "title": "诉讼与争议解决 | IGA Law Firm",
-      "description": "在土耳其法院民事、商事及行政案件中提供策略性代理。",
+      "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -4638,7 +4638,7 @@
           "@id": "https://igalawfirm.com/zh/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/zh/igalawlitigation/",
           "name": "诉讼与争议解决 | IGA Law Firm",
-          "description": "在土耳其法院民事、商事及行政案件中提供策略性代理。",
+          "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -4648,7 +4648,7 @@
           "@type": "Service",
           "@id": "https://igalawfirm.com/zh/igalawlitigation/#service",
           "name": "诉讼与争议解决",
-          "description": "在土耳其法院民事、商事及行政案件中提供策略性代理。",
+          "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
           "url": "https://igalawfirm.com/zh/igalawlitigation/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -4663,7 +4663,7 @@
               "name": "诉讼与争议解决包括哪些内容？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "在土耳其法院民事、商事及行政案件中提供策略性代理。"
+                "text": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。"
               }
             },
             {
@@ -4702,7 +4702,7 @@
     "language": "ar",
     "pageType": "Service",
     "title": "التقاضي وتسوية النزاعات | IGA Law Firm",
-    "description": "تمثيل قانوني في القضايا المدنية والتجارية والإدارية أمام المحاكم التركية.",
+    "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
     "canonical": "https://igalawfirm.com/ar/igalawlitigation/",
     "alternates": [
       {
@@ -4732,7 +4732,7 @@
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawlitigation/",
       "title": "التقاضي وتسوية النزاعات | IGA Law Firm",
-      "description": "تمثيل قانوني في القضايا المدنية والتجارية والإدارية أمام المحاكم التركية.",
+      "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -4764,7 +4764,7 @@
           "@id": "https://igalawfirm.com/ar/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/ar/igalawlitigation/",
           "name": "التقاضي وتسوية النزاعات | IGA Law Firm",
-          "description": "تمثيل قانوني في القضايا المدنية والتجارية والإدارية أمام المحاكم التركية.",
+          "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -4774,7 +4774,7 @@
           "@type": "Service",
           "@id": "https://igalawfirm.com/ar/igalawlitigation/#service",
           "name": "التقاضي وتسوية النزاعات",
-          "description": "تمثيل قانوني في القضايا المدنية والتجارية والإدارية أمام المحاكم التركية.",
+          "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
           "url": "https://igalawfirm.com/ar/igalawlitigation/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -4789,7 +4789,7 @@
               "name": "ما الموضوعات التي تشملها خدمة التقاضي وتسوية النزاعات؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "تمثيل قانوني في القضايا المدنية والتجارية والإدارية أمام المحاكم التركية."
+                "text": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية."
               }
             },
             {
