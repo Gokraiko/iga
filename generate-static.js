@@ -34,7 +34,7 @@ let document = createDocument();
 const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
-for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'citizenship-content.js', 'arabic-content.js', 'app.js']) {
+for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'citizenship-content.js', 'arabic-content.js', 'app.js']) {
   vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
 }
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);
@@ -43,6 +43,15 @@ const pages = ['home', 'services', 'investment', 'team', 'about', 'journal', 'co
   'igalawlegalconsultancy', 'igalawlitigation', 'igalawresidencepermit',
   'igalawrealestateduediligence', 'igalawdocumentation'];
 const routes = pages.map(page => ({ page, sub: '' })).concat(slugs.map(sub => ({ page: 'journal', sub })));
+for (const slug of slugs) {
+  const source = window.blogPostContent[slug];
+  for (const lang of languages.filter(code => code !== 'en')) {
+    const translated = window.blogPostTranslations?.[lang]?.[slug];
+    if (!source || !translated?.title || !translated?.seoTitle || !translated?.metaDescription || translated.blocks?.length !== source.blocks?.length) {
+      throw new Error(`Incomplete ${lang} translation for ${slug}`);
+    }
+  }
+}
 const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
 const urlFor = (lang, route) => vm.runInContext(`pathFor(${JSON.stringify(lang)},${JSON.stringify(route.page)},${JSON.stringify(route.sub)})`, context);
 
@@ -60,16 +69,15 @@ for (const route of routes) {
     const schema = document.headItems.find(item => item.id === 'iga-structured-data');
     const title = document.title;
     const description = meta?.content || '';
-    const canonical = origin + (route.sub && lang !== 'en' ? urlFor('en', route) : pathname);
-    // Hreflang is limited to equivalent, indexable localized pages. English-only article copies are canonicalized and noindexed instead.
-    const alternateEntries = route.sub ? [] : languages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
+    const canonical = origin + pathname;
+    const alternateEntries = languages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
     const structuredData = JSON.parse(schema?.textContent || '{"@context":"https://schema.org","@graph":[]}');
     const graph = structuredData['@graph'] || [];
     const blogPosting = graph.find(item => item['@type'] === 'BlogPosting');
     const pageType = route.sub ? 'BlogPosting' : ['igaturkishcitizenshipbyinvestment','igalawworkpermit','igalawcorporatelaw','igalawlegalconsultancy','igalawlitigation','igalawresidencepermit','igalawrealestateduediligence','igalawdocumentation'].includes(route.page) ? 'Service' : route.page === 'journal' ? 'Blog' : route.page;
     const languageCode = lang === 'zh' ? 'zh-CN' : lang;
     const ogImage = blogPosting?.image || origin + '/public/assets/bosphorus-editorial.jpg';
-    const pageConfig = { path: pathname, language: languageCode, pageType, title, description, canonical, alternates: alternateEntries, robots: route.sub && lang !== 'en' ? 'noindex,follow' : 'index,follow', openGraph: { type: route.sub ? 'article' : 'website', locale: lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US', url: canonical, title, description, image: ogImage }, structuredData };
+    const pageConfig = { path: pathname, language: languageCode, pageType, title, description, canonical, alternates: alternateEntries, robots: 'index,follow', openGraph: { type: route.sub ? 'article' : 'website', locale: lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US', url: canonical, title, description, image: ogImage }, structuredData };
     seoConfig[pathname] = pageConfig;
     const alternateHtml = alternateEntries.map(item => `<link rel="alternate" hreflang="${item.hreflang}" href="${escapeHtml(item.href)}" />`).join('\n    ');
     const head = `<link rel="canonical" href="${escapeHtml(pageConfig.canonical)}" />
@@ -88,15 +96,15 @@ for (const route of routes) {
     <script type="application/ld+json" id="iga-structured-data">${JSON.stringify(pageConfig.structuredData).replace(/<\//g, '<\\/')}</script>`;
     const html = template
       .replace('<html lang="en">', `<html lang="${lang === 'zh' ? 'zh-CN' : lang}"${lang === 'ar' ? ' dir="rtl"' : ''}>`)
-      .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${escapeHtml(description)}" />`)
-      .replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(title)}</title>`)
-      .replace('</head>', `    ${head}\n  </head>`)
-      .replace('<div id="app"></div>', `<div id="app">${document.app.innerHTML}</div>`);
+      .replace(/<meta name="description" content="[^"]*" \/>/, () => `<meta name="description" content="${escapeHtml(description)}" />`)
+      .replace(/<title>[^<]*<\/title>/, () => `<title>${escapeHtml(title)}</title>`)
+      .replace('</head>', () => `    ${head}\n  </head>`)
+      .replace('<div id="app"></div>', () => `<div id="app">${document.app.innerHTML}</div>`);
     const dir = path.join(out, pathname);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, 'index.html'), html);
     const sitemapAlternates = alternateEntries.map(item => `<xhtml:link rel="alternate" hreflang="${item.hreflang}" href="${escapeHtml(item.href)}"/>`).join('');
-    if (!route.sub || lang === 'en') sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${sitemapAlternates}</url>`);
+    sitemap.push(`<url><loc>${escapeHtml(canonical)}</loc>${sitemapAlternates}</url>`);
   }
 }
 
