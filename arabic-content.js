@@ -27,7 +27,7 @@ const arabicContent = {
     contactEyebrow: 'ابدأ الحديث', contactTitle: 'لنناقش خطوتك التالية.',
     contactText: 'أخبرنا بإيجاز عن موضوعك، وسيساعدك فريقنا في إسطنبول على فهم الخطوة التالية.',
     send: 'إرسال الاستفسار', addressLabel: 'مكتبنا',
-    address: 'حي بيبك، شارع جودت باشا، زقاق إجْزانه تشِكمازي رقم 4/1، بشكتاش، إسطنبول',
+    address: 'Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1, Beşiktaş, Istanbul',
     emailLabel: 'البريد الإلكتروني', phoneLabel: 'الهاتف / واتساب', wechatLabel: 'معرّف وي تشات',
     formTitle: 'كيف يمكننا مساعدتك؟', name: 'الاسم', surname: 'اسم العائلة',
     email: 'البريد الإلكتروني', phone: 'رقم الهاتف', message: 'استفسارك',
