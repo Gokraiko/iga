@@ -9307,8 +9307,8 @@
     "path": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "IGA Law Firm Opens New Istanbul Office | IGA Law Firm",
-    "description": "We are delighted to announce that IGA Law Firm has begun welcoming clients to its new office, located in an elegant mansion in Bebek, one of Istanbul’s most…",
+    "title": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+    "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
     "canonical": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
       {
@@ -9337,9 +9337,9 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA Law Firm Opens New Istanbul Office | IGA Law Firm",
-      "description": "We are delighted to announce that IGA Law Firm has begun welcoming clients to its new office, located in an elegant mansion in Bebek, one of Istanbul’s most…",
-      "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+      "title": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+      "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
+      "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
     "structuredData": {
       "@context": "https://schema.org",
@@ -9369,8 +9369,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA Law Firm Opens New Istanbul Office | IGA Law Firm",
-          "description": "We are delighted to announce that IGA Law Firm has begun welcoming clients to its new office, located in an elegant mansion in Bebek, one of Istanbul’s most…",
+          "name": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+          "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -9379,7 +9379,7 @@
         {
           "@type": "BlogPosting",
           "headline": "IGA Law Firm Is Growing: A New Chapter at Our New Office",
-          "description": "We are delighted to announce that IGA Law Firm has begun welcoming clients to its new office, located in an elegant mansion in Bebek, one of Istanbul’s most…",
+          "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage"
@@ -9387,7 +9387,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+          "datePublished": "2026-07-27",
+          "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
         },
         {
           "@type": "BreadcrumbList",
@@ -9413,8 +9414,8 @@
     "path": "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "tr",
     "pageType": "BlogPosting",
-    "title": "IGA Hukuk Bürosu’nun Bebek’teki Yeni Ofisi | IGA Law Firm",
-    "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini ve uluslararası aileler ile yatırımcılara sunduğu hukuki hizmetleri tanıyın.",
+    "title": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+    "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
     "canonical": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
       {
@@ -9443,9 +9444,9 @@
       "type": "article",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA Hukuk Bürosu’nun Bebek’teki Yeni Ofisi | IGA Law Firm",
-      "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini ve uluslararası aileler ile yatırımcılara sunduğu hukuki hizmetleri tanıyın.",
-      "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+      "title": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+      "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
+      "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
     "structuredData": {
       "@context": "https://schema.org",
@@ -9475,8 +9476,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA Hukuk Bürosu’nun Bebek’teki Yeni Ofisi | IGA Law Firm",
-          "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini ve uluslararası aileler ile yatırımcılara sunduğu hukuki hizmetleri tanıyın.",
+          "name": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+          "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -9484,8 +9485,8 @@
         },
         {
           "@type": "BlogPosting",
-          "headline": "IGA Hukuk Bürosu Büyüyor: Yeni Ofisimizde Yeni Bir Dönem",
-          "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini ve uluslararası aileler ile yatırımcılara sunduğu hukuki hizmetleri tanıyın.",
+          "headline": "IGA Hukuk Bürosu Büyüyor: Bebek’teki Yeni Ofisimiz",
+          "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
           "inLanguage": "tr",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage"
@@ -9493,7 +9494,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+          "datePublished": "2026-07-27",
+          "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
         },
         {
           "@type": "BreadcrumbList",
@@ -9519,8 +9521,8 @@
     "path": "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "zh-CN",
     "pageType": "BlogPosting",
-    "title": "IGA律师事务所伊斯坦布尔新办公室 | IGA Law Firm",
-    "description": "IGA 律师事务所欢迎客户来到其位于伊斯坦布尔贝贝克的新办事处。了解该团队及其为国际家庭和投资者提供的法律工作。",
+    "title": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+    "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
     "canonical": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
       {
@@ -9549,9 +9551,9 @@
       "type": "article",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA律师事务所伊斯坦布尔新办公室 | IGA Law Firm",
-      "description": "IGA 律师事务所欢迎客户来到其位于伊斯坦布尔贝贝克的新办事处。了解该团队及其为国际家庭和投资者提供的法律工作。",
-      "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+      "title": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+      "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
+      "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
     "structuredData": {
       "@context": "https://schema.org",
@@ -9581,8 +9583,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA律师事务所伊斯坦布尔新办公室 | IGA Law Firm",
-          "description": "IGA 律师事务所欢迎客户来到其位于伊斯坦布尔贝贝克的新办事处。了解该团队及其为国际家庭和投资者提供的法律工作。",
+          "name": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+          "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -9590,8 +9592,8 @@
         },
         {
           "@type": "BlogPosting",
-          "headline": "IGA Law Firm 迎来新篇章：迁入新办公室",
-          "description": "IGA 律师事务所欢迎客户来到其位于伊斯坦布尔贝贝克的新办事处。了解该团队及其为国际家庭和投资者提供的法律工作。",
+          "headline": "IGA 律师事务所迈入新篇章：贝贝克新办公室",
+          "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
           "inLanguage": "zh-CN",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage"
@@ -9599,7 +9601,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+          "datePublished": "2026-07-27",
+          "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
         },
         {
           "@type": "BreadcrumbList",
@@ -9625,8 +9628,8 @@
     "path": "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "ar",
     "pageType": "BlogPosting",
-    "title": "تفتتح شركة IGA للمحاماة مكتبًا جديدًا في إسطنبول | IGA Law Firm",
-    "description": "ترحب شركة IGA للمحاماة بالعملاء في مكتبها الجديد في بيبك، إسطنبول. تعرف على الفريق وعمله القانوني للعائلات والمستثمرين الدوليين.",
+    "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+    "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
     "canonical": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
       {
@@ -9655,9 +9658,9 @@
       "type": "article",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "تفتتح شركة IGA للمحاماة مكتبًا جديدًا في إسطنبول | IGA Law Firm",
-      "description": "ترحب شركة IGA للمحاماة بالعملاء في مكتبها الجديد في بيبك، إسطنبول. تعرف على الفريق وعمله القانوني للعائلات والمستثمرين الدوليين.",
-      "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+      "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+      "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
+      "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
     "structuredData": {
       "@context": "https://schema.org",
@@ -9687,8 +9690,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "تفتتح شركة IGA للمحاماة مكتبًا جديدًا في إسطنبول | IGA Law Firm",
-          "description": "ترحب شركة IGA للمحاماة بالعملاء في مكتبها الجديد في بيبك، إسطنبول. تعرف على الفريق وعمله القانوني للعائلات والمستثمرين الدوليين.",
+          "name": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+          "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -9696,8 +9699,8 @@
         },
         {
           "@type": "BlogPosting",
-          "headline": "شركة IGA للمحاماة تنمو: فصل جديد في مكتبنا الجديد",
-          "description": "ترحب شركة IGA للمحاماة بالعملاء في مكتبها الجديد في بيبك، إسطنبول. تعرف على الفريق وعمله القانوني للعائلات والمستثمرين الدوليين.",
+          "headline": "مكتب IGA للمحاماة ينمو: فصل جديد في مكتبنا الجديد",
+          "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
           "inLanguage": "ar",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage"
@@ -9705,7 +9708,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "image": "https://igalawfirm.com/public/assets/media/9020aa7cb7531bd1.jpg"
+          "datePublished": "2026-07-27",
+          "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
         },
         {
           "@type": "BreadcrumbList",
