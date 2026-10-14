@@ -21598,5 +21598,429 @@
         }
       ]
     }
+  },
+  "/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "path": "/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkish Military Deferral & Dövizle Askerlik Guide | IGA Law Firm",
+    "description": "Compare Turkish military-service deferral and dövizle askerlik for citizens abroad: student age limits, overseas eligibility, application steps and 2025 fees.",
+    "canonical": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "title": "Turkish Military Deferral & Dövizle Askerlik Guide | IGA Law Firm",
+      "description": "Compare Turkish military-service deferral and dövizle askerlik for citizens abroad: student age limits, overseas eligibility, application steps and 2025 fees.",
+      "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage",
+          "url": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+          "name": "Turkish Military Deferral & Dövizle Askerlik Guide | IGA Law Firm",
+          "description": "Compare Turkish military-service deferral and dövizle askerlik for citizens abroad: student age limits, overseas eligibility, application steps and 2025 fees.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Turkish Military Service Deferral and Foreign-Currency Military Service Abroad",
+          "description": "Compare Turkish military-service deferral and dövizle askerlik for citizens abroad: student age limits, overseas eligibility, application steps and 2025 fees.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal guide"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "path": "/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Askerlik Ertelemesi ve Dövizle Askerlik Rehberi | IGA Law Firm",
+    "description": "Yurt dışındaki Türk vatandaşları için askerlik tecili ve dövizle askerlik: öğrenim yaş sınırları, 1095 gün koşulu, başvuru adımları ve 2025 bedelleri.",
+    "canonical": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "title": "Askerlik Ertelemesi ve Dövizle Askerlik Rehberi | IGA Law Firm",
+      "description": "Yurt dışındaki Türk vatandaşları için askerlik tecili ve dövizle askerlik: öğrenim yaş sınırları, 1095 gün koşulu, başvuru adımları ve 2025 bedelleri.",
+      "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+          "name": "Askerlik Ertelemesi ve Dövizle Askerlik Rehberi | IGA Law Firm",
+          "description": "Yurt dışındaki Türk vatandaşları için askerlik tecili ve dövizle askerlik: öğrenim yaş sınırları, 1095 gün koşulu, başvuru adımları ve 2025 bedelleri.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Yurt Dışındaki Türk Vatandaşları İçin Askerlik Ertelemesi ve Dövizle Askerlik",
+          "description": "Yurt dışındaki Türk vatandaşları için askerlik tecili ve dövizle askerlik: öğrenim yaş sınırları, 1095 gün koşulu, başvuru adımları ve 2025 bedelleri.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal guide"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "path": "/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其兵役延期与外汇缴费兵役｜海外公民指南 | IGA Law Firm",
+    "description": "了解海外土耳其公民的兵役延期、学生年龄上限、外汇缴费兵役1095天条件、申请步骤及2025年历史费用。",
+    "canonical": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "title": "土耳其兵役延期与外汇缴费兵役｜海外公民指南 | IGA Law Firm",
+      "description": "了解海外土耳其公民的兵役延期、学生年龄上限、外汇缴费兵役1095天条件、申请步骤及2025年历史费用。",
+      "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+          "name": "土耳其兵役延期与外汇缴费兵役｜海外公民指南 | IGA Law Firm",
+          "description": "了解海外土耳其公民的兵役延期、学生年龄上限、外汇缴费兵役1095天条件、申请步骤及2025年历史费用。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "海外土耳其公民的兵役延期与外汇缴费兵役指南",
+          "description": "了解海外土耳其公民的兵役延期、学生年龄上限、外汇缴费兵役1095天条件、申请步骤及2025年历史费用。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal guide"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "path": "/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "تأجيل الخدمة العسكرية التركية والدفع بالعملة الأجنبية | IGA Law Firm",
+    "description": "دليل الأتراك المقيمين بالخارج لتأجيل الخدمة العسكرية وخدمة الدفع بالنقد الأجنبي: حدود العمر، شرط 1095 يوماً، الإجراءات ورسوم 2025 التاريخية.",
+    "canonical": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "title": "تأجيل الخدمة العسكرية التركية والدفع بالعملة الأجنبية | IGA Law Firm",
+      "description": "دليل الأتراك المقيمين بالخارج لتأجيل الخدمة العسكرية وخدمة الدفع بالنقد الأجنبي: حدود العمر، شرط 1095 يوماً، الإجراءات ورسوم 2025 التاريخية.",
+      "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+          "name": "تأجيل الخدمة العسكرية التركية والدفع بالعملة الأجنبية | IGA Law Firm",
+          "description": "دليل الأتراك المقيمين بالخارج لتأجيل الخدمة العسكرية وخدمة الدفع بالنقد الأجنبي: حدود العمر، شرط 1095 يوماً، الإجراءات ورسوم 2025 التاريخية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "تأجيل الخدمة العسكرية التركية والخدمة العسكرية مقابل النقد الأجنبي للمقيمين بالخارج",
+          "description": "دليل الأتراك المقيمين بالخارج لتأجيل الخدمة العسكرية وخدمة الدفع بالنقد الأجنبي: حدود العمر، شرط 1095 يوماً، الإجراءات ورسوم 2025 التاريخية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/military-service-deferral-foreign-currency-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Legal guide"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
