@@ -20750,5 +20750,429 @@
         }
       ]
     }
+  },
+  "/en/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "path": "/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkey Work Permit for Company Owners | 2025 Guide | IGA Law Firm",
+    "description": "Explore Turkish work permit rules for foreign company owners: capital, 20% shareholding, five-employee rule, USD 100,000 exception and updated criteria.",
+    "canonical": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "title": "Turkey Work Permit for Company Owners | 2025 Guide | IGA Law Firm",
+      "description": "Explore Turkish work permit rules for foreign company owners: capital, 20% shareholding, five-employee rule, USD 100,000 exception and updated criteria.",
+      "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage",
+          "url": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+          "name": "Turkey Work Permit for Company Owners | 2025 Guide | IGA Law Firm",
+          "description": "Explore Turkish work permit rules for foreign company owners: capital, 20% shareholding, five-employee rule, USD 100,000 exception and updated criteria.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Work Permit in Turkey for Company Owners and Shareholders (2025 Guide)",
+          "description": "Explore Turkish work permit rules for foreign company owners: capital, 20% shareholding, five-employee rule, USD 100,000 exception and updated criteria.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "path": "/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Yabancı Şirket Ortakları İçin Çalışma İzni | 2025 | IGA Law Firm",
+    "description": "Yabancı şirket sahiplerinin çalışma izni şartları: sermaye, yüzde 20 ortaklık, beş Türk çalışan, 100.000 USD istisnası ve güncel kriterler.",
+    "canonical": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "title": "Yabancı Şirket Ortakları İçin Çalışma İzni | 2025 | IGA Law Firm",
+      "description": "Yabancı şirket sahiplerinin çalışma izni şartları: sermaye, yüzde 20 ortaklık, beş Türk çalışan, 100.000 USD istisnası ve güncel kriterler.",
+      "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+          "name": "Yabancı Şirket Ortakları İçin Çalışma İzni | 2025 | IGA Law Firm",
+          "description": "Yabancı şirket sahiplerinin çalışma izni şartları: sermaye, yüzde 20 ortaklık, beş Türk çalışan, 100.000 USD istisnası ve güncel kriterler.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Şirket Sahibi ve Ortağı Yabancılar İçin Türkiye’de Çalışma İzni (2025 Rehberi)",
+          "description": "Yabancı şirket sahiplerinin çalışma izni şartları: sermaye, yüzde 20 ortaklık, beş Türk çalışan, 100.000 USD istisnası ve güncel kriterler.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "path": "/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其公司股东工作许可｜2025年条件与豁免 | IGA Law Firm",
+    "description": "了解外国公司所有人申请土耳其工作许可的资本、20%持股、五名土耳其员工规则、10万美元例外及更新后的标准。",
+    "canonical": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "title": "土耳其公司股东工作许可｜2025年条件与豁免 | IGA Law Firm",
+      "description": "了解外国公司所有人申请土耳其工作许可的资本、20%持股、五名土耳其员工规则、10万美元例外及更新后的标准。",
+      "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+          "name": "土耳其公司股东工作许可｜2025年条件与豁免 | IGA Law Firm",
+          "description": "了解外国公司所有人申请土耳其工作许可的资本、20%持股、五名土耳其员工规则、10万美元例外及更新后的标准。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "土耳其公司所有人及股东工作许可：2025年指南",
+          "description": "了解外国公司所有人申请土耳其工作许可的资本、20%持股、五名土耳其员工规则、10万美元例外及更新后的标准。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "path": "/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "تصريح العمل لأصحاب الشركات في تركيا | دليل 2025 | IGA Law Firm",
+    "description": "شروط تصريح العمل للشريك الأجنبي في تركيا: رأس المال، وحصة 20%، وخمسة موظفين أتراك، واستثناء 100 ألف دولار والمعايير المحدثة.",
+    "canonical": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "title": "تصريح العمل لأصحاب الشركات في تركيا | دليل 2025 | IGA Law Firm",
+      "description": "شروط تصريح العمل للشريك الأجنبي في تركيا: رأس المال، وحصة 20%، وخمسة موظفين أتراك، واستثناء 100 ألف دولار والمعايير المحدثة.",
+      "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+          "name": "تصريح العمل لأصحاب الشركات في تركيا | دليل 2025 | IGA Law Firm",
+          "description": "شروط تصريح العمل للشريك الأجنبي في تركيا: رأس المال، وحصة 20%، وخمسة موظفين أتراك، واستثناء 100 ألف دولار والمعايير المحدثة.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "تصريح العمل في تركيا لأصحاب الشركات والشركاء الأجانب: دليل 2025",
+          "description": "شروط تصريح العمل للشريك الأجنبي في تركيا: رأس المال، وحصة 20%، وخمسة موظفين أتراك، واستثناء 100 ألف دولار والمعايير المحدثة.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/company-owner-work-permit-2025.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
