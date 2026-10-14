@@ -6335,6 +6335,426 @@
       ]
     }
   },
+  "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "path": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Renounce Turkish Citizenship 2025: Process & Documents | IGA Law Firm",
+    "description": "How can you renounce Turkish citizenship? Learn the 2025 eligibility rules, VAT-9 documents, children’s status, Blue Card rights and reacquisition route.",
+    "canonical": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "title": "Renounce Turkish Citizenship 2025: Process & Documents | IGA Law Firm",
+      "description": "How can you renounce Turkish citizenship? Learn the 2025 eligibility rules, VAT-9 documents, children’s status, Blue Card rights and reacquisition route.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage",
+          "url": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+          "name": "Renounce Turkish Citizenship 2025: Process & Documents | IGA Law Firm",
+          "description": "How can you renounce Turkish citizenship? Learn the 2025 eligibility rules, VAT-9 documents, children’s status, Blue Card rights and reacquisition route.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Renunciation of Turkish Citizenship 2025: Process, Documents and Reapplication",
+          "description": "How can you renounce Turkish citizenship? Learn the 2025 eligibility rules, VAT-9 documents, children’s status, Blue Card rights and reacquisition route.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Citizenship"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "path": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türk Vatandaşlığından Çıkma 2025: Şartlar ve Belgeler | IGA Law Firm",
+    "description": "Türk vatandaşlığından nasıl çıkılır? 2025 çıkma izni şartlarını, VAT-9 belgelerini, çocukların durumunu, Mavi Kart haklarını ve yeniden kazanma yolunu öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "title": "Türk Vatandaşlığından Çıkma 2025: Şartlar ve Belgeler | IGA Law Firm",
+      "description": "Türk vatandaşlığından nasıl çıkılır? 2025 çıkma izni şartlarını, VAT-9 belgelerini, çocukların durumunu, Mavi Kart haklarını ve yeniden kazanma yolunu öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+          "name": "Türk Vatandaşlığından Çıkma 2025: Şartlar ve Belgeler | IGA Law Firm",
+          "description": "Türk vatandaşlığından nasıl çıkılır? 2025 çıkma izni şartlarını, VAT-9 belgelerini, çocukların durumunu, Mavi Kart haklarını ve yeniden kazanma yolunu öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Türk Vatandaşlığından Çıkma 2025: Süreç, Belgeler ve Yeniden Kazanma",
+          "description": "Türk vatandaşlığından nasıl çıkılır? 2025 çıkma izni şartlarını, VAT-9 belgelerini, çocukların durumunu, Mavi Kart haklarını ve yeniden kazanma yolunu öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vatandaşlık"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "path": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "2025退出土耳其国籍指南：条件、材料与恢复 | IGA Law Firm",
+    "description": "了解退出土耳其国籍的2025年条件、VAT-9申请材料、未成年子女、蓝卡权利及重新取得国籍的法律途径。",
+    "canonical": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "title": "2025退出土耳其国籍指南：条件、材料与恢复 | IGA Law Firm",
+      "description": "了解退出土耳其国籍的2025年条件、VAT-9申请材料、未成年子女、蓝卡权利及重新取得国籍的法律途径。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+          "name": "2025退出土耳其国籍指南：条件、材料与恢复 | IGA Law Firm",
+          "description": "了解退出土耳其国籍的2025年条件、VAT-9申请材料、未成年子女、蓝卡权利及重新取得国籍的法律途径。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "2025年退出土耳其国籍：程序、材料与重新取得国籍",
+          "description": "了解退出土耳其国籍的2025年条件、VAT-9申请材料、未成年子女、蓝卡权利及重新取得国籍的法律途径。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "入籍"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "path": "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "التخلي عن الجنسية التركية 2025: الشروط والوثائق | IGA Law Firm",
+    "description": "تعرّف على شروط التخلي عن الجنسية التركية في 2025، ووثائق نموذج VAT-9، ووضع الأبناء القُصّر، والبطاقة الزرقاء وإعادة اكتساب الجنسية.",
+    "canonical": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "title": "التخلي عن الجنسية التركية 2025: الشروط والوثائق | IGA Law Firm",
+      "description": "تعرّف على شروط التخلي عن الجنسية التركية في 2025، ووثائق نموذج VAT-9، ووضع الأبناء القُصّر، والبطاقة الزرقاء وإعادة اكتساب الجنسية.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+          "name": "التخلي عن الجنسية التركية 2025: الشروط والوثائق | IGA Law Firm",
+          "description": "تعرّف على شروط التخلي عن الجنسية التركية في 2025، ووثائق نموذج VAT-9، ووضع الأبناء القُصّر، والبطاقة الزرقاء وإعادة اكتساب الجنسية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "التخلي عن الجنسية التركية 2025: الإجراءات والوثائق واستعادتها",
+          "description": "تعرّف على شروط التخلي عن الجنسية التركية في 2025، ووثائق نموذج VAT-9، ووضع الأبناء القُصّر، والبطاقة الزرقاء وإعادة اكتساب الجنسية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الجنسية"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
     "path": "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
     "language": "en",
