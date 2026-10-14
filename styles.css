@@ -39,3 +39,6 @@ html[dir="rtl"]{--sans:'Noto Sans Arabic',Arial,sans-serif;--serif:'Noto Naskh A
 
 .corporate-detail{max-width:790px}.corporate-block{padding:32px 0;border-top:1px solid var(--line)}.corporate-block:first-child{padding-top:0;border-top:0}.corporate-block h2{display:flex;align-items:flex-start;gap:16px;margin:0 0 14px;font-size:clamp(27px,3vw,35px)}.corporate-number{flex:none;font:600 12px/2 var(--sans);letter-spacing:.08em;color:var(--gold)}.corporate-block p:last-child{margin-bottom:0}.corporate-block ul{margin:12px 0 18px}.corporate-block li{margin:7px 0}
 @media(max-width:760px){.corporate-block{padding:26px 0}.corporate-block h2{gap:12px;font-size:28px}}
+
+.property-detail{max-width:790px}.property-block{padding:32px 0;border-top:1px solid var(--line)}.property-block:first-child{padding-top:0;border-top:0}.property-block h2{display:flex;align-items:flex-start;gap:16px;margin:0 0 14px;font-size:clamp(27px,3vw,35px)}.property-number{flex:none;font:600 12px/2 var(--sans);letter-spacing:.08em;color:var(--gold)}.property-block p:last-child{margin-bottom:0}.property-block ul{margin:12px 0 18px}.property-block li{margin:7px 0}
+@media(max-width:760px){.property-block{padding:26px 0}.property-block h2{gap:12px;font-size:28px}}
