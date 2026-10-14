@@ -2,15 +2,7 @@
   const counters = [...document.querySelectorAll('[data-article-views]')];
   if (!counters.length) return;
 
-  const language = document.documentElement.lang.split('-')[0];
-  const labels = {
-    en: (count, formatted) => `${formatted} unique ${count === 1 ? 'read' : 'reads'}`,
-    tr: (_count, formatted) => `${formatted} tekil okuma`,
-    zh: (_count, formatted) => `${formatted} 次独立阅读`,
-    ar: (_count, formatted) => `${formatted} قراءة فريدة`
-  };
   const formatter = new Intl.NumberFormat(document.documentElement.lang || 'en');
-  const label = labels[language] || labels.en;
   const current = document.querySelector('[data-article-view-current]');
   const endpoint = '/api/article-views/';
 
@@ -18,8 +10,9 @@
     if (!Number.isSafeInteger(count) || count < 0) return;
     for (const node of counters) {
       if (node.dataset.articleViews !== slug) continue;
-      node.textContent = label(count, formatter.format(count));
-      node.hidden = false;
+      const total = Number(node.dataset.demoBase || 0) + count;
+      node.querySelector('[data-read-count]').textContent = formatter.format(total);
+      node.dataset.recordedReads = String(count);
     }
   }
 
@@ -31,7 +24,7 @@
       const { counts } = await response.json();
       if (!counts || typeof counts !== 'object') return;
       for (const [slug, count] of Object.entries(counts)) display(slug, count);
-    } catch { /* Keep the counter hidden until the service is available. */ }
+    } catch { /* The explicitly labelled demo value remains visible during an outage. */ }
   }
 
   function visitorId() {
