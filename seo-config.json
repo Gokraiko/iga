@@ -20326,5 +20326,429 @@
         }
       ]
     }
+  },
+  "/en/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "path": "/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkey Work Permit with a Turkish Parent | Legal Guide | IGA Law Firm",
+    "description": "Learn the work permit rules for foreigners with a Turkish parent: family documents, evaluation criteria and when to check citizenship status first.",
+    "canonical": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "title": "Turkey Work Permit with a Turkish Parent | Legal Guide | IGA Law Firm",
+      "description": "Learn the work permit rules for foreigners with a Turkish parent: family documents, evaluation criteria and when to check citizenship status first.",
+      "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/#webpage",
+          "url": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+          "name": "Turkey Work Permit with a Turkish Parent | Legal Guide | IGA Law Firm",
+          "description": "Learn the work permit rules for foreigners with a Turkish parent: family documents, evaluation criteria and when to check citizenship status first.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Work Permit in Turkey for Those with a Turkish Parent: Family Connection Guide",
+          "description": "Learn the work permit rules for foreigners with a Turkish parent: family documents, evaluation criteria and when to check citizenship status first.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "path": "/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türk Vatandaşı Ebeveynle Çalışma İzni | Rehber | IGA Law Firm",
+    "description": "Türk vatandaşı ebeveyni olan yabancılar için çalışma izni şartlarını, kriter istisnalarını, aile belgelerini ve vatandaşlık kontrolünü öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "title": "Türk Vatandaşı Ebeveynle Çalışma İzni | Rehber | IGA Law Firm",
+      "description": "Türk vatandaşı ebeveyni olan yabancılar için çalışma izni şartlarını, kriter istisnalarını, aile belgelerini ve vatandaşlık kontrolünü öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+          "name": "Türk Vatandaşı Ebeveynle Çalışma İzni | Rehber | IGA Law Firm",
+          "description": "Türk vatandaşı ebeveyni olan yabancılar için çalışma izni şartlarını, kriter istisnalarını, aile belgelerini ve vatandaşlık kontrolünü öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Türk Vatandaşı Anne veya Babası Olanlar İçin Çalışma İzni: Aile Bağı Rehberi",
+          "description": "Türk vatandaşı ebeveyni olan yabancılar için çalışma izni şartlarını, kriter istisnalarını, aile belgelerini ve vatandaşlık kontrolünü öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "path": "/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其籍父母子女工作许可｜申请条件与文件 | IGA Law Firm",
+    "description": "父亲或母亲是土耳其公民？了解工作许可评估标准的适用例外、亲属关系证明，以及为何应先核查本人是否已有土耳其国籍。",
+    "canonical": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "title": "土耳其籍父母子女工作许可｜申请条件与文件 | IGA Law Firm",
+      "description": "父亲或母亲是土耳其公民？了解工作许可评估标准的适用例外、亲属关系证明，以及为何应先核查本人是否已有土耳其国籍。",
+      "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+          "name": "土耳其籍父母子女工作许可｜申请条件与文件 | IGA Law Firm",
+          "description": "父亲或母亲是土耳其公民？了解工作许可评估标准的适用例外、亲属关系证明，以及为何应先核查本人是否已有土耳其国籍。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "父母一方为土耳其公民，如何申请土耳其工作许可？",
+          "description": "父亲或母亲是土耳其公民？了解工作许可评估标准的适用例外、亲属关系证明，以及为何应先核查本人是否已有土耳其国籍。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "path": "/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "تصريح العمل مع والد تركي الجنسية | الشروط والوثائق | IGA Law Firm",
+    "description": "هل يحمل والدك أو والدتك الجنسية التركية؟ تعرّف على استثناءات معايير تقييم تصريح العمل ووثائق صلة القرابة وأهمية فحص وضع جنسيتك أولاً.",
+    "canonical": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "title": "تصريح العمل مع والد تركي الجنسية | الشروط والوثائق | IGA Law Firm",
+      "description": "هل يحمل والدك أو والدتك الجنسية التركية؟ تعرّف على استثناءات معايير تقييم تصريح العمل ووثائق صلة القرابة وأهمية فحص وضع جنسيتك أولاً.",
+      "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+          "name": "تصريح العمل مع والد تركي الجنسية | الشروط والوثائق | IGA Law Firm",
+          "description": "هل يحمل والدك أو والدتك الجنسية التركية؟ تعرّف على استثناءات معايير تقييم تصريح العمل ووثائق صلة القرابة وأهمية فحص وضع جنسيتك أولاً.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "تصريح العمل في تركيا لمن لديه أب أو أم يحمل الجنسية التركية",
+          "description": "هل يحمل والدك أو والدتك الجنسية التركية؟ تعرّف على استثناءات معايير تقييم تصريح العمل ووثائق صلة القرابة وأهمية فحص وضع جنسيتك أولاً.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/work-permit-turkish-parent.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Work permit"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
