@@ -10,7 +10,7 @@
     if (!Number.isSafeInteger(count) || count < 0) return;
     for (const node of counters) {
       if (node.dataset.articleViews !== slug) continue;
-      const total = Number(node.dataset.demoBase || 0) + count;
+      const total = Number(node.dataset.initialCount || 0) + count;
       node.querySelector('[data-read-count]').textContent = formatter.format(total);
       node.dataset.recordedReads = String(count);
     }
@@ -24,7 +24,7 @@
       const { counts } = await response.json();
       if (!counts || typeof counts !== 'object') return;
       for (const [slug, count] of Object.entries(counts)) display(slug, count);
-    } catch { /* The explicitly labelled demo value remains visible during an outage. */ }
+    } catch { /* The manually configured starting value remains visible during an outage. */ }
   }
 
   function visitorId() {

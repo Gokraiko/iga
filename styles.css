@@ -50,14 +50,13 @@ html[dir="rtl"]{--sans:'Noto Sans Arabic',Arial,sans-serif;--serif:'Noto Naskh A
 @media(max-width:760px){.documentation-block{padding:26px 0}.documentation-block h2{gap:12px;font-size:28px}.documentation-sources{padding:22px}}
 .article-content .article-source{margin-bottom:8px}.article-source a{color:var(--navy);text-decoration:underline;text-underline-offset:3px}.article-source a:hover{color:var(--gold)}
 
-/* Reader badges: sample baselines remain explicitly marked as demos. */
+/* Reader badges in card and article header corners. */
 .blog-card-top,.article-heading-top{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;direction:ltr}
 .blog-card-top>small{flex:1;min-width:0;line-height:1.7}
 .article-heading-top .crumb{flex:1;min-width:0}
 .article-view-count{display:inline-flex;align-items:center;gap:5px;flex-shrink:0;direction:ltr;color:var(--ink);background:#fff9;border:1px solid var(--line);border-radius:30px;padding:6px 8px;font:500 11px/1.3 var(--sans);letter-spacing:0;white-space:nowrap;text-transform:none;font-variant-numeric:tabular-nums}
 .article-view-count svg{width:16px;height:16px;flex-shrink:0}
 .article-view-count [data-read-count]{font-weight:700}
-.article-view-demo{padding-inline-start:5px;border-inline-start:1px solid currentColor;font-size:9px;opacity:.7}
 .article-heading-top .article-view-count{color:white;background:#ffffff12;border-color:#ffffff38;padding:8px 12px;font-size:12px}
 html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb{direction:rtl;text-align:right}
 @media(max-width:420px){.blog-card-top{gap:8px}.article-view-count{font-size:10px;padding:5px 7px;gap:4px}.article-heading-top{flex-wrap:wrap}.article-heading-top .article-view-count{margin-left:auto}.article-heading-top .crumb{min-width:120px}}
