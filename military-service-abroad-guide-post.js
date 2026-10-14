@@ -1,7 +1,7 @@
 // Military-service guide: 2025 fees are historical; legal rules reviewed 14 October 2026.
 {
   const slug = 'turkish-military-service-deferral-paid-foreign-currency-abroad-guide';
-  const heroImage = '/public/assets/military-service-deferral-foreign-currency-guide.jpg';
+  const heroImage = '/public/assets/turkish-flag-military-service.avif';
   const sources = [
     'https://www.msb.gov.tr/Askeralma/icerik/ogrencilerin-askerlik-erteleme-islemleri',
     'https://www.msb.gov.tr/Askeralma/icerik/yurt-disi-erteleme-islemleri',
@@ -12,9 +12,9 @@
   const copy = {
     en: {
       title: 'Turkish Military Service Deferral and Foreign-Currency Military Service Abroad',
-      seoTitle: 'Turkish Military Deferral & Dövizle Askerlik Guide',
-      metaDescription: 'Compare Turkish military-service deferral and dövizle askerlik for citizens abroad: student age limits, overseas eligibility, application steps and 2025 fees.',
-      alt: 'Turkish citizen reviewing military-service paperwork with an adviser in an Istanbul office',
+      seoTitle: 'Turkish Military Deferral & Dövizle Askerlik Abroad',
+      metaDescription: 'Living abroad as a Turkish citizen? Learn military service deferral, dövizle askerlik eligibility, age limits and application steps. Ask IGA Law Firm to review your case.',
+      alt: 'Large Turkish flag carried during a public procession',
       sections: [
         ['Introduction: two different procedures', 'Turkish citizens living abroad may need to consider postponement of military service (tecil) or foreign-currency military service (dövizle askerlik). Deferral postpones an obligation; it does not complete it. Dövizle askerlik is a distinct route under which an eligible person completes the required online training, applies through the Turkish consulate and pays the prescribed foreign-currency amount to be regarded as having performed service. It is different from domestic paid military service (bedelli askerlik), which has its own basic training rules.'],
         ['Student deferral age limits', 'According to the Ministry of National Defence, university undergraduate students may normally defer until the end of the year in which they turn 28. Language and master’s students may defer until the end of the year in which they turn 32; doctoral, medical or dental specialty and comparable qualifying studies may defer until the end of the year in which they turn 35. The education, enrolment status and other legal conditions still have to be satisfied. The original “master’s until 28” summary is therefore inaccurate.'],
@@ -31,9 +31,9 @@
     },
     tr: {
       title: 'Yurt Dışındaki Türk Vatandaşları İçin Askerlik Ertelemesi ve Dövizle Askerlik',
-      seoTitle: 'Askerlik Ertelemesi ve Dövizle Askerlik Rehberi',
-      metaDescription: 'Yurt dışındaki Türk vatandaşları için askerlik tecili ve dövizle askerlik: öğrenim yaş sınırları, 1095 gün koşulu, başvuru adımları ve 2025 bedelleri.',
-      alt: 'İstanbul ofisinde danışmanla askerlik belgelerini inceleyen Türk vatandaşı',
+      seoTitle: 'Yurt Dışı Askerlik Tecili ve Dövizle Askerlik',
+      metaDescription: 'Yurt dışında yaşayan Türk vatandaşları için askerlik tecili, dövizle askerlik şartları, yaş sınırları ve başvuru belgeleri. IGA Hukuk Bürosu ile durumunuzu değerlendirin.',
+      alt: 'Bir tören yürüyüşünde taşınan büyük Türk bayrağı',
       sections: [
         ['Giriş: birbirinden farklı iki işlem', 'Yurt dışında yaşayan Türk vatandaşları askerlik ertelemesini (tecil) veya dövizle askerliği değerlendirebilir. Erteleme yükümlülüğü ileri tarihe bırakır, tamamlamaz. Dövizle askerlik ise şartları sağlayan kişinin uzaktan eğitimi tamamlayıp Türk konsolosluğuna başvurması ve belirlenen dövizi ödemesiyle askerlik hizmetini yerine getirmiş sayılabildiği ayrı bir yoldur. Bu yol, kendi temel eğitim kuralları bulunan yurt içi bedelli askerlikten farklıdır.'],
         ['Öğrenciler için yaş sınırları', 'Millî Savunma Bakanlığına göre lisans öğrencileri kural olarak 28 yaşını doldurdukları yılın sonuna kadar; dil öğrenimi ve yüksek lisans öğrencileri 32 yaşını doldurdukları yılın sonuna kadar; doktora, tıp veya diş hekimliğinde uzmanlık ve benzeri uygun öğrenimdekiler 35 yaşını doldurdukları yılın sonuna kadar askerliklerini erteletebilir. Öğrenim, kayıt ve diğer yasal koşullar ayrıca sağlanmalıdır. “Yüksek lisans için 28 yaş” özeti doğru değildir.'],
@@ -50,9 +50,9 @@
     },
     zh: {
       title: '海外土耳其公民的兵役延期与外汇缴费兵役指南',
-      seoTitle: '土耳其兵役延期与外汇缴费兵役｜海外公民指南',
-      metaDescription: '了解海外土耳其公民的兵役延期、学生年龄上限、外汇缴费兵役1095天条件、申请步骤及2025年历史费用。',
-      alt: '土耳其公民在伊斯坦布尔办公室与顾问审阅兵役相关文件',
+      seoTitle: '海外土耳其公民兵役延期与外汇缴费兵役指南',
+      metaDescription: '了解海外土耳其公民兵役延期、外汇缴费兵役的资格、年龄限制与申请材料。联系IGA律师事务所评估个人情况。',
+      alt: '在公共队列中展开的大幅土耳其国旗',
       sections: [
         ['引言：两种不同程序', '居住海外的土耳其公民可考虑兵役延期（tecil）或外汇缴费兵役（dövizle askerlik）。延期只是推迟义务，并不代表完成兵役。外汇缴费兵役是另一条途径：符合条件者完成线上课程、向土耳其领馆申请并缴纳规定的外币金额后，可依法被视为完成兵役。它不同于土耳其境内的付费兵役（bedelli askerlik），后者另有基础训练要求。'],
         ['学生延期的年龄上限', '土耳其国防部指出，本科生通常可延期至年满28岁的当年年底；语言学习及硕士生可至年满32岁的当年年底；博士、医学或牙科专科等符合条件的学习可至年满35岁的当年年底。仍须满足学习、注册及其他法定条件。因此“硕士至28岁”的说法不准确。'],
@@ -69,9 +69,9 @@
     },
     ar: {
       title: 'تأجيل الخدمة العسكرية التركية والخدمة العسكرية مقابل النقد الأجنبي للمقيمين بالخارج',
-      seoTitle: 'تأجيل الخدمة العسكرية التركية والدفع بالعملة الأجنبية',
-      metaDescription: 'دليل الأتراك المقيمين بالخارج لتأجيل الخدمة العسكرية وخدمة الدفع بالنقد الأجنبي: حدود العمر، شرط 1095 يوماً، الإجراءات ورسوم 2025 التاريخية.',
-      alt: 'مواطن تركي يراجع أوراق الخدمة العسكرية مع مستشار في مكتب بإسطنبول',
+      seoTitle: 'تأجيل الخدمة العسكرية التركية بالخارج والدفع بالعملة الأجنبية',
+      metaDescription: 'تعرّف على شروط تأجيل الخدمة العسكرية التركية للمقيمين بالخارج والخدمة مقابل النقد الأجنبي وحدود العمر والوثائق. تواصل مع مكتب IGA لتقييم حالتك.',
+      alt: 'علم تركي كبير يُحمل خلال مسيرة عامة',
       sections: [
         ['مقدمة: إجراءان مختلفان', 'يمكن للمواطن التركي المقيم في الخارج النظر في تأجيل الخدمة العسكرية (tecil) أو أدائها مقابل النقد الأجنبي (dövizle askerlik). التأجيل يؤخر الالتزام ولا ينهيه. أما المسار الثاني فيتيح للمؤهل إكمال التدريب الإلكتروني والتقدم عبر القنصلية التركية ودفع المبلغ المطلوب بالعملة الأجنبية ليُعد قد أدى الخدمة وفق القانون. وهو يختلف عن الخدمة مدفوعة الرسوم داخل تركيا (bedelli askerlik) التي لها قواعد تدريب أساسي خاصة بها.'],
         ['حدود العمر لتأجيل الطلاب', 'توضح وزارة الدفاع التركية أن طالب البكالوريوس يستطيع عادة التأجيل حتى نهاية السنة التي يبلغ فيها 28 عاماً، وطالب اللغة أو الماجستير حتى نهاية سنة بلوغ 32 عاماً، وطالب الدكتوراه أو التخصص الطبي أو طب الأسنان والدراسات المماثلة المؤهلة حتى نهاية سنة بلوغ 35 عاماً. وتبقى شروط الدراسة والتسجيل وغيرها من الشروط القانونية واجبة. لذلك فإن عبارة «الماجستير حتى 28 عاماً» غير دقيقة.'],
