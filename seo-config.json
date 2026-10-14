@@ -21174,5 +21174,429 @@
         }
       ]
     }
+  },
+  "/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "path": "/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkish Citizenship via BES Funds | $500K Legal Guide | IGA Law Firm",
+    "description": "How does Turkish citizenship through BES work? Review the USD 500,000 requirement, three-year commitment, eligible funds, custody, fees and exit risks.",
+    "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "title": "Turkish Citizenship via BES Funds | $500K Legal Guide | IGA Law Firm",
+      "description": "How does Turkish citizenship through BES work? Review the USD 500,000 requirement, three-year commitment, eligible funds, custody, fees and exit risks.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage",
+          "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+          "name": "Turkish Citizenship via BES Funds | $500K Legal Guide | IGA Law Firm",
+          "description": "How does Turkish citizenship through BES work? Review the USD 500,000 requirement, three-year commitment, eligible funds, custody, fees and exit risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Turkish Citizenship by Investment via BES (Private Pension System): Fund and Legal Guide",
+          "description": "How does Turkish citizenship through BES work? Review the USD 500,000 requirement, three-year commitment, eligible funds, custody, fees and exit risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Investment"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "path": "/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "BES ile Türk Vatandaşlığı | 500 Bin Dolar Rehberi | IGA Law Firm",
+    "description": "BES yoluyla Türk vatandaşlığında 500.000 USD katkı, üç yıllık taahhüt, uygun fonlar, Takasbank saklaması, kesintiler ve çıkış risklerini öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "title": "BES ile Türk Vatandaşlığı | 500 Bin Dolar Rehberi | IGA Law Firm",
+      "description": "BES yoluyla Türk vatandaşlığında 500.000 USD katkı, üç yıllık taahhüt, uygun fonlar, Takasbank saklaması, kesintiler ve çıkış risklerini öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+          "name": "BES ile Türk Vatandaşlığı | 500 Bin Dolar Rehberi | IGA Law Firm",
+          "description": "BES yoluyla Türk vatandaşlığında 500.000 USD katkı, üç yıllık taahhüt, uygun fonlar, Takasbank saklaması, kesintiler ve çıkış risklerini öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "BES Fonlarıyla Yatırım Yoluyla Türk Vatandaşlığı: Hukuki ve Fon Rehberi",
+          "description": "BES yoluyla Türk vatandaşlığında 500.000 USD katkı, üç yıllık taahhüt, uygun fonlar, Takasbank saklaması, kesintiler ve çıkış risklerini öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Yatırım"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "path": "/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "BES养老金基金入籍土耳其｜50万美元条件 | IGA Law Firm",
+    "description": "了解BES养老金投资入籍的50万美元门槛、三年持有要求、合格基金、托管、费用、退出流程及投资风险。",
+    "canonical": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "title": "BES养老金基金入籍土耳其｜50万美元条件 | IGA Law Firm",
+      "description": "了解BES养老金投资入籍的50万美元门槛、三年持有要求、合格基金、托管、费用、退出流程及投资风险。",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+          "name": "BES养老金基金入籍土耳其｜50万美元条件 | IGA Law Firm",
+          "description": "了解BES养老金投资入籍的50万美元门槛、三年持有要求、合格基金、托管、费用、退出流程及投资风险。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "通过BES私人养老金基金投资取得土耳其国籍：法律与基金指南",
+          "description": "了解BES养老金投资入籍的50万美元门槛、三年持有要求、合格基金、托管、费用、退出流程及投资风险。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "投资"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "path": "/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "الجنسية التركية عبر BES | شرط 500 ألف دولار | IGA Law Firm",
+    "description": "دليل الاستثمار في BES للجنسية التركية: مساهمة 500 ألف دولار، التزام ثلاث سنوات، الصناديق المؤهلة، الحفظ والرسوم ومخاطر الخروج.",
+    "canonical": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "title": "الجنسية التركية عبر BES | شرط 500 ألف دولار | IGA Law Firm",
+      "description": "دليل الاستثمار في BES للجنسية التركية: مساهمة 500 ألف دولار، التزام ثلاث سنوات، الصناديق المؤهلة، الحفظ والرسوم ومخاطر الخروج.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+          "name": "الجنسية التركية عبر BES | شرط 500 ألف دولار | IGA Law Firm",
+          "description": "دليل الاستثمار في BES للجنسية التركية: مساهمة 500 ألف دولار، التزام ثلاث سنوات، الصناديق المؤهلة، الحفظ والرسوم ومخاطر الخروج.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "الجنسية التركية عبر استثمار BES في نظام التقاعد الخاص: دليل الصناديق والقانون",
+          "description": "دليل الاستثمار في BES للجنسية التركية: مساهمة 500 ألف دولار، التزام ثلاث سنوات، الصناديق المؤهلة، الحفظ والرسوم ومخاطر الخروج.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "image": "https://igalawfirm.com/public/assets/turkish-citizenship-bes-funds-guide.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الاستثمار"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
