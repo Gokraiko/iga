@@ -66,7 +66,7 @@ const articles=[
  {slug:'turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd',title:'Turkish Citizenship by Bank Deposit: A Real Case Study After 3 Years',date:'2025',category:'Investment'},
  {slug:'2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025',title:'2025 TL Deposit USD Yield: Return Analysis for Foreign Investors',date:'2025',category:'Investment'},
  {slug:'turkey-china-immigration-investment-cooperation',title:'Building Legal Bridges Between Turkey and China in Investment Migration',date:'2025',category:'International'},
- {slug:'success-stories-newly-approved-turkish-citizenship-turkish-id-cards',title:'Turkish Citizenship Approvals and ID Cards: Client Milestones',date:'2025',category:'Citizenship'}
+ {slug:'success-stories-newly-approved-turkish-citizenship-turkish-id-cards',title:'Celebrating Our Clients’ Success: Turkish Citizenship Approvals Are In!',seoTitle:'Turkish Citizenship Approval Letters: Client Successes',metaDescription:'See anonymized Turkish citizenship approval letter samples from IGA Law Firm client matters and learn the next steps for Turkish ID card and passport applications.',date:'2025',category:'Citizenship'}
 ];
 const articlesByNewest=[...articles].sort((a,b)=>Date.parse(b.publishedAt||`${b.date}-01-01`)-Date.parse(a.publishedAt||`${a.date}-01-01`));
 const articleTranslations={
