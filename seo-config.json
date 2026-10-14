@@ -6335,6 +6335,430 @@
       ]
     }
   },
+  "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "path": "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkey Property Valuation Report Exemption | Citizenship | IGA Law Firm",
+    "description": "When is a property sale in Türkiye exempt from a valuation report? Learn how TOKİ, Emlak Konut, municipal and GYO transactions are assessed for citizenship.",
+    "canonical": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "title": "Turkey Property Valuation Report Exemption | Citizenship | IGA Law Firm",
+      "description": "When is a property sale in Türkiye exempt from a valuation report? Learn how TOKİ, Emlak Konut, municipal and GYO transactions are assessed for citizenship.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage",
+          "url": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+          "name": "Turkey Property Valuation Report Exemption | Citizenship | IGA Law Firm",
+          "description": "When is a property sale in Türkiye exempt from a valuation report? Learn how TOKİ, Emlak Konut, municipal and GYO transactions are assessed for citizenship.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Turkey Real Estate Valuation Exemption: A Guide for Citizenship Investors",
+          "description": "When is a property sale in Türkiye exempt from a valuation report? Learn how TOKİ, Emlak Konut, municipal and GYO transactions are assessed for citizenship.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2025-11-15"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Real estate"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "path": "/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türk Vatandaşlığında Değerleme Raporu Muafiyeti | IGA Law Firm",
+    "description": "TOKİ, Emlak Konut, belediye ve GYO satışlarında değerleme raporu ne zaman aranmaz? Vatandaşlık yatırımında tapu, ödeme ve muafiyet koşullarını öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "title": "Türk Vatandaşlığında Değerleme Raporu Muafiyeti | IGA Law Firm",
+      "description": "TOKİ, Emlak Konut, belediye ve GYO satışlarında değerleme raporu ne zaman aranmaz? Vatandaşlık yatırımında tapu, ödeme ve muafiyet koşullarını öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+          "name": "Türk Vatandaşlığında Değerleme Raporu Muafiyeti | IGA Law Firm",
+          "description": "TOKİ, Emlak Konut, belediye ve GYO satışlarında değerleme raporu ne zaman aranmaz? Vatandaşlık yatırımında tapu, ödeme ve muafiyet koşullarını öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Türk Vatandaşlığında Taşınmaz Değerleme Raporu Muafiyeti Rehberi",
+          "description": "TOKİ, Emlak Konut, belediye ve GYO satışlarında değerleme raporu ne zaman aranmaz? Vatandaşlık yatırımında tapu, ödeme ve muafiyet koşullarını öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2025-11-15"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Gayrimenkul"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "path": "/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其投资入籍房产估价报告豁免指南 | IGA Law Firm",
+    "description": "土耳其投资入籍购房何时可免交估价报告？了解TOKİ、Emlak Konut、市政机构及GYO销售的适用条件、产权与付款核查要点。",
+    "canonical": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "title": "土耳其投资入籍房产估价报告豁免指南 | IGA Law Firm",
+      "description": "土耳其投资入籍购房何时可免交估价报告？了解TOKİ、Emlak Konut、市政机构及GYO销售的适用条件、产权与付款核查要点。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+          "name": "土耳其投资入籍房产估价报告豁免指南 | IGA Law Firm",
+          "description": "土耳其投资入籍购房何时可免交估价报告？了解TOKİ、Emlak Konut、市政机构及GYO销售的适用条件、产权与付款核查要点。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "土耳其投资入籍购房估价报告豁免：适用交易与核查指南",
+          "description": "土耳其投资入籍购房何时可免交估价报告？了解TOKİ、Emlak Konut、市政机构及GYO销售的适用条件、产权与付款核查要点。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2025-11-15"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "房地产"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "path": "/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "إعفاء تقييم العقار للجنسية التركية بالاستثمار | IGA Law Firm",
+    "description": "متى يُعفى شراء العقار في تركيا من تقرير التقييم؟ تعرّف على شروط معاملات TOKİ وEmlak Konut والبلديات وشركات الاستثمار العقاري للجنسية.",
+    "canonical": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "title": "إعفاء تقييم العقار للجنسية التركية بالاستثمار | IGA Law Firm",
+      "description": "متى يُعفى شراء العقار في تركيا من تقرير التقييم؟ تعرّف على شروط معاملات TOKİ وEmlak Konut والبلديات وشركات الاستثمار العقاري للجنسية.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+          "name": "إعفاء تقييم العقار للجنسية التركية بالاستثمار | IGA Law Firm",
+          "description": "متى يُعفى شراء العقار في تركيا من تقرير التقييم؟ تعرّف على شروط معاملات TOKİ وEmlak Konut والبلديات وشركات الاستثمار العقاري للجنسية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "الإعفاء من تقرير تقييم العقار عند شراء عقار للجنسية التركية",
+          "description": "متى يُعفى شراء العقار في تركيا من تقرير التقييم؟ تعرّف على شروط معاملات TOKİ وEmlak Konut والبلديات وشركات الاستثمار العقاري للجنسية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2025-11-15"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "العقارات"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/dual-citizenship-for-americans/": {
     "path": "/en/blog/dual-citizenship-for-americans/",
     "language": "en",
