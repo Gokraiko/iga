@@ -1,0 +1,1276 @@
+[
+  {
+    "old": "/igainvestment/",
+    "new": "/en/turkish-citizenship-by-investment/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/en/igainvestment/",
+    "new": "/en/turkish-citizenship-by-investment/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/tr/igainvestment/",
+    "new": "/tr/yatirim-yoluyla-turk-vatandasligi/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/zh/igainvestment/",
+    "new": "/zh/tuerqi-touzi-ruji/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/ar/igainvestment/",
+    "new": "/ar/turkish-citizenship-by-investment/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igaturkishcitizenshipbyinvestment/",
+    "new": "/en/turkish-citizenship-by-investment-lawyer/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/en/igaturkishcitizenshipbyinvestment/",
+    "new": "/en/turkish-citizenship-by-investment-lawyer/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/tr/igaturkishcitizenshipbyinvestment/",
+    "new": "/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/zh/igaturkishcitizenshipbyinvestment/",
+    "new": "/zh/tuerqi-touzi-ruji-lushi/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/ar/igaturkishcitizenshipbyinvestment/",
+    "new": "/ar/turkish-citizenship-by-investment-lawyer/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawpracticeareas/",
+    "new": "/en/services/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/en/igalawpracticeareas/",
+    "new": "/en/services/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/tr/igalawpracticeareas/",
+    "new": "/tr/services/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/zh/igalawpracticeareas/",
+    "new": "/zh/services/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/ar/igalawpracticeareas/",
+    "new": "/ar/services/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawblog/",
+    "new": "/en/blog/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/en/igalawblog/",
+    "new": "/en/blog/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/tr/igalawblog/",
+    "new": "/tr/blog/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/zh/igalawblog/",
+    "new": "/zh/blog/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/ar/igalawblog/",
+    "new": "/ar/blog/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/map/",
+    "new": "/en/contact/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/en/map/",
+    "new": "/en/contact/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/tr/map/",
+    "new": "/tr/contact/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/zh/map/",
+    "new": "/zh/contact/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/ar/map/",
+    "new": "/ar/contact/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawworkpermit/",
+    "new": "/en/igalawworkpermit/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawcorporatelaw/",
+    "new": "/en/igalawcorporatelaw/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawlegalconsultancy/",
+    "new": "/en/igalawlegalconsultancy/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawlitigation/",
+    "new": "/en/igalawlitigation/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawresidencepermit/",
+    "new": "/en/igalawresidencepermit/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawrealestateduediligence/",
+    "new": "/en/igalawrealestateduediligence/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/igalawdocumentation/",
+    "new": "/en/igalawdocumentation/",
+    "status": 301,
+    "reason": "Legacy page / matching language equivalent",
+    "evidence": "Existing redirect; localized variants use verified canonical equivalents"
+  },
+  {
+    "old": "/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "new": "/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "new": "/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "new": "/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "new": "/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "new": "/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "new": "/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "new": "/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "new": "/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "new": "/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "new": "/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "new": "/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "new": "/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "new": "/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "new": "/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "new": "/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "new": "/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "new": "/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "new": "/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "new": "/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "new": "/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "new": "/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "new": "/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "new": "/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "new": "/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "new": "/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "new": "/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "new": "/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "new": "/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "new": "/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "new": "/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "new": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "new": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "new": "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "new": "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "new": "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "new": "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "new": "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "new": "/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "new": "/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "new": "/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "new": "/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "new": "/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "new": "/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "new": "/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "new": "/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "new": "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "new": "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "new": "/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "new": "/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "new": "/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "new": "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "new": "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "new": "/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "new": "/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "new": "/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "new": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "new": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "new": "/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "new": "/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "new": "/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "new": "/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "new": "/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "new": "/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "new": "/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "new": "/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkey-china-immigration-investment-cooperation/",
+    "new": "/en/blog/turkey-china-immigration-investment-cooperation/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkey-china-immigration-investment-cooperation/",
+    "new": "/en/blog/turkey-china-immigration-investment-cooperation/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkey-china-immigration-investment-cooperation/",
+    "new": "/tr/blog/turkey-china-immigration-investment-cooperation/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkey-china-immigration-investment-cooperation/",
+    "new": "/zh/blog/turkey-china-immigration-investment-cooperation/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkey-china-immigration-investment-cooperation/",
+    "new": "/ar/blog/turkey-china-immigration-investment-cooperation/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "new": "/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "new": "/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "new": "/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "new": "/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "new": "/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "new": "/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "new": "/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "new": "/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "new": "/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "new": "/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "new": "/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "new": "/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "new": "/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "new": "/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "new": "/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "new": "/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "new": "/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "new": "/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "new": "/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "new": "/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "new": "/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "new": "/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "new": "/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "new": "/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "new": "/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "new": "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "new": "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "new": "/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "new": "/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "new": "/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "new": "/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "new": "/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "new": "/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "new": "/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "new": "/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "new": "/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "new": "/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "new": "/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "new": "/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "new": "/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "new": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "new": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "new": "/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "new": "/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "new": "/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "new": "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "new": "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "new": "/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "new": "/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "new": "/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "new": "/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "new": "/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "new": "/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "new": "/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "new": "/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+    "status": 301,
+    "reason": "Exact imported article / matching language equivalent",
+    "evidence": "blog-posts-data.js source URL; localized variants covered defensively"
+  },
+  {
+    "old": "/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+    "new": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/en/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+    "new": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/tr/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+    "new": "/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/zh/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+    "new": "/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/ar/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+    "new": "/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+    "new": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/en/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+    "new": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/tr/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+    "new": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/zh/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+    "new": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/ar/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+    "new": "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "new": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/en/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "new": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/tr/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "new": "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/zh/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "new": "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/ar/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "new": "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "status": 301,
+    "reason": "Exact article match from indexed Wix title and body",
+    "evidence": "Public search result, 2026-10-15; localized path variants preserve language"
+  },
+  {
+    "old": "/tr/post/t%C3%BCrk-vatanda%C5%9Fl%C4%B1%C4%9F%C4%B1ndan-%C3%A7%C4%B1k%C4%B1%C5%9F-2025-%C5%9Fartlar-belgeler-ve-s%C3%BCre%C3%A7-rehberi/",
+    "new": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Actual localized Wix slug matched to same-language article",
+    "evidence": "Public indexed Wix URL and matching title, 2026-10-15"
+  },
+  {
+    "old": "/tr/post/türk-vatandaşlığından-çıkış-2025-şartlar-belgeler-ve-süreç-rehberi/",
+    "new": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Actual localized Wix slug matched to same-language article",
+    "evidence": "Public indexed Wix URL and matching title, 2026-10-15"
+  },
+  {
+    "old": "/zh/post/%E6%94%BE%E5%BC%83%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9B%BD%E7%B1%8D%E6%8C%87%E5%8D%97%EF%BC%882025%E5%B9%B4%EF%BC%89%EF%BC%9A%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F%E3%80%81%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6%E5%8F%8A%E9%87%8D%E6%96%B0%E5%85%A5%E7%B1%8D%E6%B5%81%E7%A8%8B/",
+    "new": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Actual localized Wix slug matched to same-language article",
+    "evidence": "Public indexed Wix URL and matching title, 2026-10-15"
+  },
+  {
+    "old": "/zh/post/放弃土耳其国籍指南（2025年）：法律程序、所需文件及重新入籍流程/",
+    "new": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+    "status": 301,
+    "reason": "Actual localized Wix slug matched to same-language article",
+    "evidence": "Public indexed Wix URL and matching title, 2026-10-15"
+  },
+  {
+    "old": "/zh/post/work-permit-in-turkey-for-company-owners-zh/",
+    "new": "/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+    "status": 301,
+    "reason": "Actual localized Wix slug matched to same-language article",
+    "evidence": "Public indexed Wix URL and matching title, 2026-10-15"
+  },
+  {
+    "old": "/igalawblog/page/2/",
+    "new": "/en/blog/",
+    "status": 301,
+    "reason": "Old paginated blog listing consolidated into full current article list",
+    "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  },
+  {
+    "old": "/en/igalawblog/page/2/",
+    "new": "/en/blog/",
+    "status": 301,
+    "reason": "Old paginated blog listing consolidated into full current article list",
+    "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  },
+  {
+    "old": "/tr/igalawblog/page/2/",
+    "new": "/tr/blog/",
+    "status": 301,
+    "reason": "Old paginated blog listing consolidated into full current article list",
+    "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  },
+  {
+    "old": "/zh/igalawblog/page/2/",
+    "new": "/zh/blog/",
+    "status": 301,
+    "reason": "Old paginated blog listing consolidated into full current article list",
+    "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  },
+  {
+    "old": "/ar/igalawblog/page/2/",
+    "new": "/ar/blog/",
+    "status": 301,
+    "reason": "Old paginated blog listing consolidated into full current article list",
+    "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  }
+]

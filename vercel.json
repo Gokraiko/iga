@@ -3,77 +3,3927 @@
   "framework": null,
   "installCommand": "",
   "buildCommand": "node generate-static.js",
-  "trailingSlash": true,
   "redirects": [
     {
       "source": "/",
-      "destination": "/en/",
-      "permanent": false
+      "destination": "https://igalawfirm.com/en/",
+      "statusCode": 307
     },
     {
-      "source": "/post/:slug/",
-      "destination": "/en/blog/:slug/",
-      "permanent": true
+      "source": "/igainvestment",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
     },
     {
       "source": "/igainvestment/",
-      "destination": "/en/turkish-citizenship-by-investment/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igainvestment",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igainvestment/",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igainvestment",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igainvestment/",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igainvestment",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igainvestment/",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igainvestment",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igainvestment/",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igaturkishcitizenshipbyinvestment",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
     },
     {
       "source": "/igaturkishcitizenshipbyinvestment/",
-      "destination": "/en/turkish-citizenship-by-investment-lawyer/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igaturkishcitizenshipbyinvestment",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igaturkishcitizenshipbyinvestment/",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igaturkishcitizenshipbyinvestment",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igaturkishcitizenshipbyinvestment/",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igaturkishcitizenshipbyinvestment",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igaturkishcitizenshipbyinvestment/",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igaturkishcitizenshipbyinvestment",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igaturkishcitizenshipbyinvestment/",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawpracticeareas",
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
     },
     {
       "source": "/igalawpracticeareas/",
-      "destination": "/en/services/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawpracticeareas",
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawpracticeareas/",
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawpracticeareas",
+      "destination": "https://igalawfirm.com/tr/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawpracticeareas/",
+      "destination": "https://igalawfirm.com/tr/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawpracticeareas",
+      "destination": "https://igalawfirm.com/zh/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawpracticeareas/",
+      "destination": "https://igalawfirm.com/zh/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawpracticeareas",
+      "destination": "https://igalawfirm.com/ar/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawpracticeareas/",
+      "destination": "https://igalawfirm.com/ar/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawblog",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
     },
     {
       "source": "/igalawblog/",
-      "destination": "/en/blog/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawblog",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawblog/",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawblog",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawblog/",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawblog",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawblog/",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawblog",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawblog/",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/map",
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
     },
     {
       "source": "/map/",
-      "destination": "/en/contact/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/map",
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/map/",
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/map",
+      "destination": "https://igalawfirm.com/tr/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/map/",
+      "destination": "https://igalawfirm.com/tr/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/map",
+      "destination": "https://igalawfirm.com/zh/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/map/",
+      "destination": "https://igalawfirm.com/zh/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/map",
+      "destination": "https://igalawfirm.com/ar/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/map/",
+      "destination": "https://igalawfirm.com/ar/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawworkpermit",
+      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "statusCode": 301
     },
     {
       "source": "/igalawworkpermit/",
-      "destination": "/en/igalawworkpermit/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawcorporatelaw",
+      "destination": "https://igalawfirm.com/en/igalawcorporatelaw/",
+      "statusCode": 301
     },
     {
       "source": "/igalawcorporatelaw/",
-      "destination": "/en/igalawcorporatelaw/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawlegalconsultancy",
+      "destination": "https://igalawfirm.com/en/igalawlegalconsultancy/",
+      "statusCode": 301
     },
     {
       "source": "/igalawlegalconsultancy/",
-      "destination": "/en/igalawlegalconsultancy/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawlitigation",
+      "destination": "https://igalawfirm.com/en/igalawlitigation/",
+      "statusCode": 301
     },
     {
       "source": "/igalawlitigation/",
-      "destination": "/en/igalawlitigation/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "statusCode": 301
     },
     {
       "source": "/igalawresidencepermit/",
-      "destination": "/en/igalawresidencepermit/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawrealestateduediligence",
+      "destination": "https://igalawfirm.com/en/igalawrealestateduediligence/",
+      "statusCode": 301
     },
     {
       "source": "/igalawrealestateduediligence/",
-      "destination": "/en/igalawrealestateduediligence/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawdocumentation",
+      "destination": "https://igalawfirm.com/en/igalawdocumentation/",
+      "statusCode": 301
     },
     {
       "source": "/igalawdocumentation/",
-      "destination": "/en/igalawdocumentation/",
-      "permanent": true
+      "destination": "https://igalawfirm.com/en/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "destination": "https://igalawfirm.com/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "destination": "https://igalawfirm.com/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "destination": "https://igalawfirm.com/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "destination": "https://igalawfirm.com/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "destination": "https://igalawfirm.com/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "destination": "https://igalawfirm.com/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "destination": "https://igalawfirm.com/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "destination": "https://igalawfirm.com/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "destination": "https://igalawfirm.com/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "destination": "https://igalawfirm.com/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "destination": "https://igalawfirm.com/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "destination": "https://igalawfirm.com/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "destination": "https://igalawfirm.com/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "destination": "https://igalawfirm.com/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "destination": "https://igalawfirm.com/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "destination": "https://igalawfirm.com/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "destination": "https://igalawfirm.com/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "destination": "https://igalawfirm.com/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "destination": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "destination": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "destination": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "destination": "https://igalawfirm.com/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "destination": "https://igalawfirm.com/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "destination": "https://igalawfirm.com/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "destination": "https://igalawfirm.com/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "destination": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "destination": "https://igalawfirm.com/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "destination": "https://igalawfirm.com/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "destination": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "destination": "https://igalawfirm.com/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "destination": "https://igalawfirm.com/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "destination": "https://igalawfirm.com/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "destination": "https://igalawfirm.com/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-china-immigration-investment-cooperation/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-china-immigration-investment-cooperation/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-china-immigration-investment-cooperation/",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-china-immigration-investment-cooperation/",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-china-immigration-investment-cooperation/",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/celebrating-our-clients-success-turkish-citizenship-approvals-are-in/",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication",
+      "destination": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/renunciation-of-turkish-citizenship-2025-legal-process-required-documents-and-reapplication/",
+      "destination": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/post/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/t%C3%BCrk-vatanda%C5%9Fl%C4%B1%C4%9F%C4%B1ndan-%C3%A7%C4%B1k%C4%B1%C5%9F-2025-%C5%9Fartlar-belgeler-ve-s%C3%BCre%C3%A7-rehberi",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/t%C3%BCrk-vatanda%C5%9Fl%C4%B1%C4%9F%C4%B1ndan-%C3%A7%C4%B1k%C4%B1%C5%9F-2025-%C5%9Fartlar-belgeler-ve-s%C3%BCre%C3%A7-rehberi/",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/türk-vatandaşlığından-çıkış-2025-şartlar-belgeler-ve-süreç-rehberi",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/post/türk-vatandaşlığından-çıkış-2025-şartlar-belgeler-ve-süreç-rehberi/",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/%E6%94%BE%E5%BC%83%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9B%BD%E7%B1%8D%E6%8C%87%E5%8D%97%EF%BC%882025%E5%B9%B4%EF%BC%89%EF%BC%9A%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F%E3%80%81%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6%E5%8F%8A%E9%87%8D%E6%96%B0%E5%85%A5%E7%B1%8D%E6%B5%81%E7%A8%8B",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/%E6%94%BE%E5%BC%83%E5%9C%9F%E8%80%B3%E5%85%B6%E5%9B%BD%E7%B1%8D%E6%8C%87%E5%8D%97%EF%BC%882025%E5%B9%B4%EF%BC%89%EF%BC%9A%E6%B3%95%E5%BE%8B%E7%A8%8B%E5%BA%8F%E3%80%81%E6%89%80%E9%9C%80%E6%96%87%E4%BB%B6%E5%8F%8A%E9%87%8D%E6%96%B0%E5%85%A5%E7%B1%8D%E6%B5%81%E7%A8%8B/",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/放弃土耳其国籍指南（2025年）：法律程序、所需文件及重新入籍流程",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/放弃土耳其国籍指南（2025年）：法律程序、所需文件及重新入籍流程/",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/work-permit-in-turkey-for-company-owners-zh",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/post/work-permit-in-turkey-for-company-owners-zh/",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawblog/page/2",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/igalawblog/page/2/",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawblog/page/2",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawblog/page/2/",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawblog/page/2",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawblog/page/2/",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawblog/page/2",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawblog/page/2/",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawblog/page/2",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawblog/page/2/",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en",
+      "destination": "https://igalawfirm.com/en/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/index.html",
+      "destination": "https://igalawfirm.com/en/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr",
+      "destination": "https://igalawfirm.com/tr/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/index.html",
+      "destination": "https://igalawfirm.com/tr/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh",
+      "destination": "https://igalawfirm.com/zh/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/index.html",
+      "destination": "https://igalawfirm.com/zh/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar",
+      "destination": "https://igalawfirm.com/ar/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/index.html",
+      "destination": "https://igalawfirm.com/ar/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/services",
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/services/index.html",
+      "destination": "https://igalawfirm.com/en/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/services",
+      "destination": "https://igalawfirm.com/tr/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/services/index.html",
+      "destination": "https://igalawfirm.com/tr/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/services",
+      "destination": "https://igalawfirm.com/zh/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/services/index.html",
+      "destination": "https://igalawfirm.com/zh/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/services",
+      "destination": "https://igalawfirm.com/ar/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/services/index.html",
+      "destination": "https://igalawfirm.com/ar/services/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/turkish-citizenship-by-investment",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/turkish-citizenship-by-investment/index.html",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/yatirim-yoluyla-turk-vatandasligi",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/yatirim-yoluyla-turk-vatandasligi/index.html",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/tuerqi-touzi-ruji",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/tuerqi-touzi-ruji/index.html",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/turkish-citizenship-by-investment",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/turkish-citizenship-by-investment/index.html",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/team",
+      "destination": "https://igalawfirm.com/en/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/team/index.html",
+      "destination": "https://igalawfirm.com/en/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/team",
+      "destination": "https://igalawfirm.com/tr/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/team/index.html",
+      "destination": "https://igalawfirm.com/tr/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/team",
+      "destination": "https://igalawfirm.com/zh/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/team/index.html",
+      "destination": "https://igalawfirm.com/zh/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/team",
+      "destination": "https://igalawfirm.com/ar/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/team/index.html",
+      "destination": "https://igalawfirm.com/ar/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/about",
+      "destination": "https://igalawfirm.com/en/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/about/index.html",
+      "destination": "https://igalawfirm.com/en/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/about",
+      "destination": "https://igalawfirm.com/tr/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/about/index.html",
+      "destination": "https://igalawfirm.com/tr/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/about",
+      "destination": "https://igalawfirm.com/zh/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/about/index.html",
+      "destination": "https://igalawfirm.com/zh/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/about",
+      "destination": "https://igalawfirm.com/ar/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/about/index.html",
+      "destination": "https://igalawfirm.com/ar/about/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/index.html",
+      "destination": "https://igalawfirm.com/en/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/contact",
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/contact/index.html",
+      "destination": "https://igalawfirm.com/en/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/contact",
+      "destination": "https://igalawfirm.com/tr/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/contact/index.html",
+      "destination": "https://igalawfirm.com/tr/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/contact",
+      "destination": "https://igalawfirm.com/zh/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/contact/index.html",
+      "destination": "https://igalawfirm.com/zh/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/contact",
+      "destination": "https://igalawfirm.com/ar/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/contact/index.html",
+      "destination": "https://igalawfirm.com/ar/contact/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/turkish-citizenship-by-investment-lawyer",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/turkish-citizenship-by-investment-lawyer/index.html",
+      "destination": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/yatirim-yoluyla-turk-vatandasligi-avukati",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/yatirim-yoluyla-turk-vatandasligi-avukati/index.html",
+      "destination": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/tuerqi-touzi-ruji-lushi",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/tuerqi-touzi-ruji-lushi/index.html",
+      "destination": "https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/turkish-citizenship-by-investment-lawyer",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/turkish-citizenship-by-investment-lawyer/index.html",
+      "destination": "https://igalawfirm.com/ar/turkish-citizenship-by-investment-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawworkpermit",
+      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawworkpermit",
+      "destination": "https://igalawfirm.com/tr/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawworkpermit",
+      "destination": "https://igalawfirm.com/zh/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawworkpermit",
+      "destination": "https://igalawfirm.com/ar/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawworkpermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawcorporatelaw",
+      "destination": "https://igalawfirm.com/en/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawcorporatelaw/index.html",
+      "destination": "https://igalawfirm.com/en/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawcorporatelaw",
+      "destination": "https://igalawfirm.com/tr/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawcorporatelaw/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawcorporatelaw",
+      "destination": "https://igalawfirm.com/zh/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawcorporatelaw/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawcorporatelaw",
+      "destination": "https://igalawfirm.com/ar/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawcorporatelaw/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawcorporatelaw/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawlegalconsultancy",
+      "destination": "https://igalawfirm.com/en/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawlegalconsultancy/index.html",
+      "destination": "https://igalawfirm.com/en/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawlegalconsultancy",
+      "destination": "https://igalawfirm.com/tr/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawlegalconsultancy/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawlegalconsultancy",
+      "destination": "https://igalawfirm.com/zh/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawlegalconsultancy/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawlegalconsultancy",
+      "destination": "https://igalawfirm.com/ar/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawlegalconsultancy/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawlegalconsultancy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawlitigation",
+      "destination": "https://igalawfirm.com/en/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawlitigation/index.html",
+      "destination": "https://igalawfirm.com/en/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawlitigation",
+      "destination": "https://igalawfirm.com/tr/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawlitigation/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawlitigation",
+      "destination": "https://igalawfirm.com/zh/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawlitigation/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawlitigation",
+      "destination": "https://igalawfirm.com/ar/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawlitigation/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawlitigation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/tr/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/zh/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/ar/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawresidencepermit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawrealestateduediligence",
+      "destination": "https://igalawfirm.com/en/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawrealestateduediligence/index.html",
+      "destination": "https://igalawfirm.com/en/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawrealestateduediligence",
+      "destination": "https://igalawfirm.com/tr/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawrealestateduediligence/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawrealestateduediligence",
+      "destination": "https://igalawfirm.com/zh/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawrealestateduediligence/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawrealestateduediligence",
+      "destination": "https://igalawfirm.com/ar/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawrealestateduediligence/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawrealestateduediligence/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawdocumentation",
+      "destination": "https://igalawfirm.com/en/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawdocumentation/index.html",
+      "destination": "https://igalawfirm.com/en/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawdocumentation",
+      "destination": "https://igalawfirm.com/tr/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawdocumentation/index.html",
+      "destination": "https://igalawfirm.com/tr/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawdocumentation",
+      "destination": "https://igalawfirm.com/zh/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawdocumentation/index.html",
+      "destination": "https://igalawfirm.com/zh/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawdocumentation",
+      "destination": "https://igalawfirm.com/ar/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawdocumentation/index.html",
+      "destination": "https://igalawfirm.com/ar/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/index.html",
+      "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication",
+      "destination": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment",
+      "destination": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/dual-citizenship-for-americans",
+      "destination": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/dual-citizenship-for-americans/index.html",
+      "destination": "https://igalawfirm.com/en/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/dual-citizenship-for-americans",
+      "destination": "https://igalawfirm.com/tr/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/dual-citizenship-for-americans/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/dual-citizenship-for-americans",
+      "destination": "https://igalawfirm.com/zh/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/dual-citizenship-for-americans/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/dual-citizenship-for-americans",
+      "destination": "https://igalawfirm.com/ar/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/dual-citizenship-for-americans/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/dual-citizenship-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/best-countries-to-move-to-from-the-us",
+      "destination": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/best-countries-to-move-to-from-the-us/index.html",
+      "destination": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/best-countries-to-move-to-from-the-us",
+      "destination": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/best-countries-to-move-to-from-the-us/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/best-countries-to-move-to-from-the-us",
+      "destination": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/best-countries-to-move-to-from-the-us/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/best-countries-to-move-to-from-the-us",
+      "destination": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/best-countries-to-move-to-from-the-us/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/easiest-country-to-get-citizenship",
+      "destination": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/easiest-country-to-get-citizenship/index.html",
+      "destination": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/easiest-country-to-get-citizenship",
+      "destination": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/easiest-country-to-get-citizenship/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/easiest-country-to-get-citizenship",
+      "destination": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/easiest-country-to-get-citizenship/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/easiest-country-to-get-citizenship",
+      "destination": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/easiest-country-to-get-citizenship/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/best-countries-to-retire-in-for-americans",
+      "destination": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/best-countries-to-retire-in-for-americans/index.html",
+      "destination": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/best-countries-to-retire-in-for-americans",
+      "destination": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/best-countries-to-retire-in-for-americans/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/best-countries-to-retire-in-for-americans",
+      "destination": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/best-countries-to-retire-in-for-americans/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/best-countries-to-retire-in-for-americans",
+      "destination": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/best-countries-to-retire-in-for-americans/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/citizenship-by-investment-programs",
+      "destination": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/citizenship-by-investment-programs/index.html",
+      "destination": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/citizenship-by-investment-programs",
+      "destination": "https://igalawfirm.com/tr/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/citizenship-by-investment-programs/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/citizenship-by-investment-programs",
+      "destination": "https://igalawfirm.com/zh/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/citizenship-by-investment-programs/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/citizenship-by-investment-programs",
+      "destination": "https://igalawfirm.com/ar/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/citizenship-by-investment-programs/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/citizenship-by-investment-programs/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/index.html",
+      "destination": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate",
+      "destination": "https://igalawfirm.com/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/index.html",
+      "destination": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+      "destination": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/index.html",
+      "destination": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval",
+      "destination": "https://igalawfirm.com/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/index.html",
+      "destination": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm",
+      "destination": "https://igalawfirm.com/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/index.html",
+      "destination": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026",
+      "destination": "https://igalawfirm.com/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/index.html",
+      "destination": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background",
+      "destination": "https://igalawfirm.com/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/index.html",
+      "destination": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely",
+      "destination": "https://igalawfirm.com/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/index.html",
+      "destination": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer",
+      "destination": "https://igalawfirm.com/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/index.html",
+      "destination": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026",
+      "destination": "https://igalawfirm.com/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/index.html",
+      "destination": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know",
+      "destination": "https://igalawfirm.com/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/index.html",
+      "destination": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025",
+      "destination": "https://igalawfirm.com/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkey-china-immigration-investment-cooperation/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkey-china-immigration-investment-cooperation/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkey-china-immigration-investment-cooperation/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-china-immigration-investment-cooperation",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkey-china-immigration-investment-cooperation/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/index.html",
+      "destination": "https://igalawfirm.com/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/work-permit-turkey-turkish-parent-family-connection",
+      "destination": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/work-permit-turkey-turkish-parent-family-connection/index.html",
+      "destination": "https://igalawfirm.com/en/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/work-permit-turkey-turkish-parent-family-connection",
+      "destination": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/work-permit-turkey-turkish-parent-family-connection/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/work-permit-turkey-turkish-parent-family-connection",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/work-permit-turkey-turkish-parent-family-connection/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/work-permit-turkey-turkish-parent-family-connection",
+      "destination": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/work-permit-turkey-turkish-parent-family-connection/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/work-permit-turkey-turkish-parent-family-connection/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/work-permit-turkey-company-owners-shareholders-2025",
+      "destination": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/work-permit-turkey-company-owners-shareholders-2025/index.html",
+      "destination": "https://igalawfirm.com/en/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/work-permit-turkey-company-owners-shareholders-2025",
+      "destination": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/work-permit-turkey-company-owners-shareholders-2025/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/work-permit-turkey-company-owners-shareholders-2025",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/work-permit-turkey-company-owners-shareholders-2025/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/work-permit-turkey-company-owners-shareholders-2025",
+      "destination": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/work-permit-turkey-company-owners-shareholders-2025/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/work-permit-turkey-company-owners-shareholders-2025/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide",
+      "destination": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/",
+      "statusCode": 301
+    },
+    {
+      "source": "/index.html",
+      "destination": "https://igalawfirm.com/en/",
+      "statusCode": 301
+    },
+    {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.igalawfirm.com"
+        }
+      ],
+      "destination": "https://igalawfirm.com/:path",
+      "statusCode": 301
     }
   ],
   "outputDirectory": "dist"

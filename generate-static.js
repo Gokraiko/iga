@@ -113,6 +113,8 @@ fs.writeFileSync(path.join(__dirname, 'seo-config.json'), JSON.stringify(seoConf
 fs.writeFileSync(path.join(out, 'seo-config.json'), JSON.stringify(seoConfig, null, 2) + '\n');
 fs.writeFileSync(path.join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemap.join('')}</urlset>\n`);
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${origin}/sitemap.xml\n`);
-fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0;url=/en/"><script>location.replace('/en/'+location.hash)</script></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
+fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
+fs.writeFileSync(path.join(out, '404.html'), '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><title>Page not found | IGA Law Firm</title></head><body><main><h1>Page not found</h1><p>This page is unavailable. Browse our current website:</p><nav><a href="/en/">English</a> · <a href="/tr/">Türkçe</a> · <a href="/zh/">中文</a> · <a href="/ar/">العربية</a></nav></main></body></html>');
 fs.copyFileSync('google3d5df3fe239ec586.html', path.join(out, 'en', 'google3d5df3fe239ec586.html'));
+require('./scripts/generate-redirects')(seoConfig);
 console.log(`Generated ${routes.length * languages.length} localized pages and ${sitemap.length} sitemap entries`);
