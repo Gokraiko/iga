@@ -1,6 +1,6 @@
 # IGA Law Firm — Legacy URL migration cleanup
 
-Date: 2026-10-15. Scope: local production-ready changes; **not deployed or pushed**.
+Date: 2026-10-15. Scope: deployed to production with user authorization on 2026-10-15. Source release: `9b2546d`. WWW domain configuration updated to Production; project-level 301 redirects are active.
 
 ## Architecture and audit findings
 
@@ -39,6 +39,10 @@ Date: 2026-10-15. Scope: local production-ready changes; **not deployed or pushe
 - Unknown URLs now retain native Vercel 404 with the custom error body. In particular, nonexistent `/post/<slug>` no longer redirects to another nonexistent URL.
 - Example synthetic acceptance probes: `/post/iga-migration-missing-article`, `/post/iga-migration-missing-article/`, `/tr/iga-migration-missing-page/`. These are tests, not claimed historical URLs.
 
+## Production verification — completed
+
+After release `9b2546d` and the WWW setting update, the full live audit completed with **579 checks and zero deviations**: all 208 current URLs return direct HTTP 200 with the expected canonical; all mapped old path variants return one permanent redirect to the correct canonical 200 page; missing routes return direct 404; WWW path and query preservation passes. `SEO_MIGRATION_LIVE_RESULTS.json` contains all observed hops. The reader API also returns 200; the live Chinese homepage has five head hreflang links and the Bebek structured address, with no old address.
+
 ## Verification and release workflow
 
 ```sh
@@ -56,8 +60,8 @@ Always run the build locally and include the resulting `vercel.json` when publis
 
 ## Required manual / release actions
 
-1. **WWW routing prerequisite:** Vercel currently performs a dashboard-level domain redirect before project rules. To eliminate the remaining WWW→apex→legacy-target chain, connect `www.igalawfirm.com` to this same project as a serving domain (rather than a dashboard “redirect to” domain), after the new code is deployed. The project host rule then permanently redirects current WWW pages and legacy rules send old WWW URLs directly to their final apex target. Keep the existing domain redirect until the new build is ready; do not point DNS back to Wix. No dashboard or DNS change was made in this task.
-2. Deployment is pending. All source/configuration changes are local and production-ready; the current live site has the pre-change behavior captured in the baseline. Run full live acceptance after deployment and the domain setting change, including Unicode URL handling and query preservation.
+1. **WWW routing completed:** `www.igalawfirm.com` now connects to Production in this same project. The previous dashboard-level 308 redirect was removed. Project rules return a direct 301 to the final apex canonical destination. Both domains show Valid Configuration. DNS was unchanged. Verified `/tr/igalawpracticeareas?migration=1` on WWW returns 301 directly to `https://igalawfirm.com/tr/services/?migration=1`.
+2. Source release `9b2546d` is deployed. `SEO_MIGRATION_LIVE_BASELINE.json` remains the historical pre-change snapshot; post-deployment results are recorded separately in `SEO_MIGRATION_LIVE_RESULTS.json`.
 3. No authenticated Search Console, backlinks, access logs or complete Wix URL export was available in this task. Inventory covers repository imports, existing redirects and public indexed results; it cannot establish every historical URL or backlink. Add any additional URLs from GSC/Wix to the explicit map after content matching.
 4. Public old blog-page-2 snippets mention additional articles (bank deposit vs BES 2025, fastest approvals, REIF/VCIF roadmap and risks). No exact retrievable old URL/body was available for all of these; do not invent URLs or mark them 410. Review against the original Wix export before deciding on mapping/restoration.
 5. After successful release, submit the canonical sitemap in Search Console and inspect key old/new pairs. Search engines must recrawl; no immediate deindexing or ranking guarantee is made.
