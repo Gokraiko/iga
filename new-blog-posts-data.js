@@ -902,206 +902,208 @@ window.blogPostContent = Object.assign(window.blogPostContent || {}, {
     ]
   },
   "citizenship-by-investment-programs": {
-    "title": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
-    "blocks": [
-      {
-        "type": "paragraph",
-        "text": "Citizenship by investment programs let families gain a second passport in months, not years. In return, they make a qualifying investment in the host country. The options have changed a lot since 2025. Europe has closed its last program, and the Caribbean has a new regulator. Turkey has also tightened its rules after a major fraud crackdown. This guide compares the leading citizenship by investment programs in 2026. It explains costs, timelines, passport strength and legal risks. It also shows how to compare programs on total cost, not headline price. Use it as a starting point before you speak with any agent."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "What Are Citizenship by Investment Programs?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Citizenship by investment programs grant nationality in exchange for an approved investment. The investment can be a government donation, real estate, bonds or a business. Applicants usually do not need to live in the country first. Most programs also skip language or history tests. Instead, they rely on strict due diligence checks. Governments review your background, reputation and source of funds. Families can usually apply together in one file. Spouses, children and sometimes parents can be included. Approved applicants receive the same passport as other citizens. Some programs require a short visit for biometrics or an oath. These programs are legal, but rules differ widely between countries. Understanding the basic process makes comparison much easier."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "How the Process Works"
-      },
-      {
-        "type": "paragraph",
-        "text": "Most programs follow a similar sequence of steps. First, a licensed agent or lawyer reviews your eligibility. Next, you collect documents such as birth certificates and police records. Many papers need an apostille and a certified translation. Then you make the investment or reserve it under program rules. The government runs due diligence checks on every adult applicant. If approved, you complete the investment and take the oath where required. Finally, you receive a certificate of citizenship and apply for a passport. The full process takes about three to twelve months. Delays usually come from missing papers or extra background checks. A complete file at the start saves the most time."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Who Should Consider Them"
-      },
-      {
-        "type": "paragraph",
-        "text": "These programs suit people who need more mobility or security quickly. Business owners use them to travel without long visa queues. Families use them as a Plan B in case home conditions change. Some investors use them to access treaty visas such as the US E-2. Chinese nationals in the US often look for this E-2 route. Others want a stable base for assets and future generations. The programs are less suitable for people seeking EU residence rights. They also offer no tax benefit by themselves. Tax results depend on where you actually live. Always define your main goal before choosing a program. Your goal decides which features matter most."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "Caribbean Citizenship by Investment Programs"
-      },
-      {
-        "type": "paragraph",
-        "text": "Five Caribbean states run the best-known citizenship by investment programs. They are Dominica, Antigua and Barbuda, Grenada, Saint Lucia and St Kitts and Nevis. All five share a harmonized minimum floor of $200,000. A new regional regulator, ECCIRA, now sets common standards for them. The aim is stronger due diligence and better trust with the US and EU. Processing usually takes four to eight months. Most programs need no visit before approval. Antigua requires a short stay within five years after citizenship. All five accept dual citizenship. Their passports offer visa-free travel to the UK and Schengen area. The main differences lie in price, family rules and treaty access. The next sections break these differences down."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Donation vs Real Estate Routes"
-      },
-      {
-        "type": "paragraph",
-        "text": "Each Caribbean program offers a donation route and a real estate route. The donation goes to a national fund and is not refundable. In 2026, single-applicant donations start at about $200,000 in Dominica. Antigua asks about $230,000, Grenada about $235,000 and Saint Lucia about $240,000. St Kitts and Nevis sits at the top, at about $250,000. Real estate routes usually start between $200,000 and $325,000. You must hold the property for several years before resale. Approved projects are often hotels or resort shares. Resale value can be weak, so do not treat them as liquid assets. Family size also changes the final price significantly."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Passport Strength and E-2 Access"
-      },
-      {
-        "type": "paragraph",
-        "text": "Caribbean passports offer strong travel access for their price. St Kitts and Nevis usually leads with the widest visa-free list. Antigua and Grenada follow closely behind. Dominica and Saint Lucia offer slightly fewer destinations. All five give visa-free access to the Schengen area and the UK. Only Grenada has an E-2 treaty with the United States. That makes Grenada popular among investors who plan US business activity. However, consulates may question new citizens with weak ties. Ask how your E-2 case will be assessed before you apply. Travel access can also change if the EU raises concerns. Vanuatu's case shows how fast that can happen."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "Turkey's Citizenship by Investment Program"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turkey runs one of the largest programs in the world. Its key strength is that your money buys a real asset. Most investors choose real estate worth at least $400,000. You keep the property for three years and can sell it afterwards. Turkey accepts dual citizenship, so you keep your current passport. Spouses and children under 18 are included at no extra investment cost. Turkey also has an E-2 treaty with the United States. That matters for Chinese and other nationals living in the US. Processing usually takes several months from purchase to passport. The passport offers good travel access, but not visa-free Schengen entry. Turkey has also become much stricter about valuations and funds. The details below explain what that means for you."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Investment Options"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turkey offers several qualifying investment routes. Real estate worth at least $400,000 is by far the most popular. A bank deposit of at least $500,000 held for three years also qualifies. Government bonds of $500,000 held for three years are another option. Real estate or venture capital fund shares of $500,000 also count. Fixed capital investment of $500,000 is possible for business owners. Creating jobs for at least 50 people is a less common route. Each route needs an eligibility certificate from the relevant ministry. Payments must pass through Turkish banks with clear records. Your lawyer should match the route to your tax and liquidity needs."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "2026 Rule Changes and Cancellations"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turkey tightened its program through 2025 and 2026. Applicants and spouses must now visit Turkey for biometrics. Criminal record certificates are mandatory for adult applicants. Valuation reports now face stricter controls, including for REIT purchases. In August 2026, the Interior Ministry reported over 6,000 cancelled decisions. Most were linked to sham transactions and inflated valuations. Family members of those investors also lost their status. This shows that a passport can be withdrawn years after approval. The safest approach is full legal due diligence before payment. IGA Law Firm reviews the title, seller and valuation for every file. That review protects both your investment and your citizenship."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "What Happened to Europe and Vanuatu?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Europe no longer offers citizenship by investment. In April 2025, the EU Court of Justice ruled against Malta's program. The court said EU citizenship cannot be treated as a business deal. Malta closed its investment route in July 2025. Cyprus had already closed its program in 2020. Golden visas still exist in some EU states, but they grant residence only. Citizenship then requires years of residence and integration. Portugal also extended its naturalization period to ten years in 2026. Vanuatu remains open, but its passport lost Schengen visa-free access. The EU suspended that access over weak due diligence. These changes push many investors toward Turkey and the Caribbean. They also show why program stability matters as much as price."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "How to Compare Programs"
-      },
-      {
-        "type": "paragraph",
-        "text": "Headline prices rarely show the real cost of a program. Government fees, due diligence fees and legal costs add a large share. Family size can raise the total sharply in some programs. You should also compare what you get back at the end. A donation is gone, but real estate can be sold later. Next, compare processing time and visit requirements. Then look at passport strength and treaty access. Finally, check the program's track record and stability. A cheap program that loses travel access is not a bargain. Build a simple table with all these factors. Then rank programs by your own goals, not by marketing claims."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Total Cost"
-      },
-      {
-        "type": "paragraph",
-        "text": "Total cost includes far more than the minimum investment. Every program charges government processing fees per applicant. Due diligence fees apply to each adult in the file. Passport issuance fees come at the end. Real estate purchases also trigger title deed taxes and agency fees. Legal fees vary with the size and complexity of the file. Currency exchange costs can matter for large transfers. Holding costs, like maintenance and insurance, add up over three years. Ask for a written, itemized estimate before you commit. Compare these totals side by side for each program. The cheapest headline price is often not the cheapest final bill."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Government and Due Diligence Fees"
-      },
-      {
-        "type": "paragraph",
-        "text": "Government fees are fixed by law in each program. Due diligence fees often range from a few thousand dollars per adult. Dependents may pay lower fees, but they still add up. Some programs refund part of the fee if an application fails. Check refund terms before you submit anything. Keep every receipt for your records."
-      },
-      {
-        "type": "heading",
-        "level": 4,
-        "text": "Legal and Transaction Costs"
-      },
-      {
-        "type": "paragraph",
-        "text": "Legal fees cover document review, filings and government contact. In real estate routes, they should also cover title checks. Transaction costs include title deed tax, notary and translation fees. In Turkey, the valuation report is also required. Ask your lawyer to list every cost in writing. A clear list prevents surprises at closing."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Due Diligence and Source of Funds"
-      },
-      {
-        "type": "paragraph",
-        "text": "Due diligence is the core of every serious program. Governments check identity, criminal records and media reports. They also check sanctions lists and political exposure. Source of funds is often the hardest part to prove. You must show how you earned the money you invest. Salary records, business sales and tax returns are common proof. Loans and gifts need extra documents. Gaps in the paper trail cause delays or refusals. Prepare this evidence before you choose a property or project. A lawyer can organize it into a clear and credible file. Strong evidence also speeds up bank checks in Turkey."
-      },
-      {
-        "type": "heading",
-        "level": 2,
-        "text": "Frequently Asked Questions"
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "What is the cheapest citizenship by investment program?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Dominica is the cheapest in 2026. Its donation route starts at about $200,000 for a single applicant."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Is there an EU citizenship by investment program in 2026?"
-      },
-      {
-        "type": "paragraph",
-        "text": "No. Malta closed the last EU program in 2025. EU golden visas grant residence only."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "How long do citizenship by investment programs take?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Most take three to twelve months. Caribbean programs and Turkey often finish within several months."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Can I keep my current passport?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Usually, yes. Turkey and the Caribbean programs allow dual citizenship. Check your home country's rules too."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Can citizenship by investment be revoked?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Yes. It can be revoked for fraud or false documents. Turkey cancelled thousands of decisions in 2026."
-      },
-      {
-        "type": "heading",
-        "level": 3,
-        "text": "Which program gives access to the US E-2 visa?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Turkey and Grenada both have E-2 treaties with the United States."
-      }
-    ]
-  }
+  "title": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Citizenship by investment programmes differ in qualifying assets, family eligibility, fees and legal safeguards. Compare the route and the complete application budget before committing funds. This guide distinguishes investment citizenship from residence routes and explains why travel rights and US visa eligibility need separate checks. An investment does not guarantee citizenship."
+    },
+    {
+      "type": "heading",
+      "text": "What are citizenship by investment programmes?",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "These programmes provide an application route linked to a qualifying contribution or investment. Authorities assess eligibility and supporting evidence. Residence by investment is different: a residence permit is not a passport, and any later naturalisation has separate conditions. Do not treat a property purchase alone as citizenship approval."
+    },
+    {
+      "type": "heading",
+      "text": "Caribbean options and regional regulation",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominica and Grenada publish contribution and approved-project routes. Their fees and family definitions must be compared separately; a regional minimum is not a complete family quotation. OECS announced an ECCIRA agreement and enabling-legislation plans in 2025; its June 2026 statement still referred to an upcoming launch. Those announcements alone do not establish that every proposed power is operational in every state."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grenada distinguishes a general USD 350,000 approved-project investment from USD 270,000 per share in a qualifying tourism accommodation unit. Under SRO 15 of 2024, the unit must be bought by at least two individuals, have a total value of at least USD 540,000, and the approved project must have received equity of at least 20% of proposed construction cost before submission to the Committee. The separate USD 50,000 government contribution covers the main applicant and up to three eligible dependants, excluding categories (f)/(g) in the statutory definition. Additional dependants and other application fees are not included. Confirm eligibility and the fee schedule for the actual family with the authorised agent."
+    },
+    {
+      "type": "heading",
+      "text": "UK travel and Schengen travel are separate",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominica and Saint Lucia are on the UK visitor visa-national list. Do not assume visa-free UK travel; check passport type and applicable exceptions. Schengen rules are separate: consult the current EU visa list, relevant agreements and entry conditions. A short-stay exemption is not a right to live or work in Europe."
+    },
+    {
+      "type": "heading",
+      "text": "Turkey: investment, documents and legal checks",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’s official Investment Office lists property from USD 400,000 and several financial or capital routes from USD 500,000. The property route requires a three-year resale restriction; bank deposits, bonds and qualifying fund routes have their own retention conditions. The competent authority must confirm the investment condition. Check title, valuation requirements, payment records and family eligibility before filing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plan investment checks, conformity, residence and citizenship applications as distinct stages. Document legalisation and authority enquiries can change the schedule. No fixed approval deadline can be guaranteed. Misrepresentation and an unsuitable investment can create serious legal risks."
+    },
+    {
+      "type": "heading",
+      "text": "European residence routes and nationality changes",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "On 29 April 2025, the Court of Justice ruled against Malta’s investor citizenship scheme in case C-181/23. Do not confuse an investment residence permit with EU citizenship. Portugal’s Justice Ministry states that rules effective from 19 May 2026 distinguish seven years of legal residence for EU or Portuguese-speaking-country nationals and ten for other nationals. Transitional and individual eligibility rules require a separate check."
+    },
+    {
+      "type": "heading",
+      "text": "US E-2: treaty nationality is only one requirement",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye and Grenada appear on the US E-2 treaty-country list. A passport alone does not qualify an applicant: the US business and investment must satisfy E-2 conditions. For investment-acquired nationality, applicants not previously granted E status face a continuous three-year domicile requirement in the treaty country before applying; obtain individual US immigration advice."
+    },
+    {
+      "type": "heading",
+      "text": "Compare the full family budget and exit conditions",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Request an itemised quotation for your actual family: qualifying investment or contribution, government charges, due diligence, interviews, legal advice, translations, passport issuance and transaction costs. Identify which amounts are non-refundable. For an asset route, check the holding period, resale eligibility and market risk. A qualifying asset is not a guaranteed return or a guaranteed buyer at exit."
+    },
+    {
+      "type": "heading",
+      "text": "Frequently asked questions",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "Which programme is cheapest?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no verified universal cheapest option in this guide. Compare an itemised quotation for your family and chosen route, not single-applicant headline figures."
+    },
+    {
+      "type": "heading",
+      "text": "Do all Caribbean citizenship passports allow visa-free UK entry?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "No. Check the current UK visa-national list and exceptions; UK and Schengen rules must be assessed separately."
+    },
+    {
+      "type": "heading",
+      "text": "How long does the process take?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Timing depends on the authority, document readiness and any further checks. Request a current estimate for each stage; neither this guide nor a lawyer can guarantee approval by a fixed date."
+    },
+    {
+      "type": "heading",
+      "text": "Can I keep my existing nationality?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Check both countries’ nationality laws. Acceptance of dual nationality by the destination does not remove restrictions imposed by your existing country of nationality."
+    },
+    {
+      "type": "heading",
+      "text": "Does investment citizenship automatically qualify me for E-2?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "No. See the separate E-2 business, investment and domicile conditions above. Treaty nationality is not a visa approval."
+    },
+    {
+      "type": "heading",
+      "text": "Official references",
+      "level": 2
+    },
+    {
+      "type": "source",
+      "text": "UK visa-national list",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "EU visa framework — check current version",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1806"
+    },
+    {
+      "type": "source",
+      "text": "Türkiye Investment Office",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "source",
+      "text": "Dominica EDF",
+      "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/"
+    },
+    {
+      "type": "source",
+      "text": "Dominica approved property",
+      "url": "https://www.cbiu.gov.dm/investment-options/real-estate/"
+    },
+    {
+      "type": "source",
+      "text": "Dominica application FAQ",
+      "url": "https://www.cbiu.gov.dm/faqs/"
+    },
+    {
+      "type": "source",
+      "text": "Grenada IMA programme FAQ",
+      "url": "https://imagrenada.gd/enquiries/"
+    },
+    {
+      "type": "source",
+      "text": "Grenada threshold circular",
+      "url": "https://imagrenada.gd/wp-content/uploads/2024/07/Update-to-Circular-No.-2-Minimum-Investment-Threshold-July-3-2024.pdf"
+    },
+    {
+      "type": "source",
+      "text": "Portugal Justice Ministry — May 2026 rules",
+      "url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+    },
+    {
+      "type": "source",
+      "text": "CJEU C-181/23",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf"
+    },
+    {
+      "type": "source",
+      "text": "US treaty countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    },
+    {
+      "type": "source",
+      "text": "US State Department — investment nationality and domicile",
+      "url": "https://travel.state.gov/content/dam/visas/AILA/AILA-Agenda-4-26-2023.pdf"
+    },
+    {
+      "type": "source",
+      "text": "US E-2 requirements",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html"
+    },
+    {
+      "type": "source",
+      "text": "OECS — June 2026 authority statement",
+      "url": "https://pressroom.oecs.int/oecs-heads-of-government-focus-on-trade-connectivity-and-economic-resilience-at-78th-authority-meeting"
+    }
+  ]
+}
 });

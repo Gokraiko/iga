@@ -60,3 +60,22 @@ html[dir="rtl"]{--sans:'Noto Sans Arabic',Arial,sans-serif;--serif:'Noto Naskh A
 .article-heading-top .article-view-count{color:white;background:#ffffff12;border-color:#ffffff38;padding:8px 12px;font-size:12px}
 html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb{direction:rtl;text-align:right}
 @media(max-width:420px){.blog-card-top{gap:8px}.article-view-count{font-size:10px;padding:5px 7px;gap:4px}.article-heading-top{flex-wrap:wrap}.article-heading-top .article-view-count{margin-left:auto}.article-heading-top .crumb{min-width:120px}}
+
+/* Scoped comparison and early consultation additions; preserve existing layout. */
+.seo-consultation{margin-top:1rem}
+.seo-table-scroll{overflow-x:auto;max-width:100%;margin:1.5rem 0}
+.seo-comparison table{width:100%;border-collapse:collapse;text-align:left;font-size:.95rem}
+.seo-comparison th,.seo-comparison td{padding:1rem;vertical-align:top;border-bottom:1px solid #d7dce5;min-width:9rem}
+.seo-comparison thead th{background:#f1f3f8;color:#0e1a5b}
+.seo-comparison caption{text-align:left;margin-bottom:1rem;font-weight:600}
+.seo-comparison{margin-bottom:2rem}
+
+.seo-comparison table,.seo-comparison caption{text-align:start}
+@media(max-width:700px){
+ .seo-comparison table,.seo-comparison tbody,.seo-comparison tr,.seo-comparison th,.seo-comparison td,.seo-comparison caption{display:block;width:100%;min-width:0}
+ .seo-comparison thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+ .seo-comparison tr{margin-bottom:1rem;border:1px solid #d7dce5;border-radius:8px;overflow:hidden}
+ .seo-comparison th[scope="row"]{background:#f1f3f8}
+ .seo-comparison td::before{content:attr(data-country);display:block;font-weight:700;margin-bottom:.3rem;color:#0e1a5b}
+ .seo-comparison td:last-child{border-bottom:0}
+}

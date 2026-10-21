@@ -740,7 +740,7 @@
     "language": "en",
     "pageType": "investment",
     "title": "Turkish Citizenship by Investment: Routes & Rules | IGA",
-    "description": "Official guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
+    "description": "Guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
     "canonical": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
     "alternates": [
       {
@@ -770,7 +770,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
       "title": "Turkish Citizenship by Investment: Routes & Rules | IGA",
-      "description": "Official guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
+      "description": "Guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -809,7 +809,7 @@
           "@id": "https://igalawfirm.com/en/turkish-citizenship-by-investment/#webpage",
           "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment/",
           "name": "Turkish Citizenship by Investment: Routes & Rules | IGA",
-          "description": "Official guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
+          "description": "Guide to Turkish citizenship by investment: seven routes, minimum amounts, holding periods and checks to make before investing.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -2472,7 +2472,7 @@
     "language": "en",
     "pageType": "Service",
     "title": "Turkish Citizenship by Investment Lawyer in Istanbul | IGA Law Firm",
-    "description": "IGA Law Firm advises investors and families on Turkish citizenship by investment, legal due diligence, application documents, conformity follow-up and filing.",
+    "description": "Discuss Turkish citizenship by investment with Istanbul lawyers. Get legal support with property checks, family documents and application coordination.",
     "canonical": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
     "alternates": [
       {
@@ -2502,7 +2502,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
       "title": "Turkish Citizenship by Investment Lawyer in Istanbul | IGA Law Firm",
-      "description": "IGA Law Firm advises investors and families on Turkish citizenship by investment, legal due diligence, application documents, conformity follow-up and filing.",
+      "description": "Discuss Turkish citizenship by investment with Istanbul lawyers. Get legal support with property checks, family documents and application coordination.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -2541,7 +2541,7 @@
           "@id": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/#webpage",
           "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
           "name": "Turkish Citizenship by Investment Lawyer in Istanbul | IGA Law Firm",
-          "description": "IGA Law Firm advises investors and families on Turkish citizenship by investment, legal due diligence, application documents, conformity follow-up and filing.",
+          "description": "Discuss Turkish citizenship by investment with Istanbul lawyers. Get legal support with property checks, family documents and application coordination.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -2551,7 +2551,7 @@
           "@type": "Service",
           "@id": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/#service",
           "name": "Turkish Citizenship by Investment Lawyer in Istanbul",
-          "description": "IGA Law Firm advises investors and families on Turkish citizenship by investment, legal due diligence, application documents, conformity follow-up and filing.",
+          "description": "Discuss Turkish citizenship by investment with Istanbul lawyers. Get legal support with property checks, family documents and application coordination.",
           "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -3035,7 +3035,7 @@
     "path": "/en/igalawworkpermit/",
     "language": "en",
     "pageType": "Service",
-    "title": "Work Permit | IGA Law Firm",
+    "title": "Work Permit Lawyer in Turkey | IGA",
     "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
     "canonical": "https://igalawfirm.com/en/igalawworkpermit/",
     "alternates": [
@@ -3065,7 +3065,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawworkpermit/",
-      "title": "Work Permit | IGA Law Firm",
+      "title": "Work Permit Lawyer in Turkey | IGA",
       "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3104,7 +3104,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawworkpermit/#webpage",
           "url": "https://igalawfirm.com/en/igalawworkpermit/",
-          "name": "Work Permit | IGA Law Firm",
+          "name": "Work Permit Lawyer in Turkey | IGA",
           "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
           "inLanguage": "en",
           "isPartOf": {
@@ -3168,7 +3168,7 @@
     "path": "/tr/igalawworkpermit/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Çalışma İzni | IGA Law Firm",
+    "title": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
     "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
     "canonical": "https://igalawfirm.com/tr/igalawworkpermit/",
     "alternates": [
@@ -3198,7 +3198,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawworkpermit/",
-      "title": "Çalışma İzni | IGA Law Firm",
+      "title": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
       "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3237,7 +3237,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawworkpermit/#webpage",
           "url": "https://igalawfirm.com/tr/igalawworkpermit/",
-          "name": "Çalışma İzni | IGA Law Firm",
+          "name": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
           "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -3301,7 +3301,7 @@
     "path": "/zh/igalawworkpermit/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "工作许可 | IGA Law Firm",
+    "title": "土耳其工作许可法律服务 | IGA",
     "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
     "canonical": "https://igalawfirm.com/zh/igalawworkpermit/",
     "alternates": [
@@ -3331,7 +3331,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawworkpermit/",
-      "title": "工作许可 | IGA Law Firm",
+      "title": "土耳其工作许可法律服务 | IGA",
       "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3370,7 +3370,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawworkpermit/#webpage",
           "url": "https://igalawfirm.com/zh/igalawworkpermit/",
-          "name": "工作许可 | IGA Law Firm",
+          "name": "土耳其工作许可法律服务 | IGA",
           "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -3434,7 +3434,7 @@
     "path": "/ar/igalawworkpermit/",
     "language": "ar",
     "pageType": "Service",
-    "title": "تصاريح العمل | IGA Law Firm",
+    "title": "محامي تصاريح العمل في تركيا | IGA",
     "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
     "canonical": "https://igalawfirm.com/ar/igalawworkpermit/",
     "alternates": [
@@ -3464,7 +3464,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawworkpermit/",
-      "title": "تصاريح العمل | IGA Law Firm",
+      "title": "محامي تصاريح العمل في تركيا | IGA",
       "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3503,7 +3503,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawworkpermit/#webpage",
           "url": "https://igalawfirm.com/ar/igalawworkpermit/",
-          "name": "تصاريح العمل | IGA Law Firm",
+          "name": "محامي تصاريح العمل في تركيا | IGA",
           "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -3567,7 +3567,7 @@
     "path": "/en/igalawcorporatelaw/",
     "language": "en",
     "pageType": "Service",
-    "title": "Corporate & Commercial Law | IGA Law Firm",
+    "title": "Corporate & Commercial Legal Services in Turkey | IGA",
     "description": "Business-minded legal solutions for companies operating in or entering Türkiye.",
     "canonical": "https://igalawfirm.com/en/igalawcorporatelaw/",
     "alternates": [
@@ -3597,7 +3597,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawcorporatelaw/",
-      "title": "Corporate & Commercial Law | IGA Law Firm",
+      "title": "Corporate & Commercial Legal Services in Turkey | IGA",
       "description": "Business-minded legal solutions for companies operating in or entering Türkiye.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3636,7 +3636,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawcorporatelaw/#webpage",
           "url": "https://igalawfirm.com/en/igalawcorporatelaw/",
-          "name": "Corporate & Commercial Law | IGA Law Firm",
+          "name": "Corporate & Commercial Legal Services in Turkey | IGA",
           "description": "Business-minded legal solutions for companies operating in or entering Türkiye.",
           "inLanguage": "en",
           "isPartOf": {
@@ -3700,7 +3700,7 @@
     "path": "/tr/igalawcorporatelaw/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Şirketler ve Ticaret Hukuku | IGA Law Firm",
+    "title": "Türkiye’de Şirketler ve Ticaret Hukuku Hizmetleri | IGA",
     "description": "Türkiye’de faaliyet gösteren veya pazara giren şirketlere yönelik ticari ihtiyaçlara özel hukuki çözümler.",
     "canonical": "https://igalawfirm.com/tr/igalawcorporatelaw/",
     "alternates": [
@@ -3730,7 +3730,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawcorporatelaw/",
-      "title": "Şirketler ve Ticaret Hukuku | IGA Law Firm",
+      "title": "Türkiye’de Şirketler ve Ticaret Hukuku Hizmetleri | IGA",
       "description": "Türkiye’de faaliyet gösteren veya pazara giren şirketlere yönelik ticari ihtiyaçlara özel hukuki çözümler.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3769,7 +3769,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawcorporatelaw/#webpage",
           "url": "https://igalawfirm.com/tr/igalawcorporatelaw/",
-          "name": "Şirketler ve Ticaret Hukuku | IGA Law Firm",
+          "name": "Türkiye’de Şirketler ve Ticaret Hukuku Hizmetleri | IGA",
           "description": "Türkiye’de faaliyet gösteren veya pazara giren şirketlere yönelik ticari ihtiyaçlara özel hukuki çözümler.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -3833,7 +3833,7 @@
     "path": "/zh/igalawcorporatelaw/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "公司与商事法律 | IGA Law Firm",
+    "title": "土耳其公司与商事法律服务 | IGA",
     "description": "为在土耳其经营或进入土耳其市场的企业提供商业导向的法律解决方案。",
     "canonical": "https://igalawfirm.com/zh/igalawcorporatelaw/",
     "alternates": [
@@ -3863,7 +3863,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawcorporatelaw/",
-      "title": "公司与商事法律 | IGA Law Firm",
+      "title": "土耳其公司与商事法律服务 | IGA",
       "description": "为在土耳其经营或进入土耳其市场的企业提供商业导向的法律解决方案。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -3902,7 +3902,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawcorporatelaw/#webpage",
           "url": "https://igalawfirm.com/zh/igalawcorporatelaw/",
-          "name": "公司与商事法律 | IGA Law Firm",
+          "name": "土耳其公司与商事法律服务 | IGA",
           "description": "为在土耳其经营或进入土耳其市场的企业提供商业导向的法律解决方案。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -3966,7 +3966,7 @@
     "path": "/ar/igalawcorporatelaw/",
     "language": "ar",
     "pageType": "Service",
-    "title": "قانون الشركات والتجارة | IGA Law Firm",
+    "title": "خدمات قانون الشركات والتجارة في تركيا | IGA",
     "description": "حلول قانونية للشركات العاملة في تركيا أو الداخلة إلى سوقها.",
     "canonical": "https://igalawfirm.com/ar/igalawcorporatelaw/",
     "alternates": [
@@ -3996,7 +3996,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawcorporatelaw/",
-      "title": "قانون الشركات والتجارة | IGA Law Firm",
+      "title": "خدمات قانون الشركات والتجارة في تركيا | IGA",
       "description": "حلول قانونية للشركات العاملة في تركيا أو الداخلة إلى سوقها.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4035,7 +4035,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawcorporatelaw/#webpage",
           "url": "https://igalawfirm.com/ar/igalawcorporatelaw/",
-          "name": "قانون الشركات والتجارة | IGA Law Firm",
+          "name": "خدمات قانون الشركات والتجارة في تركيا | IGA",
           "description": "حلول قانونية للشركات العاملة في تركيا أو الداخلة إلى سوقها.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -4099,7 +4099,7 @@
     "path": "/en/igalawlegalconsultancy/",
     "language": "en",
     "pageType": "Service",
-    "title": "Legal Consultancy | IGA Law Firm",
+    "title": "Legal Consultancy in Turkey | IGA Law Firm",
     "description": "Tailored legal advice for individuals, investors and businesses navigating Turkish law.",
     "canonical": "https://igalawfirm.com/en/igalawlegalconsultancy/",
     "alternates": [
@@ -4129,7 +4129,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawlegalconsultancy/",
-      "title": "Legal Consultancy | IGA Law Firm",
+      "title": "Legal Consultancy in Turkey | IGA Law Firm",
       "description": "Tailored legal advice for individuals, investors and businesses navigating Turkish law.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4168,7 +4168,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawlegalconsultancy/#webpage",
           "url": "https://igalawfirm.com/en/igalawlegalconsultancy/",
-          "name": "Legal Consultancy | IGA Law Firm",
+          "name": "Legal Consultancy in Turkey | IGA Law Firm",
           "description": "Tailored legal advice for individuals, investors and businesses navigating Turkish law.",
           "inLanguage": "en",
           "isPartOf": {
@@ -4232,7 +4232,7 @@
     "path": "/tr/igalawlegalconsultancy/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Hukuki Danışmanlık | IGA Law Firm",
+    "title": "Türkiye’de Hukuki Danışmanlık | IGA Hukuk Bürosu",
     "description": "Türk hukukunda yol alan bireyler, yatırımcılar ve işletmelere özel hukuki danışmanlık.",
     "canonical": "https://igalawfirm.com/tr/igalawlegalconsultancy/",
     "alternates": [
@@ -4262,7 +4262,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawlegalconsultancy/",
-      "title": "Hukuki Danışmanlık | IGA Law Firm",
+      "title": "Türkiye’de Hukuki Danışmanlık | IGA Hukuk Bürosu",
       "description": "Türk hukukunda yol alan bireyler, yatırımcılar ve işletmelere özel hukuki danışmanlık.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4301,7 +4301,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawlegalconsultancy/#webpage",
           "url": "https://igalawfirm.com/tr/igalawlegalconsultancy/",
-          "name": "Hukuki Danışmanlık | IGA Law Firm",
+          "name": "Türkiye’de Hukuki Danışmanlık | IGA Hukuk Bürosu",
           "description": "Türk hukukunda yol alan bireyler, yatırımcılar ve işletmelere özel hukuki danışmanlık.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -4365,7 +4365,7 @@
     "path": "/zh/igalawlegalconsultancy/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "法律咨询 | IGA Law Firm",
+    "title": "土耳其法律咨询服务 | IGA",
     "description": "为受土耳其法律管辖的个人、投资者及企业提供定制法律建议。",
     "canonical": "https://igalawfirm.com/zh/igalawlegalconsultancy/",
     "alternates": [
@@ -4395,7 +4395,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawlegalconsultancy/",
-      "title": "法律咨询 | IGA Law Firm",
+      "title": "土耳其法律咨询服务 | IGA",
       "description": "为受土耳其法律管辖的个人、投资者及企业提供定制法律建议。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4434,7 +4434,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawlegalconsultancy/#webpage",
           "url": "https://igalawfirm.com/zh/igalawlegalconsultancy/",
-          "name": "法律咨询 | IGA Law Firm",
+          "name": "土耳其法律咨询服务 | IGA",
           "description": "为受土耳其法律管辖的个人、投资者及企业提供定制法律建议。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -4498,7 +4498,7 @@
     "path": "/ar/igalawlegalconsultancy/",
     "language": "ar",
     "pageType": "Service",
-    "title": "الاستشارات القانونية | IGA Law Firm",
+    "title": "الاستشارات القانونية في تركيا | IGA",
     "description": "مشورة قانونية مخصصة للأفراد والمستثمرين والشركات في إطار القانون التركي.",
     "canonical": "https://igalawfirm.com/ar/igalawlegalconsultancy/",
     "alternates": [
@@ -4528,7 +4528,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawlegalconsultancy/",
-      "title": "الاستشارات القانونية | IGA Law Firm",
+      "title": "الاستشارات القانونية في تركيا | IGA",
       "description": "مشورة قانونية مخصصة للأفراد والمستثمرين والشركات في إطار القانون التركي.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4567,7 +4567,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawlegalconsultancy/#webpage",
           "url": "https://igalawfirm.com/ar/igalawlegalconsultancy/",
-          "name": "الاستشارات القانونية | IGA Law Firm",
+          "name": "الاستشارات القانونية في تركيا | IGA",
           "description": "مشورة قانونية مخصصة للأفراد والمستثمرين والشركات في إطار القانون التركي.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -4631,7 +4631,7 @@
     "path": "/en/igalawlitigation/",
     "language": "en",
     "pageType": "Service",
-    "title": "Litigation & Dispute Resolution | IGA Law Firm",
+    "title": "Litigation & Dispute Resolution in Turkey | IGA",
     "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
     "canonical": "https://igalawfirm.com/en/igalawlitigation/",
     "alternates": [
@@ -4661,7 +4661,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawlitigation/",
-      "title": "Litigation & Dispute Resolution | IGA Law Firm",
+      "title": "Litigation & Dispute Resolution in Turkey | IGA",
       "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4700,7 +4700,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/en/igalawlitigation/",
-          "name": "Litigation & Dispute Resolution | IGA Law Firm",
+          "name": "Litigation & Dispute Resolution in Turkey | IGA",
           "description": "Representation in commercial, civil, employment, administrative and criminal proceedings before Turkish courts.",
           "inLanguage": "en",
           "isPartOf": {
@@ -4764,7 +4764,7 @@
     "path": "/tr/igalawlitigation/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
+    "title": "Türkiye’de Dava Takibi ve Uyuşmazlık Çözümü | IGA",
     "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
     "canonical": "https://igalawfirm.com/tr/igalawlitigation/",
     "alternates": [
@@ -4794,7 +4794,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawlitigation/",
-      "title": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
+      "title": "Türkiye’de Dava Takibi ve Uyuşmazlık Çözümü | IGA",
       "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4833,7 +4833,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/tr/igalawlitigation/",
-          "name": "Dava Takibi ve Uyuşmazlık Çözümü | IGA Law Firm",
+          "name": "Türkiye’de Dava Takibi ve Uyuşmazlık Çözümü | IGA",
           "description": "Türkiye’de ticari, hukuk, iş, idare ve ceza davalarında hukuki temsil.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -4897,7 +4897,7 @@
     "path": "/zh/igalawlitigation/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "诉讼与争议解决 | IGA Law Firm",
+    "title": "土耳其诉讼与争议解决服务 | IGA",
     "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
     "canonical": "https://igalawfirm.com/zh/igalawlitigation/",
     "alternates": [
@@ -4927,7 +4927,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawlitigation/",
-      "title": "诉讼与争议解决 | IGA Law Firm",
+      "title": "土耳其诉讼与争议解决服务 | IGA",
       "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -4966,7 +4966,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/zh/igalawlitigation/",
-          "name": "诉讼与争议解决 | IGA Law Firm",
+          "name": "土耳其诉讼与争议解决服务 | IGA",
           "description": "代理土耳其的商业、民事、劳动、行政及刑事诉讼。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -5030,7 +5030,7 @@
     "path": "/ar/igalawlitigation/",
     "language": "ar",
     "pageType": "Service",
-    "title": "التقاضي وتسوية النزاعات | IGA Law Firm",
+    "title": "التقاضي وتسوية النزاعات في تركيا | IGA",
     "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
     "canonical": "https://igalawfirm.com/ar/igalawlitigation/",
     "alternates": [
@@ -5060,7 +5060,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawlitigation/",
-      "title": "التقاضي وتسوية النزاعات | IGA Law Firm",
+      "title": "التقاضي وتسوية النزاعات في تركيا | IGA",
       "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5099,7 +5099,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawlitigation/#webpage",
           "url": "https://igalawfirm.com/ar/igalawlitigation/",
-          "name": "التقاضي وتسوية النزاعات | IGA Law Firm",
+          "name": "التقاضي وتسوية النزاعات في تركيا | IGA",
           "description": "تمثيل قانوني في القضايا التجارية والمدنية والعمالية والإدارية والجنائية أمام المحاكم التركية.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -5163,7 +5163,7 @@
     "path": "/en/igalawresidencepermit/",
     "language": "en",
     "pageType": "Service",
-    "title": "Residence Permit | IGA Law Firm",
+    "title": "Residence Permit Legal Services in Turkey | IGA",
     "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
     "canonical": "https://igalawfirm.com/en/igalawresidencepermit/",
     "alternates": [
@@ -5193,7 +5193,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawresidencepermit/",
-      "title": "Residence Permit | IGA Law Firm",
+      "title": "Residence Permit Legal Services in Turkey | IGA",
       "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5232,7 +5232,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawresidencepermit/#webpage",
           "url": "https://igalawfirm.com/en/igalawresidencepermit/",
-          "name": "Residence Permit | IGA Law Firm",
+          "name": "Residence Permit Legal Services in Turkey | IGA",
           "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
           "inLanguage": "en",
           "isPartOf": {
@@ -5296,7 +5296,7 @@
     "path": "/tr/igalawresidencepermit/",
     "language": "tr",
     "pageType": "Service",
-    "title": "İkamet İzni | IGA Law Firm",
+    "title": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
     "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
     "canonical": "https://igalawfirm.com/tr/igalawresidencepermit/",
     "alternates": [
@@ -5326,7 +5326,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawresidencepermit/",
-      "title": "İkamet İzni | IGA Law Firm",
+      "title": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
       "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5365,7 +5365,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawresidencepermit/#webpage",
           "url": "https://igalawfirm.com/tr/igalawresidencepermit/",
-          "name": "İkamet İzni | IGA Law Firm",
+          "name": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
           "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -5429,7 +5429,7 @@
     "path": "/zh/igalawresidencepermit/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "居留许可 | IGA Law Firm",
+    "title": "土耳其居留许可法律服务 | IGA",
     "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
     "canonical": "https://igalawfirm.com/zh/igalawresidencepermit/",
     "alternates": [
@@ -5459,7 +5459,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawresidencepermit/",
-      "title": "居留许可 | IGA Law Firm",
+      "title": "土耳其居留许可法律服务 | IGA",
       "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5498,7 +5498,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawresidencepermit/#webpage",
           "url": "https://igalawfirm.com/zh/igalawresidencepermit/",
-          "name": "居留许可 | IGA Law Firm",
+          "name": "土耳其居留许可法律服务 | IGA",
           "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -5562,7 +5562,7 @@
     "path": "/ar/igalawresidencepermit/",
     "language": "ar",
     "pageType": "Service",
-    "title": "تصاريح الإقامة | IGA Law Firm",
+    "title": "خدمات الإقامة القانونية في تركيا | IGA",
     "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
     "canonical": "https://igalawfirm.com/ar/igalawresidencepermit/",
     "alternates": [
@@ -5592,7 +5592,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawresidencepermit/",
-      "title": "تصاريح الإقامة | IGA Law Firm",
+      "title": "خدمات الإقامة القانونية في تركيا | IGA",
       "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5631,7 +5631,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawresidencepermit/#webpage",
           "url": "https://igalawfirm.com/ar/igalawresidencepermit/",
-          "name": "تصاريح الإقامة | IGA Law Firm",
+          "name": "خدمات الإقامة القانونية في تركيا | IGA",
           "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -5695,7 +5695,7 @@
     "path": "/en/igalawrealestateduediligence/",
     "language": "en",
     "pageType": "Service",
-    "title": "Real Estate Due Diligence | IGA Law Firm",
+    "title": "Real Estate Due Diligence in Turkey | IGA",
     "description": "Title checks, legal risk assessment and contract review before a property purchase.",
     "canonical": "https://igalawfirm.com/en/igalawrealestateduediligence/",
     "alternates": [
@@ -5725,7 +5725,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawrealestateduediligence/",
-      "title": "Real Estate Due Diligence | IGA Law Firm",
+      "title": "Real Estate Due Diligence in Turkey | IGA",
       "description": "Title checks, legal risk assessment and contract review before a property purchase.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5764,7 +5764,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawrealestateduediligence/#webpage",
           "url": "https://igalawfirm.com/en/igalawrealestateduediligence/",
-          "name": "Real Estate Due Diligence | IGA Law Firm",
+          "name": "Real Estate Due Diligence in Turkey | IGA",
           "description": "Title checks, legal risk assessment and contract review before a property purchase.",
           "inLanguage": "en",
           "isPartOf": {
@@ -5828,7 +5828,7 @@
     "path": "/tr/igalawrealestateduediligence/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Gayrimenkul Hukuki Durum İncelemesi | IGA Law Firm",
+    "title": "Türkiye’de Gayrimenkul Hukuki İncelemesi | IGA",
     "description": "Gayrimenkul satın alımından önce tapu kontrolleri, hukuki risk değerlendirmesi ve sözleşme incelemesi.",
     "canonical": "https://igalawfirm.com/tr/igalawrealestateduediligence/",
     "alternates": [
@@ -5858,7 +5858,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawrealestateduediligence/",
-      "title": "Gayrimenkul Hukuki Durum İncelemesi | IGA Law Firm",
+      "title": "Türkiye’de Gayrimenkul Hukuki İncelemesi | IGA",
       "description": "Gayrimenkul satın alımından önce tapu kontrolleri, hukuki risk değerlendirmesi ve sözleşme incelemesi.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -5897,7 +5897,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawrealestateduediligence/#webpage",
           "url": "https://igalawfirm.com/tr/igalawrealestateduediligence/",
-          "name": "Gayrimenkul Hukuki Durum İncelemesi | IGA Law Firm",
+          "name": "Türkiye’de Gayrimenkul Hukuki İncelemesi | IGA",
           "description": "Gayrimenkul satın alımından önce tapu kontrolleri, hukuki risk değerlendirmesi ve sözleşme incelemesi.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -5961,7 +5961,7 @@
     "path": "/zh/igalawrealestateduediligence/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "房产法律尽职调查 | IGA Law Firm",
+    "title": "土耳其房产法律尽职调查 | IGA",
     "description": "购房前进行产权核查、法律风险评估及合同审核。",
     "canonical": "https://igalawfirm.com/zh/igalawrealestateduediligence/",
     "alternates": [
@@ -5991,7 +5991,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawrealestateduediligence/",
-      "title": "房产法律尽职调查 | IGA Law Firm",
+      "title": "土耳其房产法律尽职调查 | IGA",
       "description": "购房前进行产权核查、法律风险评估及合同审核。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6030,7 +6030,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawrealestateduediligence/#webpage",
           "url": "https://igalawfirm.com/zh/igalawrealestateduediligence/",
-          "name": "房产法律尽职调查 | IGA Law Firm",
+          "name": "土耳其房产法律尽职调查 | IGA",
           "description": "购房前进行产权核查、法律风险评估及合同审核。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -6094,7 +6094,7 @@
     "path": "/ar/igalawrealestateduediligence/",
     "language": "ar",
     "pageType": "Service",
-    "title": "الفحص القانوني للعقارات | IGA Law Firm",
+    "title": "الفحص القانوني للعقارات في تركيا | IGA",
     "description": "فحص الملكية وتقييم المخاطر ومراجعة العقود قبل شراء العقار.",
     "canonical": "https://igalawfirm.com/ar/igalawrealestateduediligence/",
     "alternates": [
@@ -6124,7 +6124,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawrealestateduediligence/",
-      "title": "الفحص القانوني للعقارات | IGA Law Firm",
+      "title": "الفحص القانوني للعقارات في تركيا | IGA",
       "description": "فحص الملكية وتقييم المخاطر ومراجعة العقود قبل شراء العقار.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6163,7 +6163,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawrealestateduediligence/#webpage",
           "url": "https://igalawfirm.com/ar/igalawrealestateduediligence/",
-          "name": "الفحص القانوني للعقارات | IGA Law Firm",
+          "name": "الفحص القانوني للعقارات في تركيا | IGA",
           "description": "فحص الملكية وتقييم المخاطر ومراجعة العقود قبل شراء العقار.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -6227,7 +6227,7 @@
     "path": "/en/igalawdocumentation/",
     "language": "en",
     "pageType": "Service",
-    "title": "Documentation & Legalization | IGA Law Firm",
+    "title": "Document Legalization & Apostille Services in Turkey | IGA",
     "description": "End-to-end assistance with Turkish documents, notarization, apostilles, translations and consular procedures.",
     "canonical": "https://igalawfirm.com/en/igalawdocumentation/",
     "alternates": [
@@ -6257,7 +6257,7 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawdocumentation/",
-      "title": "Documentation & Legalization | IGA Law Firm",
+      "title": "Document Legalization & Apostille Services in Turkey | IGA",
       "description": "End-to-end assistance with Turkish documents, notarization, apostilles, translations and consular procedures.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6296,7 +6296,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawdocumentation/#webpage",
           "url": "https://igalawfirm.com/en/igalawdocumentation/",
-          "name": "Documentation & Legalization | IGA Law Firm",
+          "name": "Document Legalization & Apostille Services in Turkey | IGA",
           "description": "End-to-end assistance with Turkish documents, notarization, apostilles, translations and consular procedures.",
           "inLanguage": "en",
           "isPartOf": {
@@ -6360,7 +6360,7 @@
     "path": "/tr/igalawdocumentation/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Belgelendirme ve Tasdik İşlemleri | IGA Law Firm",
+    "title": "Türkiye’de Belge, Apostil ve Tasdik Hizmetleri | IGA",
     "description": "Türkiye’deki belgeler, noter işlemleri, apostil, tercüme ve konsolosluk süreçlerinde uçtan uca destek.",
     "canonical": "https://igalawfirm.com/tr/igalawdocumentation/",
     "alternates": [
@@ -6390,7 +6390,7 @@
       "type": "website",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/igalawdocumentation/",
-      "title": "Belgelendirme ve Tasdik İşlemleri | IGA Law Firm",
+      "title": "Türkiye’de Belge, Apostil ve Tasdik Hizmetleri | IGA",
       "description": "Türkiye’deki belgeler, noter işlemleri, apostil, tercüme ve konsolosluk süreçlerinde uçtan uca destek.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6429,7 +6429,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/igalawdocumentation/#webpage",
           "url": "https://igalawfirm.com/tr/igalawdocumentation/",
-          "name": "Belgelendirme ve Tasdik İşlemleri | IGA Law Firm",
+          "name": "Türkiye’de Belge, Apostil ve Tasdik Hizmetleri | IGA",
           "description": "Türkiye’deki belgeler, noter işlemleri, apostil, tercüme ve konsolosluk süreçlerinde uçtan uca destek.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -6493,7 +6493,7 @@
     "path": "/zh/igalawdocumentation/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "文件办理与认证 | IGA Law Firm",
+    "title": "土耳其文件办理、公证与海牙认证服务 | IGA",
     "description": "为土耳其文件、公证、海牙认证、翻译及领事程序提供全程协助。",
     "canonical": "https://igalawfirm.com/zh/igalawdocumentation/",
     "alternates": [
@@ -6523,7 +6523,7 @@
       "type": "website",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/igalawdocumentation/",
-      "title": "文件办理与认证 | IGA Law Firm",
+      "title": "土耳其文件办理、公证与海牙认证服务 | IGA",
       "description": "为土耳其文件、公证、海牙认证、翻译及领事程序提供全程协助。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6562,7 +6562,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/igalawdocumentation/#webpage",
           "url": "https://igalawfirm.com/zh/igalawdocumentation/",
-          "name": "文件办理与认证 | IGA Law Firm",
+          "name": "土耳其文件办理、公证与海牙认证服务 | IGA",
           "description": "为土耳其文件、公证、海牙认证、翻译及领事程序提供全程协助。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -6626,7 +6626,7 @@
     "path": "/ar/igalawdocumentation/",
     "language": "ar",
     "pageType": "Service",
-    "title": "استخراج الوثائق وتصديقها | IGA Law Firm",
+    "title": "خدمات الوثائق والأبوستيل والتصديق في تركيا | IGA",
     "description": "دعم في الوثائق التركية والتوثيق والأبوستيل والترجمة والإجراءات القنصلية.",
     "canonical": "https://igalawfirm.com/ar/igalawdocumentation/",
     "alternates": [
@@ -6656,7 +6656,7 @@
       "type": "website",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/igalawdocumentation/",
-      "title": "استخراج الوثائق وتصديقها | IGA Law Firm",
+      "title": "خدمات الوثائق والأبوستيل والتصديق في تركيا | IGA",
       "description": "دعم في الوثائق التركية والتوثيق والأبوستيل والترجمة والإجراءات القنصلية.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -6695,7 +6695,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/igalawdocumentation/#webpage",
           "url": "https://igalawfirm.com/ar/igalawdocumentation/",
-          "name": "استخراج الوثائق وتصديقها | IGA Law Firm",
+          "name": "خدمات الوثائق والأبوستيل والتصديق في تركيا | IGA",
           "description": "دعم في الوثائق التركية والتوثيق والأبوستيل والترجمة والإجراءات القنصلية.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -8135,7 +8135,7 @@
     "path": "/en/blog/best-countries-to-move-to-from-the-us/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+    "title": "Moving Abroad from the US: Country Comparison (2026) | IGA",
     "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
     "canonical": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
     "alternates": [
@@ -8165,7 +8165,7 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
-      "title": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+      "title": "Moving Abroad from the US: Country Comparison (2026) | IGA",
       "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8204,7 +8204,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/#webpage",
           "url": "https://igalawfirm.com/en/blog/best-countries-to-move-to-from-the-us/",
-          "name": "Best Countries to Move to From the US in 2026 | IGA Law Firm",
+          "name": "Moving Abroad from the US: Country Comparison (2026) | IGA",
           "description": "Compare places Americans can move to in 2026, including visa routes, residence rules, healthcare, taxes and the path to living in Türkiye.",
           "inLanguage": "en",
           "isPartOf": {
@@ -8250,7 +8250,7 @@
     "path": "/tr/blog/best-countries-to-move-to-from-the-us/",
     "language": "tr",
     "pageType": "BlogPosting",
-    "title": "ABD’den Taşınmak İçin En İyi Ülkeler (2026) | IGA Law Firm",
+    "title": "ABD’den Yurt Dışına Taşınma: Ülke Karşılaştırması 2026 | IGA",
     "description": "2026’da ABD’den taşınmak isteyenler için ülkeleri vize, oturum, sağlık, yaşam maliyeti ve vergi kuralları açısından karşılaştırın.",
     "canonical": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/",
     "alternates": [
@@ -8280,7 +8280,7 @@
       "type": "article",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/",
-      "title": "ABD’den Taşınmak İçin En İyi Ülkeler (2026) | IGA Law Firm",
+      "title": "ABD’den Yurt Dışına Taşınma: Ülke Karşılaştırması 2026 | IGA",
       "description": "2026’da ABD’den taşınmak isteyenler için ülkeleri vize, oturum, sağlık, yaşam maliyeti ve vergi kuralları açısından karşılaştırın.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8319,7 +8319,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/#webpage",
           "url": "https://igalawfirm.com/tr/blog/best-countries-to-move-to-from-the-us/",
-          "name": "ABD’den Taşınmak İçin En İyi Ülkeler (2026) | IGA Law Firm",
+          "name": "ABD’den Yurt Dışına Taşınma: Ülke Karşılaştırması 2026 | IGA",
           "description": "2026’da ABD’den taşınmak isteyenler için ülkeleri vize, oturum, sağlık, yaşam maliyeti ve vergi kuralları açısından karşılaştırın.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -8365,7 +8365,7 @@
     "path": "/zh/blog/best-countries-to-move-to-from-the-us/",
     "language": "zh-CN",
     "pageType": "BlogPosting",
-    "title": "2026年美国人移居海外的最佳国家 | IGA Law Firm",
+    "title": "2026年美国人移居海外：国家与居留途径比较 | IGA",
     "description": "比较美国人在 2026 年可以移居的地方，包括签证路线、居住规则、医疗保健、税收和在土耳其生活的路径。",
     "canonical": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/",
     "alternates": [
@@ -8395,7 +8395,7 @@
       "type": "article",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/",
-      "title": "2026年美国人移居海外的最佳国家 | IGA Law Firm",
+      "title": "2026年美国人移居海外：国家与居留途径比较 | IGA",
       "description": "比较美国人在 2026 年可以移居的地方，包括签证路线、居住规则、医疗保健、税收和在土耳其生活的路径。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8434,7 +8434,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/#webpage",
           "url": "https://igalawfirm.com/zh/blog/best-countries-to-move-to-from-the-us/",
-          "name": "2026年美国人移居海外的最佳国家 | IGA Law Firm",
+          "name": "2026年美国人移居海外：国家与居留途径比较 | IGA",
           "description": "比较美国人在 2026 年可以移居的地方，包括签证路线、居住规则、医疗保健、税收和在土耳其生活的路径。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -8480,7 +8480,7 @@
     "path": "/ar/blog/best-countries-to-move-to-from-the-us/",
     "language": "ar",
     "pageType": "BlogPosting",
-    "title": "أفضل البلدان للانتقال إليها من الولايات المتحدة في عام 2026 | IGA Law Firm",
+    "title": "الانتقال من أمريكا: مقارنة البلدان ومسارات الإقامة 2026 | IGA",
     "description": "قارن وجهات انتقال الأمريكيين في 2026 من حيث التأشيرات والإقامة والرعاية الصحية والضرائب وإمكانات العيش في تركيا.",
     "canonical": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/",
     "alternates": [
@@ -8510,7 +8510,7 @@
       "type": "article",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/",
-      "title": "أفضل البلدان للانتقال إليها من الولايات المتحدة في عام 2026 | IGA Law Firm",
+      "title": "الانتقال من أمريكا: مقارنة البلدان ومسارات الإقامة 2026 | IGA",
       "description": "قارن وجهات انتقال الأمريكيين في 2026 من حيث التأشيرات والإقامة والرعاية الصحية والضرائب وإمكانات العيش في تركيا.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8549,7 +8549,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/#webpage",
           "url": "https://igalawfirm.com/ar/blog/best-countries-to-move-to-from-the-us/",
-          "name": "أفضل البلدان للانتقال إليها من الولايات المتحدة في عام 2026 | IGA Law Firm",
+          "name": "الانتقال من أمريكا: مقارنة البلدان ومسارات الإقامة 2026 | IGA",
           "description": "قارن وجهات انتقال الأمريكيين في 2026 من حيث التأشيرات والإقامة والرعاية الصحية والضرائب وإمكانات العيش في تركيا.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -8595,7 +8595,7 @@
     "path": "/en/blog/easiest-country-to-get-citizenship/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+    "title": "Citizenship Routes Compared: Eligibility & Costs (2026) | IGA",
     "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
     "canonical": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
     "alternates": [
@@ -8625,7 +8625,7 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
-      "title": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+      "title": "Citizenship Routes Compared: Eligibility & Costs (2026) | IGA",
       "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8664,7 +8664,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/#webpage",
           "url": "https://igalawfirm.com/en/blog/easiest-country-to-get-citizenship/",
-          "name": "Easiest Country to Get Citizenship in 2026: Routes | IGA Law Firm",
+          "name": "Citizenship Routes Compared: Eligibility & Costs (2026) | IGA",
           "description": "Compare citizenship by descent, marriage, residence and investment in 2026. See how eligibility, timing and costs vary by country.",
           "inLanguage": "en",
           "isPartOf": {
@@ -8710,7 +8710,7 @@
     "path": "/tr/blog/easiest-country-to-get-citizenship/",
     "language": "tr",
     "pageType": "BlogPosting",
-    "title": "2026’da Vatandaşlık Almanın En Kolay Olduğu Ülkeler | IGA Law Firm",
+    "title": "Vatandaşlık Yolları: Şartlar ve Maliyetler (2026) | IGA",
     "description": "Soy bağı, evlilik, ikamet ve yatırım yoluyla vatandaşlık seçeneklerini; başvuru şartları, süre ve maliyetleriyle karşılaştırın.",
     "canonical": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/",
     "alternates": [
@@ -8740,7 +8740,7 @@
       "type": "article",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/",
-      "title": "2026’da Vatandaşlık Almanın En Kolay Olduğu Ülkeler | IGA Law Firm",
+      "title": "Vatandaşlık Yolları: Şartlar ve Maliyetler (2026) | IGA",
       "description": "Soy bağı, evlilik, ikamet ve yatırım yoluyla vatandaşlık seçeneklerini; başvuru şartları, süre ve maliyetleriyle karşılaştırın.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8779,7 +8779,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/#webpage",
           "url": "https://igalawfirm.com/tr/blog/easiest-country-to-get-citizenship/",
-          "name": "2026’da Vatandaşlık Almanın En Kolay Olduğu Ülkeler | IGA Law Firm",
+          "name": "Vatandaşlık Yolları: Şartlar ve Maliyetler (2026) | IGA",
           "description": "Soy bağı, evlilik, ikamet ve yatırım yoluyla vatandaşlık seçeneklerini; başvuru şartları, süre ve maliyetleriyle karşılaştırın.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -8825,7 +8825,7 @@
     "path": "/zh/blog/easiest-country-to-get-citizenship/",
     "language": "zh-CN",
     "pageType": "BlogPosting",
-    "title": "2026年最容易获得国籍的国家与途径 | IGA Law Firm",
+    "title": "2026年入籍途径比较：资格、时间与费用 | IGA",
     "description": "比较 2026 年按血统、婚姻、居住和投资获得公民身份的情况。了解不同国家/地区的资格、时间和费用有何不同。",
     "canonical": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/",
     "alternates": [
@@ -8855,7 +8855,7 @@
       "type": "article",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/",
-      "title": "2026年最容易获得国籍的国家与途径 | IGA Law Firm",
+      "title": "2026年入籍途径比较：资格、时间与费用 | IGA",
       "description": "比较 2026 年按血统、婚姻、居住和投资获得公民身份的情况。了解不同国家/地区的资格、时间和费用有何不同。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -8894,7 +8894,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/#webpage",
           "url": "https://igalawfirm.com/zh/blog/easiest-country-to-get-citizenship/",
-          "name": "2026年最容易获得国籍的国家与途径 | IGA Law Firm",
+          "name": "2026年入籍途径比较：资格、时间与费用 | IGA",
           "description": "比较 2026 年按血统、婚姻、居住和投资获得公民身份的情况。了解不同国家/地区的资格、时间和费用有何不同。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -8940,7 +8940,7 @@
     "path": "/ar/blog/easiest-country-to-get-citizenship/",
     "language": "ar",
     "pageType": "BlogPosting",
-    "title": "أسهل دولة للحصول على الجنسية في عام 2026: الطرق | IGA Law Firm",
+    "title": "مقارنة طرق الجنسية: الأهلية والتكاليف في 2026 | IGA",
     "description": "قارن الجنسية حسب النسب والزواج والإقامة والاستثمار في عام 2026. تعرف على مدى اختلاف الأهلية والتوقيت والتكاليف حسب الدولة.",
     "canonical": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/",
     "alternates": [
@@ -8970,7 +8970,7 @@
       "type": "article",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/",
-      "title": "أسهل دولة للحصول على الجنسية في عام 2026: الطرق | IGA Law Firm",
+      "title": "مقارنة طرق الجنسية: الأهلية والتكاليف في 2026 | IGA",
       "description": "قارن الجنسية حسب النسب والزواج والإقامة والاستثمار في عام 2026. تعرف على مدى اختلاف الأهلية والتوقيت والتكاليف حسب الدولة.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -9009,7 +9009,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/#webpage",
           "url": "https://igalawfirm.com/ar/blog/easiest-country-to-get-citizenship/",
-          "name": "أسهل دولة للحصول على الجنسية في عام 2026: الطرق | IGA Law Firm",
+          "name": "مقارنة طرق الجنسية: الأهلية والتكاليف في 2026 | IGA",
           "description": "قارن الجنسية حسب النسب والزواج والإقامة والاستثمار في عام 2026. تعرف على مدى اختلاف الأهلية والتوقيت والتكاليف حسب الدولة.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -9055,7 +9055,7 @@
     "path": "/en/blog/best-countries-to-retire-in-for-americans/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+    "title": "Retiring Abroad for Americans: Countries Compared | IGA",
     "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
     "canonical": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
     "alternates": [
@@ -9085,7 +9085,7 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
-      "title": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+      "title": "Retiring Abroad for Americans: Countries Compared | IGA",
       "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -9124,7 +9124,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/#webpage",
           "url": "https://igalawfirm.com/en/blog/best-countries-to-retire-in-for-americans/",
-          "name": "Best Countries to Retire in for Americans (2026) | IGA Law Firm",
+          "name": "Retiring Abroad for Americans: Countries Compared | IGA",
           "description": "Explore retirement destinations for Americans, comparing visas, healthcare, living costs and taxes, with a closer look at retiring in Türkiye.",
           "inLanguage": "en",
           "isPartOf": {
@@ -9170,7 +9170,7 @@
     "path": "/tr/blog/best-countries-to-retire-in-for-americans/",
     "language": "tr",
     "pageType": "BlogPosting",
-    "title": "Amerikalılar İçin Emeklilikte Yaşanacak En İyi Ülkeler | IGA Law Firm",
+    "title": "Amerikalılar İçin Yurt Dışında Emeklilik: Ülkeler | IGA",
     "description": "Amerikalılar için emeklilik ülkelerini vize, sağlık hizmetleri, yaşam maliyeti ve vergiler açısından karşılaştırın; Türkiye seçeneğini inceleyin.",
     "canonical": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/",
     "alternates": [
@@ -9200,7 +9200,7 @@
       "type": "article",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/",
-      "title": "Amerikalılar İçin Emeklilikte Yaşanacak En İyi Ülkeler | IGA Law Firm",
+      "title": "Amerikalılar İçin Yurt Dışında Emeklilik: Ülkeler | IGA",
       "description": "Amerikalılar için emeklilik ülkelerini vize, sağlık hizmetleri, yaşam maliyeti ve vergiler açısından karşılaştırın; Türkiye seçeneğini inceleyin.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -9239,7 +9239,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/#webpage",
           "url": "https://igalawfirm.com/tr/blog/best-countries-to-retire-in-for-americans/",
-          "name": "Amerikalılar İçin Emeklilikte Yaşanacak En İyi Ülkeler | IGA Law Firm",
+          "name": "Amerikalılar İçin Yurt Dışında Emeklilik: Ülkeler | IGA",
           "description": "Amerikalılar için emeklilik ülkelerini vize, sağlık hizmetleri, yaşam maliyeti ve vergiler açısından karşılaştırın; Türkiye seçeneğini inceleyin.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -9285,7 +9285,7 @@
     "path": "/zh/blog/best-countries-to-retire-in-for-americans/",
     "language": "zh-CN",
     "pageType": "BlogPosting",
-    "title": "2026年适合美国人退休的国家 | IGA Law Firm",
+    "title": "美国人海外退休：国家与居留条件比较 | IGA",
     "description": "探索美国人的退休目的地，比较签证、医疗保健、生活成本和税收，并仔细研究在土耳其退休的情况。",
     "canonical": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/",
     "alternates": [
@@ -9315,7 +9315,7 @@
       "type": "article",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/",
-      "title": "2026年适合美国人退休的国家 | IGA Law Firm",
+      "title": "美国人海外退休：国家与居留条件比较 | IGA",
       "description": "探索美国人的退休目的地，比较签证、医疗保健、生活成本和税收，并仔细研究在土耳其退休的情况。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -9354,7 +9354,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/#webpage",
           "url": "https://igalawfirm.com/zh/blog/best-countries-to-retire-in-for-americans/",
-          "name": "2026年适合美国人退休的国家 | IGA Law Firm",
+          "name": "美国人海外退休：国家与居留条件比较 | IGA",
           "description": "探索美国人的退休目的地，比较签证、医疗保健、生活成本和税收，并仔细研究在土耳其退休的情况。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -9400,7 +9400,7 @@
     "path": "/ar/blog/best-countries-to-retire-in-for-americans/",
     "language": "ar",
     "pageType": "BlogPosting",
-    "title": "أفضل البلدان للتقاعد للأمريكيين (2026) | IGA Law Firm",
+    "title": "تقاعد الأمريكيين بالخارج: مقارنة البلدان والإقامة | IGA",
     "description": "استكشف وجهات التقاعد للأمريكيين، ومقارنة التأشيرات والرعاية الصحية وتكاليف المعيشة والضرائب، مع إلقاء نظرة فاحصة على التقاعد في تركيا.",
     "canonical": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/",
     "alternates": [
@@ -9430,7 +9430,7 @@
       "type": "article",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/",
-      "title": "أفضل البلدان للتقاعد للأمريكيين (2026) | IGA Law Firm",
+      "title": "تقاعد الأمريكيين بالخارج: مقارنة البلدان والإقامة | IGA",
       "description": "استكشف وجهات التقاعد للأمريكيين، ومقارنة التأشيرات والرعاية الصحية وتكاليف المعيشة والضرائب، مع إلقاء نظرة فاحصة على التقاعد في تركيا.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
@@ -9469,7 +9469,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/#webpage",
           "url": "https://igalawfirm.com/ar/blog/best-countries-to-retire-in-for-americans/",
-          "name": "أفضل البلدان للتقاعد للأمريكيين (2026) | IGA Law Firm",
+          "name": "تقاعد الأمريكيين بالخارج: مقارنة البلدان والإقامة | IGA",
           "description": "استكشف وجهات التقاعد للأمريكيين، ومقارنة التأشيرات والرعاية الصحية وتكاليف المعيشة والضرائب، مع إلقاء نظرة فاحصة على التقاعد في تركيا.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -9515,8 +9515,8 @@
     "path": "/en/blog/citizenship-by-investment-programs/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
-    "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+    "title": "Citizenship by Investment Programs: 2026 Comparison | IGA",
+    "description": "Compare citizenship by investment routes, family costs, holding periods and legal checks in Turkey and the Caribbean before choosing a programme.",
     "canonical": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
     "alternates": [
       {
@@ -9545,8 +9545,8 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
-      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
-      "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+      "title": "Citizenship by Investment Programs: 2026 Comparison | IGA",
+      "description": "Compare citizenship by investment routes, family costs, holding periods and legal checks in Turkey and the Caribbean before choosing a programme.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -9584,8 +9584,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage",
           "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
-          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA Law Firm",
-          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "name": "Citizenship by Investment Programs: 2026 Comparison | IGA",
+          "description": "Compare citizenship by investment routes, family costs, holding periods and legal checks in Turkey and the Caribbean before choosing a programme.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -9596,7 +9596,7 @@
           "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#article",
           "url": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/",
           "headline": "Citizenship by Investment Programs Compared: Turkey vs Caribbean vs Europe (2026)",
-          "description": "Compare 2026 citizenship by investment programs in Türkiye and the Caribbean, including investment routes, family eligibility and legal risks.",
+          "description": "Compare citizenship by investment routes, family costs, holding periods and legal checks in Turkey and the Caribbean before choosing a programme.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/citizenship-by-investment-programs/#webpage"
@@ -9604,7 +9604,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "datePublished": "2026-10-13"
+          "datePublished": "2026-10-13",
+          "dateModified": "2026-10-21"
         },
         {
           "@type": "BreadcrumbList",
@@ -9719,7 +9720,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "datePublished": "2026-10-13"
+          "datePublished": "2026-10-13",
+          "dateModified": "2026-10-21"
         },
         {
           "@type": "BreadcrumbList",
@@ -9834,7 +9836,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "datePublished": "2026-10-13"
+          "datePublished": "2026-10-13",
+          "dateModified": "2026-10-21"
         },
         {
           "@type": "BreadcrumbList",
@@ -9949,7 +9952,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "datePublished": "2026-10-13"
+          "datePublished": "2026-10-13",
+          "dateModified": "2026-10-21"
         },
         {
           "@type": "BreadcrumbList",
@@ -9976,7 +9980,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship for Chinese Families: 2026 Guide | IGA Law Firm",
-    "description": "For Chinese applicants, obtaining Turkish citizenship by investment is not only about making the required investment. In practice, one of the most important…",
+    "description": "Preparing a Turkish citizenship application for a Chinese family? Review Hukou, birth and marriage records, apostille formalities and document checks.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
     "alternates": [
       {
@@ -10006,7 +10010,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
       "title": "Turkish Citizenship for Chinese Families: 2026 Guide | IGA Law Firm",
-      "description": "For Chinese applicants, obtaining Turkish citizenship by investment is not only about making the required investment. In practice, one of the most important…",
+      "description": "Preparing a Turkish citizenship application for a Chinese family? Review Hukou, birth and marriage records, apostille formalities and document checks.",
       "image": "https://igalawfirm.com/public/assets/media/02c08b8b138736a9.jpg"
     },
     "structuredData": {
@@ -10045,7 +10049,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
           "name": "Turkish Citizenship for Chinese Families: 2026 Guide | IGA Law Firm",
-          "description": "For Chinese applicants, obtaining Turkish citizenship by investment is not only about making the required investment. In practice, one of the most important…",
+          "description": "Preparing a Turkish citizenship application for a Chinese family? Review Hukou, birth and marriage records, apostille formalities and document checks.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -10056,7 +10060,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
           "headline": "Turkish Citizenship for Chinese Citizens in 2026: Documents, Hukou, Apostille & Family Guide",
-          "description": "For Chinese applicants, obtaining Turkish citizenship by investment is not only about making the required investment. In practice, one of the most important…",
+          "description": "Preparing a Turkish citizenship application for a Chinese family? Review Hukou, birth and marriage records, apostille formalities and document checks.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/#webpage"
@@ -10436,7 +10440,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship Without a Birth Certificate? | IGA Law Firm",
-    "description": "For Chinese investors seeking Turkish citizenship through real estate or a bank deposit, a birth certificate is normally an important part of the…",
+    "description": "Missing a birth certificate for Turkish citizenship? Explore document alternatives for Chinese applicants and the checks needed for a family application.",
     "canonical": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
     "alternates": [
       {
@@ -10466,7 +10470,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
       "title": "Turkish Citizenship Without a Birth Certificate? | IGA Law Firm",
-      "description": "For Chinese investors seeking Turkish citizenship through real estate or a bank deposit, a birth certificate is normally an important part of the…",
+      "description": "Missing a birth certificate for Turkish citizenship? Explore document alternatives for Chinese applicants and the checks needed for a family application.",
       "image": "https://igalawfirm.com/public/assets/media/49ac13aea33ab71e.jpg"
     },
     "structuredData": {
@@ -10505,7 +10509,7 @@
           "@id": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/#webpage",
           "url": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
           "name": "Turkish Citizenship Without a Birth Certificate? | IGA Law Firm",
-          "description": "For Chinese investors seeking Turkish citizenship through real estate or a bank deposit, a birth certificate is normally an important part of the…",
+          "description": "Missing a birth certificate for Turkish citizenship? Explore document alternatives for Chinese applicants and the checks needed for a family application.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -10516,7 +10520,7 @@
           "@id": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/#article",
           "url": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/",
           "headline": "Can You Apply for Turkish Citizenship Without a Birth Certificate?",
-          "description": "For Chinese investors seeking Turkish citizenship through real estate or a bank deposit, a birth certificate is normally an important part of the…",
+          "description": "Missing a birth certificate for Turkish citizenship? Explore document alternatives for Chinese applicants and the checks needed for a family application.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/#webpage"
@@ -10895,7 +10899,7 @@
     "path": "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+    "title": "IGA Law Firm Opens Its New Office in Bebek, Istanbul",
     "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
     "canonical": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
@@ -10925,7 +10929,7 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+      "title": "IGA Law Firm Opens Its New Office in Bebek, Istanbul",
       "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
       "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
@@ -10964,7 +10968,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA Law Firm Opens New Bebek Office in Istanbul | IGA Law Firm",
+          "name": "IGA Law Firm Opens Its New Office in Bebek, Istanbul",
           "description": "IGA Law Firm welcomes clients to its new Bebek office in Istanbul. Meet the team and explore its citizenship, investment and private law services.",
           "inLanguage": "en",
           "isPartOf": {
@@ -11011,7 +11015,7 @@
     "path": "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "tr",
     "pageType": "BlogPosting",
-    "title": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+    "title": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki Yeni Ofisi",
     "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
     "canonical": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
@@ -11041,7 +11045,7 @@
       "type": "article",
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+      "title": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki Yeni Ofisi",
       "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
       "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
@@ -11080,7 +11084,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA Hukuk Bürosu Bebek’te Yeni Ofisini Açtı | İstanbul | IGA Law Firm",
+          "name": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki Yeni Ofisi",
           "description": "IGA Hukuk Bürosu’nun İstanbul Bebek’teki yeni ofisini, dört avukattan oluşan ekibini ve vatandaşlık, yatırım ile özel hukuk hizmetlerini tanıyın.",
           "inLanguage": "tr",
           "isPartOf": {
@@ -11127,7 +11131,7 @@
     "path": "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "zh-CN",
     "pageType": "BlogPosting",
-    "title": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+    "title": "IGA律师事务所伊斯坦布尔贝贝克新办公室",
     "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
     "canonical": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
@@ -11157,7 +11161,7 @@
       "type": "article",
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+      "title": "IGA律师事务所伊斯坦布尔贝贝克新办公室",
       "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
       "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
@@ -11196,7 +11200,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "IGA 律师事务所伊斯坦布尔贝贝克新办公室 | IGA Law Firm",
+          "name": "IGA律师事务所伊斯坦布尔贝贝克新办公室",
           "description": "了解 IGA 律师事务所位于伊斯坦布尔贝贝克的新办公室、四名律师组成的团队，以及入籍、投资和私法服务。",
           "inLanguage": "zh-CN",
           "isPartOf": {
@@ -11243,7 +11247,7 @@
     "path": "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "language": "ar",
     "pageType": "BlogPosting",
-    "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+    "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول",
     "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
     "canonical": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
     "alternates": [
@@ -11273,7 +11277,7 @@
       "type": "article",
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-      "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+      "title": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول",
       "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
       "image": "https://igalawfirm.com/public/assets/bebek-new-office-2026.avif"
     },
@@ -11312,7 +11316,7 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/#webpage",
           "url": "https://igalawfirm.com/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/",
-          "name": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول | IGA Law Firm",
+          "name": "مكتب IGA للمحاماة الجديد في بيبك، إسطنبول",
           "description": "تعرّف على مكتب IGA للمحاماة الجديد في بيبك بإسطنبول وفريقه المكوّن من أربعة محامين وخدماته في الجنسية والاستثمار والقانون الخاص.",
           "inLanguage": "ar",
           "isPartOf": {
@@ -11360,7 +11364,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship by Property: Lawyer’s Guide | IGA Law Firm",
-    "description": "Many investors believe that obtaining Turkish citizenship is simply a matter of purchasing a property worth at least USD 400,000. In practice, choosing the…",
+    "description": "Buying property for Turkish citizenship? Review title records, valuation, restrictions and transaction risks with this guide to independent legal checks.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
     "alternates": [
       {
@@ -11390,7 +11394,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
       "title": "Turkish Citizenship by Property: Lawyer’s Guide | IGA Law Firm",
-      "description": "Many investors believe that obtaining Turkish citizenship is simply a matter of purchasing a property worth at least USD 400,000. In practice, choosing the…",
+      "description": "Buying property for Turkish citizenship? Review title records, valuation, restrictions and transaction risks with this guide to independent legal checks.",
       "image": "https://igalawfirm.com/public/assets/media/e3621383673ede01.jpg"
     },
     "structuredData": {
@@ -11429,7 +11433,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
           "name": "Turkish Citizenship by Property: Lawyer’s Guide | IGA Law Firm",
-          "description": "Many investors believe that obtaining Turkish citizenship is simply a matter of purchasing a property worth at least USD 400,000. In practice, choosing the…",
+          "description": "Buying property for Turkish citizenship? Review title records, valuation, restrictions and transaction risks with this guide to independent legal checks.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -11440,7 +11444,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/",
           "headline": "Turkish Citizenship by Investment Through Real Estate: A Lawyer’s Guide to Choosing the Right Property in 2026",
-          "description": "Many investors believe that obtaining Turkish citizenship is simply a matter of purchasing a property worth at least USD 400,000. In practice, choosing the…",
+          "description": "Buying property for Turkish citizenship? Review title records, valuation, restrictions and transaction risks with this guide to independent legal checks.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/#webpage"
@@ -11819,8 +11823,8 @@
     "path": "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "A Guide to Turkish ID Card & Passport Appointments | IGA Law Firm",
-    "description": "Obtaining Turkish citizenship by investment is an exciting milestone. Upon receiving your Citizenship Approval Letter, you may book your Turkish ID card &…",
+    "title": "Turkish ID & Passport After Citizenship: Appointments | IGA",
+    "description": "Citizenship approved? Prepare for Turkish ID card and passport appointments with this guide to booking, documents and the next steps after approval.",
     "canonical": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
     "alternates": [
       {
@@ -11849,8 +11853,8 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
-      "title": "A Guide to Turkish ID Card & Passport Appointments | IGA Law Firm",
-      "description": "Obtaining Turkish citizenship by investment is an exciting milestone. Upon receiving your Citizenship Approval Letter, you may book your Turkish ID card &…",
+      "title": "Turkish ID & Passport After Citizenship: Appointments | IGA",
+      "description": "Citizenship approved? Prepare for Turkish ID card and passport appointments with this guide to booking, documents and the next steps after approval.",
       "image": "https://igalawfirm.com/public/assets/media/909d583791c730ee.jpg"
     },
     "structuredData": {
@@ -11888,8 +11892,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/#webpage",
           "url": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
-          "name": "A Guide to Turkish ID Card & Passport Appointments | IGA Law Firm",
-          "description": "Obtaining Turkish citizenship by investment is an exciting milestone. Upon receiving your Citizenship Approval Letter, you may book your Turkish ID card &…",
+          "name": "Turkish ID & Passport After Citizenship: Appointments | IGA",
+          "description": "Citizenship approved? Prepare for Turkish ID card and passport appointments with this guide to booking, documents and the next steps after approval.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -11900,7 +11904,7 @@
           "@id": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/#article",
           "url": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/",
           "headline": "A Guide to Turkish ID Card & Passport Appointments",
-          "description": "Obtaining Turkish citizenship by investment is an exciting milestone. Upon receiving your Citizenship Approval Letter, you may book your Turkish ID card &…",
+          "description": "Citizenship approved? Prepare for Turkish ID card and passport appointments with this guide to booking, documents and the next steps after approval.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/#webpage"
@@ -11908,6 +11912,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/909d583791c730ee.jpg"
         },
         {
@@ -12023,6 +12028,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/909d583791c730ee.jpg"
         },
         {
@@ -12138,6 +12144,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/909d583791c730ee.jpg"
         },
         {
@@ -12253,6 +12260,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/909d583791c730ee.jpg"
         },
         {
@@ -12280,7 +12288,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship via BES: Investor Guide | IGA Law Firm",
-    "description": "Foreign investors seeking both financial security and Turkish Citizenship through the Private Pension Scheme (BES) now have a highly attractive option. By…",
+    "description": "Considering BES for Turkish citizenship? Explore pension investment mechanics, the holding commitment and legal questions to review before investing.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
     "alternates": [
       {
@@ -12310,7 +12318,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
       "title": "Turkish Citizenship via BES: Investor Guide | IGA Law Firm",
-      "description": "Foreign investors seeking both financial security and Turkish Citizenship through the Private Pension Scheme (BES) now have a highly attractive option. By…",
+      "description": "Considering BES for Turkish citizenship? Explore pension investment mechanics, the holding commitment and legal questions to review before investing.",
       "image": "https://igalawfirm.com/public/assets/media/745bb79dc02d8909.jpg"
     },
     "structuredData": {
@@ -12349,7 +12357,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
           "name": "Turkish Citizenship via BES: Investor Guide | IGA Law Firm",
-          "description": "Foreign investors seeking both financial security and Turkish Citizenship through the Private Pension Scheme (BES) now have a highly attractive option. By…",
+          "description": "Considering BES for Turkish citizenship? Explore pension investment mechanics, the holding commitment and legal questions to review before investing.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -12360,7 +12368,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/",
           "headline": "Turkish Citizenship through the Private Pension Scheme (BES)",
-          "description": "Foreign investors seeking both financial security and Turkish Citizenship through the Private Pension Scheme (BES) now have a highly attractive option. By…",
+          "description": "Considering BES for Turkish citizenship? Explore pension investment mechanics, the holding commitment and legal questions to review before investing.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/#webpage"
@@ -12368,6 +12376,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/745bb79dc02d8909.jpg"
         },
         {
@@ -12483,6 +12492,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/745bb79dc02d8909.jpg"
         },
         {
@@ -12598,6 +12608,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/745bb79dc02d8909.jpg"
         },
         {
@@ -12713,6 +12724,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/745bb79dc02d8909.jpg"
         },
         {
@@ -13200,7 +13212,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship and Name Selection for Investors | IGA Law Firm",
-    "description": "When people discuss Turkish Citizenship by Investment, the conversation usually focuses on the minimum investment threshold, processing times, visa-free…",
+    "description": "Considering a Turkish name when applying for citizenship? Read about name selection, identity records and practical questions to discuss before filing.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
     "alternates": [
       {
@@ -13230,7 +13242,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
       "title": "Turkish Citizenship and Name Selection for Investors | IGA Law Firm",
-      "description": "When people discuss Turkish Citizenship by Investment, the conversation usually focuses on the minimum investment threshold, processing times, visa-free…",
+      "description": "Considering a Turkish name when applying for citizenship? Read about name selection, identity records and practical questions to discuss before filing.",
       "image": "https://igalawfirm.com/public/assets/media/3f9b5212c9e359a8.png"
     },
     "structuredData": {
@@ -13269,7 +13281,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
           "name": "Turkish Citizenship and Name Selection for Investors | IGA Law Firm",
-          "description": "When people discuss Turkish Citizenship by Investment, the conversation usually focuses on the minimum investment threshold, processing times, visa-free…",
+          "description": "Considering a Turkish name when applying for citizenship? Read about name selection, identity records and practical questions to discuss before filing.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -13280,7 +13292,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/",
           "headline": "Turkish Citizenship by Investment and Turkish Name Selection: An Overlooked Advantage for International Investors",
-          "description": "When people discuss Turkish Citizenship by Investment, the conversation usually focuses on the minimum investment threshold, processing times, visa-free…",
+          "description": "Considering a Turkish name when applying for citizenship? Read about name selection, identity records and practical questions to discuss before filing.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/#webpage"
@@ -13288,6 +13300,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/3f9b5212c9e359a8.png"
         },
         {
@@ -13403,6 +13416,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/3f9b5212c9e359a8.png"
         },
         {
@@ -13518,6 +13532,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/3f9b5212c9e359a8.png"
         },
         {
@@ -13633,6 +13648,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/3f9b5212c9e359a8.png"
         },
         {
@@ -13660,7 +13676,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkey Tax and Inheritance Rules for Investors | IGA Law Firm",
-    "description": "Turkey has introduced one of the most significant tax incentives in recent years for foreign investors, high-net-worth individuals, entrepreneurs, and…",
+    "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification.",
     "canonical": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
     "alternates": [
       {
@@ -13690,7 +13706,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
       "title": "Turkey Tax and Inheritance Rules for Investors | IGA Law Firm",
-      "description": "Turkey has introduced one of the most significant tax incentives in recent years for foreign investors, high-net-worth individuals, entrepreneurs, and…",
+      "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification.",
       "image": "https://igalawfirm.com/public/assets/media/0eba21471346a40d.png"
     },
     "structuredData": {
@@ -13729,7 +13745,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
           "name": "Turkey Tax and Inheritance Rules for Investors | IGA Law Firm",
-          "description": "Turkey has introduced one of the most significant tax incentives in recent years for foreign investors, high-net-worth individuals, entrepreneurs, and…",
+          "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -13740,7 +13756,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/#article",
           "url": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/",
           "headline": "Turkey 20-Year Tax Exemption and 1% Inheritance Tax Advantage for Foreign Investors",
-          "description": "Turkey has introduced one of the most significant tax incentives in recent years for foreign investors, high-net-worth individuals, entrepreneurs, and…",
+          "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/#webpage"
@@ -14120,7 +14136,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Istanbul Areas Preferred by Property Investors (2026) | IGA Law Firm",
-    "description": "The Istanbul real estate market continues to attract significant international attention in 2026. Foreign investors are no longer focused solely on…",
+    "description": "Explore Istanbul neighbourhoods discussed by property investors in 2026, with location considerations and legal checks before choosing a property.",
     "canonical": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
     "alternates": [
       {
@@ -14150,7 +14166,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
       "title": "Istanbul Areas Preferred by Property Investors (2026) | IGA Law Firm",
-      "description": "The Istanbul real estate market continues to attract significant international attention in 2026. Foreign investors are no longer focused solely on…",
+      "description": "Explore Istanbul neighbourhoods discussed by property investors in 2026, with location considerations and legal checks before choosing a property.",
       "image": "https://igalawfirm.com/public/assets/media/334d7c2ce5498023.webp"
     },
     "structuredData": {
@@ -14189,7 +14205,7 @@
           "@id": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/#webpage",
           "url": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
           "name": "Istanbul Areas Preferred by Property Investors (2026) | IGA Law Firm",
-          "description": "The Istanbul real estate market continues to attract significant international attention in 2026. Foreign investors are no longer focused solely on…",
+          "description": "Explore Istanbul neighbourhoods discussed by property investors in 2026, with location considerations and legal checks before choosing a property.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -14200,7 +14216,7 @@
           "@id": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/#article",
           "url": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/",
           "headline": "Most Preferred Areas by Real Estate Investors in Istanbul 2026",
-          "description": "The Istanbul real estate market continues to attract significant international attention in 2026. Foreign investors are no longer focused solely on…",
+          "description": "Explore Istanbul neighbourhoods discussed by property investors in 2026, with location considerations and legal checks before choosing a property.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/#webpage"
@@ -14580,7 +14596,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship via BES: Allianz Funds and Strategy | IGA Law Firm",
-    "description": "Turkish citizenship by investment BES (Private Pension System) is a program that allows investors to obtain Turkish citizenship by investing a minimum of…",
+    "description": "Review Allianz BES fund and portfolio choices for Turkish citizenship, including the investment threshold, fund selection and legal checks before applying.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
     "alternates": [
       {
@@ -14610,7 +14626,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
       "title": "Turkish Citizenship via BES: Allianz Funds and Strategy | IGA Law Firm",
-      "description": "Turkish citizenship by investment BES (Private Pension System) is a program that allows investors to obtain Turkish citizenship by investing a minimum of…",
+      "description": "Review Allianz BES fund and portfolio choices for Turkish citizenship, including the investment threshold, fund selection and legal checks before applying.",
       "image": "https://igalawfirm.com/public/assets/media/c89d8f8595d3468e.jpg"
     },
     "structuredData": {
@@ -14649,7 +14665,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
           "name": "Turkish Citizenship via BES: Allianz Funds and Strategy | IGA Law Firm",
-          "description": "Turkish citizenship by investment BES (Private Pension System) is a program that allows investors to obtain Turkish citizenship by investing a minimum of…",
+          "description": "Review Allianz BES fund and portfolio choices for Turkish citizenship, including the investment threshold, fund selection and legal checks before applying.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -14660,7 +14676,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/",
           "headline": "Turkish Citizenship by Investment BES: Allianz Funds and Portfolio Strategy (2026 Guide)",
-          "description": "Turkish citizenship by investment BES (Private Pension System) is a program that allows investors to obtain Turkish citizenship by investing a minimum of…",
+          "description": "Review Allianz BES fund and portfolio choices for Turkish citizenship, including the investment threshold, fund selection and legal checks before applying.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/#webpage"
@@ -15040,7 +15056,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "QNB for Turkish Citizenship by Investment (2026) | IGA Law Firm",
-    "description": "QNB Bank Turkish Citizenship by Investment has become one of the most preferred options for international investors in 2026. When applying for Turkish…",
+    "description": "Considering a QNB bank deposit for Turkish citizenship? Explore account opening, the USD 500,000 threshold, holding commitment and application coordination.",
     "canonical": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
     "alternates": [
       {
@@ -15070,7 +15086,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
       "title": "QNB for Turkish Citizenship by Investment (2026) | IGA Law Firm",
-      "description": "QNB Bank Turkish Citizenship by Investment has become one of the most preferred options for international investors in 2026. When applying for Turkish…",
+      "description": "Considering a QNB bank deposit for Turkish citizenship? Explore account opening, the USD 500,000 threshold, holding commitment and application coordination.",
       "image": "https://igalawfirm.com/public/assets/media/92e2bae08b2af47f.png"
     },
     "structuredData": {
@@ -15109,7 +15125,7 @@
           "@id": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#webpage",
           "url": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
           "name": "QNB for Turkish Citizenship by Investment (2026) | IGA Law Firm",
-          "description": "QNB Bank Turkish Citizenship by Investment has become one of the most preferred options for international investors in 2026. When applying for Turkish…",
+          "description": "Considering a QNB bank deposit for Turkish citizenship? Explore account opening, the USD 500,000 threshold, holding commitment and application coordination.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -15120,7 +15136,7 @@
           "@id": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#article",
           "url": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
           "headline": "QNB Bank — Turkish Citizenship by Investment: Why Investors Choose QNB in 2026",
-          "description": "QNB Bank Turkish Citizenship by Investment has become one of the most preferred options for international investors in 2026. When applying for Turkish…",
+          "description": "Considering a QNB bank deposit for Turkish citizenship? Explore account opening, the USD 500,000 threshold, holding commitment and application coordination.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#webpage"
@@ -15270,7 +15286,7 @@
     "language": "zh-CN",
     "pageType": "BlogPosting",
     "title": "QNB银行存款申请土耳其国籍（2026） | IGA Law Firm",
-    "description": "考虑通过 QNB 通过银行存款获得土耳其公民身份吗？查看开户、500,000 美元门槛、持有期限和申请步骤。",
+    "description": "考虑通过QNB银行存款申请土耳其国籍？了解开户、50万美元门槛、三年持有要求及申请步骤。",
     "canonical": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
     "alternates": [
       {
@@ -15300,7 +15316,7 @@
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
       "title": "QNB银行存款申请土耳其国籍（2026） | IGA Law Firm",
-      "description": "考虑通过 QNB 通过银行存款获得土耳其公民身份吗？查看开户、500,000 美元门槛、持有期限和申请步骤。",
+      "description": "考虑通过QNB银行存款申请土耳其国籍？了解开户、50万美元门槛、三年持有要求及申请步骤。",
       "image": "https://igalawfirm.com/public/assets/media/92e2bae08b2af47f.png"
     },
     "structuredData": {
@@ -15339,7 +15355,7 @@
           "@id": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#webpage",
           "url": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
           "name": "QNB银行存款申请土耳其国籍（2026） | IGA Law Firm",
-          "description": "考虑通过 QNB 通过银行存款获得土耳其公民身份吗？查看开户、500,000 美元门槛、持有期限和申请步骤。",
+          "description": "考虑通过QNB银行存款申请土耳其国籍？了解开户、50万美元门槛、三年持有要求及申请步骤。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -15350,7 +15366,7 @@
           "@id": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#article",
           "url": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/",
           "headline": "QNB 银行存款入籍：投资者为何选择该银行",
-          "description": "考虑通过 QNB 通过银行存款获得土耳其公民身份吗？查看开户、500,000 美元门槛、持有期限和申请步骤。",
+          "description": "考虑通过QNB银行存款申请土耳其国籍？了解开户、50万美元门槛、三年持有要求及申请步骤。",
           "inLanguage": "zh-CN",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/#webpage"
@@ -15500,7 +15516,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship via Allianz BES: Fund Guide | IGA Law Firm",
-    "description": "The Turkish Citizenship BES Allianz model has become one of the most secure and institutional investment pathways for global investors, particularly those…",
+    "description": "Explore Allianz BES and gold funds for Turkish citizenship, with a focus on the investment requirement, fund risks and legal checks before committing funds.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
     "alternates": [
       {
@@ -15530,7 +15546,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
       "title": "Turkish Citizenship via Allianz BES: Fund Guide | IGA Law Firm",
-      "description": "The Turkish Citizenship BES Allianz model has become one of the most secure and institutional investment pathways for global investors, particularly those…",
+      "description": "Explore Allianz BES and gold funds for Turkish citizenship, with a focus on the investment requirement, fund risks and legal checks before committing funds.",
       "image": "https://igalawfirm.com/public/assets/media/8dc21f421cdddd51.png"
     },
     "structuredData": {
@@ -15569,7 +15585,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
           "name": "Turkish Citizenship via Allianz BES: Fund Guide | IGA Law Firm",
-          "description": "The Turkish Citizenship BES Allianz model has become one of the most secure and institutional investment pathways for global investors, particularly those…",
+          "description": "Explore Allianz BES and gold funds for Turkish citizenship, with a focus on the investment requirement, fund risks and legal checks before committing funds.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -15580,7 +15596,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/",
           "headline": "Turkish Citizenship by Investment via Allianz BES: Secure $500,000 Strategy with Gold Funds (2026)",
-          "description": "The Turkish Citizenship BES Allianz model has become one of the most secure and institutional investment pathways for global investors, particularly those…",
+          "description": "Explore Allianz BES and gold funds for Turkish citizenship, with a focus on the investment requirement, fund risks and legal checks before committing funds.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/#webpage"
@@ -15960,7 +15976,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship Property Sale After Three Years | IGA Law Firm",
-    "description": "Many investors who obtain Turkish Citizenship by Investment through real estate in Turkey ask the same question:",
+    "description": "Planning to sell your Turkish citizenship investment property after three years? Review the title restriction, sale process and tax questions first.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
     "alternates": [
       {
@@ -15990,7 +16006,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
       "title": "Turkish Citizenship Property Sale After Three Years | IGA Law Firm",
-      "description": "Many investors who obtain Turkish Citizenship by Investment through real estate in Turkey ask the same question:",
+      "description": "Planning to sell your Turkish citizenship investment property after three years? Review the title restriction, sale process and tax questions first.",
       "image": "https://igalawfirm.com/public/assets/media/7e3401eea6d69ce5.jpg"
     },
     "structuredData": {
@@ -16029,7 +16045,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
           "name": "Turkish Citizenship Property Sale After Three Years | IGA Law Firm",
-          "description": "Many investors who obtain Turkish Citizenship by Investment through real estate in Turkey ask the same question:",
+          "description": "Planning to sell your Turkish citizenship investment property after three years? Review the title restriction, sale process and tax questions first.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -16040,7 +16056,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
           "headline": "Turkish Citizenship Property Sale After 3 Years: How to Sell Your Property Investment",
-          "description": "Many investors who obtain Turkish Citizenship by Investment through real estate in Turkey ask the same question:",
+          "description": "Planning to sell your Turkish citizenship investment property after three years? Review the title restriction, sale process and tax questions first.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/#webpage"
@@ -16048,6 +16064,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/7e3401eea6d69ce5.jpg"
         },
         {
@@ -16163,6 +16180,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/7e3401eea6d69ce5.jpg"
         },
         {
@@ -16278,6 +16296,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/7e3401eea6d69ce5.jpg"
         },
         {
@@ -16393,6 +16412,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/7e3401eea6d69ce5.jpg"
         },
         {
@@ -16420,7 +16440,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship via BES: Route and Legal Process | IGA Law Firm",
-    "description": "The Turkey Citizenship by Investment BES Fund route has emerged as a strong alternative to real estate investment. Under Turkish law, investors may qualify…",
+    "description": "How does the BES route to Turkish citizenship work? Explore the pension investment structure, conformity process and legal stages of an application.",
     "canonical": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
     "alternates": [
       {
@@ -16450,7 +16470,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
       "title": "Turkish Citizenship via BES: Route and Legal Process | IGA Law Firm",
-      "description": "The Turkey Citizenship by Investment BES Fund route has emerged as a strong alternative to real estate investment. Under Turkish law, investors may qualify…",
+      "description": "How does the BES route to Turkish citizenship work? Explore the pension investment structure, conformity process and legal stages of an application.",
       "image": "https://igalawfirm.com/public/assets/media/ada27496ed95362d.jpg"
     },
     "structuredData": {
@@ -16489,7 +16509,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
           "name": "Turkish Citizenship via BES: Route and Legal Process | IGA Law Firm",
-          "description": "The Turkey Citizenship by Investment BES Fund route has emerged as a strong alternative to real estate investment. Under Turkish law, investors may qualify…",
+          "description": "How does the BES route to Turkish citizenship work? Explore the pension investment structure, conformity process and legal stages of an application.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -16500,7 +16520,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/#article",
           "url": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/",
           "headline": "Turkey Citizenship by Investment BES Fund Route: Legal Structure, Process & Recent Case",
-          "description": "The Turkey Citizenship by Investment BES Fund route has emerged as a strong alternative to real estate investment. Under Turkish law, investors may qualify…",
+          "description": "How does the BES route to Turkish citizenship work? Explore the pension investment structure, conformity process and legal stages of an application.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/#webpage"
@@ -16880,7 +16900,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Fund Investment for Turkish Citizenship: BES Structure | IGA Law Firm",
-    "description": "The fund investment for Turkish citizenship pathway based on the BES fund (Private Pension Investment System) has become an increasingly structured option…",
+    "description": "Understand the legal structure of BES fund investment for Turkish citizenship, the roles of relevant institutions, eligibility and the holding commitment.",
     "canonical": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
     "alternates": [
       {
@@ -16910,7 +16930,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
       "title": "Fund Investment for Turkish Citizenship: BES Structure | IGA Law Firm",
-      "description": "The fund investment for Turkish citizenship pathway based on the BES fund (Private Pension Investment System) has become an increasingly structured option…",
+      "description": "Understand the legal structure of BES fund investment for Turkish citizenship, the roles of relevant institutions, eligibility and the holding commitment.",
       "image": "https://igalawfirm.com/public/assets/media/dfd6c7b7e18afbb9.jpg"
     },
     "structuredData": {
@@ -16949,7 +16969,7 @@
           "@id": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/#webpage",
           "url": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
           "name": "Fund Investment for Turkish Citizenship: BES Structure | IGA Law Firm",
-          "description": "The fund investment for Turkish citizenship pathway based on the BES fund (Private Pension Investment System) has become an increasingly structured option…",
+          "description": "Understand the legal structure of BES fund investment for Turkish citizenship, the roles of relevant institutions, eligibility and the holding commitment.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -16960,7 +16980,7 @@
           "@id": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/#article",
           "url": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/",
           "headline": "Fund Investment for Turkish Citizenship: BES Legal Structure and Institutional Background",
-          "description": "The fund investment for Turkish citizenship pathway based on the BES fund (Private Pension Investment System) has become an increasingly structured option…",
+          "description": "Understand the legal structure of BES fund investment for Turkish citizenship, the roles of relevant institutions, eligibility and the holding commitment.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/#webpage"
@@ -17340,7 +17360,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship Bank Deposit: Three-Year Case Study | IGA Law Firm",
-    "description": "Many foreign investors believe that obtaining Turkish citizenship by investment means locking their money away with limited flexibility. This real-life case…",
+    "description": "Read a Turkish citizenship bank deposit case covering a USD 500,000 investment, the three-year holding period and withdrawal. Past returns are not guaranteed.",
     "canonical": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
     "alternates": [
       {
@@ -17370,7 +17390,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
       "title": "Turkish Citizenship Bank Deposit: Three-Year Case Study | IGA Law Firm",
-      "description": "Many foreign investors believe that obtaining Turkish citizenship by investment means locking their money away with limited flexibility. This real-life case…",
+      "description": "Read a Turkish citizenship bank deposit case covering a USD 500,000 investment, the three-year holding period and withdrawal. Past returns are not guaranteed.",
       "image": "https://igalawfirm.com/public/assets/media/2e66cde5fbeb572d.jpg"
     },
     "structuredData": {
@@ -17409,7 +17429,7 @@
           "@id": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/#webpage",
           "url": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
           "name": "Turkish Citizenship Bank Deposit: Three-Year Case Study | IGA Law Firm",
-          "description": "Many foreign investors believe that obtaining Turkish citizenship by investment means locking their money away with limited flexibility. This real-life case…",
+          "description": "Read a Turkish citizenship bank deposit case covering a USD 500,000 investment, the three-year holding period and withdrawal. Past returns are not guaranteed.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -17420,7 +17440,7 @@
           "@id": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/#article",
           "url": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/",
           "headline": "Bank Deposit for Turkish Citizenship: A $500,000 Investment Becomes $620,640",
-          "description": "Many foreign investors believe that obtaining Turkish citizenship by investment means locking their money away with limited flexibility. This real-life case…",
+          "description": "Read a Turkish citizenship bank deposit case covering a USD 500,000 investment, the three-year holding period and withdrawal. Past returns are not guaranteed.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/#webpage"
@@ -17800,7 +17820,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "BES for Turkish Citizenship: 10 Legal Questions (2026) | IGA Law Firm",
-    "description": "BES for Turkish citizenship has become one of the most structured and legally predictable investment routes for foreign investors applying for Turkish…",
+    "description": "Explore ten legal questions about BES for Turkish citizenship: investment eligibility, the USD 500,000 requirement, holding rules and family applications.",
     "canonical": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
     "alternates": [
       {
@@ -17830,7 +17850,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
       "title": "BES for Turkish Citizenship: 10 Legal Questions (2026) | IGA Law Firm",
-      "description": "BES for Turkish citizenship has become one of the most structured and legally predictable investment routes for foreign investors applying for Turkish…",
+      "description": "Explore ten legal questions about BES for Turkish citizenship: investment eligibility, the USD 500,000 requirement, holding rules and family applications.",
       "image": "https://igalawfirm.com/public/assets/media/a103a616a54d5469.jpg"
     },
     "structuredData": {
@@ -17869,7 +17889,7 @@
           "@id": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/#webpage",
           "url": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
           "name": "BES for Turkish Citizenship: 10 Legal Questions (2026) | IGA Law Firm",
-          "description": "BES for Turkish citizenship has become one of the most structured and legally predictable investment routes for foreign investors applying for Turkish…",
+          "description": "Explore ten legal questions about BES for Turkish citizenship: investment eligibility, the USD 500,000 requirement, holding rules and family applications.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -17880,7 +17900,7 @@
           "@id": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/#article",
           "url": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/",
           "headline": "BES for Turkish Citizenship (2026): 10 Key Legal Questions Answered by a Lawyer",
-          "description": "BES for Turkish citizenship has become one of the most structured and legally predictable investment routes for foreign investors applying for Turkish…",
+          "description": "Explore ten legal questions about BES for Turkish citizenship: investment eligibility, the USD 500,000 requirement, holding rules and family applications.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/#webpage"
@@ -18260,7 +18280,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship: Property vs Bank Deposit vs BES | IGA Law Firm",
-    "description": "Real Estate vs Bank Deposit vs BES for Turkish Citizenship is one of the most frequently asked questions by global investors considering the Turkish…",
+    "description": "Compare property, bank deposits and BES for Turkish citizenship, including investment thresholds, liquidity, risk and the legal process for each route.",
     "canonical": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
     "alternates": [
       {
@@ -18290,7 +18310,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
       "title": "Turkish Citizenship: Property vs Bank Deposit vs BES | IGA Law Firm",
-      "description": "Real Estate vs Bank Deposit vs BES for Turkish Citizenship is one of the most frequently asked questions by global investors considering the Turkish…",
+      "description": "Compare property, bank deposits and BES for Turkish citizenship, including investment thresholds, liquidity, risk and the legal process for each route.",
       "image": "https://igalawfirm.com/public/assets/media/c19ef58067d6737d.jpg"
     },
     "structuredData": {
@@ -18329,7 +18349,7 @@
           "@id": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#webpage",
           "url": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
           "name": "Turkish Citizenship: Property vs Bank Deposit vs BES | IGA Law Firm",
-          "description": "Real Estate vs Bank Deposit vs BES for Turkish Citizenship is one of the most frequently asked questions by global investors considering the Turkish…",
+          "description": "Compare property, bank deposits and BES for Turkish citizenship, including investment thresholds, liquidity, risk and the legal process for each route.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -18340,7 +18360,7 @@
           "@id": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#article",
           "url": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
           "headline": "Real Estate vs Bank Deposit vs BES for Turkish Citizenship: A Legal Comparison (2026)",
-          "description": "Real Estate vs Bank Deposit vs BES for Turkish Citizenship is one of the most frequently asked questions by global investors considering the Turkish…",
+          "description": "Compare property, bank deposits and BES for Turkish citizenship, including investment thresholds, liquidity, risk and the legal process for each route.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#webpage"
@@ -18490,7 +18510,7 @@
     "language": "zh-CN",
     "pageType": "BlogPosting",
     "title": "土耳其投资入籍比较：房产、存款与BES | IGA Law Firm",
-    "description": "通过财产、银行存款和 BES 比较土耳其公民身份：门槛、风险、流动性、时间安排和法律要求。",
+    "description": "比较通过房地产、银行存款和BES申请土耳其国籍的门槛、风险、流动性、时间安排及法律要求。",
     "canonical": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
     "alternates": [
       {
@@ -18520,7 +18540,7 @@
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
       "title": "土耳其投资入籍比较：房产、存款与BES | IGA Law Firm",
-      "description": "通过财产、银行存款和 BES 比较土耳其公民身份：门槛、风险、流动性、时间安排和法律要求。",
+      "description": "比较通过房地产、银行存款和BES申请土耳其国籍的门槛、风险、流动性、时间安排及法律要求。",
       "image": "https://igalawfirm.com/public/assets/media/c19ef58067d6737d.jpg"
     },
     "structuredData": {
@@ -18559,7 +18579,7 @@
           "@id": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#webpage",
           "url": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
           "name": "土耳其投资入籍比较：房产、存款与BES | IGA Law Firm",
-          "description": "通过财产、银行存款和 BES 比较土耳其公民身份：门槛、风险、流动性、时间安排和法律要求。",
+          "description": "比较通过房地产、银行存款和BES申请土耳其国籍的门槛、风险、流动性、时间安排及法律要求。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -18570,7 +18590,7 @@
           "@id": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#article",
           "url": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
           "headline": "土耳其入籍投资方式比较：房产、银行存款与 BES",
-          "description": "通过财产、银行存款和 BES 比较土耳其公民身份：门槛、风险、流动性、时间安排和法律要求。",
+          "description": "比较通过房地产、银行存款和BES申请土耳其国籍的门槛、风险、流动性、时间安排及法律要求。",
           "inLanguage": "zh-CN",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/#webpage"
@@ -18720,7 +18740,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship by Investment: 2026 Routes | IGA Law Firm",
-    "description": "The Turkish Citizenship by Investment 2026 program remains one of the most structured and regulated investment migration programs available to foreign…",
+    "description": "Explore the stages of a Turkish citizenship investment application in 2026, from selecting a qualifying route to family documents and legal coordination.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
     "alternates": [
       {
@@ -18750,7 +18770,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
       "title": "Turkish Citizenship by Investment: 2026 Routes | IGA Law Firm",
-      "description": "The Turkish Citizenship by Investment 2026 program remains one of the most structured and regulated investment migration programs available to foreign…",
+      "description": "Explore the stages of a Turkish citizenship investment application in 2026, from selecting a qualifying route to family documents and legal coordination.",
       "image": "https://igalawfirm.com/public/assets/media/df3e6ab79fd6856c.webp"
     },
     "structuredData": {
@@ -18789,7 +18809,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
           "name": "Turkish Citizenship by Investment: 2026 Routes | IGA Law Firm",
-          "description": "The Turkish Citizenship by Investment 2026 program remains one of the most structured and regulated investment migration programs available to foreign…",
+          "description": "Explore the stages of a Turkish citizenship investment application in 2026, from selecting a qualifying route to family documents and legal coordination.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -18800,7 +18820,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
           "headline": "Turkish Citizenship by Investment 2026: Legal Process & Investment Options",
-          "description": "The Turkish Citizenship by Investment 2026 program remains one of the most structured and regulated investment migration programs available to foreign…",
+          "description": "Explore the stages of a Turkish citizenship investment application in 2026, from selecting a qualifying route to family documents and legal coordination.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#webpage"
@@ -18950,7 +18970,7 @@
     "language": "zh-CN",
     "pageType": "BlogPosting",
     "title": "2026年土耳其投资入籍：途径与流程 | IGA Law Firm",
-    "description": "2026 年土耳其投资公民身份：比较合格途径、投资门槛、家庭资格和法律流程。",
+    "description": "了解2026年土耳其投资入籍的申请流程、合格投资途径、金额门槛及家庭成员资格。",
     "canonical": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
     "alternates": [
       {
@@ -18980,7 +19000,7 @@
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
       "title": "2026年土耳其投资入籍：途径与流程 | IGA Law Firm",
-      "description": "2026 年土耳其投资公民身份：比较合格途径、投资门槛、家庭资格和法律流程。",
+      "description": "了解2026年土耳其投资入籍的申请流程、合格投资途径、金额门槛及家庭成员资格。",
       "image": "https://igalawfirm.com/public/assets/media/df3e6ab79fd6856c.webp"
     },
     "structuredData": {
@@ -19019,7 +19039,7 @@
           "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#webpage",
           "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
           "name": "2026年土耳其投资入籍：途径与流程 | IGA Law Firm",
-          "description": "2026 年土耳其投资公民身份：比较合格途径、投资门槛、家庭资格和法律流程。",
+          "description": "了解2026年土耳其投资入籍的申请流程、合格投资途径、金额门槛及家庭成员资格。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -19030,7 +19050,7 @@
           "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#article",
           "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/",
           "headline": "2026年土耳其投资入籍：法律流程与投资方式",
-          "description": "2026 年土耳其投资公民身份：比较合格途径、投资门槛、家庭资格和法律流程。",
+          "description": "了解2026年土耳其投资入籍的申请流程、合格投资途径、金额门槛及家庭成员资格。",
           "inLanguage": "zh-CN",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/#webpage"
@@ -19180,7 +19200,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "CRS Reporting and Turkish Citizenship: Investor Guide | IGA Law Firm",
-    "description": "The Common Reporting Standard (CRS) is an international framework developed by the OECD for the automatic exchange of financial account information between…",
+    "description": "Explore how CRS financial account reporting relates to tax residence and Turkish citizenship, and what investors should discuss with their advisers.",
     "canonical": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
     "alternates": [
       {
@@ -19210,7 +19230,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
       "title": "CRS Reporting and Turkish Citizenship: Investor Guide | IGA Law Firm",
-      "description": "The Common Reporting Standard (CRS) is an international framework developed by the OECD for the automatic exchange of financial account information between…",
+      "description": "Explore how CRS financial account reporting relates to tax residence and Turkish citizenship, and what investors should discuss with their advisers.",
       "image": "https://igalawfirm.com/public/assets/media/24d2a86d1507fe50.webp"
     },
     "structuredData": {
@@ -19249,7 +19269,7 @@
           "@id": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/#webpage",
           "url": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
           "name": "CRS Reporting and Turkish Citizenship: Investor Guide | IGA Law Firm",
-          "description": "The Common Reporting Standard (CRS) is an international framework developed by the OECD for the automatic exchange of financial account information between…",
+          "description": "Explore how CRS financial account reporting relates to tax residence and Turkish citizenship, and what investors should discuss with their advisers.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -19260,7 +19280,7 @@
           "@id": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/#article",
           "url": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/",
           "headline": "CRS Reporting in Turkey & Turkish Citizenship by Investment: What Investors Should Know",
-          "description": "The Common Reporting Standard (CRS) is an international framework developed by the OECD for the automatic exchange of financial account information between…",
+          "description": "Explore how CRS financial account reporting relates to tax residence and Turkish citizenship, and what investors should discuss with their advisers.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/#webpage"
@@ -19268,6 +19288,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/24d2a86d1507fe50.webp"
         },
         {
@@ -19383,6 +19404,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/24d2a86d1507fe50.webp"
         },
         {
@@ -19498,6 +19520,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/24d2a86d1507fe50.webp"
         },
         {
@@ -19613,6 +19636,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/24d2a86d1507fe50.webp"
         },
         {
@@ -19640,7 +19664,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "Turkish Citizenship Bank Deposit: Three-Year Case | IGA Law Firm",
-    "description": "One of the most frequently asked questions by foreign investors considering Turkish citizenship by bank deposit is simple:",
+    "description": "Read a Turkish citizenship bank deposit case study covering the three-year commitment and exit process. Individual results are not a forecast of returns.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
     "alternates": [
       {
@@ -19670,7 +19694,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
       "title": "Turkish Citizenship Bank Deposit: Three-Year Case | IGA Law Firm",
-      "description": "One of the most frequently asked questions by foreign investors considering Turkish citizenship by bank deposit is simple:",
+      "description": "Read a Turkish citizenship bank deposit case study covering the three-year commitment and exit process. Individual results are not a forecast of returns.",
       "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
     },
     "structuredData": {
@@ -19709,7 +19733,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "name": "Turkish Citizenship Bank Deposit: Three-Year Case | IGA Law Firm",
-          "description": "One of the most frequently asked questions by foreign investors considering Turkish citizenship by bank deposit is simple:",
+          "description": "Read a Turkish citizenship bank deposit case study covering the three-year commitment and exit process. Individual results are not a forecast of returns.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -19720,7 +19744,7 @@
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "headline": "Turkish Citizenship by Bank Deposit: A Real Case Study After 3 Years",
-          "description": "One of the most frequently asked questions by foreign investors considering Turkish citizenship by bank deposit is simple:",
+          "description": "Read a Turkish citizenship bank deposit case study covering the three-year commitment and exit process. Individual results are not a forecast of returns.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage"
@@ -19728,6 +19752,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
         },
         {
@@ -19755,7 +19780,7 @@
     "language": "tr",
     "pageType": "BlogPosting",
     "title": "Banka Mevduatıyla Türk Vatandaşlığı: 3 Yıllık Örnek | IGA Law Firm",
-    "description": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
+    "description": "Banka mevduatıyla Türk vatandaşlığında üç yıllık bir müvekkil örneğini ve çekim sürecini inceleyin. Geçmiş sonuçlar gelecekteki getiriyi garanti etmez.",
     "canonical": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
     "alternates": [
       {
@@ -19785,7 +19810,7 @@
       "locale": "tr_TR",
       "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
       "title": "Banka Mevduatıyla Türk Vatandaşlığı: 3 Yıllık Örnek | IGA Law Firm",
-      "description": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
+      "description": "Banka mevduatıyla Türk vatandaşlığında üç yıllık bir müvekkil örneğini ve çekim sürecini inceleyin. Geçmiş sonuçlar gelecekteki getiriyi garanti etmez.",
       "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
     },
     "structuredData": {
@@ -19824,7 +19849,7 @@
           "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage",
           "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "name": "Banka Mevduatıyla Türk Vatandaşlığı: 3 Yıllık Örnek | IGA Law Firm",
-          "description": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
+          "description": "Banka mevduatıyla Türk vatandaşlığında üç yıllık bir müvekkil örneğini ve çekim sürecini inceleyin. Geçmiş sonuçlar gelecekteki getiriyi garanti etmez.",
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -19835,7 +19860,7 @@
           "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#article",
           "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "headline": "Banka Mevduatıyla Türk Vatandaşlığı: Üç Yıl Sonraki Bir Vaka İncelemesi",
-          "description": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
+          "description": "Banka mevduatıyla Türk vatandaşlığında üç yıllık bir müvekkil örneğini ve çekim sürecini inceleyin. Geçmiş sonuçlar gelecekteki getiriyi garanti etmez.",
           "inLanguage": "tr",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage"
@@ -19843,6 +19868,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
         },
         {
@@ -19870,7 +19896,7 @@
     "language": "zh-CN",
     "pageType": "BlogPosting",
     "title": "银行存款申请土耳其国籍：三年案例 | IGA Law Firm",
-    "description": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
+    "description": "阅读土耳其银行存款入籍的三年期客户案例及提款流程。历史结果不代表未来收益，也不构成本金保障。",
     "canonical": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
     "alternates": [
       {
@@ -19900,7 +19926,7 @@
       "locale": "zh_CN",
       "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
       "title": "银行存款申请土耳其国籍：三年案例 | IGA Law Firm",
-      "description": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
+      "description": "阅读土耳其银行存款入籍的三年期客户案例及提款流程。历史结果不代表未来收益，也不构成本金保障。",
       "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
     },
     "structuredData": {
@@ -19939,7 +19965,7 @@
           "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage",
           "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "name": "银行存款申请土耳其国籍：三年案例 | IGA Law Firm",
-          "description": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
+          "description": "阅读土耳其银行存款入籍的三年期客户案例及提款流程。历史结果不代表未来收益，也不构成本金保障。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -19950,7 +19976,7 @@
           "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#article",
           "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "headline": "银行存款投资入籍：三年期真实案例分析",
-          "description": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
+          "description": "阅读土耳其银行存款入籍的三年期客户案例及提款流程。历史结果不代表未来收益，也不构成本金保障。",
           "inLanguage": "zh-CN",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage"
@@ -19958,6 +19984,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
         },
         {
@@ -19985,7 +20012,7 @@
     "language": "ar",
     "pageType": "BlogPosting",
     "title": "الإيداع البنكي للجنسية التركية: حالة مدتها ثلاث سنوات | IGA Law Firm",
-    "description": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
+    "description": "اقرأ حالة عميل للجنسية التركية بالإيداع البنكي خلال ثلاث سنوات وخطوات السحب. النتائج السابقة لا تضمن عوائد مستقبلية أو حماية رأس المال.",
     "canonical": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
     "alternates": [
       {
@@ -20015,7 +20042,7 @@
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
       "title": "الإيداع البنكي للجنسية التركية: حالة مدتها ثلاث سنوات | IGA Law Firm",
-      "description": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
+      "description": "اقرأ حالة عميل للجنسية التركية بالإيداع البنكي خلال ثلاث سنوات وخطوات السحب. النتائج السابقة لا تضمن عوائد مستقبلية أو حماية رأس المال.",
       "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
     },
     "structuredData": {
@@ -20054,7 +20081,7 @@
           "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage",
           "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "name": "الإيداع البنكي للجنسية التركية: حالة مدتها ثلاث سنوات | IGA Law Firm",
-          "description": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
+          "description": "اقرأ حالة عميل للجنسية التركية بالإيداع البنكي خلال ثلاث سنوات وخطوات السحب. النتائج السابقة لا تضمن عوائد مستقبلية أو حماية رأس المال.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -20065,7 +20092,7 @@
           "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#article",
           "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/",
           "headline": "الجنسية التركية عن طريق الإيداع البنكي: دراسة حالة حقيقية بعد 3 سنوات",
-          "description": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
+          "description": "اقرأ حالة عميل للجنسية التركية بالإيداع البنكي خلال ثلاث سنوات وخطوات السحب. النتائج السابقة لا تضمن عوائد مستقبلية أو حماية رأس المال.",
           "inLanguage": "ar",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/#webpage"
@@ -20073,6 +20100,7 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "dateModified": "2026-10-21",
           "image": "https://igalawfirm.com/public/assets/media/b4409c95e3ade621.jpg"
         },
         {
@@ -20100,7 +20128,7 @@
     "language": "en",
     "pageType": "BlogPosting",
     "title": "2025 TL Deposit Returns in USD for Foreign Investors | IGA Law Firm",
-    "description": "This report examines the cumulative USD-denominated performance of two groups of foreign investors in 2025:",
+    "description": "Review a historical 2025 analysis of TL deposits measured in US dollars, including assumptions, exchange-rate effects and investors exiting KKM.",
     "canonical": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
     "alternates": [
       {
@@ -20130,7 +20158,7 @@
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
       "title": "2025 TL Deposit Returns in USD for Foreign Investors | IGA Law Firm",
-      "description": "This report examines the cumulative USD-denominated performance of two groups of foreign investors in 2025:",
+      "description": "Review a historical 2025 analysis of TL deposits measured in US dollars, including assumptions, exchange-rate effects and investors exiting KKM.",
       "image": "https://igalawfirm.com/public/assets/media/f4ba35ea139138a0.jpg"
     },
     "structuredData": {
@@ -20169,7 +20197,7 @@
           "@id": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/#webpage",
           "url": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
           "name": "2025 TL Deposit Returns in USD for Foreign Investors | IGA Law Firm",
-          "description": "This report examines the cumulative USD-denominated performance of two groups of foreign investors in 2025:",
+          "description": "Review a historical 2025 analysis of TL deposits measured in US dollars, including assumptions, exchange-rate effects and investors exiting KKM.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -20180,7 +20208,7 @@
           "@id": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/#article",
           "url": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/",
           "headline": "2025 TL Deposit USD Yield: Return Analysis for Foreign Investors",
-          "description": "This report examines the cumulative USD-denominated performance of two groups of foreign investors in 2025:",
+          "description": "Review a historical 2025 analysis of TL deposits measured in US dollars, including assumptions, exchange-rate effects and investors exiting KKM.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/#webpage"
@@ -20905,7 +20933,7 @@
     "language": "ar",
     "pageType": "BlogPosting",
     "title": "التعاون بين تركيا والصين في مجال هجرة الاستثمار | IGA Law Firm",
-    "description": "تعرف على التعاون بين شركة IGA للمحاماة في مجال الهجرة الاستثمارية بين تركيا والصين واجتماعها مع وفد الهجرة في بكين.",
+    "description": "تعرّف إلى تعاون مكتب IGA في هجرة الاستثمار بين تركيا والصين ولقائه في إسطنبول بوفد جمعية الهجرة والدخول والخروج من بكين.",
     "canonical": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
     "alternates": [
       {
@@ -20935,7 +20963,7 @@
       "locale": "ar_AR",
       "url": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
       "title": "التعاون بين تركيا والصين في مجال هجرة الاستثمار | IGA Law Firm",
-      "description": "تعرف على التعاون بين شركة IGA للمحاماة في مجال الهجرة الاستثمارية بين تركيا والصين واجتماعها مع وفد الهجرة في بكين.",
+      "description": "تعرّف إلى تعاون مكتب IGA في هجرة الاستثمار بين تركيا والصين ولقائه في إسطنبول بوفد جمعية الهجرة والدخول والخروج من بكين.",
       "image": "https://igalawfirm.com/public/assets/media/169755526f25b2c1.jpg"
     },
     "structuredData": {
@@ -20974,7 +21002,7 @@
           "@id": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/#webpage",
           "url": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
           "name": "التعاون بين تركيا والصين في مجال هجرة الاستثمار | IGA Law Firm",
-          "description": "تعرف على التعاون بين شركة IGA للمحاماة في مجال الهجرة الاستثمارية بين تركيا والصين واجتماعها مع وفد الهجرة في بكين.",
+          "description": "تعرّف إلى تعاون مكتب IGA في هجرة الاستثمار بين تركيا والصين ولقائه في إسطنبول بوفد جمعية الهجرة والدخول والخروج من بكين.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -20985,7 +21013,7 @@
           "@id": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/#article",
           "url": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/",
           "headline": "بناء الجسور القانونية بين تركيا والصين في مجال هجرة الاستثمار",
-          "description": "تعرف على التعاون بين شركة IGA للمحاماة في مجال الهجرة الاستثمارية بين تركيا والصين واجتماعها مع وفد الهجرة في بكين.",
+          "description": "تعرّف إلى تعاون مكتب IGA في هجرة الاستثمار بين تركيا والصين ولقائه في إسطنبول بوفد جمعية الهجرة والدخول والخروج من بكين.",
           "inLanguage": "ar",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/ar/blog/turkey-china-immigration-investment-cooperation/#webpage"

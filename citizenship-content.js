@@ -142,14 +142,16 @@ const citizenshipContent = {
   lawyer: {
     en: {
       title: 'Turkish Citizenship by Investment Lawyer in Istanbul | IGA Law Firm',
-      description: 'IGA Law Firm advises investors and families on Turkish citizenship by investment, legal due diligence, application documents, conformity follow-up and filing.',
+      description: 'Discuss Turkish citizenship by investment with Istanbul lawyers. Get legal support with property checks, family documents and application coordination.',
       h1: 'Turkish Citizenship by Investment Lawyer in Istanbul',
       lead: 'IGA Law Firm provides legal support for investors and families pursuing Turkish citizenship through an eligible investment. Our role is to review legal risks, prepare the application file and coordinate the process with the relevant authorities.',
       sections: [
         ['Eligibility and route review', 'We discuss your goals and family circumstances, review the proposed investment route and identify legal questions to resolve before funds are committed.'],
         ['Investment due diligence', 'For property matters, our work may include title, annotation and transaction checks. For other routes, we review the legal documentation and coordinate with the relevant bank, fund or professional advisers as needed.'],
         ['Documents and application file', 'We coordinate identity and civil-status records, translations, notarisation, powers of attorney and the documents required for eligible family members.'],
-        ['Authority follow-up', 'We follow the relevant conformity determination and coordinate residence permit and citizenship application steps, keeping the client informed as the file progresses.']
+        ['Authority follow-up', 'We follow the relevant conformity determination and coordinate residence permit and citizenship application steps, keeping the client informed as the file progresses.'],
+        ['Planning your application timeline', 'We review the stages separately: investment checks, document preparation, conformity, residence and citizenship filing. Missing records, document legalisation and authority enquiries can affect timing. A timetable should be based on your file rather than a promised approval date.'],
+        ['After citizenship approval', 'We can discuss the next administrative steps for identity records and Turkish ID card or passport applications, alongside questions about the investment holding commitment. The scope of any follow-up work should be agreed at the outset.']
       ],
       faq: [
         ['When should I involve a citizenship lawyer?', 'A legal review is most useful before signing a purchase agreement or transferring investment funds, when transaction structure and document gaps can still be addressed.'],

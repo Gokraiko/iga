@@ -8,7 +8,7 @@ const template = fs.readFileSync('index.html', 'utf8');
 const out = path.join(__dirname, 'dist');
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(path.join(out, 'public'), { recursive: true });
-for (const file of ['app.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
+for (const file of ['seo-final-metadata.js', 'seo-optimizations.js', 'app.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
@@ -34,7 +34,7 @@ let document = createDocument();
 const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
-for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'app.js']) {
+for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'seo-final-metadata.js', 'app.js']) {
   vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
 }
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);
@@ -70,6 +70,7 @@ for (const route of routes) {
     const schema = document.headItems.find(item => item.id === 'iga-structured-data');
     const title = document.title;
     const description = meta?.content || '';
+    if (!title.trim() || !description.trim() || /[…]|\.\.\.$|:$/.test(description)) throw new Error(`Missing or truncated metadata: ${pathname}`);
     const canonical = origin + pathname;
     const alternateEntries = languages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
     const structuredData = JSON.parse(schema?.textContent || '{"@context":"https://schema.org","@graph":[]}');
@@ -116,5 +117,6 @@ fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap
 fs.writeFileSync(path.join(out, 'index.html'), `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"></head><body><a href="/en/">IGA Law Firm</a></body></html>`);
 fs.writeFileSync(path.join(out, '404.html'), '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><title>Page not found | IGA Law Firm</title></head><body><main><h1>Page not found</h1><p>This page is unavailable. Browse our current website:</p><nav><a href="/en/">English</a> · <a href="/tr/">Türkçe</a> · <a href="/zh/">中文</a> · <a href="/ar/">العربية</a></nav></main></body></html>');
 fs.copyFileSync('google3d5df3fe239ec586.html', path.join(out, 'en', 'google3d5df3fe239ec586.html'));
-require('./scripts/generate-redirects')(seoConfig);
+// Review builds must preserve the audited routing configuration.
+if (!process.argv.includes('--preserve-routing')) require('./scripts/generate-redirects')(seoConfig);
 console.log(`Generated ${routes.length * languages.length} localized pages and ${sitemap.length} sitemap entries`);

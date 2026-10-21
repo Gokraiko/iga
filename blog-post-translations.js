@@ -986,287 +986,307 @@ window.blogPostTranslations = {
       }
     },
     "step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Yatırım yoluyla Türk vatandaşlığının kazanılması heyecan verici bir dönüm noktasıdır. Vatandaşlık Onay Mektubunuzu aldıktan sonra, en yakın Türk Başkonsolosluğundan Türk Kimlik Kartı ve Türk Pasaport randevunuzu alabilirsiniz. Bu belgeler, Türk vatandaşı olarak haklarınızı tam olarak kullanabilmeniz için gereklidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Biliyor musun? Türkiye, dünya çapında büyükelçilikler, konsolosluklar ve daimi misyonlar da dahil olmak üzere şu anda 239'dan fazla diplomatik temsilciliğe sahip olan, en fazla diplomatik misyona sahip ülkeler arasında ilk sıralarda yer almaktadır. Bu, yurtdışındaki Türk vatandaşlarına yaygın destek ve erişilebilirlik sağlıyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu olarak müvekkillerimize sürecin her aşamasında rehberlik ediyoruz. Aşağıda, Konsolosluk sistemi üzerinden TC kimlik kartı randevunuzu ve pasaport başvurunuzu nasıl alacağınıza dair basitleştirilmiş bir genel bakış bulunmaktadır."
-        },
-        {
-          "type": "heading",
-          "text": "1. Türk Kimlik Kartı Randevusu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Resmi Konsolosluk web sitesini ziyaret edin ve “Randevu Al (Rezervasyon)”a tıklayın."
-        },
-        {
-          "type": "paragraph",
-          "text": "Seçin: Türk Vatandaşlarına Yönelik Konsolosluk Hizmetleri → Nüfus Müdürlüğü (Nüfus) → T.C. Kimlik Kartı (TCKK) Başvurusu (Doğum veya Değiştirme Nedeniyle)."
-        },
-        {
-          "type": "paragraph",
-          "text": "Aşağıdaki gibi cevap verin:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk Kimlik Numaranızı biliyor musunuz? → Evet"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mavi Kartınız var mı? → Hayır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Eski kimlik kartınızda TC Kimlik Numaranız yazıyor mu? → Hayır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık Onay Mektubunuzdaki ayrıntıları girin (kimlik numarası, doğum tarihi ve e-posta)."
-        },
-        {
-          "type": "paragraph",
-          "text": "E-postanıza gönderilen kodu kullanarak doğrulayın."
-        },
-        {
-          "type": "paragraph",
-          "text": "Adres kısmına sadece ikamet ettiğiniz şehrin yazılması yeterlidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Tercih ettiğiniz randevu tarih ve saatini seçin."
-        },
-        {
-          "type": "heading",
-          "text": "2. Türk Pasaportu Randevusu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Aynı Konsolosluk web sitesinde “Randevu Al (Randevu Al)” → “Yeni Pasaport Başvurusu” → “Şimdi Rezervasyon Yap” seçeneğine tıklayın."
-        },
-        {
-          "type": "paragraph",
-          "text": "Aşağıdaki gibi cevap verin:"
-        },
-        {
-          "type": "paragraph",
-          "text": "TC Kimlik Numaranızı biliyor musunuz? → Evet"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mavi Kartınız var mı? → Hayır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Eski kimlik kartınızda TC Kimlik Numaranız yazıyor mu? → Evet"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık Onay Mektubunuzdaki ayrıntıları girin."
-        },
-        {
-          "type": "paragraph",
-          "text": "E-posta kodunu kullanarak doğrulayın."
-        },
-        {
-          "type": "paragraph",
-          "text": "Adres bölümü → yalnızca gerekli şehir adı."
-        },
-        {
-          "type": "paragraph",
-          "text": "Müsait randevu tarih ve saatini seçin."
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu'ndan ipucu: Konsolosluk sistemi meşgul olabilir. En erken aralıklar için günde birkaç kez kontrol etmenizi öneririz."
-        },
-        {
-          "type": "heading",
-          "text": "Randevu İçin Gerekli Belgeler:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yabancı pasaportunuz"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bir adet biyometrik fotoğraf (50×60 mm, son altı ay içinde çekilmiş, arka fonu beyaz, desensiz, ICAO uyumlu)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yurtdışındaki ikamet adresinizi gösteren bir belge (elektrik faturası, kira sözleşmesi vb.)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık Onay Mektubunuzun çıktısı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Başvuru sahibi başına 350 ABD doları nakit (zorunlu konsolosluk ücreti)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yardıma mı ihtiyacınız var? Hukuk ekibimiz Türk vatandaşlığı yolculuğunuzun sorunsuz ve uyumlu bir süreç geçirmesini sağlar."
-        }
-      ],
-      "title": "Vatandaşlık Onayı Sonrası Türk Kimlik Kartı ve Pasaport Randevu Rehberi",
-      "seoTitle": "Türk Kimlik Kartı ve Pasaport Randevusu Rehberi",
-      "metaDescription": "Vatandaşlık onayı sonrası Türk kimlik kartı ve pasaport randevularının nasıl alınacağını, gerekli belgeleri ve son adımları öğrenin.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yatırım yoluyla Türk vatandaşlığının kazanılması heyecan verici bir dönüm noktasıdır. Vatandaşlık Onay Mektubunuzu aldıktan sonra, en yakın Türk Başkonsolosluğundan Türk Kimlik Kartı ve Türk Pasaport randevunuzu alabilirsiniz. Bu belgeler, Türk vatandaşı olarak haklarınızı tam olarak kullanabilmeniz için gereklidir."
     },
+    {
+      "type": "paragraph",
+      "text": "Yetkili dış temsilcilik ve güncel randevu/belge talimatları için resmî konsolosluk portalını kullanın."
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu olarak müvekkillerimize sürecin her aşamasında rehberlik ediyoruz. Aşağıda, Konsolosluk sistemi üzerinden TC kimlik kartı randevunuzu ve pasaport başvurunuzu nasıl alacağınıza dair basitleştirilmiş bir genel bakış bulunmaktadır."
+    },
+    {
+      "type": "heading",
+      "text": "1. Türk Kimlik Kartı Randevusu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Resmi Konsolosluk web sitesini ziyaret edin ve “Randevu Al (Rezervasyon)”a tıklayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seçin: Türk Vatandaşlarına Yönelik Konsolosluk Hizmetleri → Nüfus Müdürlüğü (Nüfus) → T.C. Kimlik Kartı (TCKK) Başvurusu (Doğum veya Değiştirme Nedeniyle)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her kimlik sorusunu gerçek kayıtlarınıza göre yanıtlayın; şu alanlar istenebilir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Size tahsis edildiyse Türk kimlik numaranız."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mavi Kart sahibi olup olmadığınız; doğru yanıtlayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Numaranın mevcut kimlik kartında bulunup bulunmadığı; hazır bir yanıt seçmeyin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık Onay Mektubunuzdaki ayrıntıları girin (kimlik numarası, doğum tarihi ve e-posta)."
+    },
+    {
+      "type": "paragraph",
+      "text": "E-postanıza gönderilen kodu kullanarak doğrulayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seçilen konsolosluk ve başvuru formunun istediği adres bilgilerini eksiksiz girin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tercih ettiğiniz randevu tarih ve saatini seçin."
+    },
+    {
+      "type": "heading",
+      "text": "2. Türk Pasaportu Randevusu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aynı Konsolosluk web sitesinde “Randevu Al (Randevu Al)” → “Yeni Pasaport Başvurusu” → “Şimdi Rezervasyon Yap” seçeneğine tıklayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her kimlik sorusunu gerçek kayıtlarınıza göre yanıtlayın; şu alanlar istenebilir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Size tahsis edildiyse Türk kimlik numaranız."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mavi Kart sahibi olup olmadığınız; doğru yanıtlayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Numaranın mevcut kimlik kartında bulunup bulunmadığı; hazır bir yanıt seçmeyin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık Onay Mektubunuzdaki ayrıntıları girin."
+    },
+    {
+      "type": "paragraph",
+      "text": "E-posta kodunu kullanarak doğrulayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Seçilen konsolosluk ve başvuru formunun istediği adres bilgilerini eksiksiz girin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Müsait randevu tarih ve saatini seçin."
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu'ndan ipucu: Konsolosluk sistemi meşgul olabilir. En erken aralıklar için günde birkaç kez kontrol etmenizi öneririz."
+    },
+    {
+      "type": "heading",
+      "text": "Randevu İçin Gerekli Belgeler:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yabancı pasaportunuz"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir adet biyometrik fotoğraf (50×60 mm, son altı ay içinde çekilmiş, arka fonu beyaz, desensiz, ICAO uyumlu)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yurtdışındaki ikamet adresinizi gösteren bir belge (elektrik faturası, kira sözleşmesi vb.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık Onay Mektubunuzun çıktısı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Başvurunuza ait güncel konsolosluk harcını, para birimini ve kabul edilen ödeme yöntemini kontrol edin. Her başvuru sahibi için geçerli sabit 350 USD nakit ücret yoktur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yardıma mı ihtiyacınız var? Hukuk ekibimiz Türk vatandaşlığı yolculuğunuzun sorunsuz ve uyumlu bir süreç geçirmesini sağlar."
+    },
+    {
+      "type": "source",
+      "text": "Resmî pasaport işlemleri ve harçlar",
+      "url": "https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/4"
+    },
+    {
+      "type": "source",
+      "text": "Resmî konsolosluk randevuları",
+      "url": "https://www.konsolosluk.gov.tr/"
+    }
+  ],
+  "title": "Vatandaşlık Onayı Sonrası Türk Kimlik Kartı ve Pasaport Randevu Rehberi",
+  "seoTitle": "Türk Kimlik Kartı ve Pasaport Randevusu Rehberi",
+  "metaDescription": "Vatandaşlık onayı sonrası Türk kimlik kartı ve pasaport randevularının nasıl alınacağını, gerekli belgeleri ve son adımları öğrenin.",
+  "imageAlts": {}
+},
     "turkish-citizenship-through-bes-a-secure-path-for-foreign-investors": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Bireysel Emeklilik Sistemi (BES) aracılığıyla hem finansal güvence hem de Türk Vatandaşlığı arayan yabancı yatırımcıların önünde artık oldukça cazip bir seçenek var. Yatırımcılar, uygun BES fonlarına en az üç yıl boyunca en az 500.000 ABD Doları (veya döviz karşılığı) tutarında yatırım yaparak Türk vatandaşlığına hak kazanabilirler."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bireysel Emeklilik Sistemi (BES) aracılığıyla Türk Vatandaşlığı, diğer yatırım yöntemlerinden farklı olarak bir pasaporttan çok daha fazlasını sunar; tasarruflarınızı korumak ve büyütmek için tasarlanmış, profesyonelce yönetilen ve şeffaf bir mali plan sunar."
-        },
-        {
-          "type": "heading",
-          "text": "BES Neden Güvenlidir? Seçim?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Sermaye Koruması: Altın ve gümüş gibi kıymetli madenlere endeksli fonlar da dahil olmak üzere BES fonları kur dalgalanmalarına karşı güvenlik sağlıyor. Döviz kurları değişse bile BES'e uygunluk yoluyla vatandaşlığınız etkilenmez."
-        },
-        {
-          "type": "paragraph",
-          "text": "Profesyonel Yönetim: Fonlar, Sigorta ve Bireysel Emeklilik Düzenleme ve Denetleme Kurumu'nun (SEDDK) sıkı gözetimi altında uzman portföy yöneticileri tarafından yönetilmektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Tam Şeffaflık: Yatırımcılar, özel bir mobil uygulama aracılığıyla portföylerinin performansını ve değerini her zaman, her yerde izleyebilir. This ensures real-time access to your investment status."
-        },
-        {
-          "type": "heading",
-          "text": "Türkiye Sigorta ve Türkiye Hayat Emeklilik: Güven ve Güvenilirlikte Liderler"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de Bireysel Emeklilik Programı (BES) aracılığıyla Türk Vatandaşlığı programı, ülkenin sigorta ve emeklilik sektörünün en güvenilir kuruluşlarından Türkiye Sigorta ve Türkiye Hayat Emeklilik tarafından desteklenmektedir. İkisi de kamu kurumu."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta, 41 bölge müdürlüğü, 3.900'ü aşkın acente ve brokerı, 5.000'i aşkın banka şubesi ve 3.000'e yakın uzman kadrosuyla devlet destekli bir liderdir. Listed on Borsa İstanbul, it plays a vital role in securing Turkey’s strategic assets."
-        },
-        {
-          "type": "paragraph",
-          "text": "14 milyondan fazla müşteriye hizmet veren Türkiye Hayat Emeklilik, Türkiye'nin en büyük hayat sigortası ve emeklilik sağlayıcısıdır. BES dahil ürünleri, bireyler ve aileler için uzun vadeli finansal güvenlik sağlamak üzere tasarlanmıştır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta ve Türkiye Hayat Emeklilik, güçlü teknolojik altyapıları ve yurt çapındaki varlığıyla BES sisteminin istikrarını, şeffaflığını ve güvenliğini garanti etmektedir."
-        },
-        {
-          "type": "heading",
-          "text": "Ek Ayrıcalıklar: BES Yaşam Kulüpleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "BES katılımcıları ayrıca özel bir müşteri sadakat programı olan Life Club'lara da erişim kazanıyor. Üyeler sağlık kontrollerinden spor salonu üyeliğine kadar sağlık hizmetleri, wellness, seyahat ve yaşam tarzı indirimlerinde ayrıcalıklardan yararlanıyor. Ayrıntılar için buraya tıklayın."
-        },
-        {
-          "type": "heading",
-          "text": "Adım Adım Süreç"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de banka hesabı açın"
-        },
-        {
-          "type": "paragraph",
-          "text": "Katkı payını belirlenen hesaba yatırın"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para birimini Türkiye Merkez Bankası (TCMB) aracılığıyla dönüştürün"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk Lirasını emeklilik şirketine aktarın"
-        },
-        {
-          "type": "paragraph",
-          "text": "Emeklilik sözleşmesi yürürlüğe giriyor ve 3 yıllık sabit kalma süresi başlıyor"
-        },
-        {
-          "type": "paragraph",
-          "text": "SEDDK tarafından verilen Uygunluk/Uygunluk Belgesi (yaklaşık 1 ay)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ana yatırımcı ve eşi (varsa) için yapılacak ikamet başvurusu - başvuru sahibinin Türkiye'de bulunmasını gerektirir"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık başvurusunu dosyalayın - başvuru sahibinin Türkiye'de bulunmasını gerektirir"
-        },
-        {
-          "type": "paragraph",
-          "text": "Düzeltilmiş Uygunluk Raporu Örneği"
-        },
-        {
-          "type": "heading",
-          "text": "Neden İGA Hukuk Bürosunu Seçmelisiniz?"
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu olarak, Bireysel Emeklilik Sistemi (BES) aracılığıyla Türk Vatandaşlığı konusunda uzmanlaşmış, Türkiye'nin önde gelen firmalarından biri olmaktan gurur duyuyoruz. Dünya çapında 800'den fazla aileye ve çok sayıda yatırımcıya yardımcı olma konusunda uzun yıllara dayanan deneyimimizle şunları sağlıyoruz:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk mevzuatına tam uyum"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta ve Türkiye Hayat Emeklilik ile doğrudan irtibat"
-        },
-        {
-          "type": "paragraph",
-          "text": "Banka hesabı açılışından vatandaşlık onayına kadar adım adım destek"
-        },
-        {
-          "type": "paragraph",
-          "text": "Detay odaklı ve güvenilir hukuki hizmetlerimiz, Türk vatandaşlığına giden yolculuğunuzun sorunsuz, güvenli ve başarılı olmasını sağlar."
-        },
-        {
-          "type": "heading",
-          "text": "Sonuç"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bireysel Emeklilik Sistemi (BES) aracılığıyla Türk Vatandaşlığı sadece bir yatırım değil, Türk vatandaşı olarak yeni hayatınıza giden güvenli bir köprüdür. Türkiye Sigorta ve Türkiye Hayat Emeklilik'in güveni ve İGA Hukuk Bürosu'nun uzman hukuki rehberliği ile hem finansal geleceğinizi hem de ailenizin vatandaşlığını güvenle güvence altına alabilirsiniz."
-        },
-        {
-          "type": "paragraph",
-          "text": "Daha fazla bilgi için bizimle iletişime geçin:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Tel: +90 530 426 46 12"
-        },
-        {
-          "type": "paragraph",
-          "text": "E-posta: info@igalawfirm.com"
-        }
-      ],
-      "title": "Bireysel Emeklilik Sistemi (BES) ile Türk Vatandaşlığı",
-      "seoTitle": "BES ile Türk Vatandaşlığı: Yatırımcı Rehberi",
-      "metaDescription": "BES üzerinden Türk vatandaşlığı seçeneğini yatırım tutarı, üç yıllık elde tutma süresi ve hukuki koşullarıyla inceleyin.",
-      "imageAlts": {
-        "/public/assets/media/01c09ef2797ef559.jpg": "BES ile Türk Vatandaşlığı – Türkiye Sigorta ve Türkiye Hayat Emeklilik ile İGA Hukuk Bürosu rehberliğinde güvenli yatırım"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bireysel Emeklilik Sistemi (BES) aracılığıyla hem finansal güvence hem de Türk Vatandaşlığı arayan yabancı yatırımcıların önünde artık oldukça cazip bir seçenek var. Yatırımcılar, uygun BES fonlarına en az üç yıl boyunca en az 500.000 ABD Doları (veya döviz karşılığı) tutarında yatırım yaparak Türk vatandaşlığına hak kazanabilirler."
     },
+    {
+      "type": "paragraph",
+      "text": "BES, profesyonel yönetilen emeklilik fonlarını kullanır. Fon seçimi, kesintiler ve piyasa riski vatandaşlık başvurusundan ayrı değerlendirilmelidir."
+    },
+    {
+      "type": "heading",
+      "text": "BES fon yönetimi ve yatırım riski"
+    },
+    {
+      "type": "paragraph",
+      "text": "BES fonları getiri veya kur dalgalanmalarına karşı koruma garantisi vermez. Kıymetli maden fonları da piyasa riski taşır. Fon dağılımını değiştirmeden veya çekimden önce fon uygunluğu ve vatandaşlık taahhüdüne uyum teyit edilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Profesyonel Yönetim: Fonlar, Sigorta ve Bireysel Emeklilik Düzenleme ve Denetleme Kurumu'nun (SEDDK) sıkı gözetimi altında uzman portföy yöneticileri tarafından yönetilmektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tam Şeffaflık: Yatırımcılar, özel bir mobil uygulama aracılığıyla portföylerinin performansını ve değerini her zaman, her yerde izleyebilir. This ensures real-time access to your investment status."
+    },
+    {
+      "type": "heading",
+      "text": "Emeklilik şirketi ve sözleşme kontrolleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye Hayat Emeklilik veya başka bir sağlayıcı değerlendirilirken ruhsatlı emeklilik şirketi, vatandaşlık koşullarına uygun plan ve mevcut fonlar teyit edilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Güncel şirket bilgileri ve sözleşme belgeleri doğrudan sağlayıcıdan kontrol edilmelidir; dağıtım ağının büyüklüğü yatırım güvenliği anlamına gelmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emeklilik şirketlerini EGM listesinden kontrol edin; seçilen plan ve fon belgelerini inceleyin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Düzenleme ve saklama mekanizmaları devletin getiriyi veya vatandaşlık onayını garanti ettiği anlamına gelmez."
+    },
+    {
+      "type": "heading",
+      "text": "Ek Ayrıcalıklar: BES Yaşam Kulüpleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sadakat avantajları sağlayıcının güncel programına ve sözleşmesine bağlıdır. Vatandaşlık uygunluğundan ayrıdır ve yararlanmadan önce teyit edilmelidir."
+    },
+    {
+      "type": "heading",
+      "text": "Adım Adım Süreç"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de banka hesabı açın"
+    },
+    {
+      "type": "paragraph",
+      "text": "Katkı payını belirlenen hesaba yatırın"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para birimini Türkiye Merkez Bankası (TCMB) aracılığıyla dönüştürün"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk Lirasını emeklilik şirketine aktarın"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emeklilik sözleşmesi yürürlüğe giriyor ve 3 yıllık sabit kalma süresi başlıyor"
+    },
+    {
+      "type": "paragraph",
+      "text": "SEDDK uygunluk tespiti alınır; süre dosyanın tamamlanmasına ve kurum incelemesine bağlıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ana yatırımcı ve eşi (varsa) için yapılacak ikamet başvurusu - başvuru sahibinin Türkiye'de bulunmasını gerektirir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık başvurusunu dosyalayın - başvuru sahibinin Türkiye'de bulunmasını gerektirir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Düzeltilmiş Uygunluk Raporu Örneği"
+    },
+    {
+      "type": "heading",
+      "text": "Neden İGA Hukuk Bürosunu Seçmelisiniz?"
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu olarak, Bireysel Emeklilik Sistemi (BES) aracılığıyla Türk Vatandaşlığı konusunda uzmanlaşmış, Türkiye'nin önde gelen firmalarından biri olmaktan gurur duyuyoruz. Dünya çapında 800'den fazla aileye ve çok sayıda yatırımcıya yardımcı olma konusunda uzun yıllara dayanan deneyimimizle şunları sağlıyoruz:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk mevzuatına tam uyum"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye Sigorta ve Türkiye Hayat Emeklilik ile doğrudan irtibat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Banka hesabı açılışından vatandaşlık onayına kadar adım adım destek"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hukuki hizmetlerimiz belge hazırlığı, uyum kontrolü ve başvuru koordinasyonunu kapsar; onay yetkili kurumların kararına bağlıdır."
+    },
+    {
+      "type": "heading",
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "text": "BES diğer uygun yatırım seçenekleriyle birlikte değerlendirilebilir. Plan seçiminden önce vatandaşlık şartları, fon riskleri, kesintiler ve çıkış koşulları incelenmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Daha fazla bilgi için bizimle iletişime geçin:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: +90 530 426 46 12"
+    },
+    {
+      "type": "paragraph",
+      "text": "E-posta: info@igalawfirm.com"
+    },
+    {
+      "type": "source",
+      "text": "EGM: emeklilik fonlarının riskleri",
+      "url": "https://www.egm.org.tr/bireysel-emeklilik/gonullu-bes-fonlari/"
+    },
+    {
+      "type": "source",
+      "text": "EGM: katılımcı bilgilendirme rehberi",
+      "url": "https://www.egm.org.tr/katilimcilar/katilimci-bilgilendirme-rehberi/"
+    }
+  ],
+  "title": "Bireysel Emeklilik Sistemi (BES) ile Türk Vatandaşlığı",
+  "seoTitle": "BES ile Türk Vatandaşlığı: Yatırımcı Rehberi",
+  "metaDescription": "BES üzerinden Türk vatandaşlığı seçeneğini yatırım tutarı, üç yıllık elde tutma süresi ve hukuki koşullarıyla inceleyin.",
+  "imageAlts": {
+    "/public/assets/media/01c09ef2797ef559.jpg": "BES ile Türk Vatandaşlığı – Türkiye Sigorta ve Türkiye Hayat Emeklilik ile İGA Hukuk Bürosu rehberliğinde güvenli yatırım"
+  }
+},
     "turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide": {
       "blocks": [
         {
@@ -1526,228 +1546,233 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "İnsanlar Yatırım Yoluyla Türk Vatandaşlığını tartışırken, sohbet genellikle minimum yatırım eşiğine, işlem sürelerine, vizesiz seyahat fırsatlarına veya emlak seçeneklerine odaklanıyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak Yatırım Yoluyla Türk Vatandaşlığı programının şaşırtıcı derecede az ilgi gören bir özelliği daha var: Vatandaşlık sürecinde yasal olarak bir Türk adı ve soyadını alabilme olanağı."
-        },
-        {
-          "type": "paragraph",
-          "text": "Pek çok uluslararası yatırımcı için, özellikle de Çin, Hong Kong ve Asya'nın diğer bölgelerinden gelenler için, Türk vatandaşlığının bu yönü pasaportun kendisi kadar ilgi çekici olabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığı başvurularını günlük olarak ele alan avukatlar olarak, Çinli yatırımcı müvekkillerimizin yaklaşık yarısının Türk vatandaşlığına geçerken Türk ad ve soyadlarını seçtiklerini, geri kalan yarısının ise orijinal isimlerini korumayı tercih ettiklerini gözlemledik."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu neden mümkün ve bazı yatırımcılar bunu neden önemli buluyor?"
-        },
-        {
-          "type": "heading",
-          "text": "Yabancı Yatırımcılar Türkçe İsim Seçebilir mi?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Evet."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yabancı bir yatırımcı yatırım yoluyla Türk vatandaşlığını kazandığında, Türk makamları vatandaşlık başvuru sürecinde başvuru sahibinin bir Türk adı ve soyadı seçmesine izin vermektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu seçenek yalnızca asıl başvuru sahibi için değil aynı zamanda uygun aile üyeleri için de geçerlidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Eşler Türkçe isim seçebilir, çocuklar Türkçe isim seçebilir, tüm aile ortak bir Türkçe soyadı alabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sonuç olarak, bir aileye orijinal pasaportlarında görünenden farklı Türkçe adlar taşıyan Türk kimlik kartları ve Türk pasaportları verilebilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Örneğin aslen adı Zhang Wei olan bir kişi, kendi ülkesinin kanunlarına göre asıl vatandaşlığını korurken, Mehmet Yılmaz gibi bir Türkçe ismi seçebilir."
-        },
-        {
-          "type": "heading",
-          "text": "Yeni bir Türk Hukuk Kuralı Oluşturma Kimlik"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığının benzersiz özelliklerinden biri, başarılı başvuru sahiplerine tam bir Türk tüzel kimliği verilmesidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Buna aşağıdakiler dahildir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk kimlik kartı"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk pasaportu"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk ulusal kimlik numarası"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk sivil sicil kaydı"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk vergi numarası"
-        },
-        {
-          "type": "paragraph",
-          "text": "• Türk adı ve soyadı (seçildiyse)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Hukuki açıdan birey, Türk vatandaşlığına bağlı tüm hak ve yükümlülüklerle birlikte Türk vatandaşı olur."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu, yatırımcıların oturma hakkı aldığı ancak vatandaş olmadığı birçok yatırım bazında ikamet programından önemli ölçüde farklıdır."
-        },
-        {
-          "type": "heading",
-          "text": "Bazı Çinli Yatırımcılar Neden Türkçe İsimler Seçiyor?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Her ailenin farklı nedenleri vardır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bazı yatırımcılar, uluslararası kullanımları daha kolay olduğu için Türkçe isimleri tercih ediyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Diğerleri, tüm Türkçe belgelerde tutarlı bir aile soyadı istiyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bazı yatırımcılar, yeni bir yasal kimlikle hayatlarının yeni bir bölümüne başlama fırsatını takdir ediyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Deneyimlerimize göre, tüm yatırımcılar tarafından paylaşılan tek bir motivasyon yok."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak, Türkçe isim seçimine ilgi özellikle Yatırım Yoluyla Çin Vatandaşlığı başvurusunda bulunanlar arasında yaygındır."
-        },
-        {
-          "type": "heading",
-          "text": "Türk Pasaportları ve Uluslararası Bankacılık"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bazı yatırımcıların Türkçe isim seçimine bu kadar önem vermesinin bir diğer nedeni de uluslararası bankacılıktır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığını kazanan birçok yatırımcı daha sonra Türkiye dışındaki finans kuruluşlarıyla kişisel veya ticari ilişkiler kurmaktadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Uygulamada bazı yatırımcılar banka hesabı açarken, şirket kurarken, mülk satın alırken veya uluslararası ticari faaliyetlerde bulunurken Türk pasaportlarını kullanmayı tercih ediyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Her finans kurumu kendi uyumluluk ve Müşterinizi Tanıyın (KYC) prosedürlerini uyguladığı için pratik sonuç ülkeye, kuruma ve bireysel koşullara göre değişir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu nedenle yatırımcılar, birden fazla vatandaşlığı ilgilendiren kararlar almadan önce daima profesyonel bankacılık, vergi ve hukuki danışmanlık almalıdır."
-        },
-        {
-          "type": "heading",
-          "text": "CRS ve Uluslararası Vergi Raporlaması Hakkında Peki?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu, en sık yanlış anlaşılan konulardan biridir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ortak Raporlama Standardı (CRS) gibi uluslararası raporlama sistemleri genellikle yalnızca kişinin adına veya pasaportuna dayanmaz."
-        },
-        {
-          "type": "paragraph",
-          "text": "Finansal kurumlar genellikle vergi mukimliği, vatandaşlık bilgileri, doğum tarihleri, kişisel sertifika formları ve uyumlulukla ilgili diğer bilgiler dahil olmak üzere birçok faktörü göz önünde bulundurur."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu nedenle yatırımcılar, ikinci bir vatandaşlık almanın veya farklı bir isim seçmenin vergi raporlama yükümlülüklerini otomatik olarak değiştireceğini varsaymaktan kaçınmalıdır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Her durum, ilgili yargı bölgelerindeki nitelikli vergi danışmanları tarafından ayrı ayrı incelenmelidir."
-        },
-        {
-          "type": "heading",
-          "text": "Yatırım Yoluyla Vatandaşlık Programları Arasında Nadir Bir Özellik"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım yoluyla vatandaşlık programlarının çoğu, yatırımcılara pasaport."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye daha kapsamlı bir şey sunuyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcılar, kendileri ve aileleri için Türkçe ad ve soyad alma fırsatı da dahil olmak üzere tamamen yeni bir Türk tüzel kimliğine sahip olabilecekler."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bazı yatırımcılar için bu özellik yalnızca semboliktir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bazıları için ise Yatırım Yoluyla Türk Vatandaşlığının en ilginç ve pratik yönlerinden biridir."
-        },
-        {
-          "type": "heading",
-          "text": "Sonuç"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığı sıklıkla gayrimenkul eşikleri, işlem süreleri ve seyahat faydaları açısından tartışılmaktadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak programın en ayırt edici özelliklerinden biri henüz nispeten bilinmiyor: Yasal olarak bir Türkçe isim seçebilme ve tam bir Türk tüzel kimliği oluşturabilme yeteneği."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığını düşünen yatırımcılar için programın bu benzersiz yönünü anlamak, Türk vatandaşı olmanın daha geniş hukuki ve pratik sonuçlarına ilişkin değerli bilgiler sağlayabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu olarak, vatandaşlık başvuruları, aile başvuruları, hukuki durum tespiti ve vatandaşlık sonrası prosedürler de dahil olmak üzere tüm Yatırım Yoluyla Türk Vatandaşlığı süreci boyunca uluslararası yatırımcılara ve ailelerine yardımcı oluyoruz."
-        }
-      ],
-      "title": "Yatırım Yoluyla Türk Vatandaşlığı ve Türkçe İsim Seçimi: Uluslararası Yatırımcılar için Önemli Bir Ayrıntı",
-      "seoTitle": "Türk Vatandaşlığında İsim Seçimi: Yatırımcı Rehberi",
-      "metaDescription": "Yatırım yoluyla Türk vatandaşlığında isim seçimi mümkün mü? Türkçe isim kurallarını ve aile başvurularındaki pratik noktaları inceleyin.",
-      "imageAlts": {
-        "/public/assets/media/0e07f0d84378c8f3.png": "Yatırım Yoluyla Türk Vatandaşlığı ve Türkçe isim seçim süreci",
-        "/public/assets/media/4698b35a5b181173.webp": "Türk pasaportu ile banka hesabı açılması"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "İnsanlar Yatırım Yoluyla Türk Vatandaşlığını tartışırken, sohbet genellikle minimum yatırım eşiğine, işlem sürelerine, vizesiz seyahat fırsatlarına veya emlak seçeneklerine odaklanıyor."
     },
+    {
+      "type": "paragraph",
+      "text": "Ancak Yatırım Yoluyla Türk Vatandaşlığı programının şaşırtıcı derecede az ilgi gören bir özelliği daha var: Vatandaşlık sürecinde yasal olarak bir Türk adı ve soyadını alabilme olanağı."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pek çok uluslararası yatırımcı için, özellikle de Çin, Hong Kong ve Asya'nın diğer bölgelerinden gelenler için, Türk vatandaşlığının bu yönü pasaportun kendisi kadar ilgi çekici olabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığı başvurularını günlük olarak ele alan avukatlar olarak, Çinli yatırımcı müvekkillerimizin yaklaşık yarısının Türk vatandaşlığına geçerken Türk ad ve soyadlarını seçtiklerini, geri kalan yarısının ise orijinal isimlerini korumayı tercih ettiklerini gözlemledik."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu neden mümkün ve bazı yatırımcılar bunu neden önemli buluyor?"
+    },
+    {
+      "type": "heading",
+      "text": "Yabancı Yatırımcılar Türkçe İsim Seçebilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yabancı bir yatırımcı yatırım yoluyla Türk vatandaşlığını kazandığında, Türk makamları vatandaşlık başvuru sürecinde başvuru sahibinin bir Türk adı ve soyadı seçmesine izin vermektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu seçenek yalnızca asıl başvuru sahibi için değil aynı zamanda uygun aile üyeleri için de geçerlidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eşler Türkçe isim seçebilir, çocuklar Türkçe isim seçebilir, tüm aile ortak bir Türkçe soyadı alabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonuç olarak, bir aileye orijinal pasaportlarında görünenden farklı Türkçe adlar taşıyan Türk kimlik kartları ve Türk pasaportları verilebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Örneğin başvuru sahibi Mehmet Yılmaz gibi bir Türkçe isim talep edebilir. Mevcut vatandaşlığa etkisi ilgili ülke hukukuna göre incelenmelidir; Türkçe isim seçmek diğer vatandaşlığı kendiliğinden korumaz."
+    },
+    {
+      "type": "heading",
+      "text": "Yeni bir Türk Hukuk Kuralı Oluşturma Kimlik"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığının benzersiz özelliklerinden biri, başarılı başvuru sahiplerine tam bir Türk tüzel kimliği verilmesidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Buna aşağıdakiler dahildir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk kimlik kartı"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk pasaportu"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk ulusal kimlik numarası"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk sivil sicil kaydı"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk vergi numarası"
+    },
+    {
+      "type": "paragraph",
+      "text": "• Türk adı ve soyadı (seçildiyse)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hukuki açıdan birey, Türk vatandaşlığına bağlı tüm hak ve yükümlülüklerle birlikte Türk vatandaşı olur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu, yatırımcıların oturma hakkı aldığı ancak vatandaş olmadığı birçok yatırım bazında ikamet programından önemli ölçüde farklıdır."
+    },
+    {
+      "type": "heading",
+      "text": "Bazı Çinli Yatırımcılar Neden Türkçe İsimler Seçiyor?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her ailenin farklı nedenleri vardır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bazı yatırımcılar, uluslararası kullanımları daha kolay olduğu için Türkçe isimleri tercih ediyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diğerleri, tüm Türkçe belgelerde tutarlı bir aile soyadı istiyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bazı yatırımcılar, yeni bir yasal kimlikle hayatlarının yeni bir bölümüne başlama fırsatını takdir ediyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Deneyimlerimize göre, tüm yatırımcılar tarafından paylaşılan tek bir motivasyon yok."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak, Türkçe isim seçimine ilgi özellikle Yatırım Yoluyla Çin Vatandaşlığı başvurusunda bulunanlar arasında yaygındır."
+    },
+    {
+      "type": "heading",
+      "text": "Türk Pasaportları ve Uluslararası Bankacılık"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bazı yatırımcıların Türkçe isim seçimine bu kadar önem vermesinin bir diğer nedeni de uluslararası bankacılıktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığını kazanan birçok yatırımcı daha sonra Türkiye dışındaki finans kuruluşlarıyla kişisel veya ticari ilişkiler kurmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uygulamada bazı yatırımcılar banka hesabı açarken, şirket kurarken, mülk satın alırken veya uluslararası ticari faaliyetlerde bulunurken Türk pasaportlarını kullanmayı tercih ediyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her finans kurumu kendi uyumluluk ve Müşterinizi Tanıyın (KYC) prosedürlerini uyguladığı için pratik sonuç ülkeye, kuruma ve bireysel koşullara göre değişir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu nedenle yatırımcılar, birden fazla vatandaşlığı ilgilendiren kararlar almadan önce daima profesyonel bankacılık, vergi ve hukuki danışmanlık almalıdır."
+    },
+    {
+      "type": "heading",
+      "text": "CRS ve Uluslararası Vergi Raporlaması Hakkında Peki?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu, en sık yanlış anlaşılan konulardan biridir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ortak Raporlama Standardı (CRS) gibi uluslararası raporlama sistemleri genellikle yalnızca kişinin adına veya pasaportuna dayanmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finansal kurumlar genellikle vergi mukimliği, vatandaşlık bilgileri, doğum tarihleri, kişisel sertifika formları ve uyumlulukla ilgili diğer bilgiler dahil olmak üzere birçok faktörü göz önünde bulundurur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu nedenle yatırımcılar, ikinci bir vatandaşlık almanın veya farklı bir isim seçmenin vergi raporlama yükümlülüklerini otomatik olarak değiştireceğini varsaymaktan kaçınmalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Her durum, ilgili yargı bölgelerindeki nitelikli vergi danışmanları tarafından ayrı ayrı incelenmelidir."
+    },
+    {
+      "type": "heading",
+      "text": "Yatırım Yoluyla Vatandaşlık Programları Arasında Nadir Bir Özellik"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım yoluyla vatandaşlık programlarının çoğu, yatırımcılara pasaport."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye daha kapsamlı bir şey sunuyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yeni Türkçe isim önceki kimlik kayıtlarıyla bağlantılı kalmalıdır. Eski kimliği, hukuki yükümlülükleri veya mali bildirim görevlerini ortadan kaldırmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bazı yatırımcılar için bu özellik yalnızca semboliktir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bazıları için ise Yatırım Yoluyla Türk Vatandaşlığının en ilginç ve pratik yönlerinden biridir."
+    },
+    {
+      "type": "heading",
+      "text": "Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığı sıklıkla gayrimenkul eşikleri, işlem süreleri ve seyahat faydaları açısından tartışılmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak programın en ayırt edici özelliklerinden biri henüz nispeten bilinmiyor: Yasal olarak bir Türkçe isim seçebilme ve tam bir Türk tüzel kimliği oluşturabilme yeteneği."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığını düşünen yatırımcılar için programın bu benzersiz yönünü anlamak, Türk vatandaşı olmanın daha geniş hukuki ve pratik sonuçlarına ilişkin değerli bilgiler sağlayabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu olarak, vatandaşlık başvuruları, aile başvuruları, hukuki durum tespiti ve vatandaşlık sonrası prosedürler de dahil olmak üzere tüm Yatırım Yoluyla Türk Vatandaşlığı süreci boyunca uluslararası yatırımcılara ve ailelerine yardımcı oluyoruz."
+    },
+    {
+      "type": "source",
+      "text": "NVİ: isim denklik belgesi",
+      "url": "https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/talimat/isimdenklikbelgesiislemleri.pdf"
+    }
+  ],
+  "title": "Yatırım Yoluyla Türk Vatandaşlığı ve Türkçe İsim Seçimi: Uluslararası Yatırımcılar için Önemli Bir Ayrıntı",
+  "seoTitle": "Türk Vatandaşlığında İsim Seçimi: Yatırımcı Rehberi",
+  "metaDescription": "Yatırım yoluyla Türk vatandaşlığında isim seçimi mümkün mü? Türkçe isim kurallarını ve aile başvurularındaki pratik noktaları inceleyin.",
+  "imageAlts": {
+    "/public/assets/media/0e07f0d84378c8f3.png": "Yatırım Yoluyla Türk Vatandaşlığı ve Türkçe isim seçim süreci",
+    "/public/assets/media/4698b35a5b181173.webp": "Türk pasaportu ile banka hesabı açılması"
+  }
+},
     "turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors": {
       "blocks": [
         {
@@ -3584,327 +3609,332 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey": {
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "3 Yıl Sonra Türk Vatandaşlığı Mülk Satışı: Tam Yasal Kılavuz"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de gayrimenkul yoluyla yatırım yaparak Türk vatandaşlığını kazanan birçok yatırımcı aynı soruyu soruyor:"
-        },
-        {
-          "type": "paragraph",
-          "text": "3 yıl sonra mülküme ne olacak? Kolayca satabilir miyim?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığı Programı kapsamında, Türkiye'de gayrimenkul satın alan yatırımcıların, gayrimenkulü en az 3 yıl süreyle ellerinde tutmaları gerekiyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu süre içerisinde Tapu Müdürlüğü tarafından tapuya satış yapılmama sınırlaması (3 yıl şerhi) konur."
-        },
-        {
-          "type": "paragraph",
-          "text": "Üç yıllık süre dolduğunda yatırımcı mülkü yasal olarak satabilir. Türkiye'de."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak 3 Yıl Sonra Türk Vatandaşlığı Mülk Satışı süreci birçok hukuki ve idari adımı içermektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Aşağıda eksiksiz bir kılavuz bulunmaktadır."
-        },
-        {
-          "type": "heading",
-          "text": "1. Yeni Bir Vekaletname Düzenlenmesi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığını aldıktan sonra yatırımcılara bir Türk kimlik numarası ve vatandaşlık statüsü verilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Çoğu durumda, mülk satış süreci için yeni bir Vekaletname (PoA) düzenlenmelidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu yeni Vekaletname şunları içerir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk Kimlik numarası"
-        },
-        {
-          "type": "paragraph",
-          "text": "Güncellenmiş ad ve soyadı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Orijinal Yetki Belgesi genellikle yabancı pasaport bilgileri kullanılarak verildiğinden, mülk satış prosedürleri için yeterli olmayabilir."
-        },
-        {
-          "type": "heading",
-          "text": "Uzaktan Vekalet Hizmeti"
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu, uzaktan Vekaletname hizmeti sunarak yatırımcıların Türkiye'ye gitmeden işlemlerini tamamlamalarına olanak tanıyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Vekaletname yerel aracılığıyla düzenlenebilir. apostil tasdikli noterler."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu, yurt dışından tüm mülk satış sürecinin verimli ve yasal olarak tamamlanmasına olanak tanır."
-        },
-        {
-          "type": "heading",
-          "text": "2. Tapu Kayıtlarının Güncellenmesi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlıktan sonra yatırımcılar aşağıdakilere sahip olabilir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "yeni bir Türkçe ad"
-        },
-        {
-          "type": "paragraph",
-          "text": "farklı bir soyadı"
-        },
-        {
-          "type": "paragraph",
-          "text": "güncellenmiş vatandaşlık durumu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Mülk satılmadan önce bu değişikliklerin Türkiye'deki Tapu kayıtlarında güncellenmesi gerekir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Aşağıdaki bilgiler düzeltilmiştir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "ad/soyad"
-        },
-        {
-          "type": "paragraph",
-          "text": "uyruk durumu"
-        },
-        {
-          "type": "paragraph",
-          "text": "TC kimlik numarası"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu güncelleme olmadan tapu satışı başvurusuna devam edilemez."
-        },
-        {
-          "type": "heading",
-          "text": "3. 3 Yıllık Kısıtlamanın Kaldırılması"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık programı kapsamında satın alınan mülklerin tapularında 3 yıl süreyle satış yapılmaması şerhi bulunmaktadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Elde tutma süresi tamamlandıktan sonra bu kısıtlamanın kaldırılması için Türkiye'deki Tapu Dairesine başvuruda bulunulur."
-        },
-        {
-          "type": "paragraph",
-          "text": "Mülk ancak şerh kaldırıldıktan sonra yasal olarak satılabilir."
-        },
-        {
-          "type": "heading",
-          "text": "4. Belediye Vergilerinin Kontrolü"
-        },
-        {
-          "type": "paragraph",
-          "text": "Gayrimenkul satışından önce aşağıdakiler dahil tüm belediye vergilerinin ödenmesi gerekir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Emlak Vergisi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Çevre Temizlik Vergisi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ödenmemiş bir borç varsa, Tapu Dairesi devri tamamlamaz."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bunları IGA Hukuk Bürosu yürütür. satış sürecini başlatmadan önce kontrol eder."
-        },
-        {
-          "type": "heading",
-          "text": "5. Satış Sözleşmesi İmzalama"
-        },
-        {
-          "type": "paragraph",
-          "text": "Alıcı bulunduğunda taraflar genellikle bir mülk satış sözleşmesi imzalar."
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu belgede aşağıdakiler tanımlanır:"
-        },
-        {
-          "type": "paragraph",
-          "text": "satış fiyatı"
-        },
-        {
-          "type": "paragraph",
-          "text": "ödeme koşulları"
-        },
-        {
-          "type": "paragraph",
-          "text": "tapu devir tarihi"
-        },
-        {
-          "type": "paragraph",
-          "text": "şirketin yasal sorumlulukları taraflar"
-        },
-        {
-          "type": "paragraph",
-          "text": "Düzgün hazırlanmış bir sözleşme, işlem sırasında yatırımcıyı korur."
-        },
-        {
-          "type": "heading",
-          "text": "6. Tapu Satış Başvurusu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Sözleşme imzalandıktan sonra Türkiye'deki Tapu Müdürlüğü'ne resmi satış başvurusu yapılır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Başvuru şunları içerir:"
-        },
-        {
-          "type": "paragraph",
-          "text": "alıcı ve satıcı bilgileri"
-        },
-        {
-          "type": "paragraph",
-          "text": "emlak ayrıntıları"
-        },
-        {
-          "type": "paragraph",
-          "text": "anlaşılan satış fiyatı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Tapu Dairesi daha sonra resmi tapu devri randevusunu planlar."
-        },
-        {
-          "type": "heading",
-          "text": "7. Türk Bankaları Aracılığıyla Güvenli Ödeme"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de mülk işlemleri genellikle satıcının Türk banka hesabına banka havalesi yoluyla tamamlanır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcıları koruyan temel bir kural vardır:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Satış tutarı alınana kadar tapu devri imzalanmaz."
-        },
-        {
-          "type": "paragraph",
-          "text": "Süreç genellikle şu şekilde işler:"
-        },
-        {
-          "type": "paragraph",
-          "text": "1️⃣ Alıcı parayı satıcının banka hesabına aktarır"
-        },
-        {
-          "type": "paragraph",
-          "text": "2️⃣ Ödeme onayı alınır"
-        },
-        {
-          "type": "paragraph",
-          "text": "3️⃣ Tapuda tapu devri imzalanır"
-        },
-        {
-          "type": "paragraph",
-          "text": "4️⃣ Mülkiyet resmi olarak alıcıya geçer"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu sistem her iki tarafı da finansal risk."
-        },
-        {
-          "type": "heading",
-          "text": "Neden IGA Hukuk Bürosu ile Çalışmalı?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığını aldıktan sonra mülk satmak, profesyonel hukuk yönetimi gerektirir."
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA Hukuk Bürosu, aşağıdakiler dahil olmak üzere kapsamlı hizmetler sağlar:"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Uzaktan Vekaletname hazırlama"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Tapu kayıt güncellemeleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 3 yıllık kısıtlamanın kaldırılması"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Belediye vergi kontrolleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Gayrimenkul satış sözleşmelerinin hazırlanması"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Tapu satış başvurularının yönetilmesi"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Güvenli ödeme denetimi"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ Uluslararası yatırımcılar için yasal rehberlik"
-        },
-        {
-          "type": "paragraph",
-          "text": "Merkezi İstanbul, Türkiye'de bulunan İGA Hukuk Bürosu, 2018 yılından bu yana Yatırım Yoluyla Türk Vatandaşlığı programında yüzlerce uluslararası yatırımcıya yardımcı olmuştur."
-        },
-        {
-          "type": "paragraph",
-          "text": "Müşterilerimize sadece satın alma aşamasında değil, çıkış ve mülk tasfiyesi aşamasında da destek veriyoruz."
-        }
-      ],
-      "title": "Vatandaşlık için Alınan Taşınmazı Üç Yıl Sonra Satmak",
-      "seoTitle": "Vatandaşlık İçin Alınan Gayrimenkulü 3 Yıl Sonra Satmak",
-      "metaDescription": "Türk vatandaşlığı için alınan gayrimenkul üç yıl sonra nasıl satılır? Tapu kısıtlaması, satış adımları ve hukuki kontrolleri öğrenin.",
-      "imageAlts": {
-        "/public/assets/media/047f8a13e7770761.png": "Vatandaşlık yatırımı hukuki sürecinin ardından Türk mülklerinin satışı Türkiye"
-      }
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "3 Yıl Sonra Türk Vatandaşlığı Mülk Satışı: Tam Yasal Kılavuz"
     },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de gayrimenkul yoluyla yatırım yaparak Türk vatandaşlığını kazanan birçok yatırımcı aynı soruyu soruyor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 yıl sonra mülküme ne olacak? Kolayca satabilir miyim?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığı Programı kapsamında, Türkiye'de gayrimenkul satın alan yatırımcıların, gayrimenkulü en az 3 yıl süreyle ellerinde tutmaları gerekiyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu süre içerisinde Tapu Müdürlüğü tarafından tapuya satış yapılmama sınırlaması (3 yıl şerhi) konur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Üç yıllık taahhüt dolduktan sonra, satış öncesinde vatandaşlık şerhinin terkini ve diğer tapu kısıtları kontrol edilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak 3 Yıl Sonra Türk Vatandaşlığı Mülk Satışı süreci birçok hukuki ve idari adımı içermektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aşağıda eksiksiz bir kılavuz bulunmaktadır."
+    },
+    {
+      "type": "heading",
+      "text": "1. Yeni Bir Vekaletname Düzenlenmesi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığını aldıktan sonra yatırımcılara bir Türk kimlik numarası ve vatandaşlık statüsü verilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Çoğu durumda, mülk satış süreci için yeni bir Vekaletname (PoA) düzenlenmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu yeni Vekaletname şunları içerir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk Kimlik numarası"
+    },
+    {
+      "type": "paragraph",
+      "text": "Güncellenmiş ad ve soyadı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Orijinal Yetki Belgesi genellikle yabancı pasaport bilgileri kullanılarak verildiğinden, mülk satış prosedürleri için yeterli olmayabilir."
+    },
+    {
+      "type": "heading",
+      "text": "Uzaktan Vekalet Hizmeti"
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu, uzaktan Vekaletname hizmeti sunarak yatırımcıların Türkiye'ye gitmeden işlemlerini tamamlamalarına olanak tanıyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yurt dışında düzenlenen vekâletname uygun konsolosluk veya noter/tasdik yoluyla hazırlanmalıdır; apostil imkânı ülkeye ve belgeye bağlıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu, yurt dışından tüm mülk satış sürecinin verimli ve yasal olarak tamamlanmasına olanak tanır."
+    },
+    {
+      "type": "heading",
+      "text": "2. Tapu Kayıtlarının Güncellenmesi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlıktan sonra yatırımcılar aşağıdakilere sahip olabilir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "yeni bir Türkçe ad"
+    },
+    {
+      "type": "paragraph",
+      "text": "farklı bir soyadı"
+    },
+    {
+      "type": "paragraph",
+      "text": "güncellenmiş vatandaşlık durumu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mülk satılmadan önce bu değişikliklerin Türkiye'deki Tapu kayıtlarında güncellenmesi gerekir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aşağıdaki bilgiler düzeltilmiştir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ad/soyad"
+    },
+    {
+      "type": "paragraph",
+      "text": "uyruk durumu"
+    },
+    {
+      "type": "paragraph",
+      "text": "TC kimlik numarası"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu güncelleme olmadan tapu satışı başvurusuna devam edilemez."
+    },
+    {
+      "type": "heading",
+      "text": "3. 3 Yıllık Kısıtlamanın Kaldırılması"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık programı kapsamında satın alınan mülklerin tapularında 3 yıl süreyle satış yapılmaması şerhi bulunmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Elde tutma süresi tamamlandıktan sonra bu kısıtlamanın kaldırılması için Türkiye'deki Tapu Dairesine başvuruda bulunulur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mülk ancak şerh kaldırıldıktan sonra yasal olarak satılabilir."
+    },
+    {
+      "type": "heading",
+      "text": "4. Belediye Vergilerinin Kontrolü"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkul satışından önce aşağıdakiler dahil tüm belediye vergilerinin ödenmesi gerekir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emlak Vergisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Çevre Temizlik Vergisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ödenmemiş vergiler ve hacizler belediye ile tapu müdürlüğünden kontrol edilmelidir. Devre etkileri borca ve kısıtın niteliğine göre değişir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bunları IGA Hukuk Bürosu yürütür. satış sürecini başlatmadan önce kontrol eder."
+    },
+    {
+      "type": "heading",
+      "text": "5. Satış Sözleşmesi İmzalama"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alıcı bulunduğunda taraflar genellikle bir mülk satış sözleşmesi imzalar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu belgede aşağıdakiler tanımlanır:"
+    },
+    {
+      "type": "paragraph",
+      "text": "satış fiyatı"
+    },
+    {
+      "type": "paragraph",
+      "text": "ödeme koşulları"
+    },
+    {
+      "type": "paragraph",
+      "text": "tapu devir tarihi"
+    },
+    {
+      "type": "paragraph",
+      "text": "şirketin yasal sorumlulukları taraflar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Düzgün hazırlanmış bir sözleşme, işlem sırasında yatırımcıyı korur."
+    },
+    {
+      "type": "heading",
+      "text": "6. Tapu Satış Başvurusu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sözleşme imzalandıktan sonra Türkiye'deki Tapu Müdürlüğü'ne resmi satış başvurusu yapılır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Başvuru şunları içerir:"
+    },
+    {
+      "type": "paragraph",
+      "text": "alıcı ve satıcı bilgileri"
+    },
+    {
+      "type": "paragraph",
+      "text": "emlak ayrıntıları"
+    },
+    {
+      "type": "paragraph",
+      "text": "anlaşılan satış fiyatı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tapu Dairesi daha sonra resmi tapu devri randevusunu planlar."
+    },
+    {
+      "type": "heading",
+      "text": "7. Türk Bankaları Aracılığıyla Güvenli Ödeme"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de mülk işlemleri genellikle satıcının Türk banka hesabına banka havalesi yoluyla tamamlanır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taraflar ve bankayla belgelenmiş bir ödeme ve tapu devir sırası belirleyin."
+    },
+    {
+      "type": "paragraph",
+      "text": "İmzadan önce bedelin tahsilini veya kararlaştırılan güvenli ödeme düzenini teyit edin; tapu müdürlüğünün ödemeyi garanti ettiğini varsaymayın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Süreç genellikle şu şekilde işler:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1️⃣ Alıcı parayı satıcının banka hesabına aktarır"
+    },
+    {
+      "type": "paragraph",
+      "text": "2️⃣ Ödeme onayı alınır"
+    },
+    {
+      "type": "paragraph",
+      "text": "3️⃣ Tapuda tapu devri imzalanır"
+    },
+    {
+      "type": "paragraph",
+      "text": "4️⃣ Mülkiyet resmi olarak alıcıya geçer"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu kontroller ödeme riskini yönetmeye yardımcı olur; tüm işlem risklerini ortadan kaldırmaz."
+    },
+    {
+      "type": "heading",
+      "text": "Neden IGA Hukuk Bürosu ile Çalışmalı?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığını aldıktan sonra mülk satmak, profesyonel hukuk yönetimi gerektirir."
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA Hukuk Bürosu, aşağıdakiler dahil olmak üzere kapsamlı hizmetler sağlar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Uzaktan Vekaletname hazırlama"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Tapu kayıt güncellemeleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 3 yıllık kısıtlamanın kaldırılması"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Belediye vergi kontrolleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Gayrimenkul satış sözleşmelerinin hazırlanması"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Tapu satış başvurularının yönetilmesi"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Güvenli ödeme denetimi"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ Uluslararası yatırımcılar için yasal rehberlik"
+    },
+    {
+      "type": "paragraph",
+      "text": "Merkezi İstanbul, Türkiye'de bulunan İGA Hukuk Bürosu, 2018 yılından bu yana Yatırım Yoluyla Türk Vatandaşlığı programında yüzlerce uluslararası yatırımcıya yardımcı olmuştur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Müşterilerimize sadece satın alma aşamasında değil, çıkış ve mülk tasfiyesi aşamasında da destek veriyoruz."
+    },
+    {
+      "type": "source",
+      "text": "TKGM: vatandaşlık taşınmaz kılavuzu",
+      "url": "https://www.tkgm.gov.tr/sites/default/files/2023-12/K%C4%B1lavuz_%2801.02.2023%29-Rev._22-11-2023.pdf"
+    }
+  ],
+  "title": "Vatandaşlık için Alınan Taşınmazı Üç Yıl Sonra Satmak",
+  "seoTitle": "Vatandaşlık İçin Alınan Gayrimenkulü 3 Yıl Sonra Satmak",
+  "metaDescription": "Türk vatandaşlığı için alınan gayrimenkul üç yıl sonra nasıl satılır? Tapu kısıtlaması, satış adımları ve hukuki kontrolleri öğrenin.",
+  "imageAlts": {
+    "/public/assets/media/047f8a13e7770761.png": "Vatandaşlık yatırımı hukuki sürecinin ardından Türk mülklerinin satışı Türkiye"
+  }
+},
     "turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes": {
       "blocks": [
         {
@@ -5401,343 +5431,358 @@ window.blogPostTranslations = {
       }
     },
     "crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "CRS nedir?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ortak Raporlama Standardı (CRS), katılımcı ülkeler arasında finansal hesap bilgilerinin otomatik değişimi için OECD tarafından geliştirilen uluslararası bir çerçevedir. Amacı, finansal kuruluşların yabancı vergi mükelleflerinin belirli hesap ayrıntılarını yerel vergi makamlarına bildirmelerini ve bu bilgilerin daha sonra ilgili yabancı makamlarla paylaşılmasını sağlayarak vergi kaçakçılığıyla mücadele etmektir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye CRS'nin bir parçası mı?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Evet. Türkiye, CRS çerçevesi kapsamında katılımcı bir yetki alanıdır. Türk finans kuruluşlarının, hesap sahiplerinin vergi mükellefiyetini belirlemeleri ve ilgili bilgileri CRS kurallarına uygun olarak raporlamaları gerekmektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de yatırım yaparsam banka bilgilerim kendi ülkemle paylaşılacak mı?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Potansiyel olarak evet, ancak yalnızca belirli koşullar altında. CRS raporlaması vatandaşlığa değil vergi mukimliğine dayanmaktadır. Türkiye'de bir banka hesabı açarsanız ve CRS'ye katılan başka bir ülkenin vergi mukimi olarak kabul edilirseniz, Türk bankaları belirli mali bilgileri Türk vergi makamlarına bildirebilir ve bu bilgiler daha sonra vergi mükellefi olduğunuz ülkenin vergi makamlarıyla paylaşılabilir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak:"
-        },
-        {
-          "type": "paragraph",
-          "text": "CRS her hesaba otomatik olarak uygulanmaz."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yalnızca CRS eşiklerini ve kriterlerini karşılayan raporlanabilir hesaplar raporlanabilir. dahil edilmiştir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Paylaşılan bilgiler belirli finansal verilerle (hesap bakiyesi ve belirli gelir gibi) sınırlıdır ve işlem düzeyinde ayrıntıları içermez."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığının alınması CRS raporlamasını tetikler mi?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Hayır. Yalnızca Türk vatandaşlığının kazanılması CRS raporlamasını tetiklemez. CRS hangi pasaporta sahip olduğunuza değil, nerede vergi mükellefi olduğunuza bakar. Türk vergi kanununa göre bireyler, genellikle bir takvim yılı içerisinde Türkiye'de en az 183 gün kalmaları halinde Türkiye'de vergi mükellefi olarak kabul edilmektedir. Bir kişinin belirli bir takvim yılında 183 günden daha az bir süre Türkiye'de ikamet etmesi durumunda, genellikle Türk vergi mukimi olarak kabul edilmez ve bu tek başına onun CRS pozisyonunu değiştirmez. Pek çok yatırımcı, başka bir ülkede vergi mükellefi olarak kalırken Türk vatandaşlığı elde ediyor ve vergi mukimliği durumları değişmediği sürece CRS'nin konumu değişmeden kalıyor."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığı yolları hakkında ne düşünüyorsunuz?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım Yoluyla Türk Vatandaşlığı (TCBI) programı kapsamında başvuran yatırımcılar için CRS'nin etkileri seçilen yatırım yoluna bağlıdır:"
-        },
-        {
-          "type": "paragraph",
-          "text": "1. Banka Mevduat Rotası"
-        },
-        {
-          "type": "paragraph",
-          "text": "Para bir Türk bankasına yatırıldıysa:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Uygulamada bankalar, iç uyum prosedürlerinin bir parçası olarak bir CRS kendi kendini sertifikalandırma formu talep edebilir; ancak çoğu durumda bu form, müşterinin beyan ettiği vergi mukimliği veya bankanın risk değerlendirmesi tarafından tetiklenmediği sürece ayrı olarak talep edilmez."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcı vergi mukimliğini beyan etmelidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Varsa raporlama, beyan edilen vergi mukimliği ve CRS kurallarına göre yapılacaktır."
-        },
-        {
-          "type": "paragraph",
-          "text": "2. Bireysel Emeklilik Sistemi (BES)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk Bireysel Emeklilik Sistemi düzenlemeye tabi ve fon bazlıdır. Emeklilik sağlayıcıları da CRS uyumluluk gerekliliklerini takip etse de raporlama hâlâ yatırımcının vergi mukimliğine ve hesabın CRS kapsamındaki sınıflandırmasına bağlıdır."
-        },
-        {
-          "type": "paragraph",
-          "text": "3. Gayrimenkul Yatırımı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de doğrudan gayrimenkul sahipliği CRS raporlamasına tabi değildir. CRS, taşınmaz mülkiyeti için değil, finansal hesaplar için geçerlidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Önümüzdeki yıllarda CRS'de değişiklik yapılması bekleniyor mu?"
-        },
-        {
-          "type": "paragraph",
-          "text": "CRS dünya çapında aşağıdaki tartışmalarla birlikte gelişmeye devam ediyor:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Genişletilmiş raporlama kapsamı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Artan veri standardizasyonu"
-        },
-        {
-          "type": "paragraph",
-          "text": "Daha sıkı uyumluluk gereklilikleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ancak bugün itibariyle, Yatırım Yoluyla Türk Vatandaşlığı ile özel olarak bağlantılı olarak ilan edilmiş bir muafiyet veya özel bir CRS rejimi mevcut değildir. Gelecekte yapılacak herhangi bir değişiklik, yalnızca Türkiye'ye değil, katılımcı yargı bölgelerine genel olarak uygulanacaktır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcılar için Önemli Çıkarımlar"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye, CRS'ye katılmaktadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "CRS raporlaması, vatandaşlığa değil, vergi mukimliğine dayanmaktadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de banka hesabı açmak, bilgilerin otomatik olarak paylaşıldığı anlamına gelmez."
-        },
-        {
-          "type": "paragraph",
-          "text": "Gayrimenkul yatırımları CRS kapsamı dışındadır."
-        },
-        {
-          "type": "paragraph",
-          "text": "Uygun yasal ve vergi planlaması esastır."
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu Nasıl Yardımcı Olur?"
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu, bankalarla koordinasyon, CRS kendi kendine sertifikalandırma prosedürleri ve uyum odaklı yapılanma da dahil olmak üzere Yatırım Yoluyla Türk Vatandaşlığı süreci boyunca yatırımcılara hukuki rehberlik sağlamaktadır. Vergi danışmanlığı hizmetleri sunmasak da şeffaflığı ve mevzuat uyumunu sağlamak için müşterilerimizin vergi danışmanlarıyla yakın işbirliği içinde çalışıyoruz."
-        }
-      ],
-      "title": "Türkiye’de CRS Bildirimi ve Yatırım Yoluyla Türk Vatandaşlığı",
-      "seoTitle": "CRS Bildirimi ve Türk Vatandaşlığı Yatırımı",
-      "metaDescription": "Türkiye’de banka hesabı olan yatırımcılar için CRS bilgi paylaşımını ve yabancı finansal hesapların nasıl raporlanabileceğini öğrenin.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "CRS nedir?"
     },
+    {
+      "type": "paragraph",
+      "text": "Ortak Raporlama Standardı (CRS), katılımcı ülkeler arasında finansal hesap bilgilerinin otomatik değişimi için OECD tarafından geliştirilen uluslararası bir çerçevedir. Amacı, finansal kuruluşların yabancı vergi mükelleflerinin belirli hesap ayrıntılarını yerel vergi makamlarına bildirmelerini ve bu bilgilerin daha sonra ilgili yabancı makamlarla paylaşılmasını sağlayarak vergi kaçakçılığıyla mücadele etmektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye CRS'nin bir parçası mı?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet. Türkiye, CRS çerçevesi kapsamında katılımcı bir yetki alanıdır. Türk finans kuruluşlarının, hesap sahiplerinin vergi mükellefiyetini belirlemeleri ve ilgili bilgileri CRS kurallarına uygun olarak raporlamaları gerekmektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de yatırım yaparsam banka bilgilerim kendi ülkemle paylaşılacak mı?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Potansiyel olarak evet, ancak yalnızca belirli koşullar altında. CRS raporlaması vatandaşlığa değil vergi mukimliğine dayanmaktadır. Türkiye'de bir banka hesabı açarsanız ve CRS'ye katılan başka bir ülkenin vergi mukimi olarak kabul edilirseniz, Türk bankaları belirli mali bilgileri Türk vergi makamlarına bildirebilir ve bu bilgiler daha sonra vergi mükellefi olduğunuz ülkenin vergi makamlarıyla paylaşılabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak:"
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS her hesaba otomatik olarak uygulanmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bildirim; hesap sınıfına, geçerli inceleme kurallarına ve ilgili bilgi değişimi ilişkisine bağlıdır; tüm hesapları muaf tutan tek bir eşik yoktur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Paylaşılan bilgiler belirli finansal verilerle (hesap bakiyesi ve belirli gelir gibi) sınırlıdır ve işlem düzeyinde ayrıntıları içermez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığının alınması CRS raporlamasını tetikler mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık tek başına CRS bildirimini belirlemez. Türkiye’de vergi mukimliği; yerleşim yeri, bir takvim yılında kesintisiz altı aydan fazla kalış, kanuni istisnalar ve yurt dışında çalışan bazı Türk vatandaşlarına ilişkin özel kurallarla değerlendirilir. Basit bir 183 gün hesabı yeterli değildir. Tüm vergi mukimlikleri, anlaşmalar ve hesap koşulları vergi danışmanıyla incelenmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığı yolları hakkında ne düşünüyorsunuz?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım Yoluyla Türk Vatandaşlığı (TCBI) programı kapsamında başvuran yatırımcılar için CRS'nin etkileri seçilen yatırım yoluna bağlıdır:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Banka Mevduat Rotası"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para bir Türk bankasına yatırıldıysa:"
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS kapsamındaki yeni hesap incelemesinde finansal kuruluş geçerli bir vergi mukimliği öz bildirimini almalı ve makul olup olmadığını değerlendirmelidir. Doğru bilgi verin ve değişiklikleri bildirin; Türk pasaportu bu beyanı isteğe bağlı hale getirmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcı vergi mukimliğini beyan etmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Varsa raporlama, beyan edilen vergi mukimliği ve CRS kurallarına göre yapılacaktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Bireysel Emeklilik Sistemi (BES)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk Bireysel Emeklilik Sistemi düzenlemeye tabi ve fon bazlıdır. Emeklilik sağlayıcıları da CRS uyumluluk gerekliliklerini takip etse de raporlama hâlâ yatırımcının vergi mukimliğine ve hesabın CRS kapsamındaki sınıflandırmasına bağlıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Gayrimenkul Yatırımı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de doğrudan gayrimenkul sahipliği CRS raporlamasına tabi değildir. CRS, taşınmaz mülkiyeti için değil, finansal hesaplar için geçerlidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Önümüzdeki yıllarda CRS'de değişiklik yapılması bekleniyor mu?"
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS dünya çapında aşağıdaki tartışmalarla birlikte gelişmeye devam ediyor:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Genişletilmiş raporlama kapsamı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Artan veri standardizasyonu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daha sıkı uyumluluk gereklilikleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık yatırımı tek başına CRS muafiyeti sağlamaz. İlgili yılın bildirim kuralları ve bilgi değişimi ilişkileri kontrol edilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcılar için Önemli Çıkarımlar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye, CRS'ye katılmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS raporlaması, vatandaşlığa değil, vergi mukimliğine dayanmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de banka hesabı açmak, bilgilerin otomatik olarak paylaşıldığı anlamına gelmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkul yatırımları CRS kapsamı dışındadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uygun yasal ve vergi planlaması esastır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu Nasıl Yardımcı Olur?"
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu, bankalarla koordinasyon, CRS öz bildirim prosedürleri ve uyum odaklı yapılanma da dahil olmak üzere Yatırım Yoluyla Türk Vatandaşlığı süreci boyunca yatırımcılara hukuki rehberlik sağlamaktadır. Vergi danışmanlığı hizmetleri sunmasak da şeffaflığı ve mevzuat uyumunu sağlamak için müşterilerimizin vergi danışmanlarıyla yakın işbirliği içinde çalışıyoruz."
+    },
+    {
+      "type": "source",
+      "text": "OECD: Türkiye vergi mukimliği",
+      "url": "https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-residency/Turkiye-Tax-Residency.pdf"
+    },
+    {
+      "type": "source",
+      "text": "OECD: Türkiye CRS uygulaması",
+      "url": "https://www.oecd.org/en/publications/peer-review-of-the-automatic-exchange-of-financial-account-information-2022_36e7cded-en/full-report/turkiye_771b151e.html"
+    }
+  ],
+  "title": "Türkiye’de CRS Bildirimi ve Yatırım Yoluyla Türk Vatandaşlığı",
+  "seoTitle": "CRS Bildirimi ve Türk Vatandaşlığı Yatırımı",
+  "metaDescription": "Türkiye’de banka hesabı olan yatırımcılar için CRS bilgi paylaşımını ve yabancı finansal hesapların nasıl raporlanabileceğini öğrenin.",
+  "imageAlts": {}
+},
     "turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Banka mevduatı yoluyla Türk vatandaşlığını düşünen yabancı yatırımcıların en sık sorduğu sorulardan biri basit:"
-        },
-        {
-          "type": "paragraph",
-          "text": "“3 yıl sonra parama ne olacak?”"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu yazıda, yatırım yoluyla vatandaşlık programı kapsamında bir Türk bankasına 500.000 ABD Doları tutarında yatırım yapan Tayvan vatandaşının yer aldığı gerçek bir müşteri vakasını ve zorunlu 3 yıllık elde tutma süresi sonrasındaki gerçek mali sonucu paylaşıyoruz."
-        },
-        {
-          "type": "paragraph",
-          "text": "İlk Yatırım Ayrıntıları:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım tutarı: 500.000 ABD Doları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım yolu: Banka mevduatı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Amaç: Yatırım yoluyla Türk vatandaşlığı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Elde tutma süresi: 3 yıl"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcının uyruğu: Tayvan"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım, sermayenin korunması ve para birimi optimizasyonuna güçlü bir şekilde odaklanılarak, Türk bankacılık ve vatandaşlık düzenlemelerine tam uyumlu olarak yapılandırıldı."
-        },
-        {
-          "type": "paragraph",
-          "text": "3 Yıllık Elde Tutma Dönemi"
-        },
-        {
-          "type": "paragraph",
-          "text": "3 yıllık dönem boyunca:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Ana para gerektiği gibi yasal olarak bloke kalmıştır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Fonlar düzenlenmiş Türkçe para biriminde tutulmuştur. bankalar"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vatandaşlık süreci sorunsuz bir şekilde tamamlandı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye'de herhangi bir ticari faaliyete gerek duyulmadı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Süreç profesyonel hukuki gözetim altında uçtan uca yönetildi."
-        },
-        {
-          "type": "paragraph",
-          "text": "3 Yıl Sonra Nihai Sonuç"
-        },
-        {
-          "type": "paragraph",
-          "text": "3 yıl sonunda:"
-        },
-        {
-          "type": "paragraph",
-          "text": "İlk yatırım: 500.000 ABD Doları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Nihai hesap bakiyesi: yaklaşık 600.000 ABD Doları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Net artış: +100.000 ABD Doları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yaklaşık ABD Doları bazında getiri: %20"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu sonuç, banka mevduatı yoluyla Türk vatandaşlığının, yalnızca vatandaşlığa uygunluk değil, aynı zamanda uygun şekilde yapılandırıldığında makul bir döviz getirisi ile sermayenin korunmasını da sağlayabileceğini açıkça göstermektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Destekleyici Kanıtlar (Düzeltildi)"
-        },
-        {
-          "type": "paragraph",
-          "text": "Müşterinin banka hesap bakiyesinin düzeltilmiş ekran görüntüsü"
-        },
-        {
-          "type": "paragraph",
-          "text": "Banka Mevduatı Vatandaşlığı Kimler İçin Uygundur?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu rota özellikle aşağıdaki yatırımcılar için uygundur:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Gayrimenkul yatırımı yapmamayı tercih eden"
-        },
-        {
-          "type": "paragraph",
-          "text": "Daha düşük operasyonel risk ve piyasa riski arayın"
-        },
-        {
-          "type": "paragraph",
-          "text": "Değer likiditesi ve mevzuat şeffaflığı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türk vatandaşlığına giden basit bir yol isteyin"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yasal Perspektif: Doğru Yapılanma Neden Önemlidir"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yanlış banka seçimi, para birimi kullanımı veya belgeler, hem vatandaşlık uygunluğunu hem de mali sonuçları tehlikeye atabilir. Bu nedenle banka mevduatıyla Türk vatandaşlığı sadece işlemsel bir süreç değil, her zaman hukuki ve mali bir proje olarak yönetilmelidir."
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu Yaklaşımı"
-        },
-        {
-          "type": "paragraph",
-          "text": "İGA Hukuk Bürosu olarak şunları sağlıyoruz:"
-        },
-        {
-          "type": "paragraph",
-          "text": "Tam uyumlu banka mevduatı vatandaşlık yapılanması"
-        },
-        {
-          "type": "paragraph",
-          "text": "Başvuru sürecinin uçtan uca hukuki yönetimi"
-        },
-        {
-          "type": "paragraph",
-          "text": "USD değerinin korunmasına stratejik odaklanma"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırımcı profiline göre özel çözümler"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu vaka, doğru stratejinin nasıl hem vatandaşlık onayına hem de korunan sermayeye yol açtığını göstermektedir."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sorumluluk reddi beyanı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu içerik gerçek bir geçmiş müşteri vakasına dayanmaktadır. Sonuçlar piyasa koşullarına ve bireysel koşullara bağlıdır ve gelecekteki yatırımlar için bir garanti teşkil etmez."
-        }
-      ],
-      "title": "Banka Mevduatıyla Türk Vatandaşlığı: Üç Yıl Sonraki Bir Vaka İncelemesi",
-      "seoTitle": "Banka Mevduatıyla Türk Vatandaşlığı: 3 Yıllık Örnek",
-      "metaDescription": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
-      "imageAlts": {
-        "/public/assets/media/f9ae0020b3ecd172.jpg": "500.000 USD'nin 3 yıl sonra yaklaşık 600.000 USD'ye ulaştığı banka mevduatı yoluyla gerçek Türk vatandaşlığını gösteren, düzeltilmiş banka hesap bakiyesi ekran görüntüsü."
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Banka mevduatı yoluyla Türk vatandaşlığını düşünen yabancı yatırımcıların en sık sorduğu sorulardan biri basit:"
     },
+    {
+      "type": "paragraph",
+      "text": "“3 yıl sonra parama ne olacak?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu yazıda, yatırım yoluyla vatandaşlık programı kapsamında bir Türk bankasına 500.000 ABD Doları tutarında yatırım yapan Tayvan vatandaşının yer aldığı gerçek bir müşteri vakasını ve zorunlu 3 yıllık elde tutma süresi sonrasındaki gerçek mali sonucu paylaşıyoruz."
+    },
+    {
+      "type": "paragraph",
+      "text": "İlk Yatırım Ayrıntıları:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım tutarı: 500.000 ABD Doları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım yolu: Banka mevduatı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amaç: Yatırım yoluyla Türk vatandaşlığı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Elde tutma süresi: 3 yıl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcının uyruğu: Tayvan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım, sermayenin korunması ve para birimi optimizasyonuna güçlü bir şekilde odaklanılarak, Türk bankacılık ve vatandaşlık düzenlemelerine tam uyumlu olarak yapılandırıldı."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Yıllık Elde Tutma Dönemi"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 yıllık dönem boyunca:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ana para gerektiği gibi yasal olarak bloke kalmıştır"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fonlar düzenlenmiş Türkçe para biriminde tutulmuştur. bankalar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık süreci sorunsuz bir şekilde tamamlandı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye'de herhangi bir ticari faaliyete gerek duyulmadı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Süreç profesyonel hukuki gözetim altında uçtan uca yönetildi."
+    },
+    {
+      "type": "paragraph",
+      "text": "3 Yıl Sonra Nihai Sonuç"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 yıl sonunda:"
+    },
+    {
+      "type": "paragraph",
+      "text": "İlk yatırım: 500.000 ABD Doları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nihai hesap bakiyesi: yaklaşık 600.000 ABD Doları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Net artış: +100.000 ABD Doları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yaklaşık ABD Doları bazında getiri: %20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu, geçmişteki tek bir müvekkil sonucudur; tipik getiri veya sermaye koruması garantisi değildir. Kur, faiz, vergi ve masraflar başka bir yatırımcının sonucunu değiştirebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Destekleyici Kanıtlar (Düzeltildi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Müşterinin banka hesap bakiyesinin düzeltilmiş ekran görüntüsü"
+    },
+    {
+      "type": "paragraph",
+      "text": "Banka Mevduatı Vatandaşlığı Kimler İçin Uygundur?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu rota özellikle aşağıdaki yatırımcılar için uygundur:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkul yatırımı yapmamayı tercih eden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Daha düşük operasyonel risk ve piyasa riski arayın"
+    },
+    {
+      "type": "paragraph",
+      "text": "Üç yıllık taahhüdü ve erken çekimin sonuçlarını değerlendirenler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığına giden basit bir yol isteyin"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yasal Perspektif: Doğru Yapılanma Neden Önemlidir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yanlış banka seçimi, para birimi kullanımı veya belgeler, hem vatandaşlık uygunluğunu hem de mali sonuçları tehlikeye atabilir. Bu nedenle banka mevduatıyla Türk vatandaşlığı sadece işlemsel bir süreç değil, her zaman hukuki ve mali bir proje olarak yönetilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu Yaklaşımı"
+    },
+    {
+      "type": "paragraph",
+      "text": "İGA Hukuk Bürosu olarak şunları sağlıyoruz:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tam uyumlu banka mevduatı vatandaşlık yapılanması"
+    },
+    {
+      "type": "paragraph",
+      "text": "Başvuru sürecinin uçtan uca hukuki yönetimi"
+    },
+    {
+      "type": "paragraph",
+      "text": "USD değerinin korunmasına stratejik odaklanma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcı profiline göre özel çözümler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hukuki koordinasyon mevzuata uyumu destekler; vatandaşlık onayını, sermayenin korunmasını veya belirli bir getiriyi garanti edemez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorumluluk reddi beyanı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu içerik gerçek bir geçmiş müşteri vakasına dayanmaktadır. Sonuçlar piyasa koşullarına ve bireysel koşullara bağlıdır ve gelecekteki yatırımlar için bir garanti teşkil etmez."
+    },
+    {
+      "type": "source",
+      "text": "Resmî mevduat şartı (müvekkil sonucunu doğrulayan kaynak değildir)",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    }
+  ],
+  "title": "Banka Mevduatıyla Türk Vatandaşlığı: Üç Yıl Sonraki Bir Vaka İncelemesi",
+  "seoTitle": "Banka Mevduatıyla Türk Vatandaşlığı: 3 Yıllık Örnek",
+  "metaDescription": "Banka mevduatıyla Türk vatandaşlığına ilişkin üç yıllık bir örnekte yatırım tutarını, getiriyi ve para çekme adımlarını inceleyin.",
+  "imageAlts": {
+    "/public/assets/media/f9ae0020b3ecd172.jpg": "500.000 USD'nin 3 yıl sonra yaklaşık 600.000 USD'ye ulaştığı banka mevduatı yoluyla gerçek Türk vatandaşlığını gösteren, düzeltilmiş banka hesap bakiyesi ekran görüntüsü."
+  }
+},
     "2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025": {
       "blocks": [
         {
@@ -7049,211 +7094,213 @@ window.blogPostTranslations = {
       "imageAlts": {}
     },
     "citizenship-by-investment-programs": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "Yatırım yoluyla vatandaşlık programları, ailelerin yıllar değil aylar içinde ikinci bir pasaport kazanmalarına olanak tanıyor. Bunun karşılığında ev sahibi ülkede nitelikli bir yatırım yaparlar. Seçenekler 2025'ten bu yana çok değişti. Avrupa son programını kapattı, Karayipler'de ise yeni bir düzenleyici var. Türkiye, büyük bir dolandırıcılık önleminin ardından kurallarını da sıkılaştırdı. Bu kılavuz, 2026 yılında yatırıma göre önde gelen vatandaşlık programlarını karşılaştırmaktadır. Maliyetleri, zaman çizelgelerini, pasaport gücünü ve yasal riskleri açıklamaktadır. Ayrıca programların başlık fiyatına göre değil toplam maliyete göre nasıl karşılaştırılacağını da gösterir. Herhangi bir temsilciyle konuşmadan önce bunu bir başlangıç ​​noktası olarak kullanın."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Yatırım Yoluyla Vatandaşlık Programları Nedir?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yatırım yoluyla vatandaşlık programları, onaylanmış bir yatırım karşılığında vatandaşlık verir. Yatırım bir devlet bağışı, gayrimenkul, tahvil veya işletme olabilir. Başvuru sahiplerinin genellikle öncelikle ülkede yaşamalarına gerek yoktur. Çoğu program dil veya tarih sınavlarını da atlar. Bunun yerine sıkı durum tespiti kontrollerine güveniyorlar. Hükümetler geçmişinizi, itibarınızı ve fon kaynağınızı inceler. Aileler genellikle tek dosya halinde birlikte başvuruda bulunabilirler. Eşler, çocuklar ve bazen de ebeveynler dahil edilebilir. Onaylanan başvuru sahipleri diğer vatandaşlarla aynı pasaportu alırlar. Bazı programlar biyometri veya yemin için kısa bir ziyaret gerektirir. Bu programlar yasaldır ancak kurallar ülkeler arasında büyük farklılıklar göstermektedir. Temel süreci anlamak karşılaştırmayı çok daha kolaylaştırır."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Süreç Nasıl Çalışır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Çoğu program benzer adımları takip eder. Öncelikle lisanslı bir acente veya avukat uygunluğunuzu inceler. Daha sonra doğum belgesi ve polis kayıtları gibi belgeleri toplarsınız. Pek çok makalenin apostil ve onaylı tercümeye ihtiyacı vardır. Daha sonra yatırımı yaparsınız veya program kurallarına göre rezerve edersiniz. Hükümet her yetişkin başvuru sahibi için durum tespiti kontrolleri yürütmektedir. Onaylanırsa yatırımı tamamlarsınız ve gereken yerde yemin edersiniz. Son olarak vatandaşlık belgesi alıyorsunuz ve pasaport başvurusunda bulunuyorsunuz. Tüm süreç yaklaşık üç ila on iki ay sürer. Gecikmeler genellikle eksik evraklardan veya fazladan özgeçmiş kontrollerinden kaynaklanır. Başlangıçta eksiksiz bir dosya en fazla zaman tasarrufu sağlar."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Bunları Kimler Düşünmeli"
-        },
-        {
-          "type": "paragraph",
-          "text": "Bu programlar hızlı bir şekilde daha fazla hareket kabiliyetine veya güvenliğe ihtiyaç duyan kişilere uygundur. İşletme sahipleri bunları uzun vize kuyrukları olmadan seyahat etmek için kullanıyor. Aileler ev koşullarının değişmesi durumunda bunları B Planı olarak kullanıyor. Bazı yatırımcılar bunları ABD E-2 gibi anlaşma vizelerine erişmek için kullanıyor. ABD'deki Çin vatandaşları sıklıkla bu E-2 rotasını arıyor. Diğerleri ise varlıklar ve gelecek nesiller için istikrarlı bir temel istiyor. Programlar AB'de ikamet hakkı arayan kişiler için daha az uygundur. Ayrıca kendi başlarına vergi avantajı da sunmuyorlar. Vergi sonuçları gerçekte nerede yaşadığınıza bağlıdır. Bir program seçmeden önce daima ana hedefinizi tanımlayın. Hedefiniz hangi özelliklerin en önemli olduğuna karar verir."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Yatırım Yoluyla Karayip Vatandaşlığı Programları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Beş Karayip eyaleti en iyi bilinen yatırım yoluyla vatandaşlık programlarını yürütüyor. Bunlar Dominika, Antigua ve Barbuda, Grenada, Saint Lucia ve St Kitts ve Nevis'tir. Beşi de uyumlaştırılmış minimum 200.000 dolarlık tabanı paylaşıyor. Yeni bir bölgesel düzenleyici olan ECCIRA artık onlar için ortak standartlar belirliyor. Amaç, daha güçlü durum tespiti ve ABD ve AB'ye daha fazla güven sağlamaktır. İşleme genellikle dört ila sekiz ay sürer. Çoğu programın onaylanmadan önce ziyaret edilmesine gerek yoktur. Antigua, vatandaşlıktan sonraki beş yıl içinde kısa bir süre kalmayı gerektirir. Beşi de çifte vatandaşlığı kabul ediyor. Pasaportları İngiltere ve Schengen bölgesine vizesiz seyahat imkanı sunuyor. Temel farklılıklar fiyat, aile kuralları ve anlaşma erişiminde yatmaktadır. Sonraki bölümlerde bu farklılıklar açıklanmaktadır."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Bağış ve Emlak Yolları"
-        },
-        {
-          "type": "paragraph",
-          "text": "Her Karayip programı bir bağış rotası ve bir emlak rotası sunar. Bağış ulusal bir fona gider ve iade edilmez. 2026'da Dominika'da tek başvuru sahibine yapılan bağışlar yaklaşık 200.000 dolardan başlıyor. Antigua yaklaşık 230.000 dolar, Grenada yaklaşık 235.000 dolar ve Saint Lucia yaklaşık 240.000 dolar istiyor. St Kitts ve Nevis yaklaşık 250.000 dolarla zirvede yer alıyor. Emlak rotaları genellikle 200.000 ila 325.000 ABD Doları arasında başlar. Yeniden satmadan önce mülkü birkaç yıl elinizde tutmanız gerekir. Onaylanan projeler genellikle otel veya tatil yeri paylaşımlarıdır. Yeniden satış değeri zayıf olabilir, bu nedenle bunları likit varlık olarak görmeyin. Aile büyüklüğü de nihai fiyatı önemli ölçüde değiştiriyor."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Pasaport Gücü ve E-2 Erişimi"
-        },
-        {
-          "type": "paragraph",
-          "text": "Karayip pasaportları fiyatlarına göre güçlü seyahat erişimi sunar. St Kitts ve Nevis genellikle en geniş vizesiz listenin başında yer alıyor. Antigua ve Grenada da onları yakından takip ediyor. Dominika ve Saint Lucia biraz daha az destinasyon sunuyor. Beşi de Schengen bölgesine ve Birleşik Krallık'a vizesiz erişim sağlıyor. Yalnızca Grenada'nın ABD ile E-2 anlaşması vardır. Bu da Grenada'yı ABD'deki ticari faaliyetlerini planlayan yatırımcılar arasında popüler kılıyor. Ancak konsolosluklar bağları zayıf olan yeni vatandaşları sorgulayabilir. Başvuru yapmadan önce E-2 durumunuzun nasıl değerlendirileceğini sorun. AB'nin endişelerini dile getirmesi durumunda seyahat erişimi de değişebilir. Vanuatu'nun durumu bunun ne kadar hızlı olabileceğini gösteriyor."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Türkiye'nin Yatırım Yoluyla Vatandaşlık Programı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye dünyanın en büyük programlarından birini yürütüyor. Temel gücü, paranızın gerçek bir varlık satın almasıdır. Çoğu yatırımcı en az 400.000 dolar değerindeki gayrimenkulleri seçiyor. Mülkü üç yıl elinizde tutarsınız ve daha sonra satabilirsiniz. Türkiye çifte vatandaşlığı kabul ediyor, dolayısıyla mevcut pasaportunuz sizde kalıyor. Eş ve 18 yaş altı çocuklar herhangi bir ekstra yatırım maliyeti olmaksızın dahildir. Türkiye'nin ABD ile de E-2 anlaşması var. Bu, ABD'de yaşayan Çinliler ve diğer vatandaşlar için önemlidir. İşleme genellikle satın alma işleminden pasaporta kadar birkaç ay sürer. Pasaport iyi seyahat erişimi sağlar ancak vizesiz Schengen girişi sağlamaz. Türkiye ayrıca değerlemeler ve fonlar konusunda da çok daha katı hale geldi. Aşağıdaki ayrıntılar bunun sizin için ne anlama geldiğini açıklamaktadır."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Yatırım Seçenekleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye çeşitli uygun yatırım rotaları sunmaktadır. En az 400.000 dolar değerindeki gayrimenkuller açık ara en popüler olanıdır. Üç yıl süreyle tutulan en az 500.000 ABD doları tutarındaki banka mevduatı da bu haktan yararlanır. Üç yıl süreyle tutulan 500.000 ABD doları tutarındaki devlet tahvili de başka bir seçenektir. 500.000 $'lık gayrimenkul veya risk sermayesi fonu payları da sayılır. İşletme sahipleri için 500.000$ tutarında sabit sermaye yatırımı mümkündür. En az 50 kişiye iş yaratmak daha az yaygın bir yoldur. Her rotanın ilgili bakanlıktan uygunluk belgesi alması gerekiyor. Ödemelerin net kayıtlara sahip Türk bankalarından geçmesi gerekiyor. Avukatınız rotayı vergi ve likidite ihtiyaçlarınızla eşleştirmelidir."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "2026 Kural Değişiklikleri ve İptalleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye, programını 2025 ve 2026 yılına kadar sıkılaştırdı. Başvuru sahiplerinin ve eşlerinin artık biyometri için Türkiye'yi ziyaret etmeleri gerekiyor. Yetişkin başvuru sahipleri için adli sicil belgesi zorunludur. Değerleme raporları artık GYO satın alımları da dahil olmak üzere daha sıkı kontrollerle karşı karşıyadır. Ağustos 2026'da İçişleri Bakanlığı 6.000'den fazla kararın iptal edildiğini bildirdi. Çoğu sahte işlemlerle ve şişirilmiş değerlemelerle bağlantılıydı. Bu yatırımcıların aile üyeleri de statülerini kaybetti. Bu da pasaportun onaylandıktan yıllar sonra geri alınabileceğini gösteriyor. En güvenli yaklaşım, ödeme öncesinde tam yasal durum tespitidir. İGA Hukuk Bürosu, her dosyanın tapu, satıcı ve değerlemesini inceler. Bu inceleme hem yatırımınızı hem de vatandaşlığınızı korur."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Avrupa ve Vanuatu'ya Ne Oldu?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Avrupa artık yatırım yoluyla vatandaşlık sunmuyor. Nisan 2025'te AB Adalet Divanı Malta'nın programına karşı karar verdi. Mahkeme, AB vatandaşlığının bir iş anlaşması olarak değerlendirilemeyeceğini söyledi. Malta, yatırım rotasını Temmuz 2025'te kapattı. Kıbrıs, programını 2020'de zaten kapatmıştı. Altın vizeler bazı AB ülkelerinde hâlâ mevcut, ancak yalnızca oturum izni veriyor. Vatandaşlık daha sonra yıllarca ikamet ve entegrasyon gerektirir. Portekiz ayrıca vatandaşlığa kabul süresini 2026'da on yıla çıkardı. Vanuatu açık kaldı ancak pasaportu Schengen vizesiz erişimini kaybetti. AB, zayıf durum tespiti nedeniyle bu erişimi askıya aldı. Bu değişiklikler birçok yatırımcıyı Türkiye ve Karayipler'e doğru itiyor. Ayrıca program istikrarının neden fiyat kadar önemli olduğunu da gösteriyorlar."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Programlar Nasıl Karşılaştırılır"
-        },
-        {
-          "type": "paragraph",
-          "text": "Başlık fiyatları nadiren bir programın gerçek maliyetini gösterir. Devlet ücretleri, durum tespiti ücretleri ve yasal maliyetler büyük bir paya sahiptir. Aile büyüklüğü bazı programlarda toplamı keskin bir şekilde artırabilmektedir. Ayrıca sonunda ne elde ettiğinizi de karşılaştırmalısınız. Bağış gitti ama gayrimenkul daha sonra satılabilir. Daha sonra işlem süresini ve ziyaret gereksinimlerini karşılaştırın. Daha sonra pasaportun gücüne ve anlaşma erişimine bakın. Son olarak programın geçmiş performansını ve kararlılığını kontrol edin. Seyahat erişimini kaybeden ucuz bir program pazarlık değildir. Tüm bu faktörleri içeren basit bir tablo oluşturun. Daha sonra programları pazarlama iddialarına göre değil, kendi hedeflerinize göre sıralayın."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Toplam Maliyet"
-        },
-        {
-          "type": "paragraph",
-          "text": "Toplam maliyet, minimum yatırımın çok daha fazlasını içerir. Her program, başvuru sahibi başına devlet işlem ücreti alır. Durum tespiti ücretleri dosyadaki her yetişkin için geçerlidir. Pasaport verme ücretleri ise son aşamada yer alıyor. Gayrimenkul alımları aynı zamanda tapu vergilerini ve acentelik ücretlerini de tetikliyor. Yasal ücretler dosyanın boyutuna ve karmaşıklığına göre değişir. Büyük transferler için döviz bozdurma maliyetleri önemli olabilir. Bakım ve sigorta gibi elde tutma maliyetleri üç yılda bir artıyor. Taahhütte bulunmadan önce yazılı, ayrıntılı bir tahmin isteyin. Bu toplamları her program için yan yana karşılaştırın. En ucuz manşet fiyatı çoğu zaman en ucuz nihai fatura değildir."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Devlet ve Durum Tespiti Ücretleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "Devlet ücretleri her programda kanunla belirlenir. Durum tespiti ücretleri genellikle yetişkin başına birkaç bin dolar arasında değişmektedir. Bağımlı kişiler daha düşük ücretler ödeyebilirler ancak yine de eklenirler. Bazı programlar, başvurunun başarısız olması durumunda ücretin bir kısmını iade eder. Herhangi bir şey göndermeden önce geri ödeme koşullarını kontrol edin. Kayıtlarınız için her makbuzu saklayın."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "Yasal ve İşlem Maliyetleri"
-        },
-        {
-          "type": "paragraph",
-          "text": "Yasal ücretler belge incelemesini, başvuruları ve devletle iletişimi kapsar. Emlak rotalarında tapu kontrollerini de kapsamalıdırlar. İşlem maliyetlerine tapu vergisi, noter ve çeviri ücretleri dahildir. Türkiye'de değerleme raporu da zorunludur. Avukatınızdan tüm masrafları yazılı olarak listelemesini isteyin. Net bir liste, kapanışta sürpriz yaşanmasını önler."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Durum Tespiti ve Fon Kaynağı"
-        },
-        {
-          "type": "paragraph",
-          "text": "Durum tespiti her ciddi programın temelidir. Hükümetler kimlikleri, sabıka kayıtlarını ve medya raporlarını kontrol eder. Ayrıca yaptırım listelerini ve siyasi teşhiri de kontrol ediyorlar. Fon kaynağı genellikle kanıtlanması en zor kısımdır. Yatırım yaptığınız parayı nasıl kazandığınızı göstermelisiniz. Maaş kayıtları, ticari satışlar ve vergi beyannameleri ortak delillerdir. Krediler ve hediyeler ekstra belgelere ihtiyaç duyar. Kağıt izindeki boşluklar gecikmelere veya reddedilmelere neden olur. Bir mülk veya proje seçmeden önce bu kanıtları hazırlayın. Bir avukat bunu açık ve güvenilir bir dosya halinde düzenleyebilir. Güçlü deliller Türkiye'de banka çeklerini de hızlandırıyor."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "Sıkça Sorulan Sorular"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Yatırım yoluyla vatandaşlık programı en ucuzu hangisi?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Dominika 2026'nın en ucuzudur. Bağış rotası tek bir başvuru sahibi için yaklaşık 200.000 dolardan başlamaktadır."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Var mı? 2026'da yatırım yoluyla AB vatandaşlığı programı mı?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Hayır. Malta son AB programını 2025'te kapattı. AB altın vizeleri yalnızca oturum izni veriyor."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Yatırım yoluyla vatandaşlık programları ne kadar sürer?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Çoğu üç ila on iki ay sürer. Karayipler ve Türkiye programları genellikle birkaç ay içinde tamamlanıyor."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Mevcut pasaportumu saklayabilir miyim?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Genellikle evet. Türkiye ve Karayip programları çifte vatandaşlığa izin vermektedir. Kendi ülkenizin kurallarını da kontrol edin."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "Yatırım yoluyla vatandaşlık iptal edilebilir mi?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Evet. Dolandırıcılık veya sahte belgeler nedeniyle iptal edilebilir. Türkiye 2026'da binlerce kararı iptal etti."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "ABD E-2 vizesine hangi program erişim sağlıyor?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye ve Grenada'nın ABD ile E-2 anlaşmaları var."
-        }
-      ],
-      "title": "Yatırım Yoluyla Vatandaşlık Programları: Türkiye, Karayipler ve Avrupa (2026)",
-      "seoTitle": "Yatırım Yoluyla Vatandaşlık Programları: 2026 Rehberi",
-      "metaDescription": "Türkiye ve Karayipler’deki yatırım yoluyla vatandaşlık programlarını yatırım türleri, aile başvuruları ve hukuki riskler açısından karşılaştırın.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Yatırım yoluyla vatandaşlık programları; uygun varlıklar, aile kapsamı, ücretler ve hukuki güvenceler bakımından farklıdır. Para aktarmadan önce yatırım yolunu ve başvurunun tüm bütçesini karşılaştırın. Bu rehber, yatırım yoluyla vatandaşlığı ikamet yollarından ayırır; seyahat hakları ve ABD vizesi uygunluğunun neden ayrıca incelenmesi gerektiğini açıklar. Yatırım, vatandaşlık garantisi değildir."
+    },
+    {
+      "type": "heading",
+      "text": "Yatırım yoluyla vatandaşlık programları nedir?",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu programlar uygun katkı veya yatırıma bağlı bir başvuru yolu sunar. Yetkili makamlar uygunluğu ve belgeleri değerlendirir. Yatırım yoluyla ikamet farklıdır: ikamet izni pasaport değildir ve sonraki vatandaşlığa geçişin ayrı koşulları vardır. Sadece gayrimenkul satın alınması vatandaşlık onayı sayılmaz."
+    },
+    {
+      "type": "heading",
+      "text": "Karayip seçenekleri ve bölgesel düzenleme",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominica ve Grenada, katkı ve onaylı proje yolları yayımlar. Ücretler ve aile tanımları ayrı karşılaştırılmalıdır; bölgesel asgari tutar tam aile maliyet teklifi değildir. OECS, 2025’te ECCIRA anlaşmasını ve kuruluş mevzuatı planlarını duyurdu; Haziran 2026 açıklamasında açılışı hâlâ yaklaşan bir gelişme olarak belirtti. Bu duyurular tek başına önerilen tüm yetkilerin her devlette uygulandığını kanıtlamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Grenada’da genel onaylı proje yatırımı 350.000 USD’dir; uygun turizm konaklama birimindeki ortak alım seçeneğinde pay başına 270.000 USD uygulanır. 2024 tarihli SRO 15’e göre birimi en az iki kişi satın almalı, toplam değer en az 540.000 USD olmalı ve Komiteye başvuru öncesinde projeye öngörülen inşaat maliyetinin en az yüzde 20’si kadar özkaynak yatırılmış olmalıdır. Ayrıca alınan 50.000 USD devlet katkısı, kanuni tanımdaki (f)/(g) kategorileri hariç ana başvuru sahibi ve uygun üç aile üyesine kadar olan grubu kapsar. İlave aile üyeleri ve diğer başvuru ücretleri dahil değildir. Ailenize ilişkin uygunluğu ve ücret cetvelini yetkili temsilciyle teyit edin."
+    },
+    {
+      "type": "heading",
+      "text": "Birleşik Krallık ve Schengen seyahati ayrıdır",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Dominica ve Saint Lucia, Birleşik Krallık ziyaretçi vizesi gerektiren ülke listesindedir. Vizesiz giriş varsayılmamalı; pasaport türü ve geçerli istisnalar kontrol edilmelidir. Schengen kuralları ayrıdır: güncel AB vize listesi, ilgili anlaşmalar ve giriş koşulları incelenmelidir. Kısa süreli vize muafiyeti Avrupa’da yaşama veya çalışma hakkı değildir."
+    },
+    {
+      "type": "heading",
+      "text": "Türkiye: yatırım, belgeler ve hukuki inceleme",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin resmî Yatırım Ofisi gayrimenkul için 400.000 ABD dolarından, çeşitli finansal veya sermaye yolları için 500.000 ABD dolarından başlayan eşikler belirtir. Gayrimenkul yolunda üç yıllık satış kısıtlaması gerekir; mevduat, tahvil ve uygun fon yollarının kendi elde tutma koşulları vardır. İlgili kurum yatırım koşulunu doğrulamalıdır. Başvuru öncesinde tapu, değerleme gereklilikleri, ödeme kayıtları ve aile uygunluğu incelenmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım incelemesi, uygunluk, ikamet ve vatandaşlık başvurularını ayrı aşamalar olarak planlayın. Belge tasdiki ve kurumların ek incelemeleri takvimi değiştirebilir. Kesin bir onay süresi garanti edilemez. Yanlış beyan ve uygun olmayan yatırım ciddi hukuki risk yaratabilir."
+    },
+    {
+      "type": "heading",
+      "text": "Avrupa’da ikamet yolları ve vatandaşlık değişiklikleri",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "AB Adalet Divanı 29 Nisan 2025’te C-181/23 sayılı davada Malta’nın yatırımcı vatandaşlık programının AB hukukuna aykırı olduğuna karar verdi. Yatırım amaçlı ikamet izni AB vatandaşlığıyla karıştırılmamalıdır. Portekiz Adalet Bakanlığı, 19 Mayıs 2026’dan itibaren geçerli kurallarda AB veya Portekizce konuşulan ülke vatandaşları için yedi, diğer vatandaşlıklar için on yıllık yasal ikamet ayrımı belirtir. Geçiş hükümleri ve kişisel uygunluk ayrıca incelenmelidir."
+    },
+    {
+      "type": "heading",
+      "text": "ABD E-2: anlaşma vatandaşlığı yalnızca bir koşuldur",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye ve Grenada ABD E-2 anlaşmalı ülke listesindedir. Tek başına pasaport yeterli değildir; ABD’deki işletme ve yatırım E-2 koşullarını karşılamalıdır. Yatırımla edinilen vatandaşlıkta daha önce E statüsü verilmemiş başvuranlar için başvuru öncesinde anlaşmalı ülkede kesintisiz üç yıllık yerleşiklik koşulu vardır; kişisel ABD göçmenlik değerlendirmesi alınmalıdır."
+    },
+    {
+      "type": "heading",
+      "text": "Tam aile bütçesini ve çıkış koşullarını karşılaştırın",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Gerçek aile yapınıza göre kalem kalem teklif isteyin: uygun yatırım veya katkı, kamu harçları, inceleme, görüşme, hukuki danışmanlık, tercüme, pasaport düzenleme ve işlem giderleri. İade edilmeyen tutarları belirleyin. Varlık içeren yollarda elde tutma süresi, yeniden satış uygunluğu ve piyasa riskini inceleyin. Uygun varlık, getiri veya çıkışta alıcı garantisi değildir."
+    },
+    {
+      "type": "heading",
+      "text": "Sık sorulan sorular",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "En ucuz program hangisidir?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu rehberde doğrulanmış evrensel bir en ucuz seçenek yoktur. Tek başvuran reklam tutarları yerine ailenize ve seçilen yola özel ayrıntılı teklifleri karşılaştırın."
+    },
+    {
+      "type": "heading",
+      "text": "Tüm Karayip vatandaşlık pasaportları Birleşik Krallık’a vizesiz giriş sağlar mı?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayır. Güncel Birleşik Krallık vize listesi ve istisnalar kontrol edilmeli; Birleşik Krallık ve Schengen ayrı değerlendirilmelidir."
+    },
+    {
+      "type": "heading",
+      "text": "İşlem ne kadar sürer?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Süre kuruma, belgelerin hazırlığına ve ek incelemelere bağlıdır. Her aşama için güncel tahmin alın; bu rehber veya bir avukat sabit tarihe kadar onay garantisi veremez."
+    },
+    {
+      "type": "heading",
+      "text": "Mevcut vatandaşlığımı koruyabilir miyim?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Her iki ülkenin vatandaşlık hukukunu kontrol edin. Hedef ülkenin çifte vatandaşlığa izin vermesi, mevcut vatandaşlık ülkenizin kısıtlamalarını kaldırmaz."
+    },
+    {
+      "type": "heading",
+      "text": "Yatırım vatandaşlığı otomatik E-2 uygunluğu sağlar mı?",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayır. Yukarıdaki ayrı işletme, yatırım ve yerleşiklik koşullarını inceleyin. Anlaşma vatandaşlığı vize onayı değildir."
+    },
+    {
+      "type": "heading",
+      "text": "Resmî kaynaklar",
+      "level": 2
+    },
+    {
+      "type": "source",
+      "text": "Birleşik Krallık vize listesi",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "AB vize çerçevesi — güncel metni kontrol edin",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1806"
+    },
+    {
+      "type": "source",
+      "text": "Türkiye Yatırım Ofisi",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "source",
+      "text": "Dominika EDF",
+      "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/"
+    },
+    {
+      "type": "source",
+      "text": "Dominika onaylı gayrimenkul",
+      "url": "https://www.cbiu.gov.dm/investment-options/real-estate/"
+    },
+    {
+      "type": "source",
+      "text": "Dominika başvuru soruları",
+      "url": "https://www.cbiu.gov.dm/faqs/"
+    },
+    {
+      "type": "source",
+      "text": "Grenada IMA başvuru soruları",
+      "url": "https://imagrenada.gd/enquiries/"
+    },
+    {
+      "type": "source",
+      "text": "Grenada yatırım eşikleri — düzeltilmiş düzenleme",
+      "url": "https://imagrenada.gd/wp-content/uploads/2024/07/Update-to-Circular-No.-2-Minimum-Investment-Threshold-July-3-2024.pdf"
+    },
+    {
+      "type": "source",
+      "text": "Portekiz Adalet Bakanlığı — Mayıs 2026",
+      "url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+    },
+    {
+      "type": "source",
+      "text": "AB Adalet Divanı C-181/23",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf"
+    },
+    {
+      "type": "source",
+      "text": "ABD anlaşmalı ülkeler",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    },
+    {
+      "type": "source",
+      "text": "ABD Dışişleri — yatırım vatandaşlığı ve yerleşim",
+      "url": "https://travel.state.gov/content/dam/visas/AILA/AILA-Agenda-4-26-2023.pdf"
+    },
+    {
+      "type": "source",
+      "text": "ABD E-2 şartları",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html"
+    },
+    {
+      "type": "source",
+      "text": "OECS — Haziran 2026 açıklaması",
+      "url": "https://pressroom.oecs.int/oecs-heads-of-government-focus-on-trade-connectivity-and-economic-resilience-at-78th-authority-meeting"
     }
+  ],
+  "title": "Yatırım Yoluyla Vatandaşlık Programları: Türkiye, Karayipler ve Avrupa (2026)",
+  "seoTitle": "Yatırım Yoluyla Vatandaşlık Programları: 2026 Rehberi",
+  "metaDescription": "Türkiye ve Karayipler’deki yatırım yoluyla vatandaşlık programlarını yatırım türleri, aile başvuruları ve hukuki riskler açısından karşılaştırın.",
+  "imageAlts": {}
+}
   },
   "zh": {
     "turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide": {
@@ -8242,287 +8289,307 @@ window.blogPostTranslations = {
       }
     },
     "step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "通过投资获得土耳其公民身份是一个令人兴奋的里程碑。收到公民身份批准函后，您可以在最近的土耳其总领事馆预约土耳其身份证和土耳其护照。这些文件对于充分行使您作为土耳其公民的权利至关重要。"
-        },
-        {
-          "type": "paragraph",
-          "text": "你可知道？土耳其是外交使团最多的国家之一，目前在全球拥有超过 239 个外交代表机构，包括大使馆、领事馆和常驻代表团。这确保了海外土耳其公民的广泛支持和可及性。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在 IGA 律师事务所，我们指导客户完成整个流程的每个阶段。以下是如何通过领事馆系统预订土耳其身份证预约和护照申请的简单概述。"
-        },
-        {
-          "type": "heading",
-          "text": "1.土耳其身份证预约"
-        },
-        {
-          "type": "paragraph",
-          "text": "访问领事馆官方网站，点击“Randevu Al（预约）”。"
-        },
-        {
-          "type": "paragraph",
-          "text": "选择：土耳其公民领事服务 → 民事登记 (Nüfus) → 土耳其身份证 (TCKK) 申请（因出生或更换）。"
-        },
-        {
-          "type": "paragraph",
-          "text": "回答如下："
-        },
-        {
-          "type": "paragraph",
-          "text": "您知道您的土耳其身份证号码吗？ → 是的"
-        },
-        {
-          "type": "paragraph",
-          "text": "您持有蓝卡吗？ → 否"
-        },
-        {
-          "type": "paragraph",
-          "text": "您的土耳其身份证号码是否写在您的旧身份证上？ → 否"
-        },
-        {
-          "type": "paragraph",
-          "text": "输入您的公民身份批准信中的详细信息（身份证号码、出生日期和电子邮件）。"
-        },
-        {
-          "type": "paragraph",
-          "text": "使用发送到您电子邮件的代码进行验证。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在地址部分，仅填写居住城市即可。"
-        },
-        {
-          "type": "paragraph",
-          "text": "选择您首选的预约日期和时间。"
-        },
-        {
-          "type": "heading",
-          "text": "2.土耳其护照预约"
-        },
-        {
-          "type": "paragraph",
-          "text": "在同一领事馆网站上，点击“Randevu Al（预约）”→“新护照申请”→“立即预订”。"
-        },
-        {
-          "type": "paragraph",
-          "text": "回答如下："
-        },
-        {
-          "type": "paragraph",
-          "text": "您知道您的土耳其身份证号码吗？ → 是的"
-        },
-        {
-          "type": "paragraph",
-          "text": "您持有蓝卡吗？ → 否"
-        },
-        {
-          "type": "paragraph",
-          "text": "您的土耳其身份证号码是否写在您的旧身份证上？ → 是"
-        },
-        {
-          "type": "paragraph",
-          "text": "输入您的公民身份批准信中的详细信息。"
-        },
-        {
-          "type": "paragraph",
-          "text": "使用电子邮件代码进行验证。"
-        },
-        {
-          "type": "paragraph",
-          "text": "地址部分 → 仅需要城市名称。"
-        },
-        {
-          "type": "paragraph",
-          "text": "选择可用的预约日期和时间。"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA律师事务所提示：领事馆系统可能很忙。我们建议每天多次检查最早的时段。"
-        },
-        {
-          "type": "heading",
-          "text": "预约所需文件："
-        },
-        {
-          "type": "paragraph",
-          "text": "您的外国护照"
-        },
-        {
-          "type": "paragraph",
-          "text": "一张生物特征照片（50×60毫米，最近六个月内拍摄，白色背景，无图案，符合ICAO标准）"
-        },
-        {
-          "type": "paragraph",
-          "text": "显示您国外居住地址的文件（水电费账单、租赁合同等）"
-        },
-        {
-          "type": "paragraph",
-          "text": "打印的公民批准函"
-        },
-        {
-          "type": "paragraph",
-          "text": "每位申请人 350 美元现金（强制领事费）"
-        },
-        {
-          "type": "paragraph",
-          "text": "需要帮助吗？我们的法律团队确保您的土耳其公民身份之旅顺利且合规。"
-        }
-      ],
-      "title": "土耳其入籍获批后：身份证及护照预约指南",
-      "seoTitle": "土耳其身份证与护照预约指南",
-      "metaDescription": "土耳其公民身份批准后，了解如何预订身份证和护照预约、准备文件并完成最后步骤。",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "通过投资获得土耳其公民身份是一个令人兴奋的里程碑。收到公民身份批准函后，您可以在最近的土耳其总领事馆预约土耳其身份证和土耳其护照。这些文件对于充分行使您作为土耳其公民的权利至关重要。"
     },
+    {
+      "type": "paragraph",
+      "text": "请使用官方领事服务网站查找主管使领馆及最新预约、文件要求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在 IGA 律师事务所，我们指导客户完成整个流程的每个阶段。以下是如何通过领事馆系统预订土耳其身份证预约和护照申请的简单概述。"
+    },
+    {
+      "type": "heading",
+      "text": "1.土耳其身份证预约"
+    },
+    {
+      "type": "paragraph",
+      "text": "访问领事馆官方网站，点击“Randevu Al（预约）”。"
+    },
+    {
+      "type": "paragraph",
+      "text": "选择：土耳其公民领事服务 → 民事登记 (Nüfus) → 土耳其身份证 (TCKK) 申请（因出生或更换）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "请按真实身份记录回答各项问题；系统可能要求以下信息："
+    },
+    {
+      "type": "paragraph",
+      "text": "已获分配的土耳其身份号码。"
+    },
+    {
+      "type": "paragraph",
+      "text": "是否持有蓝卡；请如实回答。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该号码是否载于已有身份证件；不要套用固定答案。"
+    },
+    {
+      "type": "paragraph",
+      "text": "输入您的公民身份批准信中的详细信息（身份证号码、出生日期和电子邮件）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "使用发送到您电子邮件的代码进行验证。"
+    },
+    {
+      "type": "paragraph",
+      "text": "按所选领事馆及申请表要求填写完整地址信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "选择您首选的预约日期和时间。"
+    },
+    {
+      "type": "heading",
+      "text": "2.土耳其护照预约"
+    },
+    {
+      "type": "paragraph",
+      "text": "在同一领事馆网站上，点击“Randevu Al（预约）”→“新护照申请”→“立即预订”。"
+    },
+    {
+      "type": "paragraph",
+      "text": "请按真实身份记录回答各项问题；系统可能要求以下信息："
+    },
+    {
+      "type": "paragraph",
+      "text": "已获分配的土耳其身份号码。"
+    },
+    {
+      "type": "paragraph",
+      "text": "是否持有蓝卡；请如实回答。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该号码是否载于已有身份证件；不要套用固定答案。"
+    },
+    {
+      "type": "paragraph",
+      "text": "输入您的公民身份批准信中的详细信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "使用电子邮件代码进行验证。"
+    },
+    {
+      "type": "paragraph",
+      "text": "按所选领事馆及申请表要求填写完整地址信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "选择可用的预约日期和时间。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA律师事务所提示：领事馆系统可能很忙。我们建议每天多次检查最早的时段。"
+    },
+    {
+      "type": "heading",
+      "text": "预约所需文件："
+    },
+    {
+      "type": "paragraph",
+      "text": "您的外国护照"
+    },
+    {
+      "type": "paragraph",
+      "text": "一张生物特征照片（50×60毫米，最近六个月内拍摄，白色背景，无图案，符合ICAO标准）"
+    },
+    {
+      "type": "paragraph",
+      "text": "显示您国外居住地址的文件（水电费账单、租赁合同等）"
+    },
+    {
+      "type": "paragraph",
+      "text": "打印的公民批准函"
+    },
+    {
+      "type": "paragraph",
+      "text": "请核查本次申请的现行领事费用、币种及付款方式，并非每位申请人均统一缴纳350美元现金。"
+    },
+    {
+      "type": "paragraph",
+      "text": "需要帮助吗？我们的法律团队确保您的土耳其公民身份之旅顺利且合规。"
+    },
+    {
+      "type": "source",
+      "text": "官方护照手续及费用",
+      "url": "https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/4"
+    },
+    {
+      "type": "source",
+      "text": "官方领事预约",
+      "url": "https://www.konsolosluk.gov.tr/"
+    }
+  ],
+  "title": "土耳其入籍获批后：身份证及护照预约指南",
+  "seoTitle": "土耳其身份证与护照预约指南",
+  "metaDescription": "土耳其公民身份批准后，了解如何预订身份证和护照预约、准备文件并完成最后步骤。",
+  "imageAlts": {}
+},
     "turkish-citizenship-through-bes-a-secure-path-for-foreign-investors": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "通过私人养老金计划（BES）寻求财务安全和土耳其公民身份的外国投资者现在有一个极具吸引力的选择。通过向符合条件的 BES 基金投资至少 500,000 美元（或等值外币）至少三年，投资者就有资格获得土耳其公民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "与其他投资方式不同，通过私人养老金计划 (BES) 获得土耳其公民身份提供的不仅仅是一本护照，它还提供了一个专业管理且透明的财务计划，旨在保护和增加您的储蓄。"
-        },
-        {
-          "type": "heading",
-          "text": "为什么 BES 是安全的选择？"
-        },
-        {
-          "type": "paragraph",
-          "text": "资本保护：BES 基金，包括那些以黄金和白银等贵金属为指数的基金，可以针对货币波动提供保障。即使汇率发生变化，您通过 BES 获得公民身份的资格也不会受到影响。"
-        },
-        {
-          "type": "paragraph",
-          "text": "专业管理：基金由专业投资组合经理在保险和私人养老金监管机构 (SEDDK) 的严格监督下进行管理。"
-        },
-        {
-          "type": "paragraph",
-          "text": "完全透明：投资者可以通过专用的移动应用程序随时随地监控其投资组合的表现和价值。这可确保实时访问您的投资状态。"
-        },
-        {
-          "type": "heading",
-          "text": "Türkiye Sigorta 和 Türkiye Hayat Emeklilik：信任和可靠性的领导者"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其通过私人养老金计划 (BES) 获得土耳其公民身份的计划得到了 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 的支持，这两家机构是该国保险和养老金领域最值得信赖的机构。两者都是公共机构。"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta 是一家受国家支持的领先企业，拥有 41 个地区办事处、3,900 多家代理机构和经纪人、5,000 多家银行分行以及约 3,000 名专家员工。它在伊斯坦布尔证券交易所上市，在保护土耳其战略资产方面发挥着至关重要的作用。"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Hayat Emeklilik 为超过 1,400 万客户提供服务，是土耳其最大的人寿保险和养老金提供商。其产品（包括 BES）旨在确保个人和家庭的长期财务安全。"
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta 和 Türkiye Hayat Emeklilik 凭借强大的技术基础设施和全国性的影响力，保证了 BES 系统的稳定性、透明度和安全性。"
-        },
-        {
-          "type": "heading",
-          "text": "其他特权：BES 生活俱乐部"
-        },
-        {
-          "type": "paragraph",
-          "text": "BES 参与者还可以使用 Life Clubs，这是一项独家客户忠诚度计划。会员享受健康服务、保健、旅行和生活方式折扣方面的特权——从体检到健身房会员资格。点击此处了解详情。"
-        },
-        {
-          "type": "heading",
-          "text": "分步流程"
-        },
-        {
-          "type": "paragraph",
-          "text": "在土耳其开设银行账户"
-        },
-        {
-          "type": "paragraph",
-          "text": "将捐款存入指定账户"
-        },
-        {
-          "type": "paragraph",
-          "text": "通过土耳其中央银行（CBRT）兑换货币"
-        },
-        {
-          "type": "paragraph",
-          "text": "将土耳其里拉转入养老金公司"
-        },
-        {
-          "type": "paragraph",
-          "text": "养老金合同生效，3年锁定期开始"
-        },
-        {
-          "type": "paragraph",
-          "text": "SEDDK颁发的资格/合格证书（约1个月）"
-        },
-        {
-          "type": "paragraph",
-          "text": "主要投资者和配偶（如有）需提交居留申请 - 要求申请人居住在土耳其"
-        },
-        {
-          "type": "paragraph",
-          "text": "提交公民身份申请 - 要求申请人在土耳其境内"
-        },
-        {
-          "type": "paragraph",
-          "text": "经过编辑的合规性报告示例"
-        },
-        {
-          "type": "heading",
-          "text": "为什么选择 IGA 律师事务所？"
-        },
-        {
-          "type": "paragraph",
-          "text": "在 IGA 律师事务所，我们很荣幸成为土耳其领先的律师事务所之一，专门通过私人养老金计划 (BES) 提供土耳其公民身份。凭借多年为全球 800 多个家庭和众多投资者提供帮助的经验，我们提供："
-        },
-        {
-          "type": "paragraph",
-          "text": "完全遵守土耳其法规"
-        },
-        {
-          "type": "paragraph",
-          "text": "与 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 直接联络"
-        },
-        {
-          "type": "paragraph",
-          "text": "从银行开户到公民身份批准的逐步支持"
-        },
-        {
-          "type": "paragraph",
-          "text": "我们注重细节且值得信赖的法律服务可确保您获得土耳其公民身份的旅程顺利、安全和成功。"
-        },
-        {
-          "type": "heading",
-          "text": "结论"
-        },
-        {
-          "type": "paragraph",
-          "text": "通过私人养老金计划 (BES) 获得土耳其公民身份不仅仅是一项投资，它还是您作为土耳其公民通向新生活的安全桥梁。凭借 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 的可靠性，再加上 IGA 律师事务所的专家法律指导，您可以充满信心地确保您的财务未来和家人的公民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "如需了解更多信息，请联系我们："
-        },
-        {
-          "type": "paragraph",
-          "text": "电话：+90 530 426 46 12"
-        },
-        {
-          "type": "paragraph",
-          "text": "电子邮件：info@igalawfirm.com"
-        }
-      ],
-      "title": "通过私人养老金计划（BES）申请土耳其国籍",
-      "seoTitle": "BES投资入籍土耳其：投资者指南",
-      "metaDescription": "通过 BES 私人养老金途径探索土耳其公民身份，包括投资要求、持有期限和法律注意事项。",
-      "imageAlts": {
-        "/public/assets/media/01c09ef2797ef559.jpg": "通过 BES 获得土耳其公民身份 – 在 IGA 律师事务所的指导下，通过 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 进行安全投资"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "通过私人养老金计划（BES）寻求财务安全和土耳其公民身份的外国投资者现在有一个极具吸引力的选择。通过向符合条件的 BES 基金投资至少 500,000 美元（或等值外币）至少三年，投资者就有资格获得土耳其公民身份。"
     },
+    {
+      "type": "paragraph",
+      "text": "BES采用专业管理的养老金基金。基金选择、费用及市场风险须与入籍申请分别评估。"
+    },
+    {
+      "type": "heading",
+      "text": "BES基金管理与投资风险"
+    },
+    {
+      "type": "paragraph",
+      "text": "BES基金不保证收益或免受汇率波动影响，贵金属基金同样存在市场风险。调整配置或提款前，应确认基金资格及入籍持有承诺的合规性。"
+    },
+    {
+      "type": "paragraph",
+      "text": "专业管理：基金由专业投资组合经理在保险和私人养老金监管机构 (SEDDK) 的严格监督下进行管理。"
+    },
+    {
+      "type": "paragraph",
+      "text": "完全透明：投资者可以通过专用的移动应用程序随时随地监控其投资组合的表现和价值。这可确保实时访问您的投资状态。"
+    },
+    {
+      "type": "heading",
+      "text": "养老金机构与合同核查"
+    },
+    {
+      "type": "paragraph",
+      "text": "考虑Türkiye Hayat Emeklilik或其他机构时，应确认获许可的养老金公司、符合入籍条件的计划及可选基金。"
+    },
+    {
+      "type": "paragraph",
+      "text": "请直接向机构核查最新公司信息和合同；销售网络规模不等于投资安全。"
+    },
+    {
+      "type": "paragraph",
+      "text": "可通过EGM名单核查养老金公司，并审阅具体计划及基金文件。"
+    },
+    {
+      "type": "paragraph",
+      "text": "监管及托管安排不等于政府保证收益或入籍批准。"
+    },
+    {
+      "type": "heading",
+      "text": "其他特权：BES 生活俱乐部"
+    },
+    {
+      "type": "paragraph",
+      "text": "会员优惠取决于机构现行计划和合同，与入籍资格无关，应在依赖这些优惠前核实。"
+    },
+    {
+      "type": "heading",
+      "text": "分步流程"
+    },
+    {
+      "type": "paragraph",
+      "text": "在土耳其开设银行账户"
+    },
+    {
+      "type": "paragraph",
+      "text": "将捐款存入指定账户"
+    },
+    {
+      "type": "paragraph",
+      "text": "通过土耳其中央银行（CBRT）兑换货币"
+    },
+    {
+      "type": "paragraph",
+      "text": "将土耳其里拉转入养老金公司"
+    },
+    {
+      "type": "paragraph",
+      "text": "养老金合同生效，3年锁定期开始"
+    },
+    {
+      "type": "paragraph",
+      "text": "取得SEDDK的符合性确认；时间取决于文件完整性及主管机关审查。"
+    },
+    {
+      "type": "paragraph",
+      "text": "主要投资者和配偶（如有）需提交居留申请 - 要求申请人居住在土耳其"
+    },
+    {
+      "type": "paragraph",
+      "text": "提交公民身份申请 - 要求申请人在土耳其境内"
+    },
+    {
+      "type": "paragraph",
+      "text": "经过编辑的合规性报告示例"
+    },
+    {
+      "type": "heading",
+      "text": "为什么选择 IGA 律师事务所？"
+    },
+    {
+      "type": "paragraph",
+      "text": "在 IGA 律师事务所，我们很荣幸成为土耳其领先的律师事务所之一，专门通过私人养老金计划 (BES) 提供土耳其公民身份。凭借多年为全球 800 多个家庭和众多投资者提供帮助的经验，我们提供："
+    },
+    {
+      "type": "paragraph",
+      "text": "完全遵守土耳其法规"
+    },
+    {
+      "type": "paragraph",
+      "text": "与 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 直接联络"
+    },
+    {
+      "type": "paragraph",
+      "text": "从银行开户到公民身份批准的逐步支持"
+    },
+    {
+      "type": "paragraph",
+      "text": "我们的法律服务协助文件准备、合规核查及申请协调；是否批准由主管机关决定。"
+    },
+    {
+      "type": "heading",
+      "text": "结论"
+    },
+    {
+      "type": "paragraph",
+      "text": "可将BES与其他合格投资途径一并比较。选择计划前，应审查入籍条件、基金风险、费用及退出条款。"
+    },
+    {
+      "type": "paragraph",
+      "text": "如需了解更多信息，请联系我们："
+    },
+    {
+      "type": "paragraph",
+      "text": "电话：+90 530 426 46 12"
+    },
+    {
+      "type": "paragraph",
+      "text": "电子邮件：info@igalawfirm.com"
+    },
+    {
+      "type": "source",
+      "text": "EGM：养老金基金风险",
+      "url": "https://www.egm.org.tr/bireysel-emeklilik/gonullu-bes-fonlari/"
+    },
+    {
+      "type": "source",
+      "text": "EGM：参与者指南",
+      "url": "https://www.egm.org.tr/katilimcilar/katilimci-bilgilendirme-rehberi/"
+    }
+  ],
+  "title": "通过私人养老金计划（BES）申请土耳其国籍",
+  "seoTitle": "BES投资入籍土耳其：投资者指南",
+  "metaDescription": "通过 BES 私人养老金途径探索土耳其公民身份，包括投资要求、持有期限和法律注意事项。",
+  "imageAlts": {
+    "/public/assets/media/01c09ef2797ef559.jpg": "通过 BES 获得土耳其公民身份 – 在 IGA 律师事务所的指导下，通过 Türkiye Sigorta 和 Türkiye Hayat Emeklilik 进行安全投资"
+  }
+},
     "turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide": {
       "blocks": [
         {
@@ -8782,228 +8849,233 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "当人们讨论土耳其投资公民身份时，谈话通常集中在最低投资门槛、处理时间、免签证旅行机会或房地产选择上。"
-        },
-        {
-          "type": "paragraph",
-          "text": "然而，土耳其投资公民计划的另一个特点却很少受到关注：在公民身份过程中能够合法采用土耳其名字和姓氏。"
-        },
-        {
-          "type": "paragraph",
-          "text": "对于许多国际投资者，特别是来自中国、香港和亚洲其他地区的投资者来说，土耳其公民身份的这一方面与护照本身一样有趣。"
-        },
-        {
-          "type": "paragraph",
-          "text": "作为每天处理土耳其投资入籍申请的律师，我们观察到大约一半的中国投资者客户在成为土耳其公民时选择土耳其名字和姓氏，而剩下的一半则倾向于保留原来的姓名。"
-        },
-        {
-          "type": "paragraph",
-          "text": "为什么这是可能的，为什么一些投资者认为这很重要？"
-        },
-        {
-          "type": "heading",
-          "text": "外国投资者可以选择土耳其名字吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "可以。"
-        },
-        {
-          "type": "paragraph",
-          "text": "当外国投资者通过投资获得土耳其公民身份时，土耳其当局允许申请人在公民身份申请过程中选择土耳其名字和姓氏。"
-        },
-        {
-          "type": "paragraph",
-          "text": "此选项不仅适用于主申请人，也适用于符合条件的家庭成员。"
-        },
-        {
-          "type": "paragraph",
-          "text": "配偶可以选择土耳其名字，孩子可以选择土耳其名字，整个家庭可以采用共同的土耳其姓氏。"
-        },
-        {
-          "type": "paragraph",
-          "text": "因此，一个家庭可能会收到土耳其身份证和土耳其护照，其中的土耳其名字与原始护照上的名字不同。"
-        },
-        {
-          "type": "paragraph",
-          "text": "例如，原名为张伟的人可以选择土耳其名字，如穆罕默德·耶尔马兹（Mehmet Yılmaz），同时根据其祖国的法律保留其原有国籍。"
-        },
-        {
-          "type": "heading",
-          "text": "创建新的土耳其法律身份"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其投资公民身份的独特特征之一是成功的申请人获得完整的土耳其合法身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "这包括："
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其身份证"
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其护照"
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其国民身份证号码"
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其民事登记处记录"
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其税号"
-        },
-        {
-          "type": "paragraph",
-          "text": "• 土耳其名字和姓氏（如果选择）"
-        },
-        {
-          "type": "paragraph",
-          "text": "从法律角度来看，个人成为土耳其公民，享有土耳其公民身份所附带的所有权利和义务。"
-        },
-        {
-          "type": "paragraph",
-          "text": "这与许多投资居留计划有很大不同，在这些计划中，投资者获得居留权但不会成为公民。"
-        },
-        {
-          "type": "heading",
-          "text": "为什么一些中国投资者选择土耳其名字？"
-        },
-        {
-          "type": "paragraph",
-          "text": "每个家庭都有不同的原因。"
-        },
-        {
-          "type": "paragraph",
-          "text": "一些投资者更喜欢土耳其名字，因为它们更容易在国际上使用。"
-        },
-        {
-          "type": "paragraph",
-          "text": "其他人希望所有土耳其文件中的家族姓氏保持一致。"
-        },
-        {
-          "type": "paragraph",
-          "text": "一些投资者只是很高兴有机会以新的合法身份开始人生的新篇章。"
-        },
-        {
-          "type": "paragraph",
-          "text": "根据我们的经验，所有投资者都没有单一的动机。"
-        },
-        {
-          "type": "paragraph",
-          "text": "然而，中国投资公民申请人对土耳其名字选择的兴趣尤其普遍。"
-        },
-        {
-          "type": "heading",
-          "text": "土耳其护照和国际银行业务"
-        },
-        {
-          "type": "paragraph",
-          "text": "一些投资者密切关注土耳其名字选择的另一个原因是国际银行业务。"
-        },
-        {
-          "type": "paragraph",
-          "text": "许多获得土耳其公民身份的投资者随后与土耳其境外的金融机构建立了个人或业务关系。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在实践中，一些投资者在开设银行账户、设立公司、购买房产或开展国际商业活动时选择使用土耳其护照。"
-        },
-        {
-          "type": "paragraph",
-          "text": "由于每个金融机构都采用自己的合规和了解您的客户 (KYC) 程序，因此实际结果会根据国家、机构和个人情况而有所不同。"
-        },
-        {
-          "type": "paragraph",
-          "text": "因此，投资者在做出涉及多重国籍的决定之前，应始终获得专业的银行、税务和法律建议。"
-        },
-        {
-          "type": "heading",
-          "text": "CRS 和国际税务报告怎么样？"
-        },
-        {
-          "type": "paragraph",
-          "text": "这是最常被误解的话题之一。"
-        },
-        {
-          "type": "paragraph",
-          "text": "通用报告标准 (CRS) 等国际报告系统通常不仅仅依赖于个人姓名或护照。"
-        },
-        {
-          "type": "paragraph",
-          "text": "金融机构通常会考虑多种因素，包括税务居住地、公民身份信息、出生日期、自我证明表格和其他合规相关信息。"
-        },
-        {
-          "type": "paragraph",
-          "text": "因此，投资者应避免假设获得第二公民身份或选择不同的姓名会自动改变其纳税申报义务。"
-        },
-        {
-          "type": "paragraph",
-          "text": "每种情况都应由相关司法管辖区的合格税务顾问单独审查。"
-        },
-        {
-          "type": "heading",
-          "text": "投资公民计划中的一个罕见特征"
-        },
-        {
-          "type": "paragraph",
-          "text": "许多投资公民计划为投资者提供护照。"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其提供了更全面的东西。"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资者可能会获得全新的土耳其法律身份，包括为自己及其家人采用土耳其名字和姓氏的机会。"
-        },
-        {
-          "type": "paragraph",
-          "text": "对于一些投资者来说，这一功能只是象征性的。"
-        },
-        {
-          "type": "paragraph",
-          "text": "对于其他人来说，这是土耳其投资公民身份最有趣和最实用的方面之一。"
-        },
-        {
-          "type": "heading",
-          "text": "结论"
-        },
-        {
-          "type": "paragraph",
-          "text": "人们经常从房地产门槛、处理时间和旅行福利等方面讨论土耳其投资公民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "然而，该计划最显着的特征之一仍然相对未知：能够合法选择土耳其名字并建立完整的土耳其合法身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "对于考虑获得土耳其公民身份的投资者来说，了解该计划的这一独特方面可以为成为土耳其公民的更广泛的法律和实际后果提供宝贵的见解。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在 IGA 律师事务所，我们在整个土耳其投资公民身份流程中为国际投资者及其家人提供协助，包括公民身份申请、家庭申请、法律尽职调查和入籍后程序。"
-        }
-      ],
-      "title": "投资入籍与土耳其姓名选择：国际投资者容易忽略的优势",
-      "seoTitle": "土耳其入籍与姓名选择：投资者指南",
-      "metaDescription": "投资者在入籍期间可以选择土耳其名字吗？了解国际家庭的命名规则、申请步骤和实用要点。",
-      "imageAlts": {
-        "/public/assets/media/0e07f0d84378c8f3.png": "土耳其投资公民身份和土耳其名字选择流程",
-        "/public/assets/media/4698b35a5b181173.webp": "使用土耳其护照开设银行账户"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "当人们讨论土耳其投资公民身份时，谈话通常集中在最低投资门槛、处理时间、免签证旅行机会或房地产选择上。"
     },
+    {
+      "type": "paragraph",
+      "text": "然而，土耳其投资公民计划的另一个特点却很少受到关注：在公民身份过程中能够合法采用土耳其名字和姓氏。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于许多国际投资者，特别是来自中国、香港和亚洲其他地区的投资者来说，土耳其公民身份的这一方面与护照本身一样有趣。"
+    },
+    {
+      "type": "paragraph",
+      "text": "作为每天处理土耳其投资入籍申请的律师，我们观察到大约一半的中国投资者客户在成为土耳其公民时选择土耳其名字和姓氏，而剩下的一半则倾向于保留原来的姓名。"
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么这是可能的，为什么一些投资者认为这很重要？"
+    },
+    {
+      "type": "heading",
+      "text": "外国投资者可以选择土耳其名字吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "可以。"
+    },
+    {
+      "type": "paragraph",
+      "text": "当外国投资者通过投资获得土耳其公民身份时，土耳其当局允许申请人在公民身份申请过程中选择土耳其名字和姓氏。"
+    },
+    {
+      "type": "paragraph",
+      "text": "此选项不仅适用于主申请人，也适用于符合条件的家庭成员。"
+    },
+    {
+      "type": "paragraph",
+      "text": "配偶可以选择土耳其名字，孩子可以选择土耳其名字，整个家庭可以采用共同的土耳其姓氏。"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，一个家庭可能会收到土耳其身份证和土耳其护照，其中的土耳其名字与原始护照上的名字不同。"
+    },
+    {
+      "type": "paragraph",
+      "text": "例如，申请人可申请采用Mehmet Yılmaz等土耳其姓名。对原有国籍的影响须依据该国法律审查；选择土耳其姓名不会自动保留另一国籍。"
+    },
+    {
+      "type": "heading",
+      "text": "创建新的土耳其法律身份"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其投资公民身份的独特特征之一是成功的申请人获得完整的土耳其合法身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "这包括："
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其身份证"
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其护照"
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其国民身份证号码"
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其民事登记处记录"
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其税号"
+    },
+    {
+      "type": "paragraph",
+      "text": "• 土耳其名字和姓氏（如果选择）"
+    },
+    {
+      "type": "paragraph",
+      "text": "从法律角度来看，个人成为土耳其公民，享有土耳其公民身份所附带的所有权利和义务。"
+    },
+    {
+      "type": "paragraph",
+      "text": "这与许多投资居留计划有很大不同，在这些计划中，投资者获得居留权但不会成为公民。"
+    },
+    {
+      "type": "heading",
+      "text": "为什么一些中国投资者选择土耳其名字？"
+    },
+    {
+      "type": "paragraph",
+      "text": "每个家庭都有不同的原因。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一些投资者更喜欢土耳其名字，因为它们更容易在国际上使用。"
+    },
+    {
+      "type": "paragraph",
+      "text": "其他人希望所有土耳其文件中的家族姓氏保持一致。"
+    },
+    {
+      "type": "paragraph",
+      "text": "一些投资者只是很高兴有机会以新的合法身份开始人生的新篇章。"
+    },
+    {
+      "type": "paragraph",
+      "text": "根据我们的经验，所有投资者都没有单一的动机。"
+    },
+    {
+      "type": "paragraph",
+      "text": "然而，中国投资公民申请人对土耳其名字选择的兴趣尤其普遍。"
+    },
+    {
+      "type": "heading",
+      "text": "土耳其护照和国际银行业务"
+    },
+    {
+      "type": "paragraph",
+      "text": "一些投资者密切关注土耳其名字选择的另一个原因是国际银行业务。"
+    },
+    {
+      "type": "paragraph",
+      "text": "许多获得土耳其公民身份的投资者随后与土耳其境外的金融机构建立了个人或业务关系。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在实践中，一些投资者在开设银行账户、设立公司、购买房产或开展国际商业活动时选择使用土耳其护照。"
+    },
+    {
+      "type": "paragraph",
+      "text": "由于每个金融机构都采用自己的合规和了解您的客户 (KYC) 程序，因此实际结果会根据国家、机构和个人情况而有所不同。"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，投资者在做出涉及多重国籍的决定之前，应始终获得专业的银行、税务和法律建议。"
+    },
+    {
+      "type": "heading",
+      "text": "CRS 和国际税务报告怎么样？"
+    },
+    {
+      "type": "paragraph",
+      "text": "这是最常被误解的话题之一。"
+    },
+    {
+      "type": "paragraph",
+      "text": "通用报告标准 (CRS) 等国际报告系统通常不仅仅依赖于个人姓名或护照。"
+    },
+    {
+      "type": "paragraph",
+      "text": "金融机构通常会考虑多种因素，包括税务居住地、公民身份信息、出生日期、自我证明表格和其他合规相关信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，投资者应避免假设获得第二公民身份或选择不同的姓名会自动改变其纳税申报义务。"
+    },
+    {
+      "type": "paragraph",
+      "text": "每种情况都应由相关司法管辖区的合格税务顾问单独审查。"
+    },
+    {
+      "type": "heading",
+      "text": "投资公民计划中的一个罕见特征"
+    },
+    {
+      "type": "paragraph",
+      "text": "许多投资公民计划为投资者提供护照。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其提供了更全面的东西。"
+    },
+    {
+      "type": "paragraph",
+      "text": "新的土耳其姓名须与此前身份记录保持对应，不会消除原身份、法律义务或财务披露责任。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于一些投资者来说，这一功能只是象征性的。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于其他人来说，这是土耳其投资公民身份最有趣和最实用的方面之一。"
+    },
+    {
+      "type": "heading",
+      "text": "结论"
+    },
+    {
+      "type": "paragraph",
+      "text": "人们经常从房地产门槛、处理时间和旅行福利等方面讨论土耳其投资公民身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "然而，该计划最显着的特征之一仍然相对未知：能够合法选择土耳其名字并建立完整的土耳其合法身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于考虑获得土耳其公民身份的投资者来说，了解该计划的这一独特方面可以为成为土耳其公民的更广泛的法律和实际后果提供宝贵的见解。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在 IGA 律师事务所，我们在整个土耳其投资公民身份流程中为国际投资者及其家人提供协助，包括公民身份申请、家庭申请、法律尽职调查和入籍后程序。"
+    },
+    {
+      "type": "source",
+      "text": "NVI：姓名对应证明",
+      "url": "https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/talimat/isimdenklikbelgesiislemleri.pdf"
+    }
+  ],
+  "title": "投资入籍与土耳其姓名选择：国际投资者容易忽略的优势",
+  "seoTitle": "土耳其入籍与姓名选择：投资者指南",
+  "metaDescription": "投资者在入籍期间可以选择土耳其名字吗？了解国际家庭的命名规则、申请步骤和实用要点。",
+  "imageAlts": {
+    "/public/assets/media/0e07f0d84378c8f3.png": "土耳其投资公民身份和土耳其名字选择流程",
+    "/public/assets/media/4698b35a5b181173.webp": "使用土耳其护照开设银行账户"
+  }
+},
     "turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors": {
       "blocks": [
         {
@@ -10840,327 +10912,332 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey": {
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "3年后出售土耳其公民身份房产：完整法律指南"
-        },
-        {
-          "type": "paragraph",
-          "text": "许多通过土耳其房地产投资获得土耳其公民身份的投资者都会问同样的问题："
-        },
-        {
-          "type": "paragraph",
-          "text": "3年后我的房产会怎样？我可以轻松出售吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "根据土耳其投资公民计划，在土耳其购买房地产的投资者必须保留该房产至少 3 年。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在此期间，土地注册处会对产权契据施加非销售限制（3 年注释）。"
-        },
-        {
-          "type": "paragraph",
-          "text": "一旦三年期限到期，投资者可以在土耳其合法出售该房产。土耳其。"
-        },
-        {
-          "type": "paragraph",
-          "text": "然而，三年后土耳其公民身份财产出售流程涉及多个法律和行政步骤。"
-        },
-        {
-          "type": "paragraph",
-          "text": "以下是完整指南。"
-        },
-        {
-          "type": "heading",
-          "text": "1.签发新的授权书"
-        },
-        {
-          "type": "paragraph",
-          "text": "获得土耳其公民身份后，投资者将获得土耳其身份证号码和公民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在大多数情况下，必须为房产销售流程签发新的授权书 (PoA)。"
-        },
-        {
-          "type": "paragraph",
-          "text": "此新授权书包括："
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其身份证号码"
-        },
-        {
-          "type": "paragraph",
-          "text": "更新姓名"
-        },
-        {
-          "type": "paragraph",
-          "text": "由于原始 PoA 通常是使用外国护照信息签发的，因此可能不足以办理房产出售手续。"
-        },
-        {
-          "type": "heading",
-          "text": "远程授权书服务"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA律师事务所提供远程授权书服务，使投资者无需前往土耳其即可完成该流程。"
-        },
-        {
-          "type": "paragraph",
-          "text": "PoA 可以通过当地公证人签发海牙认证。"
-        },
-        {
-          "type": "paragraph",
-          "text": "这使得整个房产销售流程能够在国外高效、合法地完成。"
-        },
-        {
-          "type": "heading",
-          "text": "2.更新地契记录"
-        },
-        {
-          "type": "paragraph",
-          "text": "获得公民身份后，投资者可能会："
-        },
-        {
-          "type": "paragraph",
-          "text": "新的土耳其名字"
-        },
-        {
-          "type": "paragraph",
-          "text": "不同的姓氏"
-        },
-        {
-          "type": "paragraph",
-          "text": "更新的国籍状况"
-        },
-        {
-          "type": "paragraph",
-          "text": "在出售房产之前，必须在土耳其的土地登记记录中更新这些更改。"
-        },
-        {
-          "type": "paragraph",
-          "text": "以下信息已更正："
-        },
-        {
-          "type": "paragraph",
-          "text": "姓名"
-        },
-        {
-          "type": "paragraph",
-          "text": "国籍"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其身份证号码"
-        },
-        {
-          "type": "paragraph",
-          "text": "如果没有此更新，地契出售申请将无法继续。"
-        },
-        {
-          "type": "heading",
-          "text": "3.取消3年限制"
-        },
-        {
-          "type": "paragraph",
-          "text": "根据公民身份计划购买的房产在地契上包含 3 年不可出售的注释。"
-        },
-        {
-          "type": "paragraph",
-          "text": "持有期结束后，需向土耳其土地登记处提交申请以取消此限制。"
-        },
-        {
-          "type": "paragraph",
-          "text": "只有在注释被删除后，该房产才能合法出售。"
-        },
-        {
-          "type": "heading",
-          "text": "4.检查市政税"
-        },
-        {
-          "type": "paragraph",
-          "text": "在出售房产之前，必须清除所有市政税，包括："
-        },
-        {
-          "type": "paragraph",
-          "text": "财产税"
-        },
-        {
-          "type": "paragraph",
-          "text": "环境清洁税"
-        },
-        {
-          "type": "paragraph",
-          "text": "如果存在任何未偿债务，土地注册处将不会完成转让。"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所进行这些检查在开始销售流程之前。"
-        },
-        {
-          "type": "heading",
-          "text": "5.签署销售协议"
-        },
-        {
-          "type": "paragraph",
-          "text": "一旦找到买家，双方通常会签署房产销售协议。"
-        },
-        {
-          "type": "paragraph",
-          "text": "本文件定义："
-        },
-        {
-          "type": "paragraph",
-          "text": "销售价格"
-        },
-        {
-          "type": "paragraph",
-          "text": "付款条件"
-        },
-        {
-          "type": "paragraph",
-          "text": "产权转让日期"
-        },
-        {
-          "type": "paragraph",
-          "text": "买家的法律责任各方"
-        },
-        {
-          "type": "paragraph",
-          "text": "正确起草的协议可以在交易过程中保护投资者。"
-        },
-        {
-          "type": "heading",
-          "text": "6.地契出售申请"
-        },
-        {
-          "type": "paragraph",
-          "text": "协议签署后，将向土耳其土地登记处提交正式的出售申请。"
-        },
-        {
-          "type": "paragraph",
-          "text": "该申请包括："
-        },
-        {
-          "type": "paragraph",
-          "text": "买卖双方信息"
-        },
-        {
-          "type": "paragraph",
-          "text": "房产详细信息"
-        },
-        {
-          "type": "paragraph",
-          "text": "商定出售价格"
-        },
-        {
-          "type": "paragraph",
-          "text": "土地注册处随后安排正式地契转让预约。"
-        },
-        {
-          "type": "heading",
-          "text": "7.通过土耳其银行安全付款"
-        },
-        {
-          "type": "paragraph",
-          "text": "在土耳其，房产交易通常通过银行转账至卖方的土耳其银行账户来完成。"
-        },
-        {
-          "type": "paragraph",
-          "text": "保护投资者的关键规则是："
-        },
-        {
-          "type": "paragraph",
-          "text": "在收到销售金额之前不会签署地契转让。"
-        },
-        {
-          "type": "paragraph",
-          "text": "该流程通常如下："
-        },
-        {
-          "type": "paragraph",
-          "text": "1️⃣ 买方将资金转入卖方的银行账户"
-        },
-        {
-          "type": "paragraph",
-          "text": "2️⃣ 收到付款确认"
-        },
-        {
-          "type": "paragraph",
-          "text": "3️⃣ 在土地注册处签署地契转让"
-        },
-        {
-          "type": "paragraph",
-          "text": "4️⃣ 所有权正式转让给买方"
-        },
-        {
-          "type": "paragraph",
-          "text": "此系统可保护双方免受财务风险。"
-        },
-        {
-          "type": "heading",
-          "text": "为什么与 IGA 律师事务所合作？"
-        },
-        {
-          "type": "paragraph",
-          "text": "获得土耳其公民身份后出售房产需要专业的法律管理。"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所提供全面的服务，包括："
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 远程授权书准备"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 土地登记记录更新"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 取消 3 年限制"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 市税务检查"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 起草房产销售协议"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 管理地契销售申请"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 安全付款监管"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ 为国际投资者提供法律指导"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所总部位于土耳其伊斯坦布尔，自 2018 年以来已在土耳其投资入籍计划中为数百名国际投资者提供了帮助。"
-        },
-        {
-          "type": "paragraph",
-          "text": "我们不仅在购买阶段为客户提供支持，还在退出和财产清算阶段提供支持。"
-        }
-      ],
-      "title": "入籍房产持有三年后如何出售",
-      "seoTitle": "土耳其入籍房产持有三年后如何出售",
-      "metaDescription": "为申请土耳其国籍购买的房产何时可以出售？了解三年限制、交易步骤和法律核查事项。",
-      "imageAlts": {
-        "/public/assets/media/047f8a13e7770761.png": "在公民投资法律程序后出售土耳其财产 土耳其"
-      }
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "3年后出售土耳其公民身份房产：完整法律指南"
     },
+    {
+      "type": "paragraph",
+      "text": "许多通过土耳其房地产投资获得土耳其公民身份的投资者都会问同样的问题："
+    },
+    {
+      "type": "paragraph",
+      "text": "3年后我的房产会怎样？我可以轻松出售吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "根据土耳其投资公民计划，在土耳其购买房地产的投资者必须保留该房产至少 3 年。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在此期间，土地注册处会对产权契据施加非销售限制（3 年注释）。"
+    },
+    {
+      "type": "paragraph",
+      "text": "三年承诺期届满后，出售前仍须确认入籍限制登记的解除及其他产权限制。"
+    },
+    {
+      "type": "paragraph",
+      "text": "然而，三年后土耳其公民身份财产出售流程涉及多个法律和行政步骤。"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下是完整指南。"
+    },
+    {
+      "type": "heading",
+      "text": "1.签发新的授权书"
+    },
+    {
+      "type": "paragraph",
+      "text": "获得土耳其公民身份后，投资者将获得土耳其身份证号码和公民身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在大多数情况下，必须为房产销售流程签发新的授权书 (PoA)。"
+    },
+    {
+      "type": "paragraph",
+      "text": "此新授权书包括："
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其身份证号码"
+    },
+    {
+      "type": "paragraph",
+      "text": "更新姓名"
+    },
+    {
+      "type": "paragraph",
+      "text": "由于原始 PoA 通常是使用外国护照信息签发的，因此可能不足以办理房产出售手续。"
+    },
+    {
+      "type": "heading",
+      "text": "远程授权书服务"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA律师事务所提供远程授权书服务，使投资者无需前往土耳其即可完成该流程。"
+    },
+    {
+      "type": "paragraph",
+      "text": "境外授权书须通过适当的领事或公证认证程序办理；能否使用海牙认证取决于签发国和文件。"
+    },
+    {
+      "type": "paragraph",
+      "text": "这使得整个房产销售流程能够在国外高效、合法地完成。"
+    },
+    {
+      "type": "heading",
+      "text": "2.更新地契记录"
+    },
+    {
+      "type": "paragraph",
+      "text": "获得公民身份后，投资者可能会："
+    },
+    {
+      "type": "paragraph",
+      "text": "新的土耳其名字"
+    },
+    {
+      "type": "paragraph",
+      "text": "不同的姓氏"
+    },
+    {
+      "type": "paragraph",
+      "text": "更新的国籍状况"
+    },
+    {
+      "type": "paragraph",
+      "text": "在出售房产之前，必须在土耳其的土地登记记录中更新这些更改。"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下信息已更正："
+    },
+    {
+      "type": "paragraph",
+      "text": "姓名"
+    },
+    {
+      "type": "paragraph",
+      "text": "国籍"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其身份证号码"
+    },
+    {
+      "type": "paragraph",
+      "text": "如果没有此更新，地契出售申请将无法继续。"
+    },
+    {
+      "type": "heading",
+      "text": "3.取消3年限制"
+    },
+    {
+      "type": "paragraph",
+      "text": "根据公民身份计划购买的房产在地契上包含 3 年不可出售的注释。"
+    },
+    {
+      "type": "paragraph",
+      "text": "持有期结束后，需向土耳其土地登记处提交申请以取消此限制。"
+    },
+    {
+      "type": "paragraph",
+      "text": "只有在注释被删除后，该房产才能合法出售。"
+    },
+    {
+      "type": "heading",
+      "text": "4.检查市政税"
+    },
+    {
+      "type": "paragraph",
+      "text": "在出售房产之前，必须清除所有市政税，包括："
+    },
+    {
+      "type": "paragraph",
+      "text": "财产税"
+    },
+    {
+      "type": "paragraph",
+      "text": "环境清洁税"
+    },
+    {
+      "type": "paragraph",
+      "text": "应向市政府及土地登记机关核查欠税和查封；其对转让的影响取决于债务及限制性质。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所进行这些检查在开始销售流程之前。"
+    },
+    {
+      "type": "heading",
+      "text": "5.签署销售协议"
+    },
+    {
+      "type": "paragraph",
+      "text": "一旦找到买家，双方通常会签署房产销售协议。"
+    },
+    {
+      "type": "paragraph",
+      "text": "本文件定义："
+    },
+    {
+      "type": "paragraph",
+      "text": "销售价格"
+    },
+    {
+      "type": "paragraph",
+      "text": "付款条件"
+    },
+    {
+      "type": "paragraph",
+      "text": "产权转让日期"
+    },
+    {
+      "type": "paragraph",
+      "text": "买家的法律责任各方"
+    },
+    {
+      "type": "paragraph",
+      "text": "正确起草的协议可以在交易过程中保护投资者。"
+    },
+    {
+      "type": "heading",
+      "text": "6.地契出售申请"
+    },
+    {
+      "type": "paragraph",
+      "text": "协议签署后，将向土耳其土地登记处提交正式的出售申请。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该申请包括："
+    },
+    {
+      "type": "paragraph",
+      "text": "买卖双方信息"
+    },
+    {
+      "type": "paragraph",
+      "text": "房产详细信息"
+    },
+    {
+      "type": "paragraph",
+      "text": "商定出售价格"
+    },
+    {
+      "type": "paragraph",
+      "text": "土地注册处随后安排正式地契转让预约。"
+    },
+    {
+      "type": "heading",
+      "text": "7.通过土耳其银行安全付款"
+    },
+    {
+      "type": "paragraph",
+      "text": "在土耳其，房产交易通常通过银行转账至卖方的土耳其银行账户来完成。"
+    },
+    {
+      "type": "paragraph",
+      "text": "与交易双方及银行确定有书面记录的付款和产权转让顺序。"
+    },
+    {
+      "type": "paragraph",
+      "text": "签署前确认款项到账或约定的安全结算安排；不要假定登记机关保证收款。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该流程通常如下："
+    },
+    {
+      "type": "paragraph",
+      "text": "1️⃣ 买方将资金转入卖方的银行账户"
+    },
+    {
+      "type": "paragraph",
+      "text": "2️⃣ 收到付款确认"
+    },
+    {
+      "type": "paragraph",
+      "text": "3️⃣ 在土地注册处签署地契转让"
+    },
+    {
+      "type": "paragraph",
+      "text": "4️⃣ 所有权正式转让给买方"
+    },
+    {
+      "type": "paragraph",
+      "text": "这些核查有助于管理付款风险，但不会消除所有交易风险。"
+    },
+    {
+      "type": "heading",
+      "text": "为什么与 IGA 律师事务所合作？"
+    },
+    {
+      "type": "paragraph",
+      "text": "获得土耳其公民身份后出售房产需要专业的法律管理。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所提供全面的服务，包括："
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 远程授权书准备"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 土地登记记录更新"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 取消 3 年限制"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 市税务检查"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 起草房产销售协议"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 管理地契销售申请"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 安全付款监管"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ 为国际投资者提供法律指导"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所总部位于土耳其伊斯坦布尔，自 2018 年以来已在土耳其投资入籍计划中为数百名国际投资者提供了帮助。"
+    },
+    {
+      "type": "paragraph",
+      "text": "我们不仅在购买阶段为客户提供支持，还在退出和财产清算阶段提供支持。"
+    },
+    {
+      "type": "source",
+      "text": "TKGM：入籍房产指南",
+      "url": "https://www.tkgm.gov.tr/sites/default/files/2023-12/K%C4%B1lavuz_%2801.02.2023%29-Rev._22-11-2023.pdf"
+    }
+  ],
+  "title": "入籍房产持有三年后如何出售",
+  "seoTitle": "土耳其入籍房产持有三年后如何出售",
+  "metaDescription": "为申请土耳其国籍购买的房产何时可以出售？了解三年限制、交易步骤和法律核查事项。",
+  "imageAlts": {
+    "/public/assets/media/047f8a13e7770761.png": "在公民投资法律程序后出售土耳其财产 土耳其"
+  }
+},
     "turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes": {
       "blocks": [
         {
@@ -12657,343 +12734,358 @@ window.blogPostTranslations = {
       }
     },
     "crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "什么是 CRS？"
-        },
-        {
-          "type": "paragraph",
-          "text": "共同报告标准（CRS）是经合组织制定的用于参与国之间自动交换金融账户信息的国际框架。其目的是通过确保金融机构向当地税务机关报告外国税务居民的某些账户详细信息（然后与相关外国司法管辖区共享）来打击逃税。"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其是 CRS 的一部分吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "是的。土耳其是CRS框架下的参与司法管辖区。土耳其金融机构需要识别账户持有人的税务居民身份，并按照CRS规则报告相关信息。"
-        },
-        {
-          "type": "paragraph",
-          "text": "如果我在土耳其投资，我的银行信息是否会与我的祖国共享？"
-        },
-        {
-          "type": "paragraph",
-          "text": "可能是的，但仅限于特定条件下。 CRS 报告基于税务居民身份，而非公民身份。如果您在土耳其开设银行账户，并被视为另一个 CRS 参与国的税务居民，土耳其银行可能会向土耳其税务机关报告某些财务信息，然后您可以与税务居住国的税务机关交换这些信息。"
-        },
-        {
-          "type": "paragraph",
-          "text": "但是："
-        },
-        {
-          "type": "paragraph",
-          "text": "CRS 不会自动适用于每个账户。"
-        },
-        {
-          "type": "paragraph",
-          "text": "只有符合 CRS 阈值和标准的应报告账户才会被纳入评估范围。"
-        },
-        {
-          "type": "paragraph",
-          "text": "共享的信息仅限于特定的财务数据（例如账户余额和某些收入），不包括交易级别的详细信息。"
-        },
-        {
-          "type": "paragraph",
-          "text": "获得土耳其公民身份是否会触发 CRS 报告？"
-        },
-        {
-          "type": "paragraph",
-          "text": "不会。仅获得土耳其公民身份并不会触发 CRS 报告。 CRS 着眼于您是哪里的税务居民，而不是您持有哪本护照。根据土耳其税法，只有在一个日历年内在土耳其居住至少 183 天的个人通常才被视为土耳其的纳税居民。如果个人在给定日历年内在土耳其居住的时间少于 183 天，他们通常不被视为土耳其税务居民，仅此一点并不会改变他们的 CRS 地位。许多投资者在获得土耳其公民身份的同时仍是另一个国家的税务居民，除非其税务居民身份发生变化，否则 CRS 地位保持不变。"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其投资公民身份途径怎么样？"
-        },
-        {
-          "type": "paragraph",
-          "text": "对于根据土耳其投资入籍 (TCBI) 计划申请的投资者，CRS 的影响取决于所选的投资途径："
-        },
-        {
-          "type": "paragraph",
-          "text": "1.银行存款途径"
-        },
-        {
-          "type": "paragraph",
-          "text": "如果资金存入土耳其银行："
-        },
-        {
-          "type": "paragraph",
-          "text": "在实践中，银行可能会要求提供 CRS 自我认证表格，作为其内部合规程序的一部分；然而，在许多情况下，除非客户申报的税务居民身份或银行的风险评估触发，否则不会单独要求提供此表格。"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资者必须申报其税务居民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "报告（如有）将根据申报的税务居民身份和 CRS 规则进行。"
-        },
-        {
-          "type": "paragraph",
-          "text": "2.私人养老金系统（BES）"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其私人养老金系统受到监管并以基金为基础。虽然养老金提供者也遵循 CRS 合规要求，但报告仍然取决于投资者的税务居住地和 CRS 下账户的分类。"
-        },
-        {
-          "type": "paragraph",
-          "text": "3.房地产投资"
-        },
-        {
-          "type": "paragraph",
-          "text": "在土耳其，直接房地产所有权不受 CRS 报告的约束。 CRS适用于金融账户，不适用于不动产所有权。"
-        },
-        {
-          "type": "paragraph",
-          "text": "未来几年 CRS 预计会发生变化吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "在全球范围内，CRS 不断发展，讨论围绕："
-        },
-        {
-          "type": "paragraph",
-          "text": "扩大报告范围"
-        },
-        {
-          "type": "paragraph",
-          "text": "提高数据标准化"
-        },
-        {
-          "type": "paragraph",
-          "text": "更严格合规要求"
-        },
-        {
-          "type": "paragraph",
-          "text": "然而，截至目前，尚未宣布与土耳其投资公民身份相关的豁免或特殊 CRS 制度。未来的任何变化都将广泛适用于参与的司法管辖区，而不仅仅是土耳其。"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资者要点"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其参与 CRS。"
-        },
-        {
-          "type": "paragraph",
-          "text": "CRS 报告基于税务居民身份，而不是公民身份。"
-        },
-        {
-          "type": "paragraph",
-          "text": "在土耳其开设银行账户并不自动意味着信息被共享。"
-        },
-        {
-          "type": "paragraph",
-          "text": "房地产投资不属于 CRS 的范围。"
-        },
-        {
-          "type": "paragraph",
-          "text": "适当的法律和税务规划至关重要。"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所如何提供协助"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所在整个土耳其投资入籍流程中为投资者提供法律指导，包括与银行的协调、CRS 自我认证程序以及以合规为重点的结构。虽然我们不提供税务咨询服务，但我们与客户的税务顾问密切合作，以确保透明度和监管一致性。"
-        }
-      ],
-      "title": "土耳其 CRS 信息申报与投资入籍：投资者须知",
-      "seoTitle": "土耳其CRS申报与投资入籍指南",
-      "metaDescription": "了解CRS信息交换如何影响在土耳其开设银行账户的投资入籍申请人，以及哪些账户资料可能被申报。",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "什么是 CRS？"
     },
+    {
+      "type": "paragraph",
+      "text": "共同报告标准（CRS）是经合组织制定的用于参与国之间自动交换金融账户信息的国际框架。其目的是通过确保金融机构向当地税务机关报告外国税务居民的某些账户详细信息（然后与相关外国司法管辖区共享）来打击逃税。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其是 CRS 的一部分吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "是的。土耳其是CRS框架下的参与司法管辖区。土耳其金融机构需要识别账户持有人的税务居民身份，并按照CRS规则报告相关信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "如果我在土耳其投资，我的银行信息是否会与我的祖国共享？"
+    },
+    {
+      "type": "paragraph",
+      "text": "可能是的，但仅限于特定条件下。 CRS 报告基于税务居民身份，而非公民身份。如果您在土耳其开设银行账户，并被视为另一个 CRS 参与国的税务居民，土耳其银行可能会向土耳其税务机关报告某些财务信息，然后您可以与税务居住国的税务机关交换这些信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但是："
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS 不会自动适用于每个账户。"
+    },
+    {
+      "type": "paragraph",
+      "text": "是否申报取决于账户分类、适用尽调规则和相关信息交换关系，并不存在让所有账户豁免的统一金额门槛。"
+    },
+    {
+      "type": "paragraph",
+      "text": "共享的信息仅限于特定的财务数据（例如账户余额和某些收入），不包括交易级别的详细信息。"
+    },
+    {
+      "type": "paragraph",
+      "text": "获得土耳其公民身份是否会触发 CRS 报告？"
+    },
+    {
+      "type": "paragraph",
+      "text": "国籍本身不能决定CRS申报。土耳其税务居民规则涉及住所、一个日历年内连续停留超过六个月、法定例外及部分在海外工作的土耳其公民适用的特殊规定，不能只用183天判断。应由税务顾问综合审查全部税务居民身份、税收协定和账户情况。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其投资公民身份途径怎么样？"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于根据土耳其投资入籍 (TCBI) 计划申请的投资者，CRS 的影响取决于所选的投资途径："
+    },
+    {
+      "type": "paragraph",
+      "text": "1.银行存款途径"
+    },
+    {
+      "type": "paragraph",
+      "text": "如果资金存入土耳其银行："
+    },
+    {
+      "type": "paragraph",
+      "text": "对适用CRS尽调的新账户，金融机构须取得有效的税务居民自我声明并审查其合理性。请准确填写并及时更新信息；持有土耳其护照不代表该声明可省略。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者必须申报其税务居民身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "报告（如有）将根据申报的税务居民身份和 CRS 规则进行。"
+    },
+    {
+      "type": "paragraph",
+      "text": "2.私人养老金系统（BES）"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其私人养老金系统受到监管并以基金为基础。虽然养老金提供者也遵循 CRS 合规要求，但报告仍然取决于投资者的税务居住地和 CRS 下账户的分类。"
+    },
+    {
+      "type": "paragraph",
+      "text": "3.房地产投资"
+    },
+    {
+      "type": "paragraph",
+      "text": "在土耳其，直接房地产所有权不受 CRS 报告的约束。 CRS适用于金融账户，不适用于不动产所有权。"
+    },
+    {
+      "type": "paragraph",
+      "text": "未来几年 CRS 预计会发生变化吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "在全球范围内，CRS 不断发展，讨论围绕："
+    },
+    {
+      "type": "paragraph",
+      "text": "扩大报告范围"
+    },
+    {
+      "type": "paragraph",
+      "text": "提高数据标准化"
+    },
+    {
+      "type": "paragraph",
+      "text": "更严格合规要求"
+    },
+    {
+      "type": "paragraph",
+      "text": "入籍投资本身不提供CRS豁免。应核查相关年度适用的申报规则及信息交换关系。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者要点"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其参与 CRS。"
+    },
+    {
+      "type": "paragraph",
+      "text": "CRS 报告基于税务居民身份，而不是公民身份。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在土耳其开设银行账户并不自动意味着信息被共享。"
+    },
+    {
+      "type": "paragraph",
+      "text": "房地产投资不属于 CRS 的范围。"
+    },
+    {
+      "type": "paragraph",
+      "text": "适当的法律和税务规划至关重要。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所如何提供协助"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所在整个土耳其投资入籍流程中为投资者提供法律指导，包括与银行的协调、CRS 自我认证程序以及以合规为重点的结构。虽然我们不提供税务咨询服务，但我们与客户的税务顾问密切合作，以确保透明度和监管一致性。"
+    },
+    {
+      "type": "source",
+      "text": "OECD：土耳其税务居民规则",
+      "url": "https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-residency/Turkiye-Tax-Residency.pdf"
+    },
+    {
+      "type": "source",
+      "text": "OECD：土耳其CRS实施",
+      "url": "https://www.oecd.org/en/publications/peer-review-of-the-automatic-exchange-of-financial-account-information-2022_36e7cded-en/full-report/turkiye_771b151e.html"
+    }
+  ],
+  "title": "土耳其 CRS 信息申报与投资入籍：投资者须知",
+  "seoTitle": "土耳其CRS申报与投资入籍指南",
+  "metaDescription": "了解CRS信息交换如何影响在土耳其开设银行账户的投资入籍申请人，以及哪些账户资料可能被申报。",
+  "imageAlts": {}
+},
     "turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "考虑通过银行存款获得土耳其公民身份的外国投资者最常问的问题之一很简单："
-        },
-        {
-          "type": "paragraph",
-          "text": "“3年后我的钱会怎样？”"
-        },
-        {
-          "type": "paragraph",
-          "text": "在本文中，我们分享了一个真实的客户案例，涉及一位台湾公民，根据投资入籍计划通过土耳其银行存款投资了 500,000 美元，以及强制 3 年持有期后的实际财务结果。"
-        },
-        {
-          "type": "paragraph",
-          "text": "初始投资详情："
-        },
-        {
-          "type": "paragraph",
-          "text": "投资金额：50万美元"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资途径：银行存款"
-        },
-        {
-          "type": "paragraph",
-          "text": "目的：通过投资获得土耳其公民身份"
-        },
-        {
-          "type": "paragraph",
-          "text": "持有期限：3年"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资者国籍：台湾"
-        },
-        {
-          "type": "paragraph",
-          "text": "该投资的结构完全符合土耳其银行和公民法规，重点关注资本保值和货币优化。"
-        },
-        {
-          "type": "paragraph",
-          "text": "3 年持有期"
-        },
-        {
-          "type": "paragraph",
-          "text": "在整个 3 年期间："
-        },
-        {
-          "type": "paragraph",
-          "text": "本金额按照要求保持合法冻结"
-        },
-        {
-          "type": "paragraph",
-          "text": "资金以受监管的土耳其货币持有银行"
-        },
-        {
-          "type": "paragraph",
-          "text": "入籍流程顺利完成"
-        },
-        {
-          "type": "paragraph",
-          "text": "无需在土耳其进行商业活动"
-        },
-        {
-          "type": "paragraph",
-          "text": "该流程在专业法律监督下进行端到端管理。"
-        },
-        {
-          "type": "paragraph",
-          "text": "3年后的最终结果"
-        },
-        {
-          "type": "paragraph",
-          "text": "3年结束时："
-        },
-        {
-          "type": "paragraph",
-          "text": "初始投资：500,000美元"
-        },
-        {
-          "type": "paragraph",
-          "text": "最终账户余额：约600,000 美元"
-        },
-        {
-          "type": "paragraph",
-          "text": "净增长：+100,000 美元"
-        },
-        {
-          "type": "paragraph",
-          "text": "以美元计的回报率约为：20%"
-        },
-        {
-          "type": "paragraph",
-          "text": "这一结果清楚地表明，如果结构合理，通过银行存款获得土耳其公民身份不仅可以提供公民资格，还可以提供资本保值和合理的外币回报。"
-        },
-        {
-          "type": "paragraph",
-          "text": "支持证据（已编辑）"
-        },
-        {
-          "type": "paragraph",
-          "text": "经过编辑的客户银行账户余额截图"
-        },
-        {
-          "type": "paragraph",
-          "text": "银行存款公民身份适合谁？"
-        },
-        {
-          "type": "paragraph",
-          "text": "此途径特别适合以下投资者："
-        },
-        {
-          "type": "paragraph",
-          "text": "不喜欢投资房地产"
-        },
-        {
-          "type": "paragraph",
-          "text": "寻求更低的运营和市场风险"
-        },
-        {
-          "type": "paragraph",
-          "text": "看重流动性和监管透明度"
-        },
-        {
-          "type": "paragraph",
-          "text": "想要一条直接获得土耳其公民身份的途径"
-        },
-        {
-          "type": "paragraph",
-          "text": "法律视角：为什么正确的结构很重要"
-        },
-        {
-          "type": "paragraph",
-          "text": "不正确的银行选择、货币处理或文件可能会危及公民资格和财务结果。因此，通过银行存款获得土耳其公民身份应始终作为一个法律和金融项目来管理，而不仅仅是一个交易过程。"
-        },
-        {
-          "type": "paragraph",
-          "text": "IGA 律师事务所方法"
-        },
-        {
-          "type": "paragraph",
-          "text": "在 IGA 律师事务所，我们提供："
-        },
-        {
-          "type": "paragraph",
-          "text": "完全合规的银行存款公民身份结构"
-        },
-        {
-          "type": "paragraph",
-          "text": "申请流程的端到端法律管理"
-        },
-        {
-          "type": "paragraph",
-          "text": "战略重点关注美元保值"
-        },
-        {
-          "type": "paragraph",
-          "text": "根据投资者概况定制解决方案"
-        },
-        {
-          "type": "paragraph",
-          "text": "这个案例说明了正确的策略如何导致公民身份批准和资本保护。"
-        },
-        {
-          "type": "paragraph",
-          "text": "免责声明"
-        },
-        {
-          "type": "paragraph",
-          "text": "本内容基于过去的真实客户案例。结果取决于市场状况和个人情况，并不构成对未来投资的保证。"
-        }
-      ],
-      "title": "银行存款投资入籍：三年期真实案例分析",
-      "seoTitle": "银行存款申请土耳其国籍：三年案例",
-      "metaDescription": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
-      "imageAlts": {
-        "/public/assets/media/f9ae0020b3ecd172.jpg": "经过编辑的银行账户余额屏幕截图显示了通过银行存款获得真正土耳其公民身份的情况，其中 500,000 美元在 3 年后达到约 600,000 美元。"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "考虑通过银行存款获得土耳其公民身份的外国投资者最常问的问题之一很简单："
     },
+    {
+      "type": "paragraph",
+      "text": "“3年后我的钱会怎样？”"
+    },
+    {
+      "type": "paragraph",
+      "text": "在本文中，我们分享了一个真实的客户案例，涉及一位台湾公民，根据投资入籍计划通过土耳其银行存款投资了 500,000 美元，以及强制 3 年持有期后的实际财务结果。"
+    },
+    {
+      "type": "paragraph",
+      "text": "初始投资详情："
+    },
+    {
+      "type": "paragraph",
+      "text": "投资金额：50万美元"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资途径：银行存款"
+    },
+    {
+      "type": "paragraph",
+      "text": "目的：通过投资获得土耳其公民身份"
+    },
+    {
+      "type": "paragraph",
+      "text": "持有期限：3年"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者国籍：台湾"
+    },
+    {
+      "type": "paragraph",
+      "text": "该投资的结构完全符合土耳其银行和公民法规，重点关注资本保值和货币优化。"
+    },
+    {
+      "type": "paragraph",
+      "text": "3 年持有期"
+    },
+    {
+      "type": "paragraph",
+      "text": "在整个 3 年期间："
+    },
+    {
+      "type": "paragraph",
+      "text": "本金额按照要求保持合法冻结"
+    },
+    {
+      "type": "paragraph",
+      "text": "资金以受监管的土耳其货币持有银行"
+    },
+    {
+      "type": "paragraph",
+      "text": "入籍流程顺利完成"
+    },
+    {
+      "type": "paragraph",
+      "text": "无需在土耳其进行商业活动"
+    },
+    {
+      "type": "paragraph",
+      "text": "该流程在专业法律监督下进行端到端管理。"
+    },
+    {
+      "type": "paragraph",
+      "text": "3年后的最终结果"
+    },
+    {
+      "type": "paragraph",
+      "text": "3年结束时："
+    },
+    {
+      "type": "paragraph",
+      "text": "初始投资：500,000美元"
+    },
+    {
+      "type": "paragraph",
+      "text": "最终账户余额：约600,000 美元"
+    },
+    {
+      "type": "paragraph",
+      "text": "净增长：+100,000 美元"
+    },
+    {
+      "type": "paragraph",
+      "text": "以美元计的回报率约为：20%"
+    },
+    {
+      "type": "paragraph",
+      "text": "这只是一个历史客户案例，不代表典型收益或本金保障。汇率、利息、税费及其他费用会影响其他投资者的结果。"
+    },
+    {
+      "type": "paragraph",
+      "text": "支持证据（已编辑）"
+    },
+    {
+      "type": "paragraph",
+      "text": "经过编辑的客户银行账户余额截图"
+    },
+    {
+      "type": "paragraph",
+      "text": "银行存款公民身份适合谁？"
+    },
+    {
+      "type": "paragraph",
+      "text": "此途径特别适合以下投资者："
+    },
+    {
+      "type": "paragraph",
+      "text": "不喜欢投资房地产"
+    },
+    {
+      "type": "paragraph",
+      "text": "寻求更低的运营和市场风险"
+    },
+    {
+      "type": "paragraph",
+      "text": "能够接受三年承诺并了解提前提款后果"
+    },
+    {
+      "type": "paragraph",
+      "text": "想要一条直接获得土耳其公民身份的途径"
+    },
+    {
+      "type": "paragraph",
+      "text": "法律视角：为什么正确的结构很重要"
+    },
+    {
+      "type": "paragraph",
+      "text": "不正确的银行选择、货币处理或文件可能会危及公民资格和财务结果。因此，通过银行存款获得土耳其公民身份应始终作为一个法律和金融项目来管理，而不仅仅是一个交易过程。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA 律师事务所方法"
+    },
+    {
+      "type": "paragraph",
+      "text": "在 IGA 律师事务所，我们提供："
+    },
+    {
+      "type": "paragraph",
+      "text": "完全合规的银行存款公民身份结构"
+    },
+    {
+      "type": "paragraph",
+      "text": "申请流程的端到端法律管理"
+    },
+    {
+      "type": "paragraph",
+      "text": "战略重点关注美元保值"
+    },
+    {
+      "type": "paragraph",
+      "text": "根据投资者概况定制解决方案"
+    },
+    {
+      "type": "paragraph",
+      "text": "法律协调有助于合规，但不能保证入籍获批、本金安全或特定回报。"
+    },
+    {
+      "type": "paragraph",
+      "text": "免责声明"
+    },
+    {
+      "type": "paragraph",
+      "text": "本内容基于过去的真实客户案例。结果取决于市场状况和个人情况，并不构成对未来投资的保证。"
+    },
+    {
+      "type": "source",
+      "text": "官方存款条件（不证明本案例收益）",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    }
+  ],
+  "title": "银行存款投资入籍：三年期真实案例分析",
+  "seoTitle": "银行存款申请土耳其国籍：三年案例",
+  "metaDescription": "回顾为期三年的土耳其公民银行存款案例研究，包括 500,000 美元的起始金额、回报和提款步骤。",
+  "imageAlts": {
+    "/public/assets/media/f9ae0020b3ecd172.jpg": "经过编辑的银行账户余额屏幕截图显示了通过银行存款获得真正土耳其公民身份的情况，其中 500,000 美元在 3 年后达到约 600,000 美元。"
+  }
+},
     "2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025": {
       "blocks": [
         {
@@ -14305,211 +14397,213 @@ window.blogPostTranslations = {
       "imageAlts": {}
     },
     "citizenship-by-investment-programs": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "投资公民计划让家庭在几个月而不是几年内获得第二本护照。作为回报，他们在东道国进行合格的投资。自 2025 年以来，这些选择发生了很大变化。欧洲已经结束了最后一个计划，加勒比地区有了新的监管机构。土耳其在大规模打击欺诈行为后也收紧了规定。本指南比较了 2026 年主要的投资公民计划。它解释了成本、时间表、护照强度和法律风险。它还展示了如何根据总成本而不是总体价格来比较项目。在与任何代理交谈之前，请将此作为起点。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "什么是投资公民计划？"
-        },
-        {
-          "type": "paragraph",
-          "text": "投资公民计划授予国籍以换取批准的投资。投资可以是政府捐赠、房地产、债券或企业。申请人通常不需要首先居住在该国。大多数程序还会跳过语言或历史测试。相反，他们依赖严格的尽职调查。政府会审查您的背景、声誉和资金来源。家庭通常可以在一份文件中一起申请。配偶、子女，有时还包括父母。获得批准的申请人将获得与其他公民相同的护照。有些项目需要短暂访问进行生物识别或宣誓。这些计划是合法的，但各国之间的规则差异很大。了解基本过程可以使比较变得容易得多。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "流程如何运作"
-        },
-        {
-          "type": "paragraph",
-          "text": "大多数程序都遵循类似的步骤顺序。首先，持牌代理人或律师会审查您的资格。接下来，您收集出生证明和警察记录等文件。许多论文需要海牙认证和认证翻译。然后您可以根据计划规则进行投资或保留。政府对每一位成年申请人进行尽职调查。如果获得批准，您将完成投资并在需要时宣誓。最后，您会收到公民证书并申请护照。整个过程大约需要三到十二个月。延误通常是由于缺少文件或额外的背景调查造成的。一开始就保存完整的文件可以节省大部分时间。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "谁应该考虑它们"
-        },
-        {
-          "type": "paragraph",
-          "text": "这些计划适合那些快速需要更多流动性或安全性的人。企业主使用它们进行旅行，无需排长队办理签证。家庭将其作为备用计划，以防家庭条件发生变化。一些投资者使用它们来获得条约签证，例如美国 E-2。在美国的中国公民经常寻找这条E-2路线。其他人则希望为资产和子孙后代提供稳定的基础。这些计划不太适合寻求欧盟居留权的人。他们本身也不提供税收优惠。税务结果取决于您实际居住的地方。在选择项目之前，请务必先确定您的主要目标。您的目标决定了哪些功能最重要。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "加勒比投资公民身份计划"
-        },
-        {
-          "type": "paragraph",
-          "text": "五个加勒比国家实施了最著名的投资公民计划。它们是多米尼克、安提瓜和巴布达、格林纳达、圣卢西亚以及圣基茨和尼维斯。所有五家公司的统一最低限额为 200,000 美元。新的区域监管机构 ECCIRA 现在为它们制定了共同标准。目的是加强尽职调查并增强与美国和欧盟的信任。处理通常需要四到八个月。大多数项目在获得批准前无需访问。安提瓜岛要求在入籍后五年内短期居留。所有五人都接受双重国籍。他们的护照提供前往英国和申根区的免签证旅行。主要差异在于价格、家庭规则和条约准入。接下来的部分将详细分析这些差异。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "捐赠与房地产途径"
-        },
-        {
-          "type": "paragraph",
-          "text": "每个加勒比项目都提供捐赠途径和房地产途径。这笔捐款将捐给国家基金，且不予退还。 2026 年，多米尼克单个申请人的捐款起价约为 20 万美元。安提瓜岛要价约23万美元，格林纳达约235,000美元，圣卢西亚约24万美元。圣基茨和尼维斯位居榜首，价格约为 25 万美元。房地产路线的起价通常在 200,000 美元至 325,000 美元之间。在转售之前，您必须持有该房产数年。批准的项目通常是酒店或度假村股份。转售价值可能较低，因此不要将其视为流动资产。家庭规模也会显着改变最终价格。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "护照强度和 E-2 访问权"
-        },
-        {
-          "type": "paragraph",
-          "text": "加勒比护照以其价格提供了强大的旅行便利。圣基茨和尼维斯通常拥有最广泛的免签证名单。安提瓜岛和格林纳达紧随其后。多米尼克和圣卢西亚提供的目的地略少。这五个国家都可以免签证进入申根区和英国。只有格林纳达与美国签订了 E-2 条约。这使得格林纳达受到计划美国商业活动的投资者的欢迎。然而，领事馆可能会询问关系较弱的新公民。在申请之前询问您的 E-2 案件将如何评估。如果欧盟提出担忧，旅行准入也可能发生变化。瓦努阿图的案例表明这种情况发生的速度有多快。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "土耳其的投资公民计划"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其实施着世界上最大的计划之一。它的关键优势在于你的钱可以购买实物资产。大多数投资者选择价值至少 40 万美元的房地产。您保留该财产三年，之后可以出售。土耳其接受双重国籍，因此您保留当前的护照。配偶和 18 岁以下儿童均包含在内，无需额外投资成本。土耳其还与美国签订了 E-2 条约。这对于居住在美国的中国人和其他国民来说很重要。从购买到护照的处理通常需要几个月的时间。护照提供良好的旅行便利，但不能免签申根入境。土耳其对估值和资金也变得更加严格。下面的详细信息解释了这对您意味着什么。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "投资选项"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其提供多种合格的投资途径。价值至少 40 万美元的房地产是迄今为止最受欢迎的。持有三年至少 500,000 美元的银行存款也符合资格。持有三年的 50 万美元政府债券是另一种选择。 500,000 美元的房地产或风险投资基金份额也算在内。企业主可以进行 500,000 美元的固定资本投资。为至少 50 人创造就业机会是一条不太常见的途径。每条路线都需要相关部门的资格证书。付款必须通过有清晰记录的土耳其银行。您的律师应该将路线与您的税务和流动性需求相匹配。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "2026 年规则变更和取消"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其在 2025 年和 2026 年收紧了计划。申请人和配偶现在必须前往土耳其进行生物识别。成年申请人必须提供无犯罪记录证明。估值报告现在面临更严格的控制，包括房地产投资信托基金的购买。 2026 年 8 月，内政部报告了 6,000 多项被取消的决定。大多数都与虚假交易和虚高估值有关。这些投资者的家人也失去了身份。这表明护照可以在批准数年后被撤回。最安全的方法是付款前进行全面的法律尽职调查。 IGA 律师事务所审查每个文件的标题、卖方和估价。该审查可以保护您的投资和您的公民身份。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "欧洲和瓦努阿图发生了什么？"
-        },
-        {
-          "type": "paragraph",
-          "text": "欧洲不再通过投资提供公民身份。 2025年4月，欧盟法院驳回了马耳他的计划。法院表示，欧盟公民身份不能被视为商业交易。马耳他于 2025 年 7 月关闭了其投资路线。塞浦路斯已于 2020 年关闭了其计划。一些欧盟国家仍然存在黄金签证，但仅授予居留权。公民身份需要多年的居住和融入。葡萄牙也在2026年将入籍期限延长至十年。瓦努阿图仍然开放，但其护照失去了申根免签待遇。欧盟因尽职调查不力而暂停了这种准入。这些变化促使许多投资者转向土耳其和加勒比地区。它们还说明了为什么程序稳定性与价格一样重要。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "如何比较程序"
-        },
-        {
-          "type": "paragraph",
-          "text": "标题价格很少显示项目的实际成本。政府费用、尽职调查费用和法律费用占很大一部分。在某些计划中，家庭规模可能会急剧增加总数。您还应该比较最终得到的结果。捐款没了，但房地产可以稍后出售。接下来，比较处理时间和访问要求。然后看看护照强度和条约准入。最后，检查程序的跟踪记录和稳定性。失去旅行机会的廉价计划并不划算。构建一个包含所有这些因素的简单表格。然后根据您自己的目标而不是营销主张对计划进行排名。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "总成本"
-        },
-        {
-          "type": "paragraph",
-          "text": "总成本远远超过最低投资。每个项目都会向每位申请人收取政府处理费。尽职调查费用适用于档案中的每位成年人。护照签发费在最后。购买房地产还会引发产权契税和代理费。法律费用根据文件的大小和复杂程度而有所不同。货币兑换成本对于大额转账可能很重要。维护和保险等持有成本在三年内会不断增加。在做出承诺之前，要求提供一份书面的、逐项估算。并排比较每个程序的这些总数。最便宜的总体价格通常不是最便宜的最终账单。"
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "政府费用和尽职调查费用"
-        },
-        {
-          "type": "paragraph",
-          "text": "每个项目的政府费用均由法律规定。尽职调查费用通常为每个成人几千美元。家属可能支付较低的费用，但费用仍然会增加。如果申请失败，某些计划会退还部分费用。在提交任何内容之前请检查退款条款。保留每张收据作为记录。"
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "法律和交易费用"
-        },
-        {
-          "type": "paragraph",
-          "text": "法律费用包括文件审查、备案和政府联系。在房地产领域，他们还应该涵盖产权检查。交易成本包括产权契税、公证费和翻译费。在土耳其，还需要评估报告。请您的律师以书面形式列出每项费用。清晰的清单可以防止交易结束时出现意外。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "尽职调查和资金来源"
-        },
-        {
-          "type": "paragraph",
-          "text": "尽职调查是每个严肃计划的核心。政府检查身份、犯罪记录和媒体报道。他们还检查制裁名单和政治风险。资金来源往往是最难证明的部分。您必须证明您是如何赚取投资资金的。工资记录、业务销售和纳税申报表是常见的证据。贷款和礼物需要额外的文件。书面记录中的空白会导致延误或拒绝。在选择房产或项目之前准备好这些证据。律师可以将其整理成清晰可信的文件。强有力的证据也加快了土耳其的银行检查速度。"
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "常见问题"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "什么是最便宜的投资入籍计划？"
-        },
-        {
-          "type": "paragraph",
-          "text": "多米尼克是 2026 年最便宜的。其捐赠途径单个申请人的起价约为 20 万美元。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "是否有欧盟公民身份2026 年的投资计划？"
-        },
-        {
-          "type": "paragraph",
-          "text": "没有。马耳他于 2025 年结束了最后一个欧盟计划。欧盟黄金签证仅授予居留权。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "投资公民计划需要多长时间？"
-        },
-        {
-          "type": "paragraph",
-          "text": "大多数需要三到十二个月。加勒比项目和土耳其项目通常会在几个月内完成。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "我可以保留我当前的护照吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "通常，是的。土耳其和加勒比地区的计划允许双重国籍。还要检查您所在国家/地区的规则。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "投资公民身份可以被撤销吗？"
-        },
-        {
-          "type": "paragraph",
-          "text": "是的。它可以因欺诈或虚假文件而被撤销。土耳其在 2026 年取消了数千项决定。"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "哪些计划可以获得美国 E-2 签证？"
-        },
-        {
-          "type": "paragraph",
-          "text": "土耳其和格林纳达都与美国签订了 E-2 条约。"
-        }
-      ],
-      "title": "投资公民身份计划比较：土耳其、加勒比海地区与欧洲（2026 年）",
-      "seoTitle": "2026年投资入籍项目比较：土耳其与加勒比",
-      "metaDescription": "比较2026年土耳其与加勒比地区的投资入籍项目，了解投资方式、家庭申请条件和法律风险。",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "投资入籍项目在合资格资产、家庭成员范围、费用及法律保障方面各不相同。投入资金前，应比较投资途径和完整申请预算。本指南区分投资入籍与居留途径，并说明旅行权利和美国签证资格为何需要单独审查。投资不保证获得国籍。"
+    },
+    {
+      "type": "heading",
+      "text": "什么是投资入籍项目？",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "这些项目提供与合资格捐款或投资相关的申请途径，主管机关仍须审核资格及证明材料。投资居留不同于入籍：居留许可不是护照，之后申请归化须符合另外的条件。购买房产本身不等于国籍获批。"
+    },
+    {
+      "type": "heading",
+      "text": "加勒比地区的选择与区域监管",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "多米尼克和格林纳达公布了捐款及获批项目投资途径。费用和家庭成员定义须分别比较；区域最低金额并非家庭总报价。OECS于2025年公布ECCIRA协议及配套立法计划，其2026年6月声明仍提及即将启动。仅凭这些公告，不能认定所有拟议权力已在各国实施。"
+    },
+    {
+      "type": "paragraph",
+      "text": "格林纳达的获批项目一般投资门槛为35万美元，合格旅游住宿单元的共有投资选项则为每份27万美元。根据2024年第15号法规，须至少两人共同购买、单元总价值至少54万美元，且向委员会提交申请前，项目已投入的股本须达到预计建设成本的20%。另收的5万美元政府款项涵盖主申请人及最多三名合格家属，法定定义中的(f)/(g)类除外。额外家属及其他申请费用不包含在内。请与授权代理按实际家庭情况核实资格及费用。"
+    },
+    {
+      "type": "heading",
+      "text": "英国旅行与申根旅行须分别审查",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "多米尼克和圣卢西亚列于英国访客签证国籍名单，不应假定可免签赴英；须核实护照类型和适用例外。申根规则另行适用，应查阅现行欧盟签证名单、相关协议及入境条件。短期免签不等于在欧洲居住或工作的权利。"
+    },
+    {
+      "type": "heading",
+      "text": "土耳其：投资、文件及法律审查",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其官方投资办公室列明：房产门槛为40万美元起，多项金融或资本投资途径为50万美元起。房产途径要求三年转售限制；存款、债券及合资格基金有各自的持有条件。相关机关须确认投资条件。提交申请前应检查产权、估值要求、付款记录和家庭资格。"
+    },
+    {
+      "type": "paragraph",
+      "text": "应分别规划投资审查、符合性确认、居留及入籍申请。文件认证及主管机关补充审查可能改变时间安排。无法保证固定的审批期限。虚假陈述或不合资格投资可能带来重大法律风险。"
+    },
+    {
+      "type": "heading",
+      "text": "欧洲居留途径与国籍规则变化",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "欧盟法院于2025年4月29日在C-181/23案中裁定马耳他投资入籍计划违反欧盟法。投资居留许可不能等同于欧盟国籍。葡萄牙司法部说明，2026年5月19日起的规则区分欧盟或葡语国家公民七年合法居留与其他国籍十年合法居留。过渡规则及个人资格须另行核实。"
+    },
+    {
+      "type": "heading",
+      "text": "美国E-2：条约国籍只是条件之一",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其和格林纳达列于美国E-2条约国家名单。仅持护照并不足够，美国企业及投资也须符合E-2条件。通过投资取得条约国籍且此前未获E身份者，申请前须满足在该条约国连续三年的住所要求；应取得个案美国移民法律意见。"
+    },
+    {
+      "type": "heading",
+      "text": "比较全家预算及退出条件",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "应按实际家庭情况索取分项报价，包括投资或捐款、政府收费、尽职调查、面试、法律咨询、翻译、护照及交易费用，并确认不可退还的款项。资产途径还须审查持有期限、转售资格及市场风险。合资格资产不保证收益，也不保证退出时能找到买家。"
+    },
+    {
+      "type": "heading",
+      "text": "常见问题",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "哪个项目最便宜？",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "本指南不认定普遍最便宜的项目。应比较适合家庭及所选途径的分项报价，而非单人宣传起价。"
+    },
+    {
+      "type": "heading",
+      "text": "所有加勒比入籍护照均可免签赴英吗？",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "不是。须核实现行英国签证名单及例外，并分别评估英国和申根规则。"
+    },
+    {
+      "type": "heading",
+      "text": "办理需要多久？",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "时间取决于主管机关、文件准备及补充审查。应按阶段取得最新估计；本指南或律师均不能保证固定日期前获批。"
+    },
+    {
+      "type": "heading",
+      "text": "能保留原国籍吗？",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "须审查两国国籍法。目的国允许双重国籍，不会取消原国籍国施加的限制。"
+    },
+    {
+      "type": "heading",
+      "text": "投资入籍是否自动带来E-2资格？",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "不会。请参阅上文独立的企业、投资及住所要求。条约国籍并非签证批准。"
+    },
+    {
+      "type": "heading",
+      "text": "官方资料",
+      "level": 2
+    },
+    {
+      "type": "source",
+      "text": "英国签证国名单",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "欧盟签证框架—请核查现行文本",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1806"
+    },
+    {
+      "type": "source",
+      "text": "土耳其投资办公室",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "source",
+      "text": "多米尼克EDF",
+      "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/"
+    },
+    {
+      "type": "source",
+      "text": "多米尼克获批房地产",
+      "url": "https://www.cbiu.gov.dm/investment-options/real-estate/"
+    },
+    {
+      "type": "source",
+      "text": "多米尼克申请常见问题",
+      "url": "https://www.cbiu.gov.dm/faqs/"
+    },
+    {
+      "type": "source",
+      "text": "格林纳达IMA申请常见问题",
+      "url": "https://imagrenada.gd/enquiries/"
+    },
+    {
+      "type": "source",
+      "text": "格林纳达投资门槛—修正规则",
+      "url": "https://imagrenada.gd/wp-content/uploads/2024/07/Update-to-Circular-No.-2-Minimum-Investment-Threshold-July-3-2024.pdf"
+    },
+    {
+      "type": "source",
+      "text": "葡萄牙司法部—2026年5月规定",
+      "url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+    },
+    {
+      "type": "source",
+      "text": "欧盟法院C-181/23",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf"
+    },
+    {
+      "type": "source",
+      "text": "美国条约国名单",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    },
+    {
+      "type": "source",
+      "text": "美国国务院—投资国籍与住所",
+      "url": "https://travel.state.gov/content/dam/visas/AILA/AILA-Agenda-4-26-2023.pdf"
+    },
+    {
+      "type": "source",
+      "text": "美国E-2条件",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html"
+    },
+    {
+      "type": "source",
+      "text": "OECS—2026年6月公告",
+      "url": "https://pressroom.oecs.int/oecs-heads-of-government-focus-on-trade-connectivity-and-economic-resilience-at-78th-authority-meeting"
     }
+  ],
+  "title": "投资公民身份计划比较：土耳其、加勒比海地区与欧洲（2026 年）",
+  "seoTitle": "2026年投资入籍项目比较：土耳其与加勒比",
+  "metaDescription": "比较2026年土耳其与加勒比地区的投资入籍项目，了解投资方式、家庭申请条件和法律风险。",
+  "imageAlts": {}
+}
   },
   "ar": {
     "turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide": {
@@ -15498,287 +15592,307 @@ window.blogPostTranslations = {
       }
     },
     "step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "يعد الحصول على الجنسية التركية عن طريق الاستثمار إنجازًا مثيرًا. عند استلام خطاب الموافقة على الجنسية، يمكنك حجز موعد لبطاقة الهوية التركية وجواز السفر التركي في أقرب قنصلية عامة تركية. هذه الوثائق ضرورية لممارسة حقوقك بشكل كامل كمواطن تركي."
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تعلم؟ تُصنف تركيا من بين الدول الأولى التي لديها أكبر عدد من البعثات الدبلوماسية، حيث تحتفظ حاليًا بأكثر من 239 تمثيلًا دبلوماسيًا، بما في ذلك السفارات والقنصليات والبعثات الدائمة على مستوى العالم. وهذا يضمن دعمًا واسع النطاق وإمكانية الوصول للمواطنين الأتراك في الخارج."
-        },
-        {
-          "type": "paragraph",
-          "text": "في شركة IGA للمحاماة، نقوم بإرشاد عملائنا خلال كل مرحلة من مراحل العملية. فيما يلي نظرة عامة مبسطة حول كيفية حجز موعد بطاقة الهوية التركية وطلب جواز السفر عبر نظام القنصلية."
-        },
-        {
-          "type": "heading",
-          "text": "1. موعد بطاقة الهوية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "تفضل بزيارة موقع القنصلية الرسمي وانقر على \"Randevu Al (حجز موعد)\"."
-        },
-        {
-          "type": "paragraph",
-          "text": "اختر: الخدمات القنصلية للمواطنين الأتراك ← السجل المدني (Nüfus) ← طلب بطاقة الهوية التركية (TCKK) (بسبب الميلاد أو الاستبدال)."
-        },
-        {
-          "type": "paragraph",
-          "text": "أجب كما يلي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تعرف رقم هويتك التركية؟ → نعم"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تحمل البطاقة الزرقاء؟ → لا"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل رقم هويتك التركية مكتوب على بطاقة هويتك القديمة؟ → لا"
-        },
-        {
-          "type": "paragraph",
-          "text": "أدخل التفاصيل من خطاب الموافقة على الجنسية (رقم الهوية، تاريخ الميلاد، والبريد الإلكتروني)."
-        },
-        {
-          "type": "paragraph",
-          "text": "تحقق باستخدام الرمز المرسل إلى بريدك الإلكتروني."
-        },
-        {
-          "type": "paragraph",
-          "text": "في قسم العنوان، تكفي كتابة مدينة الإقامة فقط."
-        },
-        {
-          "type": "paragraph",
-          "text": "حدد تاريخ ووقت الموعد المفضل لديك."
-        },
-        {
-          "type": "heading",
-          "text": "2. موعد جواز السفر التركي"
-        },
-        {
-          "type": "paragraph",
-          "text": "على نفس موقع القنصلية، انقر فوق “Randevu Al (حجز موعد)” ← “طلب جواز سفر جديد” ← “احجز الآن”."
-        },
-        {
-          "type": "paragraph",
-          "text": "أجب كما يلي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تعرف رقم هويتك التركية؟ → نعم"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تحمل البطاقة الزرقاء؟ → لا"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل رقم هويتك التركية مكتوب على بطاقة هويتك القديمة؟ → نعم"
-        },
-        {
-          "type": "paragraph",
-          "text": "أدخل التفاصيل من خطاب الموافقة على الجنسية."
-        },
-        {
-          "type": "paragraph",
-          "text": "تحقق باستخدام رمز البريد الإلكتروني."
-        },
-        {
-          "type": "paragraph",
-          "text": "قسم العنوان → مطلوب اسم المدينة فقط."
-        },
-        {
-          "type": "paragraph",
-          "text": "حدد تاريخ ووقت الموعد المتاح."
-        },
-        {
-          "type": "paragraph",
-          "text": "نصيحة من شركة IGA Law Firm: يمكن أن يكون نظام القنصلية مشغولاً. نوصي بالتحقق عدة مرات في اليوم من الفتحات الأولى."
-        },
-        {
-          "type": "heading",
-          "text": "المستندات المطلوبة لموعدك:"
-        },
-        {
-          "type": "paragraph",
-          "text": "جواز سفرك الأجنبي"
-        },
-        {
-          "type": "paragraph",
-          "text": "صورة بيومترية واحدة (50×60 مم، تم التقاطها خلال الأشهر الستة الماضية، خلفية بيضاء، بدون أنماط، متوافقة مع منظمة الطيران المدني الدولي)"
-        },
-        {
-          "type": "paragraph",
-          "text": "مستند يوضح عنوان إقامتك في الخارج (فاتورة مرافق، عقد إيجار، وما إلى ذلك)"
-        },
-        {
-          "type": "paragraph",
-          "text": "طباعة خطاب الموافقة على الجنسية"
-        },
-        {
-          "type": "paragraph",
-          "text": "350 دولارًا أمريكيًا نقدًا لكل مقدم طلب (رسوم قنصلية إلزامية)"
-        },
-        {
-          "type": "paragraph",
-          "text": "بحاجة الى مساعدة؟ يضمن فريقنا القانوني إجراء عملية سلسة ومتوافقة مع رحلة الجنسية التركية الخاصة بك."
-        }
-      ],
-      "title": "دليل مواعيد بطاقة الهوية التركية وجواز السفر",
-      "seoTitle": "دليل مواعيد بطاقة الهوية التركية وجواز السفر",
-      "metaDescription": "بعد الموافقة على الجنسية التركية، تعرف على كيفية حجز مواعيد بطاقة الهوية وجواز السفر وإعداد المستندات وإكمال الخطوات النهائية.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "يعد الحصول على الجنسية التركية عن طريق الاستثمار إنجازًا مثيرًا. عند استلام خطاب الموافقة على الجنسية، يمكنك حجز موعد لبطاقة الهوية التركية وجواز السفر التركي في أقرب قنصلية عامة تركية. هذه الوثائق ضرورية لممارسة حقوقك بشكل كامل كمواطن تركي."
     },
+    {
+      "type": "paragraph",
+      "text": "استخدم البوابة القنصلية الرسمية لمعرفة البعثة المختصة وتعليمات المواعيد والوثائق الحالية."
+    },
+    {
+      "type": "paragraph",
+      "text": "في شركة IGA للمحاماة، نقوم بإرشاد عملائنا خلال كل مرحلة من مراحل العملية. فيما يلي نظرة عامة مبسطة حول كيفية حجز موعد بطاقة الهوية التركية وطلب جواز السفر عبر نظام القنصلية."
+    },
+    {
+      "type": "heading",
+      "text": "1. موعد بطاقة الهوية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "تفضل بزيارة موقع القنصلية الرسمي وانقر على \"Randevu Al (حجز موعد)\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "اختر: الخدمات القنصلية للمواطنين الأتراك ← السجل المدني (Nüfus) ← طلب بطاقة الهوية التركية (TCKK) (بسبب الميلاد أو الاستبدال)."
+    },
+    {
+      "type": "paragraph",
+      "text": "أجب عن أسئلة الهوية وفق سجلاتك الفعلية؛ قد تُطلب البيانات التالية:"
+    },
+    {
+      "type": "paragraph",
+      "text": "رقم الهوية التركية إن خُصص لك."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل تحمل بطاقة زرقاء؛ أجب بدقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل يظهر الرقم على بطاقة هوية حالية؛ لا تستخدم إجابة محددة مسبقاً."
+    },
+    {
+      "type": "paragraph",
+      "text": "أدخل التفاصيل من خطاب الموافقة على الجنسية (رقم الهوية، تاريخ الميلاد، والبريد الإلكتروني)."
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق باستخدام الرمز المرسل إلى بريدك الإلكتروني."
+    },
+    {
+      "type": "paragraph",
+      "text": "أدخل بيانات العنوان المطلوبة من القنصلية المختارة ونموذج الطلب."
+    },
+    {
+      "type": "paragraph",
+      "text": "حدد تاريخ ووقت الموعد المفضل لديك."
+    },
+    {
+      "type": "heading",
+      "text": "2. موعد جواز السفر التركي"
+    },
+    {
+      "type": "paragraph",
+      "text": "على نفس موقع القنصلية، انقر فوق “Randevu Al (حجز موعد)” ← “طلب جواز سفر جديد” ← “احجز الآن”."
+    },
+    {
+      "type": "paragraph",
+      "text": "أجب عن أسئلة الهوية وفق سجلاتك الفعلية؛ قد تُطلب البيانات التالية:"
+    },
+    {
+      "type": "paragraph",
+      "text": "رقم الهوية التركية إن خُصص لك."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل تحمل بطاقة زرقاء؛ أجب بدقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل يظهر الرقم على بطاقة هوية حالية؛ لا تستخدم إجابة محددة مسبقاً."
+    },
+    {
+      "type": "paragraph",
+      "text": "أدخل التفاصيل من خطاب الموافقة على الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق باستخدام رمز البريد الإلكتروني."
+    },
+    {
+      "type": "paragraph",
+      "text": "أدخل بيانات العنوان المطلوبة من القنصلية المختارة ونموذج الطلب."
+    },
+    {
+      "type": "paragraph",
+      "text": "حدد تاريخ ووقت الموعد المتاح."
+    },
+    {
+      "type": "paragraph",
+      "text": "نصيحة من شركة IGA Law Firm: يمكن أن يكون نظام القنصلية مشغولاً. نوصي بالتحقق عدة مرات في اليوم من الفتحات الأولى."
+    },
+    {
+      "type": "heading",
+      "text": "المستندات المطلوبة لموعدك:"
+    },
+    {
+      "type": "paragraph",
+      "text": "جواز سفرك الأجنبي"
+    },
+    {
+      "type": "paragraph",
+      "text": "صورة بيومترية واحدة (50×60 مم، تم التقاطها خلال الأشهر الستة الماضية، خلفية بيضاء، بدون أنماط، متوافقة مع منظمة الطيران المدني الدولي)"
+    },
+    {
+      "type": "paragraph",
+      "text": "مستند يوضح عنوان إقامتك في الخارج (فاتورة مرافق، عقد إيجار، وما إلى ذلك)"
+    },
+    {
+      "type": "paragraph",
+      "text": "طباعة خطاب الموافقة على الجنسية"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق من الرسوم القنصلية الحالية والعملة وطريقة الدفع لطلبك؛ لا توجد رسوم نقدية موحدة قدرها 350 دولاراً لكل متقدم."
+    },
+    {
+      "type": "paragraph",
+      "text": "بحاجة الى مساعدة؟ يضمن فريقنا القانوني إجراء عملية سلسة ومتوافقة مع رحلة الجنسية التركية الخاصة بك."
+    },
+    {
+      "type": "source",
+      "text": "إجراءات الجواز والرسوم الرسمية",
+      "url": "https://www.konsolosluk.gov.tr/Procedure/ShowProcedure/4"
+    },
+    {
+      "type": "source",
+      "text": "المواعيد القنصلية الرسمية",
+      "url": "https://www.konsolosluk.gov.tr/"
+    }
+  ],
+  "title": "دليل مواعيد بطاقة الهوية التركية وجواز السفر",
+  "seoTitle": "دليل مواعيد بطاقة الهوية التركية وجواز السفر",
+  "metaDescription": "بعد الموافقة على الجنسية التركية، تعرف على كيفية حجز مواعيد بطاقة الهوية وجواز السفر وإعداد المستندات وإكمال الخطوات النهائية.",
+  "imageAlts": {}
+},
     "turkish-citizenship-through-bes-a-secure-path-for-foreign-investors": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "أصبح لدى المستثمرين الأجانب الذين يبحثون عن الأمن المالي والجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES) خيار جذاب للغاية. من خلال استثمار ما لا يقل عن 500000 دولار أمريكي (أو ما يعادله بالعملة الأجنبية) في صناديق BES المؤهلة لمدة ثلاث سنوات على الأقل، يمكن للمستثمرين التأهل للحصول على الجنسية التركية."
-        },
-        {
-          "type": "paragraph",
-          "text": "على عكس طرق الاستثمار الأخرى، توفر الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES) أكثر من مجرد جواز سفر - فهي توفر خطة مالية مُدارة بشكل احترافي وشفافة مصممة لحماية مدخراتك وتنميتها."
-        },
-        {
-          "type": "heading",
-          "text": "لماذا يعتبر BES آمنًا الاختيار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "حماية رأس المال: توفر صناديق BES، بما في ذلك تلك المرتبطة بالمعادن الثمينة مثل الذهب والفضة، الأمان ضد تقلبات العملة. حتى لو تغيرت أسعار الصرف، فإن جنسيتك من خلال أهلية BES لن تتأثر."
-        },
-        {
-          "type": "paragraph",
-          "text": "الإدارة الاحترافية: تتم إدارة الأموال من قبل مدراء محافظ خبراء تحت إشراف صارم من هيئة تنظيم ومراقبة التأمين والمعاشات الخاصة (SEDDK)."
-        },
-        {
-          "type": "paragraph",
-          "text": "الشفافية الكاملة: يمكن للمستثمرين مراقبة أداء وقيمة محافظهم الاستثمارية في أي وقت وفي أي مكان من خلال تطبيق مخصص للهاتف المحمول. وهذا يضمن الوصول في الوقت الحقيقي إلى حالة الاستثمار الخاصة بك."
-        },
-        {
-          "type": "heading",
-          "text": "Türkiye Sigorta وTürkiye Hayat Emeklilik: قادة في الثقة والموثوقية"
-        },
-        {
-          "type": "paragraph",
-          "text": "يتم دعم برنامج الجنسية التركية من خلال برنامج المعاشات التقاعدية الخاص (BES) في تركيا من قبل Türkiye Sigorta وTürkiye Hayat Emeklilik، وهما من أكثر المؤسسات الموثوقة في قطاع التأمين والمعاشات التقاعدية في البلاد. وكلاهما مؤسسات عامة."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Sigorta هي شركة رائدة مدعومة من الدولة ولها 41 مكتبًا إقليميًا وأكثر من 3900 وكالة ووسيط وأكثر من 5000 فرع مصرفي وحوالي 3000 موظف خبير. وهي مدرجة في بورصة إسطنبول، وتلعب دورًا حيويًا في تأمين الأصول الاستراتيجية لتركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "Türkiye Hayat Emeklilik، التي تخدم أكثر من 14 مليون عميل، هي أكبر مزود للتأمين على الحياة والمعاشات التقاعدية في تركيا. تم تصميم منتجاتها، بما في ذلك BES، لضمان الأمن المالي على المدى الطويل للأفراد والعائلات."
-        },
-        {
-          "type": "paragraph",
-          "text": "بفضل بنيتها التحتية التكنولوجية القوية وحضورها على الصعيد الوطني، تضمن Türkiye Sigorta وTürkiye Hayat Emeklilik الاستقرار والشفافية والسلامة لنظام BES."
-        },
-        {
-          "type": "heading",
-          "text": "الامتيازات الإضافية: نوادي الحياة BES"
-        },
-        {
-          "type": "paragraph",
-          "text": "يمكن للمشاركين في BES أيضًا الوصول إلى Life Clubs، وهو برنامج ولاء العملاء الحصري. يتمتع الأعضاء بامتيازات في الخدمات الصحية، والعافية، والسفر، وخصومات نمط الحياة - بدءًا من الفحوصات الطبية وحتى عضوية صالة الألعاب الرياضية. انقر هنا للحصول على التفاصيل."
-        },
-        {
-          "type": "heading",
-          "text": "عملية خطوة بخطوة"
-        },
-        {
-          "type": "paragraph",
-          "text": "افتح حسابًا مصرفيًا في تركيا"
-        },
-        {
-          "type": "paragraph",
-          "text": "قم بإيداع المساهمة في الحساب المخصص"
-        },
-        {
-          "type": "paragraph",
-          "text": "تحويل العملة من خلال البنك المركزي التركي (CBRT)"
-        },
-        {
-          "type": "paragraph",
-          "text": "تحويل الليرة التركية إلى شركة التقاعد"
-        },
-        {
-          "type": "paragraph",
-          "text": "يصبح عقد التقاعد ساري المفعول، وتبدأ فترة الحجز البالغة 3 سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "شهادة الأهلية/المطابقة الصادرة عن SEDDK (شهر واحد تقريبًا)"
-        },
-        {
-          "type": "paragraph",
-          "text": "طلب الإقامة المقدم للمستثمر الرئيسي والزوج (إن وجد) - يتطلب وجود مقدم الطلب في تركيا"
-        },
-        {
-          "type": "paragraph",
-          "text": "تقديم طلب الجنسية - يتطلب وجود مقدم الطلب في تركيا"
-        },
-        {
-          "type": "paragraph",
-          "text": "مثال على تقرير المطابقة المنقح"
-        },
-        {
-          "type": "heading",
-          "text": "لماذا تختار شركة IGA للمحاماة؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "في شركة IGA للمحاماة، نحن فخورون بكوننا إحدى الشركات الرائدة في تركيا المتخصصة في الحصول على الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES). بفضل سنوات من الخبرة في مساعدة أكثر من 800 عائلة والعديد من المستثمرين في جميع أنحاء العالم، فإننا نقدم:"
-        },
-        {
-          "type": "paragraph",
-          "text": "الامتثال الكامل للوائح التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "الاتصال المباشر مع Türkiye Sigorta وTürkiye Hayat Emeklilik"
-        },
-        {
-          "type": "paragraph",
-          "text": "الدعم خطوة بخطوة بدءًا من فتح الحساب المصرفي وحتى الموافقة على الجنسية"
-        },
-        {
-          "type": "paragraph",
-          "text": "تضمن خدماتنا القانونية الموثوقة والموجهة نحو التفاصيل أن تكون رحلتك إلى الجنسية التركية سلسة وآمنة وناجحة."
-        },
-        {
-          "type": "heading",
-          "text": "الاستنتاج"
-        },
-        {
-          "type": "paragraph",
-          "text": "إن الحصول على الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES) ليس مجرد استثمار، بل هو جسر آمن لحياتك الجديدة كمواطن تركي. بفضل موثوقية Türkiye Sigorta وTürkiye Hayat Emeklilik، بالإضافة إلى التوجيه القانوني المتخصص من شركة IGA Law Firm، يمكنك تأمين مستقبلك المالي وجنسية عائلتك بثقة."
-        },
-        {
-          "type": "paragraph",
-          "text": "لمزيد من المعلومات، اتصل بنا:"
-        },
-        {
-          "type": "paragraph",
-          "text": "الهاتف: +90 530 426 46 12"
-        },
-        {
-          "type": "paragraph",
-          "text": "البريد الإلكتروني: info@igalawfirm.com"
-        }
-      ],
-      "title": "الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES)",
-      "seoTitle": "الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES): دليل المستثمر",
-      "metaDescription": "استكشف الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES)، بما في ذلك متطلبات الاستثمار ومدة الاحتفاظ والاعتبارات القانونية.",
-      "imageAlts": {
-        "/public/assets/media/01c09ef2797ef559.jpg": "الجنسية التركية من خلال BES – استثمار آمن مع Türkiye Sigorta وTürkiye Hayat Emeklilik، بتوجيه من شركة IGA Law Firm"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "أصبح لدى المستثمرين الأجانب الذين يبحثون عن الأمن المالي والجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES) خيار جذاب للغاية. من خلال استثمار ما لا يقل عن 500000 دولار أمريكي (أو ما يعادله بالعملة الأجنبية) في صناديق BES المؤهلة لمدة ثلاث سنوات على الأقل، يمكن للمستثمرين التأهل للحصول على الجنسية التركية."
     },
+    {
+      "type": "paragraph",
+      "text": "يستخدم BES صناديق تقاعد تُدار مهنياً. يجب تقييم اختيار الصناديق والرسوم ومخاطر السوق بصورة مستقلة عن طلب الجنسية."
+    },
+    {
+      "type": "heading",
+      "text": "إدارة صناديق BES ومخاطر الاستثمار"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا تضمن صناديق BES العوائد أو الحماية من تقلبات العملة، وصناديق المعادن الثمينة تحمل مخاطر السوق أيضاً. أكد أهلية الصناديق والالتزام بشروط الجنسية قبل تغيير التوزيع أو السحب."
+    },
+    {
+      "type": "paragraph",
+      "text": "الإدارة الاحترافية: تتم إدارة الأموال من قبل مدراء محافظ خبراء تحت إشراف صارم من هيئة تنظيم ومراقبة التأمين والمعاشات الخاصة (SEDDK)."
+    },
+    {
+      "type": "paragraph",
+      "text": "الشفافية الكاملة: يمكن للمستثمرين مراقبة أداء وقيمة محافظهم الاستثمارية في أي وقت وفي أي مكان من خلال تطبيق مخصص للهاتف المحمول. وهذا يضمن الوصول في الوقت الحقيقي إلى حالة الاستثمار الخاصة بك."
+    },
+    {
+      "type": "heading",
+      "text": "فحص شركة التقاعد والعقد"
+    },
+    {
+      "type": "paragraph",
+      "text": "عند النظر في Türkiye Hayat Emeklilik أو مزود آخر، أكد شركة التقاعد المرخصة والخطة المتوافقة مع الجنسية وخيارات الصناديق."
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق من معلومات الشركة ووثائق العقد الحالية لدى المزود مباشرة؛ حجم شبكة التوزيع لا يثبت أمان الاستثمار."
+    },
+    {
+      "type": "paragraph",
+      "text": "استخدم قائمة EGM للتحقق من شركات التقاعد وراجع وثائق الخطة والصندوق المحددين."
+    },
+    {
+      "type": "paragraph",
+      "text": "التنظيم والحفظ لا يعنيان ضماناً حكومياً للعوائد أو الموافقة على الجنسية."
+    },
+    {
+      "type": "heading",
+      "text": "الامتيازات الإضافية: نوادي الحياة BES"
+    },
+    {
+      "type": "paragraph",
+      "text": "تتوقف مزايا الولاء على برنامج المزود وعقده الحاليين؛ وهي منفصلة عن أهلية الجنسية ويجب تأكيدها قبل الاعتماد عليها."
+    },
+    {
+      "type": "heading",
+      "text": "عملية خطوة بخطوة"
+    },
+    {
+      "type": "paragraph",
+      "text": "افتح حسابًا مصرفيًا في تركيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "قم بإيداع المساهمة في الحساب المخصص"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحويل العملة من خلال البنك المركزي التركي (CBRT)"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحويل الليرة التركية إلى شركة التقاعد"
+    },
+    {
+      "type": "paragraph",
+      "text": "يصبح عقد التقاعد ساري المفعول، وتبدأ فترة الحجز البالغة 3 سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "الحصول على تحديد المطابقة من SEDDK؛ وتتوقف المدة على اكتمال الملف ومراجعة الجهة."
+    },
+    {
+      "type": "paragraph",
+      "text": "طلب الإقامة المقدم للمستثمر الرئيسي والزوج (إن وجد) - يتطلب وجود مقدم الطلب في تركيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقديم طلب الجنسية - يتطلب وجود مقدم الطلب في تركيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "مثال على تقرير المطابقة المنقح"
+    },
+    {
+      "type": "heading",
+      "text": "لماذا تختار شركة IGA للمحاماة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "في شركة IGA للمحاماة، نحن فخورون بكوننا إحدى الشركات الرائدة في تركيا المتخصصة في الحصول على الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES). بفضل سنوات من الخبرة في مساعدة أكثر من 800 عائلة والعديد من المستثمرين في جميع أنحاء العالم، فإننا نقدم:"
+    },
+    {
+      "type": "paragraph",
+      "text": "الامتثال الكامل للوائح التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "الاتصال المباشر مع Türkiye Sigorta وTürkiye Hayat Emeklilik"
+    },
+    {
+      "type": "paragraph",
+      "text": "الدعم خطوة بخطوة بدءًا من فتح الحساب المصرفي وحتى الموافقة على الجنسية"
+    },
+    {
+      "type": "paragraph",
+      "text": "تدعم خدماتنا إعداد الوثائق وفحص الامتثال وتنسيق الطلب؛ وتبقى الموافقة بيد السلطات المختصة."
+    },
+    {
+      "type": "heading",
+      "text": "الاستنتاج"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن مقارنة BES بالاستثمارات المؤهلة الأخرى. راجع شروط الجنسية ومخاطر الصناديق والرسوم وشروط الخروج قبل اختيار الخطة."
+    },
+    {
+      "type": "paragraph",
+      "text": "لمزيد من المعلومات، اتصل بنا:"
+    },
+    {
+      "type": "paragraph",
+      "text": "الهاتف: +90 530 426 46 12"
+    },
+    {
+      "type": "paragraph",
+      "text": "البريد الإلكتروني: info@igalawfirm.com"
+    },
+    {
+      "type": "source",
+      "text": "EGM: مخاطر صناديق التقاعد",
+      "url": "https://www.egm.org.tr/bireysel-emeklilik/gonullu-bes-fonlari/"
+    },
+    {
+      "type": "source",
+      "text": "EGM: دليل المشاركين",
+      "url": "https://www.egm.org.tr/katilimcilar/katilimci-bilgilendirme-rehberi/"
+    }
+  ],
+  "title": "الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES)",
+  "seoTitle": "الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES): دليل المستثمر",
+  "metaDescription": "استكشف الجنسية التركية من خلال نظام المعاشات التقاعدية الخاص (BES)، بما في ذلك متطلبات الاستثمار ومدة الاحتفاظ والاعتبارات القانونية.",
+  "imageAlts": {
+    "/public/assets/media/01c09ef2797ef559.jpg": "الجنسية التركية من خلال BES – استثمار آمن مع Türkiye Sigorta وTürkiye Hayat Emeklilik، بتوجيه من شركة IGA Law Firm"
+  }
+},
     "turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide": {
       "blocks": [
         {
@@ -16038,228 +16152,233 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "عندما يناقش الأشخاص الجنسية التركية عن طريق الاستثمار، تركز المحادثة عادةً على الحد الأدنى للاستثمار، أو أوقات المعالجة، أو فرص السفر بدون تأشيرة، أو الخيارات العقارية."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك، هناك ميزة أخرى لبرنامج الجنسية التركية عن طريق الاستثمار والتي لا تحظى باهتمام كبير بشكل مدهش: القدرة على اعتماد اسم ولقب تركي بشكل قانوني أثناء عملية الجنسية."
-        },
-        {
-          "type": "paragraph",
-          "text": "بالنسبة للعديد من المستثمرين الدوليين، وخاصة أولئك القادمين من الصين وهونج كونج وأجزاء أخرى من آسيا، يمكن أن يكون هذا الجانب من الجنسية التركية مثيرًا للاهتمام مثل جواز السفر نفسه."
-        },
-        {
-          "type": "paragraph",
-          "text": "كمحامين يتعاملون مع طلبات الحصول على الجنسية التركية عن طريق الاستثمار بشكل يومي، لاحظنا أن ما يقرب من نصف عملائنا من المستثمرين الصينيين يختارون الأسماء والألقاب التركية عندما يصبحون مواطنين أتراك، بينما يفضل النصف المتبقي الاحتفاظ بأسمائهم الأصلية."
-        },
-        {
-          "type": "paragraph",
-          "text": "لماذا يعد هذا ممكنًا، ولماذا يعتبره بعض المستثمرين مهمًا؟"
-        },
-        {
-          "type": "heading",
-          "text": "هل يمكن يختار المستثمرون الأجانب اسمًا تركيًا؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "نعم."
-        },
-        {
-          "type": "paragraph",
-          "text": "عندما يحصل مستثمر أجنبي على الجنسية التركية من خلال الاستثمار، تسمح السلطات التركية لمقدم الطلب باختيار الاسم الأول واللقب التركي أثناء عملية طلب الجنسية."
-        },
-        {
-          "type": "paragraph",
-          "text": "هذا الخيار متاح ليس فقط لمقدم الطلب الرئيسي ولكن أيضًا لأفراد الأسرة المؤهلين."
-        },
-        {
-          "type": "paragraph",
-          "text": "يمكن للزوجين اختيار أسماء تركية، ويمكن للأطفال اختيار أسماء تركية، وقد تتبنى العائلة بأكملها لقبًا تركيًا مشتركًا."
-        },
-        {
-          "type": "paragraph",
-          "text": "ونتيجة لذلك، قد تحصل الأسرة على بطاقات هوية تركية وجوازات سفر تركية تحمل أسماء تركية مختلفة عن تلك التي تظهر في جوازات السفر الأصلية."
-        },
-        {
-          "type": "paragraph",
-          "text": "على سبيل المثال، يجوز لشخص يُدعى في الأصل تشانغ وي أن يختار اسمًا تركيًا مثل محمد يلماز، مع الاحتفاظ بجنسيته الأصلية وفقًا لقوانين بلده الأصلي."
-        },
-        {
-          "type": "heading",
-          "text": "إنشاء قانون تركي جديد الهوية"
-        },
-        {
-          "type": "paragraph",
-          "text": "إحدى الخصائص الفريدة للجنسية التركية عن طريق الاستثمار هي أن المتقدمين الناجحين يحصلون على هوية قانونية تركية كاملة."
-        },
-        {
-          "type": "paragraph",
-          "text": "وهذا يشمل:"
-        },
-        {
-          "type": "paragraph",
-          "text": "• بطاقة الهوية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "• جواز السفر التركي"
-        },
-        {
-          "type": "paragraph",
-          "text": "• رقم الهوية الوطنية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "• السجل المدني التركي سجل"
-        },
-        {
-          "type": "paragraph",
-          "text": "• الرقم الضريبي التركي"
-        },
-        {
-          "type": "paragraph",
-          "text": "• الاسم الأول واللقب التركي (إذا تم تحديده)"
-        },
-        {
-          "type": "paragraph",
-          "text": "ومن الناحية القانونية، يصبح الفرد مواطنًا تركيًا يتمتع بجميع الحقوق والالتزامات المرتبطة بالجنسية التركية."
-        },
-        {
-          "type": "paragraph",
-          "text": "ويختلف هذا بشكل كبير عن العديد من برامج الإقامة عن طريق الاستثمار، حيث يحصل المستثمرون على حقوق الإقامة ولكنهم لا يصبحون مواطنين."
-        },
-        {
-          "type": "heading",
-          "text": "لماذا يختار بعض المستثمرين الصينيين الأسماء التركية؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "لكل عائلة أسباب مختلفة."
-        },
-        {
-          "type": "paragraph",
-          "text": "يفضل بعض المستثمرين الأسماء التركية لأنها أسهل في الاستخدام دوليًا."
-        },
-        {
-          "type": "paragraph",
-          "text": "يريد آخرون لقبًا عائليًا ثابتًا في جميع المستندات التركية."
-        },
-        {
-          "type": "paragraph",
-          "text": "يقدر بعض المستثمرين ببساطة الفرصة لبدء فصل جديد من حياتهم بهوية قانونية جديدة."
-        },
-        {
-          "type": "paragraph",
-          "text": "في تجربتنا، لا يوجد دافع واحد مشترك بين جميع المستثمرين."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك، فإن الاهتمام باختيار الاسم التركي شائع بشكل خاص بين المتقدمين للحصول على الجنسية الصينية عن طريق الاستثمار."
-        },
-        {
-          "type": "heading",
-          "text": "جوازات السفر التركية والخدمات المصرفية الدولية"
-        },
-        {
-          "type": "paragraph",
-          "text": "السبب الآخر الذي يجعل بعض المستثمرين يولون اهتمامًا كبيرًا لاختيار الاسم التركي هو الخدمات المصرفية الدولية."
-        },
-        {
-          "type": "paragraph",
-          "text": "يقوم العديد من المستثمرين الذين يحصلون على الجنسية التركية فيما بعد بإقامة علاقات شخصية أو تجارية مع مؤسسات مالية خارج تركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومن الناحية العملية، يختار بعض المستثمرين استخدام جوازات سفرهم التركية عند فتح حسابات مصرفية، أو تأسيس الشركات، أو شراء العقارات، أو القيام بأنشطة تجارية دولية."
-        },
-        {
-          "type": "paragraph",
-          "text": "نظرًا لأن كل مؤسسة مالية تطبق إجراءات الامتثال وإجراءات \"اعرف عميلك\" (KYC) الخاصة بها، فإن النتيجة العملية تختلف وفقًا للبلد والمؤسسة والظروف الفردية."
-        },
-        {
-          "type": "paragraph",
-          "text": "ولهذا السبب، يجب على المستثمرين دائمًا الحصول على المشورة المهنية المصرفية والضريبية والقانونية قبل اتخاذ القرارات المتعلقة بالجنسيات المتعددة."
-        },
-        {
-          "type": "heading",
-          "text": "ماذا عن المعايير الموحدة للإبلاغ الضريبي والتقارير الضريبية الدولية؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "يعد هذا واحدًا من أكثر المواضيع التي يساء فهمها بشكل متكرر."
-        },
-        {
-          "type": "paragraph",
-          "text": "لا تعتمد أنظمة إعداد التقارير الدولية مثل معيار إعداد التقارير المشترك (CRS) بشكل عام على اسم الشخص أو جواز سفره فقط."
-        },
-        {
-          "type": "paragraph",
-          "text": "عادة ما تأخذ المؤسسات المالية في الاعتبار عوامل متعددة، بما في ذلك الإقامة الضريبية ومعلومات الجنسية وتواريخ الميلاد ونماذج الإقرار الذاتي وغيرها من المعلومات المتعلقة بالامتثال."
-        },
-        {
-          "type": "paragraph",
-          "text": "ولذلك، يجب على المستثمرين تجنب افتراض أن الحصول على جنسية ثانية أو اختيار اسم مختلف يغير تلقائيا التزاماتهم المتعلقة بالإبلاغ الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "وينبغي مراجعة كل موقف على حدة مع مستشاري الضرائب المؤهلين في الولايات القضائية ذات الصلة."
-        },
-        {
-          "type": "heading",
-          "text": "ميزة نادرة بين برامج الجنسية عن طريق الاستثمار"
-        },
-        {
-          "type": "paragraph",
-          "text": "توفر العديد من برامج الجنسية عن طريق الاستثمار للمستثمرين بجواز سفر."
-        },
-        {
-          "type": "paragraph",
-          "text": "توفر تركيا شيئًا أكثر شمولاً."
-        },
-        {
-          "type": "paragraph",
-          "text": "قد يحصل المستثمرون على هوية قانونية تركية جديدة تمامًا، بما في ذلك فرصة اعتماد الأسماء والألقاب التركية لأنفسهم ولعائلاتهم."
-        },
-        {
-          "type": "paragraph",
-          "text": "بالنسبة لبعض المستثمرين، تعد هذه الميزة مجرد رمز رمزي."
-        },
-        {
-          "type": "paragraph",
-          "text": "بالنسبة للآخرين، يعد هذا أحد الجوانب الأكثر إثارة للاهتمام والعملية للحصول على الجنسية التركية عن طريق الاستثمار."
-        },
-        {
-          "type": "heading",
-          "text": "الاستنتاج"
-        },
-        {
-          "type": "paragraph",
-          "text": "غالبًا ما تتم مناقشة الجنسية التركية عن طريق الاستثمار من حيث الحدود العقارية وأوقات المعالجة ومزايا السفر."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك، فإن إحدى السمات الأكثر تميزًا للبرنامج لا تزال غير معروفة نسبيًا: القدرة على اختيار اسم تركي بشكل قانوني وإنشاء هوية قانونية تركية كاملة."
-        },
-        {
-          "type": "paragraph",
-          "text": "بالنسبة للمستثمرين الذين يفكرون في الحصول على الجنسية التركية، فإن فهم هذا الجانب الفريد من البرنامج يمكن أن يوفر نظرة ثاقبة حول العواقب القانونية والعملية الأوسع المترتبة على الحصول على مواطن تركي."
-        },
-        {
-          "type": "paragraph",
-          "text": "في شركة IGA للمحاماة، نقوم بمساعدة المستثمرين الدوليين وعائلاتهم في جميع أنحاء عملية الحصول على الجنسية التركية عن طريق الاستثمار، بما في ذلك طلبات الجنسية، والتطبيقات العائلية، والعناية القانونية الواجبة، وإجراءات ما بعد المواطنة."
-        }
-      ],
-      "title": "الجنسية التركية عن طريق الاستثمار واختيار الاسم التركي: ميزة يتم التغاضي عنها للمستثمرين الدوليين",
-      "seoTitle": "الجنسية التركية واختيار الاسم للمستثمرين",
-      "metaDescription": "هل يمكن للمستثمرين اختيار اسم تركي أثناء الحصول على الجنسية؟ تعرف على قواعد التسمية وخطوات التقديم والنقاط العملية للعائلات الدولية.",
-      "imageAlts": {
-        "/public/assets/media/0e07f0d84378c8f3.png": "الجنسية التركية عن طريق الاستثمار وعملية اختيار الاسم التركي",
-        "/public/assets/media/4698b35a5b181173.webp": "فتح حساب بنكي بجواز السفر التركي"
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "عندما يناقش الأشخاص الجنسية التركية عن طريق الاستثمار، تركز المحادثة عادةً على الحد الأدنى للاستثمار، أو أوقات المعالجة، أو فرص السفر بدون تأشيرة، أو الخيارات العقارية."
     },
+    {
+      "type": "paragraph",
+      "text": "ومع ذلك، هناك ميزة أخرى لبرنامج الجنسية التركية عن طريق الاستثمار والتي لا تحظى باهتمام كبير بشكل مدهش: القدرة على اعتماد اسم ولقب تركي بشكل قانوني أثناء عملية الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للعديد من المستثمرين الدوليين، وخاصة أولئك القادمين من الصين وهونج كونج وأجزاء أخرى من آسيا، يمكن أن يكون هذا الجانب من الجنسية التركية مثيرًا للاهتمام مثل جواز السفر نفسه."
+    },
+    {
+      "type": "paragraph",
+      "text": "كمحامين يتعاملون مع طلبات الحصول على الجنسية التركية عن طريق الاستثمار بشكل يومي، لاحظنا أن ما يقرب من نصف عملائنا من المستثمرين الصينيين يختارون الأسماء والألقاب التركية عندما يصبحون مواطنين أتراك، بينما يفضل النصف المتبقي الاحتفاظ بأسمائهم الأصلية."
+    },
+    {
+      "type": "paragraph",
+      "text": "لماذا يعد هذا ممكنًا، ولماذا يعتبره بعض المستثمرين مهمًا؟"
+    },
+    {
+      "type": "heading",
+      "text": "هل يمكن يختار المستثمرون الأجانب اسمًا تركيًا؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "نعم."
+    },
+    {
+      "type": "paragraph",
+      "text": "عندما يحصل مستثمر أجنبي على الجنسية التركية من خلال الاستثمار، تسمح السلطات التركية لمقدم الطلب باختيار الاسم الأول واللقب التركي أثناء عملية طلب الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "هذا الخيار متاح ليس فقط لمقدم الطلب الرئيسي ولكن أيضًا لأفراد الأسرة المؤهلين."
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن للزوجين اختيار أسماء تركية، ويمكن للأطفال اختيار أسماء تركية، وقد تتبنى العائلة بأكملها لقبًا تركيًا مشتركًا."
+    },
+    {
+      "type": "paragraph",
+      "text": "ونتيجة لذلك، قد تحصل الأسرة على بطاقات هوية تركية وجوازات سفر تركية تحمل أسماء تركية مختلفة عن تلك التي تظهر في جوازات السفر الأصلية."
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن مثلاً طلب اسم تركي مثل Mehmet Yılmaz. ويجب فحص أثر ذلك على الجنسية الحالية وفق قانون بلدها؛ اختيار اسم تركي لا يحفظ تلقائياً جنسية أخرى."
+    },
+    {
+      "type": "heading",
+      "text": "إنشاء قانون تركي جديد الهوية"
+    },
+    {
+      "type": "paragraph",
+      "text": "إحدى الخصائص الفريدة للجنسية التركية عن طريق الاستثمار هي أن المتقدمين الناجحين يحصلون على هوية قانونية تركية كاملة."
+    },
+    {
+      "type": "paragraph",
+      "text": "وهذا يشمل:"
+    },
+    {
+      "type": "paragraph",
+      "text": "• بطاقة الهوية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "• جواز السفر التركي"
+    },
+    {
+      "type": "paragraph",
+      "text": "• رقم الهوية الوطنية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "• السجل المدني التركي سجل"
+    },
+    {
+      "type": "paragraph",
+      "text": "• الرقم الضريبي التركي"
+    },
+    {
+      "type": "paragraph",
+      "text": "• الاسم الأول واللقب التركي (إذا تم تحديده)"
+    },
+    {
+      "type": "paragraph",
+      "text": "ومن الناحية القانونية، يصبح الفرد مواطنًا تركيًا يتمتع بجميع الحقوق والالتزامات المرتبطة بالجنسية التركية."
+    },
+    {
+      "type": "paragraph",
+      "text": "ويختلف هذا بشكل كبير عن العديد من برامج الإقامة عن طريق الاستثمار، حيث يحصل المستثمرون على حقوق الإقامة ولكنهم لا يصبحون مواطنين."
+    },
+    {
+      "type": "heading",
+      "text": "لماذا يختار بعض المستثمرين الصينيين الأسماء التركية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لكل عائلة أسباب مختلفة."
+    },
+    {
+      "type": "paragraph",
+      "text": "يفضل بعض المستثمرين الأسماء التركية لأنها أسهل في الاستخدام دوليًا."
+    },
+    {
+      "type": "paragraph",
+      "text": "يريد آخرون لقبًا عائليًا ثابتًا في جميع المستندات التركية."
+    },
+    {
+      "type": "paragraph",
+      "text": "يقدر بعض المستثمرين ببساطة الفرصة لبدء فصل جديد من حياتهم بهوية قانونية جديدة."
+    },
+    {
+      "type": "paragraph",
+      "text": "في تجربتنا، لا يوجد دافع واحد مشترك بين جميع المستثمرين."
+    },
+    {
+      "type": "paragraph",
+      "text": "ومع ذلك، فإن الاهتمام باختيار الاسم التركي شائع بشكل خاص بين المتقدمين للحصول على الجنسية الصينية عن طريق الاستثمار."
+    },
+    {
+      "type": "heading",
+      "text": "جوازات السفر التركية والخدمات المصرفية الدولية"
+    },
+    {
+      "type": "paragraph",
+      "text": "السبب الآخر الذي يجعل بعض المستثمرين يولون اهتمامًا كبيرًا لاختيار الاسم التركي هو الخدمات المصرفية الدولية."
+    },
+    {
+      "type": "paragraph",
+      "text": "يقوم العديد من المستثمرين الذين يحصلون على الجنسية التركية فيما بعد بإقامة علاقات شخصية أو تجارية مع مؤسسات مالية خارج تركيا."
+    },
+    {
+      "type": "paragraph",
+      "text": "ومن الناحية العملية، يختار بعض المستثمرين استخدام جوازات سفرهم التركية عند فتح حسابات مصرفية، أو تأسيس الشركات، أو شراء العقارات، أو القيام بأنشطة تجارية دولية."
+    },
+    {
+      "type": "paragraph",
+      "text": "نظرًا لأن كل مؤسسة مالية تطبق إجراءات الامتثال وإجراءات \"اعرف عميلك\" (KYC) الخاصة بها، فإن النتيجة العملية تختلف وفقًا للبلد والمؤسسة والظروف الفردية."
+    },
+    {
+      "type": "paragraph",
+      "text": "ولهذا السبب، يجب على المستثمرين دائمًا الحصول على المشورة المهنية المصرفية والضريبية والقانونية قبل اتخاذ القرارات المتعلقة بالجنسيات المتعددة."
+    },
+    {
+      "type": "heading",
+      "text": "ماذا عن المعايير الموحدة للإبلاغ الضريبي والتقارير الضريبية الدولية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يعد هذا واحدًا من أكثر المواضيع التي يساء فهمها بشكل متكرر."
+    },
+    {
+      "type": "paragraph",
+      "text": "لا تعتمد أنظمة إعداد التقارير الدولية مثل معيار إعداد التقارير المشترك (CRS) بشكل عام على اسم الشخص أو جواز سفره فقط."
+    },
+    {
+      "type": "paragraph",
+      "text": "عادة ما تأخذ المؤسسات المالية في الاعتبار عوامل متعددة، بما في ذلك الإقامة الضريبية ومعلومات الجنسية وتواريخ الميلاد ونماذج الإقرار الذاتي وغيرها من المعلومات المتعلقة بالامتثال."
+    },
+    {
+      "type": "paragraph",
+      "text": "ولذلك، يجب على المستثمرين تجنب افتراض أن الحصول على جنسية ثانية أو اختيار اسم مختلف يغير تلقائيا التزاماتهم المتعلقة بالإبلاغ الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "وينبغي مراجعة كل موقف على حدة مع مستشاري الضرائب المؤهلين في الولايات القضائية ذات الصلة."
+    },
+    {
+      "type": "heading",
+      "text": "ميزة نادرة بين برامج الجنسية عن طريق الاستثمار"
+    },
+    {
+      "type": "paragraph",
+      "text": "توفر العديد من برامج الجنسية عن طريق الاستثمار للمستثمرين بجواز سفر."
+    },
+    {
+      "type": "paragraph",
+      "text": "توفر تركيا شيئًا أكثر شمولاً."
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب أن يبقى الاسم التركي الجديد مرتبطاً بسجلات الهوية السابقة؛ فهو لا يمحو الهوية أو الالتزامات القانونية أو واجبات الإفصاح المالي."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة لبعض المستثمرين، تعد هذه الميزة مجرد رمز رمزي."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للآخرين، يعد هذا أحد الجوانب الأكثر إثارة للاهتمام والعملية للحصول على الجنسية التركية عن طريق الاستثمار."
+    },
+    {
+      "type": "heading",
+      "text": "الاستنتاج"
+    },
+    {
+      "type": "paragraph",
+      "text": "غالبًا ما تتم مناقشة الجنسية التركية عن طريق الاستثمار من حيث الحدود العقارية وأوقات المعالجة ومزايا السفر."
+    },
+    {
+      "type": "paragraph",
+      "text": "ومع ذلك، فإن إحدى السمات الأكثر تميزًا للبرنامج لا تزال غير معروفة نسبيًا: القدرة على اختيار اسم تركي بشكل قانوني وإنشاء هوية قانونية تركية كاملة."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للمستثمرين الذين يفكرون في الحصول على الجنسية التركية، فإن فهم هذا الجانب الفريد من البرنامج يمكن أن يوفر نظرة ثاقبة حول العواقب القانونية والعملية الأوسع المترتبة على الحصول على مواطن تركي."
+    },
+    {
+      "type": "paragraph",
+      "text": "في شركة IGA للمحاماة، نقوم بمساعدة المستثمرين الدوليين وعائلاتهم في جميع أنحاء عملية الحصول على الجنسية التركية عن طريق الاستثمار، بما في ذلك طلبات الجنسية، والتطبيقات العائلية، والعناية القانونية الواجبة، وإجراءات ما بعد المواطنة."
+    },
+    {
+      "type": "source",
+      "text": "NVI: شهادة مطابقة الأسماء",
+      "url": "https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/nufusmevzuat/talimat/isimdenklikbelgesiislemleri.pdf"
+    }
+  ],
+  "title": "الجنسية التركية عن طريق الاستثمار واختيار الاسم التركي: ميزة يتم التغاضي عنها للمستثمرين الدوليين",
+  "seoTitle": "الجنسية التركية واختيار الاسم للمستثمرين",
+  "metaDescription": "هل يمكن للمستثمرين اختيار اسم تركي أثناء الحصول على الجنسية؟ تعرف على قواعد التسمية وخطوات التقديم والنقاط العملية للعائلات الدولية.",
+  "imageAlts": {
+    "/public/assets/media/0e07f0d84378c8f3.png": "الجنسية التركية عن طريق الاستثمار وعملية اختيار الاسم التركي",
+    "/public/assets/media/4698b35a5b181173.webp": "فتح حساب بنكي بجواز السفر التركي"
+  }
+},
     "turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors": {
       "blocks": [
         {
@@ -18096,327 +18215,332 @@ window.blogPostTranslations = {
       }
     },
     "turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey": {
-      "blocks": [
-        {
-          "type": "heading",
-          "text": "بيع عقارات الجنسية التركية بعد 3 سنوات: الدليل القانوني الكامل"
-        },
-        {
-          "type": "paragraph",
-          "text": "العديد من المستثمرين الذين يحصلون على الجنسية التركية عن طريق الاستثمار عن طريق العقارات في تركيا يطرحون نفس السؤال:"
-        },
-        {
-          "type": "paragraph",
-          "text": "ماذا يحدث لعقاراتي بعد 3 سنوات؟ هل يمكنني بيعه بسهولة؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "بموجب برنامج الجنسية التركية عن طريق الاستثمار، يجب على المستثمرين الذين يشترون العقارات في تركيا الاحتفاظ بالعقار لمدة 3 سنوات على الأقل."
-        },
-        {
-          "type": "paragraph",
-          "text": "خلال هذه الفترة، يتم وضع قيود عدم البيع (تعليق توضيحي لمدة 3 سنوات) على سند الملكية من قبل السجل العقاري."
-        },
-        {
-          "type": "paragraph",
-          "text": "بمجرد انتهاء فترة الثلاث سنوات، يمكن للمستثمر بيع العقار بشكل قانوني العقارات في تركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك، فإن عملية بيع عقار الجنسية التركية بعد 3 سنوات تتضمن عدة خطوات قانونية وإدارية."
-        },
-        {
-          "type": "paragraph",
-          "text": "فيما يلي دليل كامل."
-        },
-        {
-          "type": "heading",
-          "text": "1. إصدار توكيل جديد"
-        },
-        {
-          "type": "paragraph",
-          "text": "بعد الحصول على الجنسية التركية، يحصل المستثمرون على رقم الهوية التركية وحالة الجنسية."
-        },
-        {
-          "type": "paragraph",
-          "text": "في معظم الحالات، يجب إصدار توكيل جديد (PoA) لعملية بيع العقارات."
-        },
-        {
-          "type": "paragraph",
-          "text": "يتضمن هذا التوكيل الجديد ما يلي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "رقم الهوية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "الاسم واللقب المحدثان"
-        },
-        {
-          "type": "paragraph",
-          "text": "نظرًا لأن التوكيل الأصلي تم إصداره عادةً باستخدام معلومات جواز السفر الأجنبي، فقد لا يكون كافيًا لإجراءات بيع العقارات."
-        },
-        {
-          "type": "heading",
-          "text": "خدمة التوكيل عن بعد"
-        },
-        {
-          "type": "paragraph",
-          "text": "توفر شركة IGA Law Firm خدمات التوكيل عن بعد، مما يسمح للمستثمرين بإكمال العملية دون السفر إلى تركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "يمكن إصدار التوكيل من خلال كتاب العدل المحليين مع الأبوستيل."
-        },
-        {
-          "type": "paragraph",
-          "text": "يسمح هذا بإكمال عملية بيع الممتلكات بالكامل بكفاءة وقانونية من الخارج."
-        },
-        {
-          "type": "heading",
-          "text": "2. تحديث سجلات سند الملكية"
-        },
-        {
-          "type": "paragraph",
-          "text": "بعد الجنسية، قد يحصل المستثمرون على:"
-        },
-        {
-          "type": "paragraph",
-          "text": "اسم تركي جديد"
-        },
-        {
-          "type": "paragraph",
-          "text": "لقب مختلف"
-        },
-        {
-          "type": "paragraph",
-          "text": "حالة الجنسية المحدثة"
-        },
-        {
-          "type": "paragraph",
-          "text": "قبل بيع العقار، يجب تحديث هذه التغييرات في سجلات السجل العقاري في تركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "تم تصحيح المعلومات التالية:"
-        },
-        {
-          "type": "paragraph",
-          "text": "الاسم / اللقب"
-        },
-        {
-          "type": "paragraph",
-          "text": "حالة الجنسية"
-        },
-        {
-          "type": "paragraph",
-          "text": "رقم الهوية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "بدون هذا التحديث، لا يمكن متابعة طلب بيع سند الملكية."
-        },
-        {
-          "type": "heading",
-          "text": "3. إزالة القيد لمدة 3 سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "تشتمل العقارات التي تم شراؤها بموجب برنامج الجنسية على تعليق توضيحي بعدم البيع لمدة 3 سنوات على سند الملكية."
-        },
-        {
-          "type": "paragraph",
-          "text": "وبمجرد الانتهاء من فترة التملك، يتم تقديم طلب إلى مكتب السجل العقاري في تركيا لإزالة هذا القيد."
-        },
-        {
-          "type": "paragraph",
-          "text": "فقط بعد إزالة التعليق التوضيحي يمكن بيع العقار بشكل قانوني."
-        },
-        {
-          "type": "heading",
-          "text": "4. فحص ضرائب البلدية"
-        },
-        {
-          "type": "paragraph",
-          "text": "قبل بيع العقار، يجب تخليص جميع ضرائب البلدية، بما في ذلك:"
-        },
-        {
-          "type": "paragraph",
-          "text": "ضريبة الأملاك"
-        },
-        {
-          "type": "paragraph",
-          "text": "ضريبة التنظيف البيئي"
-        },
-        {
-          "type": "paragraph",
-          "text": "في حالة وجود أي دين مستحق، لن يكمل السجل العقاري عملية النقل."
-        },
-        {
-          "type": "paragraph",
-          "text": "تقوم شركة IGA Law Firm بإجراء هذه الفحوصات قبل البدء في عملية البيع."
-        },
-        {
-          "type": "heading",
-          "text": "5. توقيع اتفاقية البيع"
-        },
-        {
-          "type": "paragraph",
-          "text": "بمجرد العثور على المشتري، يقوم الطرفان عادةً بتوقيع اتفاقية بيع العقار."
-        },
-        {
-          "type": "paragraph",
-          "text": "تحدد هذه الوثيقة:"
-        },
-        {
-          "type": "paragraph",
-          "text": "سعر البيع"
-        },
-        {
-          "type": "paragraph",
-          "text": "شروط الدفع"
-        },
-        {
-          "type": "paragraph",
-          "text": "تاريخ نقل الملكية"
-        },
-        {
-          "type": "paragraph",
-          "text": "المسؤوليات القانونية للأطراف"
-        },
-        {
-          "type": "paragraph",
-          "text": "إن الاتفاقية التي تمت صياغتها بشكل صحيح تحمي المستثمر أثناء الصفقة."
-        },
-        {
-          "type": "heading",
-          "text": "6. طلب بيع سند الملكية"
-        },
-        {
-          "type": "paragraph",
-          "text": "بعد توقيع الاتفاقية، يتم تقديم طلب بيع رسمي إلى مكتب السجل العقاري في تركيا."
-        },
-        {
-          "type": "paragraph",
-          "text": "يتضمن الطلب:"
-        },
-        {
-          "type": "paragraph",
-          "text": "معلومات المشتري والبائع"
-        },
-        {
-          "type": "paragraph",
-          "text": "تفاصيل العقار"
-        },
-        {
-          "type": "paragraph",
-          "text": "سعر البيع المتفق عليه"
-        },
-        {
-          "type": "paragraph",
-          "text": "ثم يقوم السجل العقاري بتحديد الموعد الرسمي لنقل سند الملكية."
-        },
-        {
-          "type": "heading",
-          "text": "7. الدفع الآمن من خلال البنوك التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "في تركيا، يتم إكمال المعاملات العقارية عادةً من خلال التحويلات المصرفية إلى الحساب المصرفي التركي للبائع."
-        },
-        {
-          "type": "paragraph",
-          "text": "هناك قاعدة أساسية تحمي المستثمرين:"
-        },
-        {
-          "type": "paragraph",
-          "text": "لا يتم التوقيع على تحويل سند الملكية حتى يتم استلام مبلغ البيع."
-        },
-        {
-          "type": "paragraph",
-          "text": "تعمل العملية عادةً على النحو التالي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "1️⃣ يقوم المشتري بتحويل الأموال إلى الحساب البنكي للبائع"
-        },
-        {
-          "type": "paragraph",
-          "text": "2️⃣ يتم استلام تأكيد الدفع"
-        },
-        {
-          "type": "paragraph",
-          "text": "3️⃣ يتم التوقيع على نقل سند الملكية في السجل العقاري"
-        },
-        {
-          "type": "paragraph",
-          "text": "4️⃣ تنتقل الملكية رسميًا إلى المشتري"
-        },
-        {
-          "type": "paragraph",
-          "text": "يحمي هذا النظام كلا الطرفين من الأضرار المالية المخاطرة."
-        },
-        {
-          "type": "heading",
-          "text": "لماذا العمل مع شركة IGA للمحاماة؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "يتطلب بيع الممتلكات بعد الحصول على الجنسية التركية إدارة قانونية محترفة."
-        },
-        {
-          "type": "paragraph",
-          "text": "توفر شركة IGA للمحاماة خدمات شاملة بما في ذلك:"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ إعداد التوكيل عن بعد"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ تحديثات سجل السجل العقاري"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ إزالة قيد الثلاث سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ فحوصات ضرائب البلدية"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ صياغة اتفاقيات بيع العقارات"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ إدارة طلبات بيع سند الملكية"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ الإشراف الآمن على الدفع"
-        },
-        {
-          "type": "paragraph",
-          "text": "✔ التوجيه القانوني للمستثمرين الدوليين"
-        },
-        {
-          "type": "paragraph",
-          "text": "مقرها في إسطنبول، تركيا، ساعدت شركة IGA للمحاماة مئات المستثمرين الدوليين منذ عام 2018 في برنامج الجنسية التركية عن طريق الاستثمار."
-        },
-        {
-          "type": "paragraph",
-          "text": "نحن ندعم عملائنا ليس فقط خلال مرحلة الشراء، ولكن أيضًا خلال مرحلة التخارج وتصفية الممتلكات."
-        }
-      ],
-      "title": "بيع عقار الجنسية التركية بعد 3 سنوات: كيف تبيع استثمارك العقاري",
-      "seoTitle": "بيع عقار الجنسية التركية بعد ثلاث سنوات",
-      "metaDescription": "متى يمكنك بيع عقار تم شراؤه للحصول على الجنسية التركية؟ تعرف على القيود لمدة ثلاث سنوات وعملية البيع والفحوصات القانونية.",
-      "imageAlts": {
-        "/public/assets/media/047f8a13e7770761.png": "بيع العقارات التركية بعد الإجراءات القانونية للاستثمار في الجنسية في تركيا"
-      }
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "بيع عقارات الجنسية التركية بعد 3 سنوات: الدليل القانوني الكامل"
     },
+    {
+      "type": "paragraph",
+      "text": "العديد من المستثمرين الذين يحصلون على الجنسية التركية عن طريق الاستثمار عن طريق العقارات في تركيا يطرحون نفس السؤال:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ماذا يحدث لعقاراتي بعد 3 سنوات؟ هل يمكنني بيعه بسهولة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "بموجب برنامج الجنسية التركية عن طريق الاستثمار، يجب على المستثمرين الذين يشترون العقارات في تركيا الاحتفاظ بالعقار لمدة 3 سنوات على الأقل."
+    },
+    {
+      "type": "paragraph",
+      "text": "خلال هذه الفترة، يتم وضع قيود عدم البيع (تعليق توضيحي لمدة 3 سنوات) على سند الملكية من قبل السجل العقاري."
+    },
+    {
+      "type": "paragraph",
+      "text": "بعد انتهاء الالتزام لثلاث سنوات، تحقق من رفع قيد الجنسية وأي قيود أخرى على السند قبل ترتيب البيع."
+    },
+    {
+      "type": "paragraph",
+      "text": "ومع ذلك، فإن عملية بيع عقار الجنسية التركية بعد 3 سنوات تتضمن عدة خطوات قانونية وإدارية."
+    },
+    {
+      "type": "paragraph",
+      "text": "فيما يلي دليل كامل."
+    },
+    {
+      "type": "heading",
+      "text": "1. إصدار توكيل جديد"
+    },
+    {
+      "type": "paragraph",
+      "text": "بعد الحصول على الجنسية التركية، يحصل المستثمرون على رقم الهوية التركية وحالة الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "في معظم الحالات، يجب إصدار توكيل جديد (PoA) لعملية بيع العقارات."
+    },
+    {
+      "type": "paragraph",
+      "text": "يتضمن هذا التوكيل الجديد ما يلي:"
+    },
+    {
+      "type": "paragraph",
+      "text": "رقم الهوية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "الاسم واللقب المحدثان"
+    },
+    {
+      "type": "paragraph",
+      "text": "نظرًا لأن التوكيل الأصلي تم إصداره عادةً باستخدام معلومات جواز السفر الأجنبي، فقد لا يكون كافيًا لإجراءات بيع العقارات."
+    },
+    {
+      "type": "heading",
+      "text": "خدمة التوكيل عن بعد"
+    },
+    {
+      "type": "paragraph",
+      "text": "توفر شركة IGA Law Firm خدمات التوكيل عن بعد، مما يسمح للمستثمرين بإكمال العملية دون السفر إلى تركيا."
+    },
+    {
+      "type": "paragraph",
+      "text": "تستلزم الوكالة الصادرة بالخارج المسار القنصلي أو التوثيق والتصديق المناسب؛ ويعتمد الأبوستيل على بلد الإصدار والوثيقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "يسمح هذا بإكمال عملية بيع الممتلكات بالكامل بكفاءة وقانونية من الخارج."
+    },
+    {
+      "type": "heading",
+      "text": "2. تحديث سجلات سند الملكية"
+    },
+    {
+      "type": "paragraph",
+      "text": "بعد الجنسية، قد يحصل المستثمرون على:"
+    },
+    {
+      "type": "paragraph",
+      "text": "اسم تركي جديد"
+    },
+    {
+      "type": "paragraph",
+      "text": "لقب مختلف"
+    },
+    {
+      "type": "paragraph",
+      "text": "حالة الجنسية المحدثة"
+    },
+    {
+      "type": "paragraph",
+      "text": "قبل بيع العقار، يجب تحديث هذه التغييرات في سجلات السجل العقاري في تركيا."
+    },
+    {
+      "type": "paragraph",
+      "text": "تم تصحيح المعلومات التالية:"
+    },
+    {
+      "type": "paragraph",
+      "text": "الاسم / اللقب"
+    },
+    {
+      "type": "paragraph",
+      "text": "حالة الجنسية"
+    },
+    {
+      "type": "paragraph",
+      "text": "رقم الهوية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "بدون هذا التحديث، لا يمكن متابعة طلب بيع سند الملكية."
+    },
+    {
+      "type": "heading",
+      "text": "3. إزالة القيد لمدة 3 سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشتمل العقارات التي تم شراؤها بموجب برنامج الجنسية على تعليق توضيحي بعدم البيع لمدة 3 سنوات على سند الملكية."
+    },
+    {
+      "type": "paragraph",
+      "text": "وبمجرد الانتهاء من فترة التملك، يتم تقديم طلب إلى مكتب السجل العقاري في تركيا لإزالة هذا القيد."
+    },
+    {
+      "type": "paragraph",
+      "text": "فقط بعد إزالة التعليق التوضيحي يمكن بيع العقار بشكل قانوني."
+    },
+    {
+      "type": "heading",
+      "text": "4. فحص ضرائب البلدية"
+    },
+    {
+      "type": "paragraph",
+      "text": "قبل بيع العقار، يجب تخليص جميع ضرائب البلدية، بما في ذلك:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ضريبة الأملاك"
+    },
+    {
+      "type": "paragraph",
+      "text": "ضريبة التنظيف البيئي"
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق من الضرائب المستحقة والحجوزات لدى البلدية والسجل العقاري؛ ويتوقف أثرها على النقل على طبيعة الدين والقيد."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقوم شركة IGA Law Firm بإجراء هذه الفحوصات قبل البدء في عملية البيع."
+    },
+    {
+      "type": "heading",
+      "text": "5. توقيع اتفاقية البيع"
+    },
+    {
+      "type": "paragraph",
+      "text": "بمجرد العثور على المشتري، يقوم الطرفان عادةً بتوقيع اتفاقية بيع العقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "تحدد هذه الوثيقة:"
+    },
+    {
+      "type": "paragraph",
+      "text": "سعر البيع"
+    },
+    {
+      "type": "paragraph",
+      "text": "شروط الدفع"
+    },
+    {
+      "type": "paragraph",
+      "text": "تاريخ نقل الملكية"
+    },
+    {
+      "type": "paragraph",
+      "text": "المسؤوليات القانونية للأطراف"
+    },
+    {
+      "type": "paragraph",
+      "text": "إن الاتفاقية التي تمت صياغتها بشكل صحيح تحمي المستثمر أثناء الصفقة."
+    },
+    {
+      "type": "heading",
+      "text": "6. طلب بيع سند الملكية"
+    },
+    {
+      "type": "paragraph",
+      "text": "بعد توقيع الاتفاقية، يتم تقديم طلب بيع رسمي إلى مكتب السجل العقاري في تركيا."
+    },
+    {
+      "type": "paragraph",
+      "text": "يتضمن الطلب:"
+    },
+    {
+      "type": "paragraph",
+      "text": "معلومات المشتري والبائع"
+    },
+    {
+      "type": "paragraph",
+      "text": "تفاصيل العقار"
+    },
+    {
+      "type": "paragraph",
+      "text": "سعر البيع المتفق عليه"
+    },
+    {
+      "type": "paragraph",
+      "text": "ثم يقوم السجل العقاري بتحديد الموعد الرسمي لنقل سند الملكية."
+    },
+    {
+      "type": "heading",
+      "text": "7. الدفع الآمن من خلال البنوك التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "في تركيا، يتم إكمال المعاملات العقارية عادةً من خلال التحويلات المصرفية إلى الحساب المصرفي التركي للبائع."
+    },
+    {
+      "type": "paragraph",
+      "text": "اتفق مع الأطراف والبنك على ترتيب موثق للدفع ونقل الملكية."
+    },
+    {
+      "type": "paragraph",
+      "text": "قبل التوقيع، أكد استلام الثمن أو ترتيب التسوية الآمنة المتفق عليه؛ لا تفترض أن السجل يضمن الدفع."
+    },
+    {
+      "type": "paragraph",
+      "text": "تعمل العملية عادةً على النحو التالي:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1️⃣ يقوم المشتري بتحويل الأموال إلى الحساب البنكي للبائع"
+    },
+    {
+      "type": "paragraph",
+      "text": "2️⃣ يتم استلام تأكيد الدفع"
+    },
+    {
+      "type": "paragraph",
+      "text": "3️⃣ يتم التوقيع على نقل سند الملكية في السجل العقاري"
+    },
+    {
+      "type": "paragraph",
+      "text": "4️⃣ تنتقل الملكية رسميًا إلى المشتري"
+    },
+    {
+      "type": "paragraph",
+      "text": "تساعد هذه الفحوص في إدارة مخاطر الدفع ولا تزيل جميع مخاطر المعاملة."
+    },
+    {
+      "type": "heading",
+      "text": "لماذا العمل مع شركة IGA للمحاماة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يتطلب بيع الممتلكات بعد الحصول على الجنسية التركية إدارة قانونية محترفة."
+    },
+    {
+      "type": "paragraph",
+      "text": "توفر شركة IGA للمحاماة خدمات شاملة بما في ذلك:"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ إعداد التوكيل عن بعد"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ تحديثات سجل السجل العقاري"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ إزالة قيد الثلاث سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ فحوصات ضرائب البلدية"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ صياغة اتفاقيات بيع العقارات"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ إدارة طلبات بيع سند الملكية"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ الإشراف الآمن على الدفع"
+    },
+    {
+      "type": "paragraph",
+      "text": "✔ التوجيه القانوني للمستثمرين الدوليين"
+    },
+    {
+      "type": "paragraph",
+      "text": "مقرها في إسطنبول، تركيا، ساعدت شركة IGA للمحاماة مئات المستثمرين الدوليين منذ عام 2018 في برنامج الجنسية التركية عن طريق الاستثمار."
+    },
+    {
+      "type": "paragraph",
+      "text": "نحن ندعم عملائنا ليس فقط خلال مرحلة الشراء، ولكن أيضًا خلال مرحلة التخارج وتصفية الممتلكات."
+    },
+    {
+      "type": "source",
+      "text": "TKGM: إرشادات عقارات الجنسية",
+      "url": "https://www.tkgm.gov.tr/sites/default/files/2023-12/K%C4%B1lavuz_%2801.02.2023%29-Rev._22-11-2023.pdf"
+    }
+  ],
+  "title": "بيع عقار الجنسية التركية بعد 3 سنوات: كيف تبيع استثمارك العقاري",
+  "seoTitle": "بيع عقار الجنسية التركية بعد ثلاث سنوات",
+  "metaDescription": "متى يمكنك بيع عقار تم شراؤه للحصول على الجنسية التركية؟ تعرف على القيود لمدة ثلاث سنوات وعملية البيع والفحوصات القانونية.",
+  "imageAlts": {
+    "/public/assets/media/047f8a13e7770761.png": "بيع العقارات التركية بعد الإجراءات القانونية للاستثمار في الجنسية في تركيا"
+  }
+},
     "turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes": {
       "blocks": [
         {
@@ -19913,343 +20037,358 @@ window.blogPostTranslations = {
       }
     },
     "crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "ما هو معيار الإبلاغ المشترك (CRS)؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "إن معيار التقارير المشتركة (CRS) هو إطار دولي تم تطويره من قبل منظمة التعاون الاقتصادي والتنمية من أجل التبادل التلقائي لمعلومات الحسابات المالية بين الدول المشاركة. والغرض منه هو مكافحة التهرب الضريبي من خلال ضمان قيام المؤسسات المالية بالإبلاغ عن تفاصيل معينة عن حسابات المقيمين الضريبيين الأجانب إلى سلطات الضرائب المحلية، والتي يمكن بعد ذلك مشاركتها مع السلطات القضائية الأجنبية ذات الصلة."
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تركيا جزء من المعايير الموحدة للإبلاغ الضريبي؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "نعم. تركيا هي ولاية قضائية مشاركة في إطار المعايير الموحدة للإبلاغ الضريبي. يتعين على المؤسسات المالية التركية تحديد الإقامة الضريبية لأصحاب الحسابات والإبلاغ عن المعلومات ذات الصلة وفقًا لقواعد المعايير الموحدة للإبلاغ الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "إذا استثمرت في تركيا، فهل ستتم مشاركة معلوماتي المصرفية مع بلدي الأصلي؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "ربما نعم، ولكن فقط في ظل ظروف محددة. تعتمد تقارير CRS على الإقامة الضريبية، وليس الجنسية. إذا قمت بفتح حساب مصرفي في تركيا واعتبرت مقيمًا ضريبيًا في بلد آخر مشارك في معايير CRS، يجوز للبنوك التركية الإبلاغ عن بعض المعلومات المالية إلى سلطات الضرائب التركية، والتي يمكن بعد ذلك تبادلها مع السلطات الضريبية في بلد إقامتك الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك:"
-        },
-        {
-          "type": "paragraph",
-          "text": "لا يتم تطبيق المعايير الموحدة للإبلاغ الضريبي تلقائيًا على كل حساب."
-        },
-        {
-          "type": "paragraph",
-          "text": "يتم تطبيق فقط الحسابات القابلة للإبلاغ التي تستوفي حدود ومعايير CRS متضمنة."
-        },
-        {
-          "type": "paragraph",
-          "text": "تقتصر المعلومات التي تتم مشاركتها على بيانات مالية محددة (مثل رصيد الحساب ودخل معين) ولا تتضمن تفاصيل على مستوى المعاملة."
-        },
-        {
-          "type": "paragraph",
-          "text": "هل الحصول على الجنسية التركية يؤدي إلى تقديم تقارير CRS؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "لا. إن الحصول على الجنسية التركية وحده لا يؤدي إلى الإبلاغ عن خدمات خدمات الإغاثة الكاثوليكية. تنظر خدمات الإغاثة الكاثوليكية (CRS) إلى مكان إقامتك الضريبي، وليس جواز السفر الذي تحمله. بموجب قانون الضرائب التركي، يعتبر الأفراد بشكل عام مقيمين ضريبيين في تركيا فقط إذا أقاموا في تركيا لمدة 183 يومًا على الأقل خلال السنة التقويمية. إذا أقام فرد ما في تركيا لمدة تقل عن 183 يومًا في سنة تقويمية معينة، فلا يتم اعتباره عادةً مقيمًا ضريبيًا أتراكًا، وهذا وحده لا يغير موقف CRS الخاص به. يحصل العديد من المستثمرين على الجنسية التركية بينما يظلون مقيمين ضريبيين في بلد آخر، ويظل وضع CRS دون تغيير ما لم يتغير وضع إقامتهم الضريبية."
-        },
-        {
-          "type": "paragraph",
-          "text": "ماذا عن الجنسية التركية عن طريق مسارات الاستثمار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "بالنسبة للمستثمرين المتقدمين بموجب برنامج الجنسية التركية عن طريق الاستثمار (TCBI)، تعتمد آثار CRS على مسار الاستثمار المختار:"
-        },
-        {
-          "type": "paragraph",
-          "text": "1. طريق الإيداع البنكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "إذا تم إيداع الأموال في بنك تركي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "من الناحية العملية، قد تطلب البنوك نموذج الإقرار الذاتي الخاص بالمعايير الموحدة للإبلاغ الضريبي (CRS) كجزء من إجراءات الامتثال الداخلية الخاصة بها؛ ومع ذلك، في كثير من الحالات، لا يتم طلب هذا النموذج بشكل منفصل ما لم يكن ذلك بناءً على الإقامة الضريبية المعلنة للعميل أو تقييم مخاطر البنك."
-        },
-        {
-          "type": "paragraph",
-          "text": "يجب على المستثمر الإعلان عن إقامته الضريبية."
-        },
-        {
-          "type": "paragraph",
-          "text": "سيتم إعداد التقارير، إن وجدت، بناءً على الإقامة الضريبية المعلنة وقواعد CRS."
-        },
-        {
-          "type": "paragraph",
-          "text": "2. نظام التقاعد الخاص (BES)"
-        },
-        {
-          "type": "paragraph",
-          "text": "نظام التقاعد الخاص التركي منظم وقائم على التمويل. في حين أن مقدمي المعاشات التقاعدية يتبعون أيضًا متطلبات الامتثال للمعايير الموحدة للإبلاغ الضريبي، فإن الإبلاغ لا يزال يعتمد على الإقامة الضريبية للمستثمر وتصنيف الحساب بموجب المعايير الموحدة للإبلاغ الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "3. الاستثمار العقاري"
-        },
-        {
-          "type": "paragraph",
-          "text": "لا تخضع الملكية العقارية المباشرة لتقارير CRS في تركيا. تنطبق المعايير الموحدة للإبلاغ الضريبي على الحسابات المالية، وليس على ملكية الممتلكات غير المنقولة."
-        },
-        {
-          "type": "paragraph",
-          "text": "هل هناك تغييرات متوقعة على المعايير الموحدة للإبلاغ الضريبي في السنوات القادمة؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "على المستوى العالمي، تستمر المعايير الموحدة للإبلاغ الضريبي في التطور، مع مناقشات حول:"
-        },
-        {
-          "type": "paragraph",
-          "text": "نطاق إعداد التقارير الموسع"
-        },
-        {
-          "type": "paragraph",
-          "text": "زيادة توحيد البيانات"
-        },
-        {
-          "type": "paragraph",
-          "text": "متطلبات امتثال أكثر صرامة"
-        },
-        {
-          "type": "paragraph",
-          "text": "ومع ذلك، اعتبارًا من اليوم، لا يوجد إعفاء معلن أو نظام CRS خاص مرتبط تحديدًا بالجنسية التركية عن طريق الاستثمار. وأي تغييرات مستقبلية سيتم تطبيقها على نطاق واسع عبر الولايات القضائية المشاركة، وليس على تركيا فقط."
-        },
-        {
-          "type": "paragraph",
-          "text": "النصائح الأساسية للمستثمرين"
-        },
-        {
-          "type": "paragraph",
-          "text": "تشارك تركيا في المعايير الموحدة للإبلاغ الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "تعتمد تقارير المعايير الموحدة للإبلاغ الضريبي على الإقامة الضريبية، وليس الجنسية."
-        },
-        {
-          "type": "paragraph",
-          "text": "لا يعني فتح حساب مصرفي في تركيا تلقائيًا أن المعلومات متاحة مشتركة."
-        },
-        {
-          "type": "paragraph",
-          "text": "تقع الاستثمارات العقارية خارج نطاق المعايير الموحدة للإبلاغ الضريبي."
-        },
-        {
-          "type": "paragraph",
-          "text": "يعد التخطيط القانوني والضريبي المناسب أمرًا ضروريًا."
-        },
-        {
-          "type": "paragraph",
-          "text": "كيف تساعد شركة IGA للمحاماة"
-        },
-        {
-          "type": "paragraph",
-          "text": "تقدم شركة IGA Law Firm التوجيه القانوني للمستثمرين خلال عملية الحصول على الجنسية التركية عن طريق الاستثمار، بما في ذلك التنسيق مع البنوك، وإجراءات المصادقة الذاتية الخاصة بمعايير خدمات الاغاثة الكاثوليكية (CRS)، والهيكلة التي تركز على الامتثال. على الرغم من أننا لا نقدم خدمات استشارية ضريبية، إلا أننا نعمل بشكل وثيق مع مستشاري الضرائب للعملاء لضمان الشفافية والمواءمة التنظيمية."
-        }
-      ],
-      "title": "تقارير CRS في تركيا والجنسية التركية عن طريق الاستثمار: ما يجب أن يعرفه المستثمرون",
-      "seoTitle": "تقارير CRS والجنسية التركية: دليل المستثمر",
-      "metaDescription": "تعرف على كيفية تأثير تقارير CRS على مستثمري الجنسية التركية الذين لديهم حسابات مصرفية في تركيا وما هي المعلومات المالية التي يمكن تبادلها.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ما هو معيار الإبلاغ المشترك (CRS)؟"
     },
+    {
+      "type": "paragraph",
+      "text": "إن معيار التقارير المشتركة (CRS) هو إطار دولي تم تطويره من قبل منظمة التعاون الاقتصادي والتنمية من أجل التبادل التلقائي لمعلومات الحسابات المالية بين الدول المشاركة. والغرض منه هو مكافحة التهرب الضريبي من خلال ضمان قيام المؤسسات المالية بالإبلاغ عن تفاصيل معينة عن حسابات المقيمين الضريبيين الأجانب إلى سلطات الضرائب المحلية، والتي يمكن بعد ذلك مشاركتها مع السلطات القضائية الأجنبية ذات الصلة."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل تركيا جزء من المعايير الموحدة للإبلاغ الضريبي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "نعم. تركيا هي ولاية قضائية مشاركة في إطار المعايير الموحدة للإبلاغ الضريبي. يتعين على المؤسسات المالية التركية تحديد الإقامة الضريبية لأصحاب الحسابات والإبلاغ عن المعلومات ذات الصلة وفقًا لقواعد المعايير الموحدة للإبلاغ الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "إذا استثمرت في تركيا، فهل ستتم مشاركة معلوماتي المصرفية مع بلدي الأصلي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "ربما نعم، ولكن فقط في ظل ظروف محددة. تعتمد تقارير CRS على الإقامة الضريبية، وليس الجنسية. إذا قمت بفتح حساب مصرفي في تركيا واعتبرت مقيمًا ضريبيًا في بلد آخر مشارك في معايير CRS، يجوز للبنوك التركية الإبلاغ عن بعض المعلومات المالية إلى سلطات الضرائب التركية، والتي يمكن بعد ذلك تبادلها مع السلطات الضريبية في بلد إقامتك الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "ومع ذلك:"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا يتم تطبيق المعايير الموحدة للإبلاغ الضريبي تلقائيًا على كل حساب."
+    },
+    {
+      "type": "paragraph",
+      "text": "يعتمد الإبلاغ على تصنيف الحساب وقواعد العناية الواجبة وعلاقة تبادل المعلومات المعنية؛ لا يوجد حد موحد يعفي جميع الحسابات."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقتصر المعلومات التي تتم مشاركتها على بيانات مالية محددة (مثل رصيد الحساب ودخل معين) ولا تتضمن تفاصيل على مستوى المعاملة."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل الحصول على الجنسية التركية يؤدي إلى تقديم تقارير CRS؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "الجنسية وحدها لا تحدد الإبلاغ وفق معيار الإبلاغ المشترك (CRS). تشمل قواعد الإقامة الضريبية التركية الموطن والبقاء المتواصل لأكثر من ستة أشهر خلال سنة تقويمية، مع استثناءات وأحكام خاصة لبعض المواطنين العاملين بالخارج. لا يكفي حساب 183 يوماً فقط؛ راجع الإقامات الضريبية والاتفاقيات وظروف الحساب مع مستشار ضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "ماذا عن الجنسية التركية عن طريق مسارات الاستثمار؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للمستثمرين المتقدمين بموجب برنامج الجنسية التركية عن طريق الاستثمار (TCBI)، تعتمد آثار CRS على مسار الاستثمار المختار:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. طريق الإيداع البنكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "إذا تم إيداع الأموال في بنك تركي:"
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للحسابات الجديدة الخاضعة للعناية الواجبة وفق CRS، يجب الحصول على إقرار ذاتي صالح بالإقامة الضريبية وفحص معقوليته. قدم معلومات دقيقة وحدّثها عند التغيير؛ حيازة جواز تركي لا تجعل الإقرار اختيارياً."
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب على المستثمر الإعلان عن إقامته الضريبية."
+    },
+    {
+      "type": "paragraph",
+      "text": "سيتم إعداد التقارير، إن وجدت، بناءً على الإقامة الضريبية المعلنة وقواعد CRS."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. نظام التقاعد الخاص (BES)"
+    },
+    {
+      "type": "paragraph",
+      "text": "نظام التقاعد الخاص التركي منظم وقائم على التمويل. في حين أن مقدمي المعاشات التقاعدية يتبعون أيضًا متطلبات الامتثال للمعايير الموحدة للإبلاغ الضريبي، فإن الإبلاغ لا يزال يعتمد على الإقامة الضريبية للمستثمر وتصنيف الحساب بموجب المعايير الموحدة للإبلاغ الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. الاستثمار العقاري"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا تخضع الملكية العقارية المباشرة لتقارير CRS في تركيا. تنطبق المعايير الموحدة للإبلاغ الضريبي على الحسابات المالية، وليس على ملكية الممتلكات غير المنقولة."
+    },
+    {
+      "type": "paragraph",
+      "text": "هل هناك تغييرات متوقعة على المعايير الموحدة للإبلاغ الضريبي في السنوات القادمة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "على المستوى العالمي، تستمر المعايير الموحدة للإبلاغ الضريبي في التطور، مع مناقشات حول:"
+    },
+    {
+      "type": "paragraph",
+      "text": "نطاق إعداد التقارير الموسع"
+    },
+    {
+      "type": "paragraph",
+      "text": "زيادة توحيد البيانات"
+    },
+    {
+      "type": "paragraph",
+      "text": "متطلبات امتثال أكثر صرامة"
+    },
+    {
+      "type": "paragraph",
+      "text": "الاستثمار للحصول على الجنسية لا يمنح بذاته إعفاءً من CRS. تحقق من قواعد الإبلاغ وعلاقات التبادل للسنة المعنية."
+    },
+    {
+      "type": "paragraph",
+      "text": "النصائح الأساسية للمستثمرين"
+    },
+    {
+      "type": "paragraph",
+      "text": "تشارك تركيا في المعايير الموحدة للإبلاغ الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "تعتمد تقارير المعايير الموحدة للإبلاغ الضريبي على الإقامة الضريبية، وليس الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "لا يعني فتح حساب مصرفي في تركيا تلقائيًا أن المعلومات متاحة مشتركة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقع الاستثمارات العقارية خارج نطاق المعايير الموحدة للإبلاغ الضريبي."
+    },
+    {
+      "type": "paragraph",
+      "text": "يعد التخطيط القانوني والضريبي المناسب أمرًا ضروريًا."
+    },
+    {
+      "type": "paragraph",
+      "text": "كيف تساعد شركة IGA للمحاماة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقدم شركة IGA Law Firm التوجيه القانوني للمستثمرين خلال عملية الحصول على الجنسية التركية عن طريق الاستثمار، بما في ذلك التنسيق مع البنوك، وإجراءات الإقرار الذاتي الخاصة بمعايير الإبلاغ المشترك (CRS)، والهيكلة التي تركز على الامتثال. على الرغم من أننا لا نقدم خدمات استشارية ضريبية، إلا أننا نعمل بشكل وثيق مع مستشاري الضرائب للعملاء لضمان الشفافية والمواءمة التنظيمية."
+    },
+    {
+      "type": "source",
+      "text": "OECD: الإقامة الضريبية في تركيا",
+      "url": "https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-residency/Turkiye-Tax-Residency.pdf"
+    },
+    {
+      "type": "source",
+      "text": "OECD: تطبيق CRS في تركيا",
+      "url": "https://www.oecd.org/en/publications/peer-review-of-the-automatic-exchange-of-financial-account-information-2022_36e7cded-en/full-report/turkiye_771b151e.html"
+    }
+  ],
+  "title": "تقارير CRS في تركيا والجنسية التركية عن طريق الاستثمار: ما يجب أن يعرفه المستثمرون",
+  "seoTitle": "تقارير CRS والجنسية التركية: دليل المستثمر",
+  "metaDescription": "تعرف على كيفية تأثير تقارير CRS على مستثمري الجنسية التركية الذين لديهم حسابات مصرفية في تركيا وما هي المعلومات المالية التي يمكن تبادلها.",
+  "imageAlts": {}
+},
     "turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "أحد الأسئلة الأكثر شيوعًا من قبل المستثمرين الأجانب الذين يفكرون في الحصول على الجنسية التركية عن طريق الإيداع البنكي بسيط:"
-        },
-        {
-          "type": "paragraph",
-          "text": "\"ماذا يحدث لأموالي بعد 3 سنوات؟\""
-        },
-        {
-          "type": "paragraph",
-          "text": "في هذه المقالة، نشارك حالة عميل حقيقي تتعلق بمواطن تايواني استثمر 500000 دولار أمريكي من خلال وديعة بنكية تركية بموجب برنامج الجنسية عن طريق الاستثمار والنتيجة المالية الفعلية بعد فترة الاحتفاظ الإلزامية البالغة 3 سنوات."
-        },
-        {
-          "type": "paragraph",
-          "text": "تفاصيل الاستثمار الأولي:"
-        },
-        {
-          "type": "paragraph",
-          "text": "مبلغ الاستثمار: 500,000 دولار أمريكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "طريق الاستثمار: إيداع بنكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "الغرض: الجنسية التركية عن طريق الاستثمار"
-        },
-        {
-          "type": "paragraph",
-          "text": "فترة التملك: 3 سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "جنسية المستثمر: تايوان"
-        },
-        {
-          "type": "paragraph",
-          "text": "وقد تمت هيكلة الاستثمار بما يتوافق تمامًا مع اللوائح المصرفية والجنسية التركية، مع التركيز القوي على الحفاظ على رأس المال وتحسين العملة."
-        },
-        {
-          "type": "paragraph",
-          "text": "فترة الاحتفاظ لمدة 3 سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "على مدار فترة الثلاث سنوات:"
-        },
-        {
-          "type": "paragraph",
-          "text": "ظل المبلغ الأصلي مجمدًا قانونيًا كما هو مطلوب"
-        },
-        {
-          "type": "paragraph",
-          "text": "تم الاحتفاظ بالأموال في البنوك التركية الخاضعة للتنظيم"
-        },
-        {
-          "type": "paragraph",
-          "text": "تم إكمال عملية الجنسية بسلاسة"
-        },
-        {
-          "type": "paragraph",
-          "text": "لم يكن هناك حاجة إلى أي نشاط تجاري في تركيا"
-        },
-        {
-          "type": "paragraph",
-          "text": "تمت إدارة العملية من البداية إلى النهاية تحت إشراف قانوني محترف."
-        },
-        {
-          "type": "paragraph",
-          "text": "النتيجة النهائية بعد 3 سنوات"
-        },
-        {
-          "type": "paragraph",
-          "text": "في نهاية فترة الثلاث سنوات:"
-        },
-        {
-          "type": "paragraph",
-          "text": "الاستثمار الأولي: 500,000 دولار أمريكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "رصيد الحساب النهائي: تقريبًا 600,000 دولار أمريكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "صافي الزيادة: +100,000 دولار أمريكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "العائد التقريبي القائم على الدولار الأمريكي: 20%"
-        },
-        {
-          "type": "paragraph",
-          "text": "توضح هذه النتيجة بوضوح أن الجنسية التركية عن طريق الإيداع البنكي يمكن أن توفر ليس فقط أهلية الحصول على الجنسية، ولكن أيضًا الحفاظ على رأس المال مع عائد معقول من العملة الأجنبية، عندما يتم تنظيمها بشكل صحيح."
-        },
-        {
-          "type": "paragraph",
-          "text": "الأدلة الداعمة (منقحة)"
-        },
-        {
-          "type": "paragraph",
-          "text": "لقطة شاشة منقحة لرصيد الحساب المصرفي للعميل"
-        },
-        {
-          "type": "paragraph",
-          "text": "لمن تناسب جنسية الودائع المصرفية؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "هذا المسار مناسب بشكل خاص للمستثمرين الذين:"
-        },
-        {
-          "type": "paragraph",
-          "text": "يفضلون عدم الاستثمار في العقارات"
-        },
-        {
-          "type": "paragraph",
-          "text": "البحث عن مخاطر تشغيلية ومخاطر سوقية أقل"
-        },
-        {
-          "type": "paragraph",
-          "text": "سيولة القيمة والشفافية التنظيمية"
-        },
-        {
-          "type": "paragraph",
-          "text": "هل تريد طريقًا مباشرًا للحصول على الجنسية التركية"
-        },
-        {
-          "type": "paragraph",
-          "text": "المنظور القانوني: لماذا تعتبر الهيكلة المناسبة مهمة"
-        },
-        {
-          "type": "paragraph",
-          "text": "يمكن أن يؤدي الاختيار غير الصحيح للبنك أو التعامل مع العملة أو التوثيق إلى تعريض أهلية المواطنة والنتائج المالية للخطر. ولهذا السبب، ينبغي دائمًا إدارة الجنسية التركية عن طريق الإيداع المصرفي كمشروع قانوني ومالي، وليس مجرد عملية معاملات."
-        },
-        {
-          "type": "paragraph",
-          "text": "نهج شركة المحاماة IGA"
-        },
-        {
-          "type": "paragraph",
-          "text": "في شركة IGA للمحاماة، نقدم:"
-        },
-        {
-          "type": "paragraph",
-          "text": "هيكلة جنسية متوافقة تمامًا مع الودائع المصرفية"
-        },
-        {
-          "type": "paragraph",
-          "text": "إدارة قانونية شاملة لعملية تقديم الطلبات"
-        },
-        {
-          "type": "paragraph",
-          "text": "التركيز الاستراتيجي على الحفاظ على قيمة الدولار الأمريكي"
-        },
-        {
-          "type": "paragraph",
-          "text": "حلول مصممة بناءً على ملف تعريف المستثمر"
-        },
-        {
-          "type": "paragraph",
-          "text": "توضح هذه الحالة كيف تؤدي الإستراتيجية الصحيحة إلى الموافقة على الجنسية وحماية رأس المال."
-        },
-        {
-          "type": "paragraph",
-          "text": "إخلاء المسؤولية"
-        },
-        {
-          "type": "paragraph",
-          "text": "يعتمد هذا المحتوى على حالة عميل سابقة حقيقية. تعتمد النتائج على ظروف السوق والظروف الفردية ولا تشكل ضمانة للاستثمارات المستقبلية."
-        }
-      ],
-      "title": "الجنسية التركية عن طريق الإيداع البنكي: دراسة حالة حقيقية بعد 3 سنوات",
-      "seoTitle": "الإيداع البنكي للجنسية التركية: حالة مدتها ثلاث سنوات",
-      "metaDescription": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
-      "imageAlts": {
-        "/public/assets/media/f9ae0020b3ecd172.jpg": "لقطة شاشة منقحة لرصيد الحساب البنكي تظهر الجنسية التركية الحقيقية عن طريق حالة الإيداع البنكي حيث وصل مبلغ 500000 دولار أمريكي إلى ما يقرب من 600000 دولار أمريكي بعد 3 سنوات."
-      }
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "أحد الأسئلة الأكثر شيوعًا من قبل المستثمرين الأجانب الذين يفكرون في الحصول على الجنسية التركية عن طريق الإيداع البنكي بسيط:"
     },
+    {
+      "type": "paragraph",
+      "text": "\"ماذا يحدث لأموالي بعد 3 سنوات؟\""
+    },
+    {
+      "type": "paragraph",
+      "text": "في هذه المقالة، نشارك حالة عميل حقيقي تتعلق بمواطن تايواني استثمر 500000 دولار أمريكي من خلال وديعة بنكية تركية بموجب برنامج الجنسية عن طريق الاستثمار والنتيجة المالية الفعلية بعد فترة الاحتفاظ الإلزامية البالغة 3 سنوات."
+    },
+    {
+      "type": "paragraph",
+      "text": "تفاصيل الاستثمار الأولي:"
+    },
+    {
+      "type": "paragraph",
+      "text": "مبلغ الاستثمار: 500,000 دولار أمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "طريق الاستثمار: إيداع بنكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "الغرض: الجنسية التركية عن طريق الاستثمار"
+    },
+    {
+      "type": "paragraph",
+      "text": "فترة التملك: 3 سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "جنسية المستثمر: تايوان"
+    },
+    {
+      "type": "paragraph",
+      "text": "وقد تمت هيكلة الاستثمار بما يتوافق تمامًا مع اللوائح المصرفية والجنسية التركية، مع التركيز القوي على الحفاظ على رأس المال وتحسين العملة."
+    },
+    {
+      "type": "paragraph",
+      "text": "فترة الاحتفاظ لمدة 3 سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "على مدار فترة الثلاث سنوات:"
+    },
+    {
+      "type": "paragraph",
+      "text": "ظل المبلغ الأصلي مجمدًا قانونيًا كما هو مطلوب"
+    },
+    {
+      "type": "paragraph",
+      "text": "تم الاحتفاظ بالأموال في البنوك التركية الخاضعة للتنظيم"
+    },
+    {
+      "type": "paragraph",
+      "text": "تم إكمال عملية الجنسية بسلاسة"
+    },
+    {
+      "type": "paragraph",
+      "text": "لم يكن هناك حاجة إلى أي نشاط تجاري في تركيا"
+    },
+    {
+      "type": "paragraph",
+      "text": "تمت إدارة العملية من البداية إلى النهاية تحت إشراف قانوني محترف."
+    },
+    {
+      "type": "paragraph",
+      "text": "النتيجة النهائية بعد 3 سنوات"
+    },
+    {
+      "type": "paragraph",
+      "text": "في نهاية فترة الثلاث سنوات:"
+    },
+    {
+      "type": "paragraph",
+      "text": "الاستثمار الأولي: 500,000 دولار أمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "رصيد الحساب النهائي: تقريبًا 600,000 دولار أمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "صافي الزيادة: +100,000 دولار أمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "العائد التقريبي القائم على الدولار الأمريكي: 20%"
+    },
+    {
+      "type": "paragraph",
+      "text": "هذه نتيجة تاريخية لعميل واحد، وليست دليلاً على عائد معتاد أو ضمان لرأس المال. تؤثر العملة والفائدة والضرائب والرسوم في نتائج المستثمرين الآخرين."
+    },
+    {
+      "type": "paragraph",
+      "text": "الأدلة الداعمة (منقحة)"
+    },
+    {
+      "type": "paragraph",
+      "text": "لقطة شاشة منقحة لرصيد الحساب المصرفي للعميل"
+    },
+    {
+      "type": "paragraph",
+      "text": "لمن تناسب جنسية الودائع المصرفية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "هذا المسار مناسب بشكل خاص للمستثمرين الذين:"
+    },
+    {
+      "type": "paragraph",
+      "text": "يفضلون عدم الاستثمار في العقارات"
+    },
+    {
+      "type": "paragraph",
+      "text": "البحث عن مخاطر تشغيلية ومخاطر سوقية أقل"
+    },
+    {
+      "type": "paragraph",
+      "text": "يقبلون الالتزام لثلاث سنوات ويفهمون تبعات السحب المبكر"
+    },
+    {
+      "type": "paragraph",
+      "text": "هل تريد طريقًا مباشرًا للحصول على الجنسية التركية"
+    },
+    {
+      "type": "paragraph",
+      "text": "المنظور القانوني: لماذا تعتبر الهيكلة المناسبة مهمة"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن أن يؤدي الاختيار غير الصحيح للبنك أو التعامل مع العملة أو التوثيق إلى تعريض أهلية المواطنة والنتائج المالية للخطر. ولهذا السبب، ينبغي دائمًا إدارة الجنسية التركية عن طريق الإيداع المصرفي كمشروع قانوني ومالي، وليس مجرد عملية معاملات."
+    },
+    {
+      "type": "paragraph",
+      "text": "نهج شركة المحاماة IGA"
+    },
+    {
+      "type": "paragraph",
+      "text": "في شركة IGA للمحاماة، نقدم:"
+    },
+    {
+      "type": "paragraph",
+      "text": "هيكلة جنسية متوافقة تمامًا مع الودائع المصرفية"
+    },
+    {
+      "type": "paragraph",
+      "text": "إدارة قانونية شاملة لعملية تقديم الطلبات"
+    },
+    {
+      "type": "paragraph",
+      "text": "التركيز الاستراتيجي على الحفاظ على قيمة الدولار الأمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "حلول مصممة بناءً على ملف تعريف المستثمر"
+    },
+    {
+      "type": "paragraph",
+      "text": "يساعد التنسيق القانوني على الامتثال، لكنه لا يضمن قبول الجنسية أو حماية رأس المال أو عائداً محدداً."
+    },
+    {
+      "type": "paragraph",
+      "text": "إخلاء المسؤولية"
+    },
+    {
+      "type": "paragraph",
+      "text": "يعتمد هذا المحتوى على حالة عميل سابقة حقيقية. تعتمد النتائج على ظروف السوق والظروف الفردية ولا تشكل ضمانة للاستثمارات المستقبلية."
+    },
+    {
+      "type": "source",
+      "text": "شرط الإيداع الرسمي (لا يثبت عائد هذا العميل)",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    }
+  ],
+  "title": "الجنسية التركية عن طريق الإيداع البنكي: دراسة حالة حقيقية بعد 3 سنوات",
+  "seoTitle": "الإيداع البنكي للجنسية التركية: حالة مدتها ثلاث سنوات",
+  "metaDescription": "راجع دراسة حالة لطلب الجنسية التركية عبر الإيداع البنكي: مبلغ البداية والعائد وخطوات سحب الأموال بعد ثلاث سنوات.",
+  "imageAlts": {
+    "/public/assets/media/f9ae0020b3ecd172.jpg": "لقطة شاشة منقحة لرصيد الحساب البنكي تظهر الجنسية التركية الحقيقية عن طريق حالة الإيداع البنكي حيث وصل مبلغ 500000 دولار أمريكي إلى ما يقرب من 600000 دولار أمريكي بعد 3 سنوات."
+  }
+},
     "2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025": {
       "blocks": [
         {
@@ -21561,210 +21700,212 @@ window.blogPostTranslations = {
       "imageAlts": {}
     },
     "citizenship-by-investment-programs": {
-      "blocks": [
-        {
-          "type": "paragraph",
-          "text": "تتيح برامج المواطنة عن طريق الاستثمار للعائلات الحصول على جواز سفر ثانٍ خلال أشهر، وليس سنوات. وفي المقابل، يقومون باستثمار مؤهل في البلد المضيف. لقد تغيرت الخيارات كثيرا منذ عام 2025. فقد أغلقت أوروبا برنامجها الأخير، وأصبح لدى منطقة البحر الكاريبي هيئة تنظيمية جديدة. كما شددت تركيا قواعدها بعد حملة واسعة النطاق ضد الاحتيال. يقارن هذا الدليل بين برامج الجنسية عن طريق الاستثمار الرائدة في عام 2026. ويشرح التكاليف والجداول الزمنية وقوة جواز السفر والمخاطر القانونية. ويوضح أيضًا كيفية مقارنة البرامج من حيث التكلفة الإجمالية، وليس السعر الرئيسي. استخدمها كنقطة بداية قبل التحدث مع أي وكيل."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "ما هي برامج الجنسية عن طريق الاستثمار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "تمنح برامج المواطنة عن طريق الاستثمار الجنسية مقابل استثمار معتمد. يمكن أن يكون الاستثمار تبرعًا حكوميًا أو عقارات أو سندات أو عملًا تجاريًا. لا يحتاج المتقدمون عادةً إلى العيش في البلد أولاً. تتخطى معظم البرامج أيضًا اختبارات اللغة أو التاريخ. وبدلاً من ذلك، يعتمدون على فحوصات العناية الواجبة الصارمة. تقوم الحكومات بمراجعة خلفيتك وسمعتك ومصدر أموالك. يمكن للعائلات عادةً التقديم معًا في ملف واحد. يمكن تضمين الأزواج والأطفال وأحيانًا الآباء. يحصل المتقدمون المعتمدون على نفس جواز السفر الذي يحصل عليه المواطنون الآخرون. تتطلب بعض البرامج زيارة قصيرة لإجراء القياسات الحيوية أو أداء القسم. هذه البرامج قانونية، لكن القواعد تختلف بشكل كبير بين البلدان. إن فهم العملية الأساسية يجعل المقارنة أسهل بكثير."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "كيفية عمل العملية"
-        },
-        {
-          "type": "paragraph",
-          "text": "تتبع معظم البرامج تسلسلاً مماثلاً من الخطوات. أولاً، يقوم الوكيل أو المحامي المرخص بمراجعة أهليتك. بعد ذلك، تقوم بجمع المستندات مثل شهادات الميلاد وسجلات الشرطة. تحتاج العديد من الأوراق إلى التصديق والترجمة المعتمدة. ثم تقوم بالاستثمار أو حجزه بموجب قواعد البرنامج. تجري الحكومة فحوصات العناية الواجبة على كل متقدم بالغ. إذا تمت الموافقة على ذلك، فإنك تكمل الاستثمار وتؤدي القسم عند الاقتضاء. وأخيرا، تحصل على شهادة الجنسية وتقدم بطلب للحصول على جواز سفر. تستغرق العملية الكاملة حوالي ثلاثة إلى اثني عشر شهرًا. عادةً ما تأتي التأخيرات بسبب الأوراق المفقودة أو عمليات التحقق من الخلفية الإضافية. الملف الكامل في البداية يوفر معظم الوقت."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "من يجب أن يأخذ في الاعتبار"
-        },
-        {
-          "type": "paragraph",
-          "text": "تناسب هذه البرامج الأشخاص الذين يحتاجون إلى مزيد من الحركة أو الأمان بسرعة. يستخدمها أصحاب الأعمال للسفر دون طوابير طويلة للحصول على التأشيرة. تستخدمها العائلات كخطة بديلة في حالة تغير ظروف المنزل. يستخدمها بعض المستثمرين للوصول إلى تأشيرات المعاهدة مثل US E-2. غالبًا ما يبحث المواطنون الصينيون في الولايات المتحدة عن طريق E-2 هذا. ويريد آخرون قاعدة مستقرة للأصول والأجيال القادمة. البرامج أقل ملاءمة للأشخاص الذين يسعون للحصول على حقوق الإقامة في الاتحاد الأوروبي. كما أنها لا تقدم أي فائدة ضريبية في حد ذاتها. تعتمد النتائج الضريبية على المكان الذي تعيش فيه بالفعل. حدد دائمًا هدفك الرئيسي قبل اختيار البرنامج. هدفك هو الذي يحدد الميزات الأكثر أهمية."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "المواطنة الكاريبية عن طريق برامج الاستثمار"
-        },
-        {
-          "type": "paragraph",
-          "text": "تدير خمس دول كاريبية أشهر برامج الجنسية عن طريق الاستثمار. وهي دومينيكا وأنتيغوا وبربودا وغرينادا وسانت لوسيا وسانت كيتس ونيفيس. ويشترك الخمسة جميعًا في حد أدنى منسق قدره 200000 دولار. وتقوم الآن هيئة تنظيمية إقليمية جديدة، ECCIRA، بوضع معايير مشتركة لهم. والهدف هو بذل العناية الواجبة بشكل أقوى وتحسين الثقة مع الولايات المتحدة والاتحاد الأوروبي. تستغرق المعالجة عادةً من أربعة إلى ثمانية أشهر. معظم البرامج لا تحتاج إلى زيارة قبل الموافقة عليها. تتطلب أنتيغوا إقامة قصيرة خلال خمس سنوات بعد الحصول على الجنسية. جميع الخمسة يقبلون الجنسية المزدوجة. توفر جوازات سفرهم السفر بدون تأشيرة إلى المملكة المتحدة ومنطقة شنغن. تكمن الاختلافات الرئيسية في السعر وقواعد الأسرة والوصول إلى المعاهدات. الأقسام التالية تفصل هذه الاختلافات."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "طرق التبرع مقابل العقارات"
-        },
-        {
-          "type": "paragraph",
-          "text": "يقدم كل برنامج كاريبي طريقًا للتبرع وطريقًا للعقارات. يذهب التبرع إلى صندوق وطني وغير قابل للاسترداد. في عام 2026، تبدأ التبرعات من مقدم طلب واحد بحوالي 200000 دولار في دومينيكا. تطلب أنتيغوا حوالي 230 ألف دولار أمريكي، وغرينادا حوالي 235 ألف دولار أمريكي، وسانت لوسيا حوالي 240 ألف دولار أمريكي. وتحتل سانت كيتس ونيفيس المرتبة الأولى، بحوالي 250 ألف دولار. تبدأ المسارات العقارية عادةً بين 200.000 دولار و325.000 دولار. يجب عليك الاحتفاظ بالعقار لعدة سنوات قبل إعادة بيعه. غالبًا ما تكون المشاريع المعتمدة عبارة عن فنادق أو منتجعات مشتركة. من الممكن أن تكون قيمة إعادة البيع ضعيفة، لذا لا تعاملها كأصول سائلة. كما يغير حجم العائلة السعر النهائي بشكل كبير."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "قوة جواز السفر والوصول إلى E-2"
-        },
-        {
-          "type": "paragraph",
-          "text": "توفر جوازات السفر الكاريبية إمكانية سفر قوية مقابل سعرها. عادةً ما تتصدر سانت كيتس ونيفيس قائمة الدول التي يمكن فيها السفر بدون تأشيرة. أنتيغوا وغرينادا تتابع عن كثب. تقدم دومينيكا وسانت لوسيا وجهات أقل قليلاً. تمنح جميع الدول الخمس إمكانية الوصول بدون تأشيرة إلى منطقة شنغن والمملكة المتحدة. غرينادا هي الوحيدة التي لديها معاهدة E-2 مع الولايات المتحدة. وهذا يجعل غرينادا تحظى بشعبية كبيرة بين المستثمرين الذين يخططون لأنشطة الأعمال في الولايات المتحدة. ومع ذلك، قد تستجوب القنصليات المواطنين الجدد ذوي العلاقات الضعيفة. اسأل كيف سيتم تقييم حالتك E-2 قبل التقديم. يمكن أن يتغير الوصول إلى السفر أيضًا إذا أثار الاتحاد الأوروبي مخاوفه. وتظهر حالة فانواتو مدى السرعة التي يمكن أن يحدث بها ذلك."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "برنامج الجنسية التركية عن طريق الاستثمار"
-        },
-        {
-          "type": "paragraph",
-          "text": "وتدير تركيا أحد أكبر البرامج في العالم. قوتها الرئيسية هي أن أموالك تشتري أصلا حقيقيا. يختار معظم المستثمرين العقارات التي تبلغ قيمتها 400 ألف دولار على الأقل. تحتفظ بالعقار لمدة ثلاث سنوات ويمكنك بيعه بعد ذلك. تقبل تركيا الجنسية المزدوجة، لذا عليك الاحتفاظ بجواز سفرك الحالي. يتم تضمين الأزواج والأطفال تحت سن 18 عامًا دون أي تكلفة استثمارية إضافية. ولدى تركيا أيضًا معاهدة E-2 مع الولايات المتحدة. وهذا مهم بالنسبة للمواطنين الصينيين وغيرهم من المواطنين الذين يعيشون في الولايات المتحدة. تستغرق المعالجة عادة عدة أشهر من تاريخ الشراء إلى جواز السفر. يوفر جواز السفر إمكانية سفر جيدة، ولكن ليس الدخول إلى منطقة شنغن بدون تأشيرة. كما أصبحت تركيا أكثر صرامة فيما يتعلق بالتقييمات والأموال. توضح التفاصيل أدناه ما يعنيه ذلك بالنسبة لك."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "خيارات الاستثمار"
-        },
-        {
-          "type": "paragraph",
-          "text": "تقدم تركيا العديد من طرق الاستثمار المؤهلة. العقارات التي تبلغ قيمتها ما لا يقل عن 400 ألف دولار هي الأكثر شعبية على الإطلاق. الوديعة المصرفية التي لا تقل عن 500000 دولار والتي تم الاحتفاظ بها لمدة ثلاث سنوات مؤهلة أيضًا. تعتبر السندات الحكومية بقيمة 500000 دولار المحتفظ بها لمدة ثلاث سنوات خيارًا آخر. يتم احتساب أسهم العقارات أو صناديق رأس المال الاستثماري بقيمة 500000 دولار أيضًا. استثمار رأس المال الثابت بقيمة 500000 دولار ممكن لأصحاب الأعمال. يعد خلق فرص العمل لـ 50 شخصًا على الأقل طريقًا أقل شيوعًا. يحتاج كل طريق إلى شهادة أهلية من الوزارة المختصة. يجب أن تمر المدفوعات عبر البنوك التركية بسجلات واضحة. يجب أن يطابق محاميك الطريق مع احتياجاتك الضريبية والسيولة."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "تغييرات وإلغاءات القواعد لعام 2026"
-        },
-        {
-          "type": "paragraph",
-          "text": "وشددت تركيا برنامجها حتى عامي 2025 و2026. ويجب على المتقدمين والأزواج الآن زيارة تركيا للحصول على القياسات الحيوية. شهادات السجل الجنائي إلزامية للمتقدمين البالغين. وتواجه تقارير التقييم الآن ضوابط أكثر صرامة، بما في ذلك مشتريات صناديق الاستثمار العقاري. وفي أغسطس 2026، أعلنت وزارة الداخلية عن إلغاء أكثر من 6000 قرار. وارتبط معظمها بمعاملات وهمية وتقييمات مبالغ فيها. كما فقد أفراد عائلات هؤلاء المستثمرين وضعهم. وهذا يدل على أنه يمكن سحب جواز السفر بعد سنوات من الموافقة عليه. النهج الأكثر أمانًا هو بذل العناية الواجبة القانونية الكاملة قبل الدفع. تقوم شركة IGA Law Firm بمراجعة العنوان والبائع والتقييم لكل ملف. تحمي هذه المراجعة استثمارك وجنسيتك."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "ماذا حدث لأوروبا وفانواتو؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "لم تعد أوروبا تقدم الجنسية عن طريق الاستثمار. وفي أبريل 2025، حكمت محكمة العدل الأوروبية ضد برنامج مالطا. وقالت المحكمة إن جنسية الاتحاد الأوروبي لا يمكن التعامل معها على أنها صفقة تجارية. وأغلقت مالطا طريقها الاستثماري في يوليو 2025. وكانت قبرص قد أغلقت برنامجها بالفعل في عام 2020. ولا تزال التأشيرات الذهبية موجودة في بعض دول الاتحاد الأوروبي، لكنها تمنح الإقامة فقط. وتتطلب المواطنة بعد ذلك سنوات من الإقامة والاندماج. كما قامت البرتغال بتمديد فترة تجنيسها إلى عشر سنوات في عام 2026. ولا تزال فانواتو مفتوحة، لكن جواز سفرها فقد إمكانية الوصول إلى منطقة شنغن بدون تأشيرة. وقد علق الاتحاد الأوروبي هذا الوصول بسبب ضعف العناية الواجبة. وتدفع هذه التغييرات العديد من المستثمرين نحو تركيا ومنطقة البحر الكاريبي. كما أنها توضح سبب أهمية استقرار البرنامج بقدر أهمية السعر."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "كيفية مقارنة البرامج"
-        },
-        {
-          "type": "paragraph",
-          "text": "نادراً ما تُظهر الأسعار الرئيسية التكلفة الحقيقية للبرنامج. تضيف الرسوم الحكومية ورسوم العناية الواجبة والتكاليف القانونية حصة كبيرة. حجم الأسرة يمكن أن يرفع المجموع بشكل حاد في بعض البرامج. يجب عليك أيضًا مقارنة ما تحصل عليه في النهاية. ذهب التبرع، ولكن يمكن بيع العقارات في وقت لاحق. بعد ذلك، قارن وقت المعالجة ومتطلبات الزيارة. ثم انظر إلى قوة جواز السفر والوصول إلى المعاهدة. وأخيرا، تحقق من سجل البرنامج واستقراره. البرنامج الرخيص الذي يفقد إمكانية السفر ليس صفقة. قم ببناء جدول بسيط بكل هذه العوامل. ثم قم بتصنيف البرامج حسب أهدافك الخاصة، وليس حسب المطالبات التسويقية."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "التكلفة الإجمالية"
-        },
-        {
-          "type": "paragraph",
-          "text": "التكلفة الإجمالية تشمل أكثر بكثير من الحد الأدنى للاستثمار. يفرض كل برنامج رسوم معالجة حكومية على كل مقدم طلب. تنطبق رسوم العناية الواجبة على كل شخص بالغ في الملف. رسوم إصدار جواز السفر تأتي في النهاية. تؤدي مشتريات العقارات أيضًا إلى فرض ضرائب على سند الملكية ورسوم الوكالة. تختلف الرسوم القانونية حسب حجم الملف وتعقيده. يمكن أن تكون تكاليف صرف العملات مهمة بالنسبة للتحويلات الكبيرة. تكاليف الاحتفاظ، مثل الصيانة والتأمين، تضيف ما يصل إلى ثلاث سنوات. اطلب تقديرًا مكتوبًا ومفصلاً قبل الالتزام. قارن هذه المجاميع جنبًا إلى جنب لكل برنامج. غالبًا ما لا يكون أرخص سعر رئيسي هو أرخص فاتورة نهائية."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "الرسوم الحكومية ورسوم العناية الواجبة"
-        },
-        {
-          "type": "paragraph",
-          "text": "الرسوم الحكومية ثابتة بموجب القانون في كل برنامج. غالبًا ما تتراوح رسوم العناية الواجبة من بضعة آلاف من الدولارات لكل شخص بالغ. قد يدفع المعالون رسومًا أقل، لكنهم ما زالوا يضيفون رسومًا. تقوم بعض البرامج باسترداد جزء من الرسوم في حالة فشل الطلب. تحقق من شروط استرداد الأموال قبل تقديم أي شيء. احتفظ بكل إيصال لسجلاتك."
-        },
-        {
-          "type": "heading",
-          "level": 4,
-          "text": "التكاليف القانونية وتكاليف المعاملات"
-        },
-        {
-          "type": "paragraph",
-          "text": "تغطي الرسوم القانونية مراجعة المستندات والإيداعات والاتصال بالحكومة. في المسارات العقارية، يجب عليهم أيضًا تغطية عمليات التحقق من الملكية. تشمل تكاليف المعاملات ضريبة سند الملكية وكاتب العدل ورسوم الترجمة. في تركيا، تقرير التقييم مطلوب أيضًا. اطلب من محاميك أن يذكر كل التكاليف كتابيًا. قائمة واضحة تمنع المفاجآت عند الإغلاق."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "العناية الواجبة ومصدر الأموال"
-        },
-        {
-          "type": "paragraph",
-          "text": "العناية الواجبة هي جوهر كل برنامج جدي. تتحقق الحكومات من الهوية والسجلات الجنائية والتقارير الإعلامية. كما يقومون بالتحقق من قوائم العقوبات والتعرض السياسي. غالبًا ما يكون مصدر الأموال هو الجزء الأصعب في إثباته. يجب عليك إظهار كيف كسبت الأموال التي استثمرتها. تعتبر سجلات الرواتب ومبيعات الأعمال والإقرارات الضريبية دليلاً شائعًا. القروض والهدايا تحتاج إلى مستندات إضافية. تتسبب الفجوات الموجودة في مسار الورق في حدوث تأخيرات أو حالات رفض. قم بإعداد هذه الأدلة قبل أن تختار عقارًا أو مشروعًا. ويمكن للمحامي تنظيمه في ملف واضح وموثوق. كما تعمل الأدلة القوية على تسريع عمليات الشيكات المصرفية في تركيا."
-        },
-        {
-          "type": "heading",
-          "level": 2,
-          "text": "الأسئلة الشائعة"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "ما هو أرخص برنامج للحصول على الجنسية عن طريق الاستثمار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "تعد دومينيكا هي الأرخص في عام 2026. ويبدأ طريق التبرع بحوالي 200 ألف دولار لمقدم الطلب الواحد."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "هل يوجد برنامج للحصول على جنسية الاتحاد الأوروبي عن طريق الاستثمار في عام 2026؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "لا. أغلقت مالطا برنامج الاتحاد الأوروبي الأخير في عام 2025. تمنح التأشيرات الذهبية للاتحاد الأوروبي الإقامة فقط."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "كم من الوقت تستغرق برامج الجنسية عن طريق الاستثمار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "يستغرق معظمها من ثلاثة إلى اثني عشر شهرًا. غالبًا ما تنتهي برامج منطقة البحر الكاريبي وتركيا في غضون عدة أشهر."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "هل يمكنني الاحتفاظ بجواز سفري الحالي؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "عادة، نعم. تسمح برامج تركيا ومنطقة البحر الكاريبي بالجنسية المزدوجة. تحقق من قواعد بلدك الأصلي أيضًا."
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "هل يمكن إلغاء الجنسية عن طريق الاستثمار؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "نعم. يمكن إلغاؤه بسبب الاحتيال أو المستندات المزورة. تركيا ألغت آلاف القرارات في 2026"
-        },
-        {
-          "type": "heading",
-          "level": 3,
-          "text": "ما هو البرنامج الذي يتيح الوصول إلى تأشيرة E-2 الأمريكية؟"
-        },
-        {
-          "type": "paragraph",
-          "text": "لدى كل من تركيا وغرينادا معاهدات E-2 مع الولايات المتحدة."
-        }
-      ],
-      "title": "مقارنة برامج الجنسية عن طريق الاستثمار: تركيا مقابل دول الكاريبي مقابل أوروبا (2026)",
-      "seoTitle": "برامج الجنسية عن طريق الاستثمار في 2026: مقارنة",
-      "metaDescription": "قارن برامج الجنسية عن طريق الاستثمار في تركيا والكاريبي لعام 2026، بما في ذلك مسارات الاستثمار وشروط الأسرة والمخاطر القانونية.",
-      "imageAlts": {}
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "تختلف برامج الجنسية عن طريق الاستثمار من حيث الأصول المؤهلة وشروط الأسرة والرسوم والضمانات القانونية. قارن المسار والميزانية الكاملة للطلب قبل تحويل الأموال. يميز هذا الدليل بين الجنسية الاستثمارية ومسارات الإقامة، ويوضح ضرورة فحص حقوق السفر وأهلية التأشيرات الأمريكية بشكل مستقل. الاستثمار لا يضمن الحصول على الجنسية."
+    },
+    {
+      "type": "heading",
+      "text": "ما برامج الجنسية عن طريق الاستثمار؟",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "توفر هذه البرامج مساراً للتقديم مرتبطاً بمساهمة أو استثمار مؤهل، مع تقييم السلطات للأهلية والمستندات. تختلف الإقامة عن طريق الاستثمار عن الجنسية؛ فتصريح الإقامة ليس جواز سفر، والتجنس اللاحق يخضع لشروط مستقلة. شراء العقار وحده لا يعني الموافقة على الجنسية."
+    },
+    {
+      "type": "heading",
+      "text": "خيارات الكاريبي والتنظيم الإقليمي",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "تنشر دومينيكا وغرينادا مسارات للمساهمة والاستثمار في مشاريع معتمدة. يجب مقارنة الرسوم وتعريف الأسرة لكل دولة؛ فالحد الإقليمي الأدنى ليس عرض تكلفة عائلية كاملاً. أعلنت OECS اتفاق ECCIRA وخطط التشريع في 2025، وظل بيان يونيو 2026 يشير إلى إطلاق مرتقب. لا تثبت هذه الإعلانات وحدها أن جميع الصلاحيات المقترحة أصبحت نافذة في كل دولة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تميز غرينادا بين الاستثمار العام في مشروع معتمد بمبلغ 350,000 دولار وخيار 270,000 دولار لكل حصة في وحدة إقامة سياحية مؤهلة. وفقاً للائحة SRO 15 لسنة 2024، يجب أن يشتري الوحدة شخصان على الأقل، وألا تقل قيمتها الإجمالية عن 540,000 دولار، وأن يكون قد استُثمر في المشروع رأسمال ذاتي يعادل 20% على الأقل من تكلفة البناء المقترحة قبل تقديم الطلب إلى اللجنة. وتغطي المساهمة الحكومية المنفصلة البالغة 50,000 دولار المتقدم الرئيسي وما يصل إلى ثلاثة معالين مؤهلين، باستثناء الفئتين (f)/(g) من التعريف القانوني. ولا تشمل المعالين الإضافيين أو رسوم الطلب الأخرى. أكد الأهلية والرسوم مع الوكيل المعتمد بحسب أسرتك."
+    },
+    {
+      "type": "heading",
+      "text": "السفر إلى المملكة المتحدة وشنغن مسألتان منفصلتان",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "دومينيكا وسانت لوسيا مدرجتان في قائمة الجنسيات التي تحتاج إلى تأشيرة زيارة للمملكة المتحدة. لا تفترض الإعفاء؛ تحقق من نوع الجواز والاستثناءات السارية. قواعد شنغن مستقلة وتستلزم مراجعة قائمة التأشيرات الأوروبية والاتفاقيات وشروط الدخول. الإعفاء للإقامة القصيرة لا يمنح حق السكن أو العمل في أوروبا."
+    },
+    {
+      "type": "heading",
+      "text": "تركيا: الاستثمار والمستندات والفحص القانوني",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "يحدد مكتب الاستثمار التركي الرسمي حداً يبدأ من 400,000 دولار للعقار و500,000 دولار لعدة مسارات مالية أو رأسمالية. يتطلب المسار العقاري قيداً على البيع لمدة ثلاث سنوات، وللودائع والسندات والصناديق المؤهلة شروط احتفاظ خاصة بها. يجب أن تؤكد الجهة المختصة استيفاء شرط الاستثمار. راجع الملكية ومتطلبات التقييم وسجلات الدفع وأهلية الأسرة قبل التقديم."
+    },
+    {
+      "type": "paragraph",
+      "text": "خطط لفحص الاستثمار وشهادة المطابقة والإقامة والجنسية كمراحل مستقلة. قد تغير تصديقات الوثائق واستفسارات السلطات الجدول الزمني. لا يمكن ضمان موعد ثابت للموافقة. قد تنشأ مخاطر قانونية جسيمة عن المعلومات المضللة أو الاستثمار غير المؤهل."
+    },
+    {
+      "type": "heading",
+      "text": "مسارات الإقامة الأوروبية وتغييرات الجنسية",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "قضت محكمة العدل الأوروبية في 29 أبريل 2025 في القضية C-181/23 بمخالفة برنامج الجنسية الاستثمارية المالطي لقانون الاتحاد. لا تخلط تصريح الإقامة الاستثماري بجنسية الاتحاد. توضح وزارة العدل البرتغالية أن القواعد السارية منذ 19 مايو 2026 تميز بين سبع سنوات من الإقامة القانونية لمواطني الاتحاد أو الدول الناطقة بالبرتغالية وعشر سنوات لغيرهم. يلزم فحص الأحكام الانتقالية والأهلية الفردية."
+    },
+    {
+      "type": "heading",
+      "text": "تأشيرة E-2 الأمريكية: جنسية دولة المعاهدة شرط واحد فقط",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "ترد تركيا وغرينادا في قائمة دول معاهدة E-2 الأمريكية. الجواز وحده لا يكفي؛ يجب أن تستوفي المنشأة والاستثمار في الولايات المتحدة شروط E-2. لمن اكتسب الجنسية بالاستثمار ولم يُمنح سابقاً وضع E، يشترط التوطن المتواصل ثلاث سنوات في دولة المعاهدة قبل التقديم؛ اطلب تقييماً أمريكياً لحالتك."
+    },
+    {
+      "type": "heading",
+      "text": "قارن ميزانية الأسرة الكاملة وشروط الخروج",
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "اطلب عرضاً مفصلاً بحسب أسرتك الفعلية يشمل الاستثمار أو المساهمة والرسوم الحكومية والتدقيق والمقابلات والمشورة القانونية والترجمة والجوازات وتكاليف المعاملة. حدد المبالغ غير القابلة للاسترداد. افحص مدة الاحتفاظ وشروط إعادة البيع ومخاطر السوق في مسار الأصول؛ الأصل المؤهل لا يضمن العائد أو وجود مشتر عند الخروج."
+    },
+    {
+      "type": "heading",
+      "text": "الأسئلة الشائعة",
+      "level": 2
+    },
+    {
+      "type": "heading",
+      "text": "أي البرامج أقل تكلفة؟",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "لا يحدد هذا الدليل خياراً موثقاً بأنه الأرخص للجميع. قارن عروضاً مفصلة لمسارك وأسرتك بدلاً من أسعار البداية للفرد."
+    },
+    {
+      "type": "heading",
+      "text": "هل تسمح جميع جوازات الجنسية الكاريبية بدخول بريطانيا دون تأشيرة؟",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "لا. راجع قائمة التأشيرات البريطانية والاستثناءات الحالية، وافحص قواعد بريطانيا وشنغن بصورة منفصلة."
+    },
+    {
+      "type": "heading",
+      "text": "كم تستغرق الإجراءات؟",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "تتوقف المدة على الجهة المختصة وجاهزية الوثائق والفحوص الإضافية. اطلب تقديراً حديثاً لكل مرحلة؛ لا يضمن الدليل أو المحامي الموافقة في موعد محدد."
+    },
+    {
+      "type": "heading",
+      "text": "هل يمكنني الاحتفاظ بجنسيتي الحالية؟",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "تحقق من قانون الجنسية في البلدين. سماح الدولة المستهدفة بازدواج الجنسية لا يلغي قيود دولة جنسيتك الحالية."
+    },
+    {
+      "type": "heading",
+      "text": "هل تمنح الجنسية الاستثمارية أهلية E-2 تلقائياً؟",
+      "level": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "لا. راجع شروط المنشأة والاستثمار والتوطن المنفصلة أعلاه؛ جنسية دولة المعاهدة ليست موافقة على التأشيرة."
+    },
+    {
+      "type": "heading",
+      "text": "المصادر الرسمية",
+      "level": 2
+    },
+    {
+      "type": "source",
+      "text": "قائمة الدول المطلوبة منها تأشيرة بريطانية",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "إطار التأشيرات الأوروبي — تحقق من النص الحالي",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1806"
+    },
+    {
+      "type": "source",
+      "text": "مكتب الاستثمار التركي",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "source",
+      "text": "صندوق EDF في دومينيكا",
+      "url": "https://www.cbiu.gov.dm/investment-options/economic-diversification-fund/"
+    },
+    {
+      "type": "source",
+      "text": "العقارات المعتمدة في دومينيكا",
+      "url": "https://www.cbiu.gov.dm/investment-options/real-estate/"
+    },
+    {
+      "type": "source",
+      "text": "أسئلة التقديم في دومينيكا",
+      "url": "https://www.cbiu.gov.dm/faqs/"
+    },
+    {
+      "type": "source",
+      "text": "أسئلة التقديم لدى IMA غرينادا",
+      "url": "https://imagrenada.gd/enquiries/"
+    },
+    {
+      "type": "source",
+      "text": "حدود الاستثمار في غرينادا — اللائحة المصححة",
+      "url": "https://imagrenada.gd/wp-content/uploads/2024/07/Update-to-Circular-No.-2-Minimum-Investment-Threshold-July-3-2024.pdf"
+    },
+    {
+      "type": "source",
+      "text": "وزارة العدل البرتغالية — مايو 2026",
+      "url": "https://justica.gov.pt/Noticias/Lei-da-Nacionalidade-novas-regras-entram-em-vigor-a-19-de-maio"
+    },
+    {
+      "type": "source",
+      "text": "محكمة العدل الأوروبية C-181/23",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/cp250052en.pdf"
+    },
+    {
+      "type": "source",
+      "text": "قائمة دول المعاهدة الأمريكية",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    },
+    {
+      "type": "source",
+      "text": "الخارجية الأمريكية — جنسية الاستثمار والموطن",
+      "url": "https://travel.state.gov/content/dam/visas/AILA/AILA-Agenda-4-26-2023.pdf"
+    },
+    {
+      "type": "source",
+      "text": "شروط E-2 الأمريكية",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/employment/treaty-trader-investor-visa-e.html"
+    },
+    {
+      "type": "source",
+      "text": "OECS — بيان يونيو 2026",
+      "url": "https://pressroom.oecs.int/oecs-heads-of-government-focus-on-trade-connectivity-and-economic-resilience-at-78th-authority-meeting"
     }
+  ],
+  "title": "مقارنة برامج الجنسية عن طريق الاستثمار: تركيا مقابل دول الكاريبي مقابل أوروبا (2026)",
+  "seoTitle": "برامج الجنسية عن طريق الاستثمار في 2026: مقارنة",
+  "metaDescription": "قارن برامج الجنسية عن طريق الاستثمار في تركيا والكاريبي لعام 2026، بما في ذلك مسارات الاستثمار وشروط الأسرة والمخاطر القانونية.",
+  "imageAlts": {}
+}
   }
 };
