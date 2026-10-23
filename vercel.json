@@ -2430,6 +2430,46 @@
       "statusCode": 301
     },
     {
+      "source": "/en/blog/triple-citizenship",
+      "destination": "https://igalawfirm.com/en/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/triple-citizenship/index.html",
+      "destination": "https://igalawfirm.com/en/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/triple-citizenship",
+      "destination": "https://igalawfirm.com/tr/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/triple-citizenship/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/triple-citizenship",
+      "destination": "https://igalawfirm.com/zh/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/triple-citizenship/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/triple-citizenship",
+      "destination": "https://igalawfirm.com/ar/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/triple-citizenship/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/triple-citizenship/",
+      "statusCode": 301
+    },
+    {
       "source": "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication",
       "destination": "https://igalawfirm.com/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/",
       "statusCode": 301
