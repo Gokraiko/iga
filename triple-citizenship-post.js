@@ -1046,5 +1046,5 @@
     window.blogPostTranslations[lang] = window.blogPostTranslations[lang] || {};
     window.blogPostTranslations[lang][slug] = copy[lang];
   }
-  window.tripleCitizenshipArticle = {slug, title:copy.en.title, seoTitle:copy.en.seoTitle, metaDescription:copy.en.metaDescription, date:'2026', publishedAt:'2026-10-23', updatedAt:'2026-10-23', author:'Irmak Gürer Aksöz', category:'Citizenship'};
+  window.tripleCitizenshipArticle = {slug, title:copy.en.title, seoTitle:copy.en.seoTitle, metaDescription:copy.en.metaDescription, date:'2026', publishedAt:'2026-10-23', updatedAt:'2026-10-23', author:'Irmak Gürer Aksöz', authorRole:'Founding Attorney', category:'Citizenship'};
 }

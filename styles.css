@@ -79,3 +79,8 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
  .seo-comparison td::before{content:attr(data-country);display:block;font-weight:700;margin-bottom:.3rem;color:#0e1a5b}
  .seo-comparison td:last-child{border-bottom:0}
 }
+
+/* Author signature for articles with an explicit byline. */
+.article-author{display:flex;align-items:center;gap:10px;margin:16px 0;color:var(--ink-2);font:400 12px/1.6 var(--sans);letter-spacing:0;text-transform:none;text-align:start}
+.article-author-icon{display:grid;place-items:center;flex:0 0 32px;width:32px;height:32px;border:1px solid var(--line);border-radius:50%;background:var(--cream);color:var(--ink)}
+.article-author-icon svg{width:18px;height:18px}.article-author strong{font-weight:600}.page-hero .article-author{margin-top:24px;font-size:14px}.blog-card .article-author,.journal-card .article-author{margin:12px 0 16px}
