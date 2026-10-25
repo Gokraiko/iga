@@ -2430,6 +2430,86 @@
       "statusCode": 301
     },
     {
+      "source": "/en/blog/the-strongest-passports-in-the-world",
+      "destination": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/the-strongest-passports-in-the-world/index.html",
+      "destination": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/the-strongest-passports-in-the-world",
+      "destination": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/the-strongest-passports-in-the-world/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/the-strongest-passports-in-the-world",
+      "destination": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/the-strongest-passports-in-the-world/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/the-strongest-passports-in-the-world",
+      "destination": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/the-strongest-passports-in-the-world/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/is-turkey-a-european-or-asian-country",
+      "destination": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/is-turkey-a-european-or-asian-country/index.html",
+      "destination": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/is-turkey-a-european-or-asian-country",
+      "destination": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/is-turkey-a-european-or-asian-country/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/is-turkey-a-european-or-asian-country",
+      "destination": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/is-turkey-a-european-or-asian-country/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/is-turkey-a-european-or-asian-country",
+      "destination": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/is-turkey-a-european-or-asian-country/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+      "statusCode": 301
+    },
+    {
       "source": "/en/blog/triple-citizenship",
       "destination": "https://igalawfirm.com/en/blog/triple-citizenship/",
       "statusCode": 301

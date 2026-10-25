@@ -6755,6 +6755,934 @@
       ]
     }
   },
+  "/en/blog/the-strongest-passports-in-the-world/": {
+    "path": "/en/blog/the-strongest-passports-in-the-world/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Strongest Passports 2026: Rankings & Turkish Passport | IGA Law Firm",
+    "description": "Compare the strongest passports in 2026 and Türkiye’s position. Understand visa-free scores, E-2 eligibility and what a second citizenship can really add.",
+    "canonical": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+      "title": "Strongest Passports 2026: Rankings & Turkish Passport | IGA Law Firm",
+      "description": "Compare the strongest passports in 2026 and Türkiye’s position. Understand visa-free scores, E-2 eligibility and what a second citizenship can really add.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/#webpage",
+          "url": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+          "name": "Strongest Passports 2026: Rankings & Turkish Passport | IGA Law Firm",
+          "description": "Compare the strongest passports in 2026 and Türkiye’s position. Understand visa-free scores, E-2 eligibility and what a second citizenship can really add.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/#article",
+          "url": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/",
+          "headline": "The Strongest Passports in the World (2026) and Where Turkey Ranks",
+          "description": "Compare the strongest passports in 2026 and Türkiye’s position. Understand visa-free scores, E-2 eligibility and what a second citizenship can really add.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-25",
+          "dateModified": "2026-10-25"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Citizenship"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/the-strongest-passports-in-the-world/": {
+    "path": "/tr/blog/the-strongest-passports-in-the-world/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "En Güçlü Pasaportlar 2026: Türk Pasaportu Kaçıncı? | IGA Law Firm",
+    "description": "2026’nın en güçlü pasaportlarını ve Türkiye’nin sırasını karşılaştırın. Vizesiz seyahat puanları, E-2 şartları ve ikinci vatandaşlığın gerçek faydalarını öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+      "title": "En Güçlü Pasaportlar 2026: Türk Pasaportu Kaçıncı? | IGA Law Firm",
+      "description": "2026’nın en güçlü pasaportlarını ve Türkiye’nin sırasını karşılaştırın. Vizesiz seyahat puanları, E-2 şartları ve ikinci vatandaşlığın gerçek faydalarını öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+          "name": "En Güçlü Pasaportlar 2026: Türk Pasaportu Kaçıncı? | IGA Law Firm",
+          "description": "2026’nın en güçlü pasaportlarını ve Türkiye’nin sırasını karşılaştırın. Vizesiz seyahat puanları, E-2 şartları ve ikinci vatandaşlığın gerçek faydalarını öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/#article",
+          "url": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/",
+          "headline": "Dünyanın En Güçlü Pasaportları (2026) ve Türkiye’nin Sıralaması",
+          "description": "2026’nın en güçlü pasaportlarını ve Türkiye’nin sırasını karşılaştırın. Vizesiz seyahat puanları, E-2 şartları ve ikinci vatandaşlığın gerçek faydalarını öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-25",
+          "dateModified": "2026-10-25"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vatandaşlık"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/the-strongest-passports-in-the-world/": {
+    "path": "/zh/blog/the-strongest-passports-in-the-world/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "2026最强护照排名：土耳其护照与第二国籍指南 | IGA Law Firm",
+    "description": "比较2026年全球最强护照与土耳其的位置，了解免签评分、E-2资格及第二国籍的实际价值。申请前审查旅行权利、成本与法律义务。",
+    "canonical": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+      "title": "2026最强护照排名：土耳其护照与第二国籍指南 | IGA Law Firm",
+      "description": "比较2026年全球最强护照与土耳其的位置，了解免签评分、E-2资格及第二国籍的实际价值。申请前审查旅行权利、成本与法律义务。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+          "name": "2026最强护照排名：土耳其护照与第二国籍指南 | IGA Law Firm",
+          "description": "比较2026年全球最强护照与土耳其的位置，了解免签评分、E-2资格及第二国籍的实际价值。申请前审查旅行权利、成本与法律义务。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/#article",
+          "url": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/",
+          "headline": "2026年全球最强护照与土耳其护照排名",
+          "description": "比较2026年全球最强护照与土耳其的位置，了解免签评分、E-2资格及第二国籍的实际价值。申请前审查旅行权利、成本与法律义务。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-25",
+          "dateModified": "2026-10-25"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "入籍"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/the-strongest-passports-in-the-world/": {
+    "path": "/ar/blog/the-strongest-passports-in-the-world/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "أقوى جوازات السفر 2026: ترتيب الجواز التركي | IGA Law Firm",
+    "description": "قارن أقوى جوازات السفر في 2026 وموقع تركيا. افهم درجات الدخول دون تأشيرة وشروط E-2 والفوائد الفعلية للجنسية الثانية قبل اتخاذ قرار الاستثمار.",
+    "canonical": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/the-strongest-passports-in-the-world/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+      "title": "أقوى جوازات السفر 2026: ترتيب الجواز التركي | IGA Law Firm",
+      "description": "قارن أقوى جوازات السفر في 2026 وموقع تركيا. افهم درجات الدخول دون تأشيرة وشروط E-2 والفوائد الفعلية للجنسية الثانية قبل اتخاذ قرار الاستثمار.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+          "name": "أقوى جوازات السفر 2026: ترتيب الجواز التركي | IGA Law Firm",
+          "description": "قارن أقوى جوازات السفر في 2026 وموقع تركيا. افهم درجات الدخول دون تأشيرة وشروط E-2 والفوائد الفعلية للجنسية الثانية قبل اتخاذ قرار الاستثمار.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/#article",
+          "url": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/",
+          "headline": "أقوى جوازات السفر في العالم 2026 وترتيب تركيا",
+          "description": "قارن أقوى جوازات السفر في 2026 وموقع تركيا. افهم درجات الدخول دون تأشيرة وشروط E-2 والفوائد الفعلية للجنسية الثانية قبل اتخاذ قرار الاستثمار.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-25",
+          "dateModified": "2026-10-25"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/the-strongest-passports-in-the-world/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الجنسية"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/is-turkey-a-european-or-asian-country/": {
+    "path": "/en/blog/is-turkey-a-european-or-asian-country/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Is Turkey in Europe or Asia? Passport & Visa Guide | IGA Law Firm",
+    "description": "Turkey spans Europe and Asia but is outside the EU and Schengen. Understand what this means for Turkish passports, visas, residence and property investment.",
+    "canonical": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+      "title": "Is Turkey in Europe or Asia? Passport & Visa Guide | IGA Law Firm",
+      "description": "Turkey spans Europe and Asia but is outside the EU and Schengen. Understand what this means for Turkish passports, visas, residence and property investment.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/#webpage",
+          "url": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+          "name": "Is Turkey in Europe or Asia? Passport & Visa Guide | IGA Law Firm",
+          "description": "Turkey spans Europe and Asia but is outside the EU and Schengen. Understand what this means for Turkish passports, visas, residence and property investment.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/#article",
+          "url": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/",
+          "headline": "Is Turkey a European or Asian Country? Passport and Visa Access Explained",
+          "description": "Turkey spans Europe and Asia but is outside the EU and Schengen. Understand what this means for Turkish passports, visas, residence and property investment.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-24",
+          "dateModified": "2026-10-24"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "International"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/is-turkey-a-european-or-asian-country/": {
+    "path": "/tr/blog/is-turkey-a-european-or-asian-country/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türkiye Avrupa’da mı Asya’da mı? Pasaport ve Vize Rehberi | IGA Law Firm",
+    "description": "Türkiye hem Avrupa’da hem Asya’dadır; AB ve Schengen üyesi değildir. Türk pasaportu, vize, ikamet ve gayrimenkul yatırımı açısından ne anlama geldiğini öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+      "title": "Türkiye Avrupa’da mı Asya’da mı? Pasaport ve Vize Rehberi | IGA Law Firm",
+      "description": "Türkiye hem Avrupa’da hem Asya’dadır; AB ve Schengen üyesi değildir. Türk pasaportu, vize, ikamet ve gayrimenkul yatırımı açısından ne anlama geldiğini öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+          "name": "Türkiye Avrupa’da mı Asya’da mı? Pasaport ve Vize Rehberi | IGA Law Firm",
+          "description": "Türkiye hem Avrupa’da hem Asya’dadır; AB ve Schengen üyesi değildir. Türk pasaportu, vize, ikamet ve gayrimenkul yatırımı açısından ne anlama geldiğini öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/#article",
+          "url": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/",
+          "headline": "Türkiye Avrupa Ülkesi mi, Asya Ülkesi mi? Pasaport ve Vize Hakları",
+          "description": "Türkiye hem Avrupa’da hem Asya’dadır; AB ve Schengen üyesi değildir. Türk pasaportu, vize, ikamet ve gayrimenkul yatırımı açısından ne anlama geldiğini öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-24",
+          "dateModified": "2026-10-24"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Uluslararası"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/is-turkey-a-european-or-asian-country/": {
+    "path": "/zh/blog/is-turkey-a-european-or-asian-country/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其属于欧洲还是亚洲？护照、签证与居留指南 | IGA Law Firm",
+    "description": "土耳其横跨欧洲和亚洲，但不是欧盟或申根成员。了解其地理位置与法律身份的区别，以及土耳其护照、签证、居留和房产投资的实际权利。",
+    "canonical": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+      "title": "土耳其属于欧洲还是亚洲？护照、签证与居留指南 | IGA Law Firm",
+      "description": "土耳其横跨欧洲和亚洲，但不是欧盟或申根成员。了解其地理位置与法律身份的区别，以及土耳其护照、签证、居留和房产投资的实际权利。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+          "name": "土耳其属于欧洲还是亚洲？护照、签证与居留指南 | IGA Law Firm",
+          "description": "土耳其横跨欧洲和亚洲，但不是欧盟或申根成员。了解其地理位置与法律身份的区别，以及土耳其护照、签证、居留和房产投资的实际权利。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/#article",
+          "url": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/",
+          "headline": "土耳其是欧洲国家还是亚洲国家？护照与签证权利解读",
+          "description": "土耳其横跨欧洲和亚洲，但不是欧盟或申根成员。了解其地理位置与法律身份的区别，以及土耳其护照、签证、居留和房产投资的实际权利。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-24",
+          "dateModified": "2026-10-24"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "国际"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/is-turkey-a-european-or-asian-country/": {
+    "path": "/ar/blog/is-turkey-a-european-or-asian-country/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "هل تركيا في أوروبا أم آسيا؟ دليل الجواز والتأشيرات | IGA Law Firm",
+    "description": "تقع تركيا في أوروبا وآسيا لكنها ليست ضمن الاتحاد الأوروبي أو شنغن. افهم أثر ذلك على الجواز التركي والتأشيرات والإقامة والاستثمار العقاري.",
+    "canonical": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-a-european-or-asian-country/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+      "title": "هل تركيا في أوروبا أم آسيا؟ دليل الجواز والتأشيرات | IGA Law Firm",
+      "description": "تقع تركيا في أوروبا وآسيا لكنها ليست ضمن الاتحاد الأوروبي أو شنغن. افهم أثر ذلك على الجواز التركي والتأشيرات والإقامة والاستثمار العقاري.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+          "name": "هل تركيا في أوروبا أم آسيا؟ دليل الجواز والتأشيرات | IGA Law Firm",
+          "description": "تقع تركيا في أوروبا وآسيا لكنها ليست ضمن الاتحاد الأوروبي أو شنغن. افهم أثر ذلك على الجواز التركي والتأشيرات والإقامة والاستثمار العقاري.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/#article",
+          "url": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/",
+          "headline": "هل تركيا دولة أوروبية أم آسيوية؟ حقوق الجواز والتأشيرة",
+          "description": "تقع تركيا في أوروبا وآسيا لكنها ليست ضمن الاتحاد الأوروبي أو شنغن. افهم أثر ذلك على الجواز التركي والتأشيرات والإقامة والاستثمار العقاري.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-24",
+          "dateModified": "2026-10-24"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-a-european-or-asian-country/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "دولي"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/triple-citizenship/": {
     "path": "/en/blog/triple-citizenship/",
     "language": "en",
