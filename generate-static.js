@@ -2,13 +2,16 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 
+// A failed read keeps the last confirmed snapshot; no view event is recorded.
+if (process.env.IGA_REFRESH_POPULARITY !== '0') require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, 'scripts/update-article-popularity.cjs')], { stdio: 'inherit', timeout: 10000 });
+
 const origin = 'https://igalawfirm.com';
 const languages = ['en', 'tr', 'zh', 'ar'];
 const template = fs.readFileSync('index.html', 'utf8');
 const out = path.join(__dirname, 'dist');
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(path.join(out, 'public'), { recursive: true });
-for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'blog-image-variants.js', 'blog-discovery.js', 'app.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
+for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'app.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
@@ -34,7 +37,7 @@ let document = createDocument();
 const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
-for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'blog-image-variants.js', 'blog-discovery.js', 'app.js']) {
+for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'app.js']) {
   vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
 }
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);

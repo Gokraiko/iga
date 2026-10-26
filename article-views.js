@@ -1,6 +1,5 @@
 (() => {
-  const counters = [...document.querySelectorAll('[data-article-views]')];
-  if (!counters.length) return;
+  if (!document.querySelector('[data-article-views]')) return;
 
   const formatter = new Intl.NumberFormat(document.documentElement.lang || 'en');
   const current = document.querySelector('[data-article-view-current]');
@@ -8,7 +7,7 @@
 
   function display(slug, count) {
     if (!Number.isSafeInteger(count) || count < 0) return;
-    for (const node of counters) {
+    for (const node of document.querySelectorAll('[data-article-views]')) {
       if (node.dataset.articleViews !== slug) continue;
       const total = count;
       node.querySelector('[data-read-count]').textContent = formatter.format(total);
@@ -23,6 +22,7 @@
       if (!response.ok) return;
       const { counts } = await response.json();
       if (!counts || typeof counts !== 'object') return;
+      if (typeof window.updatePopularArticles === 'function') window.updatePopularArticles(counts);
       for (const [slug, count] of Object.entries(counts)) display(slug, count);
     } catch { /* The last confirmed value remains visible during an outage. */ }
   }
