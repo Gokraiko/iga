@@ -65,7 +65,10 @@ for path,meta in seo.items():
         target=href.removeprefix(ORIGIN)
         check(target in seo and target not in redirects,'Alternate target '+path)
         if target in seo: check(any(x['href']==ORIGIN+path for x in seo[target]['alternates']), 'Reciprocal hreflang '+path)
-    check(not re.search(r'Esentepe|Büyükdere|Ferko Signature|Şişli',text,re.I), 'Old address '+path)
+    # District names in article prose are valid; inspect contact-address fields instead.
+    footer=re.search(r'<footer\b.*?</footer>',text,re.S)
+    address_scope=footer.group(0) if footer else ''
+    check(not re.search(r'Esentepe|Büyükdere|Ferko Signature|Şişli',address_scope,re.I), 'Old footer address '+path)
     check('Bebek Mahallesi' in text,'Missing current address '+path)
     graph=[n for block in page.jsonld for n in block.get('@graph',[])]
     org=[n for n in graph if n.get('@id')==ORIGIN+'/#organization']

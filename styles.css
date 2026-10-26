@@ -88,3 +88,7 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
 .article-author-icon{flex-basis:40px;width:40px;height:40px;overflow:hidden}.article-author-icon img{width:100%;height:100%;object-fit:cover;object-position:center 25%;border-radius:50%}
 
 .article-cover:has(figcaption){max-height:none}.article-cover figcaption{padding:12px 16px;font-size:12px;line-height:1.6;color:var(--muted);text-align:start}
+
+.blog-archive-count{margin:0 0 24px;color:var(--muted);font-size:14px}.article-breadcrumb{max-width:75%;line-height:1.7;overflow-wrap:anywhere}.article-related h2:not(:first-child){margin-top:24px}@media(max-width:760px){.article-breadcrumb{max-width:100%;font-size:10px}.article-heading-top{gap:16px}}
+
+.article-cover img,.article-inline-image img{height:auto;display:block}
