@@ -2622,7 +2622,7 @@
               "name": "When should I involve a citizenship lawyer?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A legal review is most useful before signing a purchase agreement or transferring investment funds, when transaction structure and document gaps can still be addressed."
+                "text": "A legal review is most useful before signing a purchase agreement or transferring investment funds, when transaction structure and document gaps can still be addressed. An early discussion also helps establish the proposed legal scope, the documents to obtain abroad and any attendance that may be required. IGA can then identify matters needing further evidence or specialist advice before the client makes a binding commitment."
               }
             },
             {
@@ -2630,7 +2630,7 @@
               "name": "Can IGA assist if I have already invested?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "We can review an existing transaction and the available records to identify the next legal steps and any issues requiring correction."
+                "text": "We can review an existing transaction and the available records to identify the next legal steps and any issues requiring correction. The review can cover contracts, payment evidence, title or bank records and correspondence with the authorities. It does not mean every defect can be remedied or that an existing transaction will qualify; the next steps depend on what the file establishes."
               }
             },
             {
@@ -2638,7 +2638,55 @@
               "name": "Does a lawyer guarantee citizenship approval?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No. Our role is to provide legal advice and coordinate the file; the competent authorities make the required determinations and the final decision."
+                "text": "No. Our role is to provide legal advice and coordinate the file; the competent authorities make the required determinations and the final decision. Meeting an investment condition is only part of the process. Document accuracy, applicable checks and administrative assessment remain relevant. IGA explains the legal work and follows the file, but cannot promise a positive outcome or substitute its judgement for that of the authorities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I apply together with my spouse and children?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Eligible family members may be included under the applicable rules, but the answer depends on each person’s age, relationship and circumstances. IGA reviews the marriage, birth and identity records and identifies additional documentation, such as consent or custody evidence, where relevant. A family relationship alone should not be treated as a guarantee that a particular application will be accepted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can the process be handled through a power of attorney?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A power of attorney can cover specified steps where legal representation is permitted. IGA checks the intended authority, wording, authentication and translation before use. It does not necessarily remove the need for the investor or family members to attend identity, biometric or other appointments. We plan remote coordination alongside any personal procedures required by the relevant institutions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does a lawyer check before a citizenship property purchase?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The agreed review may include title ownership, annotations, mortgages, other encumbrances, transfer restrictions, transaction terms and the payment trail. IGA considers those findings together with the citizenship-related conditions for the proposed acquisition. A purchase price at the required threshold is not a substitute for examining the legal records, and due diligence cannot guarantee investment performance or citizenship approval."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can IGA assist with bank deposit or BES investment routes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "IGA can review the legal documentation and coordinate the applicable conformity, residence and citizenship stages for bank deposit or qualifying BES applications. The evidence and institutions differ from a property transaction. Product suitability, returns, currency exposure and tax consequences may also require independent financial or tax advice. The scope of legal work should be agreed for the particular investment."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How long does the Turkish citizenship process take?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Timing depends on the individual file and the competent authorities’ workload and enquiries. Investment checks, document issuance and legalisation, conformity review, residence procedures and citizenship assessment are separate stages. IGA can explain the sequence and identify outstanding items, but cannot promise a decision date. Any planning estimate should be revisited if documents or administrative requirements change."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need to live in Türkiye during the process?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Residence requirements and attendance requirements should be assessed separately for your circumstances. A power of attorney does not establish that every stage can be completed from abroad. IGA reviews the applicable residence procedures and checks which identity, biometric or other appointments require personal attendance. Travel plans should be confirmed against the requirements for the actual file rather than a general promise of a remote process."
               }
             }
           ]
@@ -2763,7 +2811,7 @@
               "name": "Vatandaşlık avukatıyla ne zaman görüşmeliyim?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hukuki inceleme, satın alma sözleşmesi imzalanmadan veya yatırım tutarı aktarılmadan önce yapılırsa işlem yapısı ve eksik belgeler daha kolay değerlendirilebilir."
+                "text": "Hukuki inceleme, satın alma sözleşmesi imzalanmadan veya yatırım tutarı aktarılmadan önce yapılırsa işlem yapısı ve eksik belgeler daha kolay değerlendirilebilir. Erken görüşme ayrıca hukuki kapsamı, yurt dışından alınacak belgeleri ve gerekebilecek katılımı belirlemeye yardımcı olur. Müvekkil bağlayıcı bir taahhüt vermeden önce ek kanıt veya uzman görüşü gerektiren konuları saptayabiliriz."
               }
             },
             {
@@ -2771,7 +2819,7 @@
               "name": "Yatırımı yaptıysam IGA yardımcı olabilir mi?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Mevcut işlemi ve belgeleri inceleyerek sonraki hukuki adımları ve düzeltilmesi gereken konuları belirleyebiliriz."
+                "text": "Mevcut işlemi ve belgeleri inceleyerek sonraki hukuki adımları ve düzeltilmesi gereken konuları belirleyebiliriz. İnceleme sözleşmeleri, ödeme kanıtlarını, tapu veya banka kayıtlarını ve kurum yazışmalarını kapsayabilir. Her eksikliğin giderilebileceği veya mevcut işlemin uygun olduğu anlamına gelmez; sonraki adımlar dosyanın ortaya koyduğu bilgilere bağlıdır."
               }
             },
             {
@@ -2779,7 +2827,55 @@
               "name": "Avukat vatandaşlık onayını garanti eder mi?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hayır. Biz hukuki danışmanlık sağlar ve dosyayı koordine ederiz; gerekli tespitleri ve nihai kararı yetkili makamlar verir."
+                "text": "Hayır. Biz hukuki danışmanlık sağlar ve dosyayı koordine ederiz; gerekli tespitleri ve nihai kararı yetkili makamlar verir. Yatırım koşulunu karşılamak sürecin yalnızca bir parçasıdır. Belgelerin doğruluğu, gerekli kontroller ve idari değerlendirme önemini korur. IGA çalışmayı açıklar ve dosyayı takip eder; olumlu sonuç vaat edemez veya yetkili makamın değerlendirmesinin yerine geçemez."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Eşim ve çocuklarımla birlikte başvurabilir miyim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uygun aile üyeleri, ilgili kurallar çerçevesinde başvuruya dahil edilebilir; değerlendirme kişinin yaşına, yakınlığına ve durumuna bağlıdır. IGA evlilik, doğum ve kimlik kayıtlarını inceler; gerektiğinde muvafakat veya velayet gibi ek belgeleri belirler. Akrabalık ilişkisi tek başına belirli bir başvurunun kabul edileceğinin garantisi sayılmamalıdır."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Süreç vekâletnameyle yürütülebilir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vekâletname, hukuki temsile izin verilen belirli aşamaları kapsayabilir. IGA; yetkileri, metni, tasdiki ve tercümeyi kullanım öncesinde kontrol eder. Vekâletname yatırımcının veya aile üyelerinin kimlik, biyometri ya da başka randevulara katılma gereğini her durumda kaldırmaz. Uzaktan koordinasyonu, kurumların dosya için istediği kişisel işlemlerle birlikte planlarız."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vatandaşlık amacıyla taşınmaz alırken avukat neleri inceler?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kararlaştırılan inceleme; tapu mülkiyetini, şerhleri, ipotek ve diğer takyidatları, devir kısıtlamalarını, sözleşme koşullarını ve ödeme izini kapsayabilir. IGA bulguları, planlanan edinimin vatandaşlık koşullarıyla birlikte değerlendirir. Fiyatın yatırım eşiğini karşılaması hukuki kayıt incelemesinin yerine geçmez; hukuki durum incelemesi yatırım getirisini veya vatandaşlık onayını garanti etmez."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "IGA banka mevduatı veya BES yolunda destek sunabilir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "IGA, banka mevduatı veya uygun BES başvurularında hukuki belgeleri inceleyebilir; uygunluk, ikamet ve vatandaşlık aşamalarını koordine edebilir. Kanıtlar ve ilgili kurumlar gayrimenkul işleminden farklıdır. Ürün uygunluğu, getiri, kur riski ve vergisel sonuçlar ayrıca bağımsız finansal veya vergi danışmanlığı gerektirebilir. Hukuki çalışmanın kapsamı belirli yatırım için kararlaştırılmalıdır."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Türk vatandaşlığı süreci ne kadar sürer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Süre, dosyanın özelliklerine ve yetkili makamların iş yükü ile ek incelemelerine bağlıdır. Yatırım kontrolleri, belge düzenleme ve tasdik, uygunluk incelemesi, ikamet işlemleri ve vatandaşlık değerlendirmesi ayrı aşamalardır. IGA sıralamayı ve eksikleri açıklayabilir ancak karar tarihi taahhüt edemez. Belgeler veya idari koşullar değişirse planlama tahmini yeniden değerlendirilmelidir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Süreç boyunca Türkiye’de yaşamam gerekir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "İkamet koşulları ile şahsen katılım gerekleri durumunuza göre ayrı değerlendirilmelidir. Vekâletname bulunması, her aşamanın yurt dışından tamamlanabileceğini göstermez. IGA uygulanacak ikamet işlemlerini ve hangi kimlik, biyometri veya diğer randevuların şahsen katılım gerektirdiğini inceler. Seyahat planı genel bir uzaktan işlem vaadine değil, gerçek dosyanın koşullarına göre teyit edilmelidir."
               }
             }
           ]
@@ -2904,7 +3000,7 @@
               "name": "何时应咨询入籍律师？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "最好在签订购房协议或汇出投资资金之前进行法律审查，以便评估交易结构和材料缺口。"
+                "text": "最好在签订购房协议或汇出投资资金之前进行法律审查，以便评估交易结构和材料缺口。 提前沟通也有助于明确法律服务范围、需在境外取得的文件及可能的到场要求。IGA 可在客户作出约束性承诺前，识别需要补充证据或其他专业意见的问题。"
               }
             },
             {
@@ -2912,7 +3008,7 @@
               "name": "已经完成投资，还可以寻求 IGA 协助吗？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "我们可以审查既有交易和文件，识别下一步法律程序以及需要修正的问题。"
+                "text": "我们可以审查既有交易和文件，识别下一步法律程序以及需要修正的问题。 审查可涵盖合同、付款凭证、产权或银行记录及主管机关往来材料。这不表示所有缺陷都能补救，也不意味着现有交易必定合资格；后续步骤取决于档案证据。"
               }
             },
             {
@@ -2920,7 +3016,55 @@
               "name": "律师能保证入籍获批吗？",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "不能。我们提供法律意见并协调申请；所需确认及最终决定均由有权机关作出。"
+                "text": "不能。我们提供法律意见并协调申请；所需确认及最终决定均由有权机关作出。 满足投资条件仅是流程的一部分。材料准确性、适用核查及行政审查仍然重要。IGA 说明法律工作并跟进档案，但不能承诺积极结果或替代主管机关的判断。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "可以与配偶和子女一起申请吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "符合条件的家庭成员可依适用规则纳入申请，但具体结论取决于年龄、亲属关系和个人情况。IGA 审查结婚、出生及身份记录，并在适用时确定同意书或监护证明等补充材料。存在家庭关系本身，不应被理解为某项申请必定获得接受或批准。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "可以通过授权委托书办理整个流程吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "授权委托书可涵盖法律允许代理的特定步骤。IGA 在使用前核查授权范围、文字、认证及翻译。委托书不一定免除投资者或家庭成员参加身份核验、生物信息采集或其他预约的要求。我们将远程协调与相关机构要求本人完成的程序一并规划。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "购买入籍房产前，律师会检查什么？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "约定审查可涵盖产权归属、登记附注、抵押和其他权利负担、转让限制、交易条款及付款记录。IGA 将相关发现与拟购买房产的入籍条件一并评估。价格达到门槛不能代替法律记录核查；尽职调查也不能保证投资表现或入籍获批。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "IGA 可以协助银行存款或 BES 投资方式吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "IGA 可为银行存款或合资格 BES 申请审查法律材料，协调适用的合规确认、居留及入籍环节。所需证据和主管机构与房产交易不同。产品适合性、收益、汇率风险及税务后果，也可能需要独立财务或税务意见。法律工作范围应按具体投资约定。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "土耳其入籍程序需要多久？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "时间取决于个案情况、主管机关工作量及补充审查。投资核查、文件签发与认证、合规审查、居留程序和入籍评估分别属于不同阶段。IGA 可说明先后顺序及待补事项，但不能承诺决定日期。文件或行政要求变化时，应重新评估任何规划时间。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "办理期间需要住在土耳其吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "居留要求与本人到场要求，应根据个人情况分别评估。持有授权委托书不代表每个环节均可在境外完成。IGA 审查适用的居留程序，并确认哪些身份、生物信息或其他预约需要本人到场。旅行安排应以实际档案要求为准，而非笼统的全程远程办理承诺。"
               }
             }
           ]
@@ -3045,7 +3189,7 @@
               "name": "متى ينبغي الاستعانة بمحامي الجنسية؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "تكون المراجعة القانونية أنفع قبل توقيع عقد الشراء أو تحويل أموال الاستثمار، عندما لا يزال بالإمكان معالجة هيكل المعاملة ونواقص الوثائق."
+                "text": "تكون المراجعة القانونية أنفع قبل توقيع عقد الشراء أو تحويل أموال الاستثمار، عندما لا يزال بالإمكان معالجة هيكل المعاملة ونواقص الوثائق. تساعد المناقشة المبكرة أيضاً في تحديد نطاق العمل والوثائق المطلوب استخراجها في الخارج والحضور المحتمل. ويمكننا تحديد المسائل التي تحتاج إلى أدلة إضافية أو مشورة متخصصة قبل التزام العميل التزاماً ملزماً."
               }
             },
             {
@@ -3053,7 +3197,7 @@
               "name": "هل يمكن أن يساعدني IGA إذا استثمرت بالفعل؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "يمكننا مراجعة المعاملة القائمة والوثائق المتاحة لتحديد الخطوات القانونية التالية والمسائل التي قد تحتاج إلى تصحيح."
+                "text": "يمكننا مراجعة المعاملة القائمة والوثائق المتاحة لتحديد الخطوات القانونية التالية والمسائل التي قد تحتاج إلى تصحيح. قد تشمل المراجعة العقود وأدلة الدفع وسجلات العقار أو البنك ومراسلات الجهات. ولا يعني ذلك إمكان تصحيح كل عيب أو أهلية المعاملة القائمة؛ فالخطوات التالية تعتمد على ما يثبته الملف."
               }
             },
             {
@@ -3061,7 +3205,55 @@
               "name": "هل يضمن المحامي الموافقة على الجنسية؟",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "لا. نقدم المشورة القانونية وننسق الملف، بينما تصدر الجهات المختصة التقارير المطلوبة والقرار النهائي."
+                "text": "لا. نقدم المشورة القانونية وننسق الملف، بينما تصدر الجهات المختصة التقارير المطلوبة والقرار النهائي. استيفاء شرط الاستثمار ليس سوى جزء من العملية. تبقى دقة الوثائق والفحوص المنطبقة والتقييم الإداري مهمة. يوضح IGA العمل القانوني ويتابع الملف، لكنه لا يعد بنتيجة إيجابية ولا يستبدل حكمه بتقدير الجهات المختصة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكنني التقدم مع زوجي أو زوجتي وأطفالي؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يمكن إدراج أفراد الأسرة المؤهلين وفق القواعد المنطبقة، لكن النتيجة تعتمد على عمر كل شخص وعلاقته وظروفه. يراجع IGA سجلات الزواج والميلاد والهوية ويحدد الوثائق الإضافية، مثل الموافقة أو الحضانة عند اللزوم. ولا ينبغي اعتبار العلاقة الأسرية وحدها ضماناً لقبول طلب معين أو الموافقة عليه."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكن إدارة الإجراءات بموجب وكالة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يمكن أن تغطي الوكالة خطوات محددة حيث يُسمح بالتمثيل القانوني. يراجع IGA الصلاحيات والصياغة والتصديق والترجمة قبل الاستخدام. ولا تزيل الوكالة بالضرورة حاجة المستثمر أو أفراد الأسرة إلى حضور مواعيد الهوية أو البصمات أو غيرها. نخطط للتنسيق عن بُعد إلى جانب الإجراءات الشخصية المطلوبة من الجهات المعنية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "ماذا يفحص المحامي قبل شراء عقار لغرض الجنسية؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "قد يشمل الفحص المتفق عليه الملكية والتأشيرات والرهون والأعباء الأخرى وقيود التصرف وشروط المعاملة ومسار الدفع. يقيّم IGA النتائج مع شروط الجنسية المتعلقة بالشراء المقترح. ولا يغني بلوغ السعر المطلوب عن فحص السجلات القانونية، كما لا يضمن الفحص أداء الاستثمار أو الموافقة على الجنسية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يساعد IGA في الوديعة المصرفية أو استثمار BES؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يمكن لـ IGA مراجعة الوثائق القانونية وتنسيق مراحل المطابقة والإقامة والجنسية المنطبقة على الوديعة المصرفية أو BES المؤهل. تختلف الأدلة والجهات عن المعاملة العقارية. وقد تستدعي ملاءمة المنتج والعوائد ومخاطر العملة والضرائب مشورة مالية أو ضريبية مستقلة. ينبغي الاتفاق على نطاق العمل القانوني وفق الاستثمار المعني."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "كم تستغرق إجراءات الجنسية التركية؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "تعتمد المدة على الملف وعبء عمل الجهات المختصة واستفساراتها. فحص الاستثمار وإصدار الوثائق وتصديقها ومراجعة المطابقة والإقامة وتقييم الجنسية مراحل منفصلة. يستطيع IGA شرح التسلسل وتحديد النواقص، لكنه لا يستطيع التعهد بتاريخ للقرار. وينبغي إعادة تقييم أي تقدير تخطيطي إذا تغيرت الوثائق أو المتطلبات الإدارية."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل أحتاج إلى الإقامة في تركيا أثناء الإجراءات؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "ينبغي تقييم متطلبات الإقامة ومتطلبات الحضور كلٌ على حدة بحسب ظروفك. وجود وكالة لا يعني أن جميع المراحل تُنجز من الخارج. يراجع IGA إجراءات الإقامة المنطبقة ويتحقق من مواعيد الهوية والبصمات وغيرها التي تستلزم الحضور الشخصي. يجب تأكيد خطط السفر وفق الملف الفعلي، لا وفق وعد عام بإجراءات عن بُعد."
               }
             }
           ]
