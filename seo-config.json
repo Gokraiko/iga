@@ -6755,6 +6755,506 @@
       ]
     }
   },
+  "/en/blog/dubai-golden-visa/": {
+    "path": "/en/blog/dubai-golden-visa/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Dubai Golden Visa vs Turkish Citizenship: Costs & Rights | IGA Law Firm",
+    "description": "Compare Dubai Golden Visa requirements, AED 2 million property investment and Turkish citizenship from USD 400,000. Explore costs, family rights and legal checks.",
+    "canonical": "https://igalawfirm.com/en/blog/dubai-golden-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/dubai-golden-visa/",
+      "title": "Dubai Golden Visa vs Turkish Citizenship: Costs & Rights | IGA Law Firm",
+      "description": "Compare Dubai Golden Visa requirements, AED 2 million property investment and Turkish citizenship from USD 400,000. Explore costs, family rights and legal checks.",
+      "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/dubai-golden-visa/#webpage",
+          "url": "https://igalawfirm.com/en/blog/dubai-golden-visa/",
+          "name": "Dubai Golden Visa vs Turkish Citizenship: Costs & Rights | IGA Law Firm",
+          "description": "Compare Dubai Golden Visa requirements, AED 2 million property investment and Turkish citizenship from USD 400,000. Explore costs, family rights and legal checks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/dubai-golden-visa/#article",
+          "url": "https://igalawfirm.com/en/blog/dubai-golden-visa/",
+          "headline": "Dubai Golden Visa vs Turkish Citizenship: Residency or a Second Passport?",
+          "description": "Compare Dubai Golden Visa requirements, AED 2 million property investment and Turkish citizenship from USD 400,000. Explore costs, family rights and legal checks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/dubai-golden-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-26",
+          "dateModified": "2026-10-26",
+          "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+            "name": "Dubai Golden Visa vs Turkish Citizenship: Residency or a Second Passport?",
+            "description": "Dubai residence and Turkish citizenship offer different legal rights. Illustration of Dubai and Istanbul.",
+            "caption": "Editorial illustration of Dubai’s skyline and Istanbul’s Bosphorus in two separate panels.",
+            "inLanguage": "en"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/dubai-golden-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Investment"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/dubai-golden-visa/": {
+    "path": "/tr/blog/dubai-golden-visa/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Dubai Golden Visa ve Türk Vatandaşlığı: Şartlar ve Maliyet | IGA Law Firm",
+    "description": "Dubai Golden Visa için 2 milyon AED ve Türk vatandaşlığı için 400.000 USD gayrimenkul şartını karşılaştırın. Aile hakları, maliyetler ve hukuki kontroller.",
+    "canonical": "https://igalawfirm.com/tr/blog/dubai-golden-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/dubai-golden-visa/",
+      "title": "Dubai Golden Visa ve Türk Vatandaşlığı: Şartlar ve Maliyet | IGA Law Firm",
+      "description": "Dubai Golden Visa için 2 milyon AED ve Türk vatandaşlığı için 400.000 USD gayrimenkul şartını karşılaştırın. Aile hakları, maliyetler ve hukuki kontroller.",
+      "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/dubai-golden-visa/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/dubai-golden-visa/",
+          "name": "Dubai Golden Visa ve Türk Vatandaşlığı: Şartlar ve Maliyet | IGA Law Firm",
+          "description": "Dubai Golden Visa için 2 milyon AED ve Türk vatandaşlığı için 400.000 USD gayrimenkul şartını karşılaştırın. Aile hakları, maliyetler ve hukuki kontroller.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/dubai-golden-visa/#article",
+          "url": "https://igalawfirm.com/tr/blog/dubai-golden-visa/",
+          "headline": "Dubai Golden Visa mı Türk Vatandaşlığı mı: Oturum mu, İkinci Pasaport mu?",
+          "description": "Dubai Golden Visa için 2 milyon AED ve Türk vatandaşlığı için 400.000 USD gayrimenkul şartını karşılaştırın. Aile hakları, maliyetler ve hukuki kontroller.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/dubai-golden-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-26",
+          "dateModified": "2026-10-26",
+          "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+            "name": "Dubai Golden Visa mı Türk Vatandaşlığı mı: Oturum mu, İkinci Pasaport mu?",
+            "description": "Dubai oturumu ve Türk vatandaşlığı farklı hukuki haklar sağlar. Dubai ve İstanbul illüstrasyonu.",
+            "caption": "İki ayrı panelde Dubai silüeti ve İstanbul Boğazı’nı gösteren editoryal illüstrasyon.",
+            "inLanguage": "tr"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/dubai-golden-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Yatırım"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/dubai-golden-visa/": {
+    "path": "/zh/blog/dubai-golden-visa/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "迪拜黄金签证与土耳其投资入籍：条件、费用及家庭权益 | IGA Law Firm",
+    "description": "比较迪拜黄金签证200万迪拉姆购房门槛与土耳其40万美元购房入籍条件，了解家庭权益、总费用、E-2签证及投资前法律审查。",
+    "canonical": "https://igalawfirm.com/zh/blog/dubai-golden-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/dubai-golden-visa/",
+      "title": "迪拜黄金签证与土耳其投资入籍：条件、费用及家庭权益 | IGA Law Firm",
+      "description": "比较迪拜黄金签证200万迪拉姆购房门槛与土耳其40万美元购房入籍条件，了解家庭权益、总费用、E-2签证及投资前法律审查。",
+      "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/dubai-golden-visa/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/dubai-golden-visa/",
+          "name": "迪拜黄金签证与土耳其投资入籍：条件、费用及家庭权益 | IGA Law Firm",
+          "description": "比较迪拜黄金签证200万迪拉姆购房门槛与土耳其40万美元购房入籍条件，了解家庭权益、总费用、E-2签证及投资前法律审查。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/dubai-golden-visa/#article",
+          "url": "https://igalawfirm.com/zh/blog/dubai-golden-visa/",
+          "headline": "迪拜黄金签证与土耳其公民身份：长期居留还是第二本护照？",
+          "description": "比较迪拜黄金签证200万迪拉姆购房门槛与土耳其40万美元购房入籍条件，了解家庭权益、总费用、E-2签证及投资前法律审查。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/dubai-golden-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-26",
+          "dateModified": "2026-10-26",
+          "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+            "name": "迪拜黄金签证与土耳其公民身份：长期居留还是第二本护照？",
+            "description": "迪拜居留与土耳其公民身份赋予不同的法律权利。迪拜与伊斯坦布尔主题插画。",
+            "caption": "分为两个独立画面的迪拜天际线与伊斯坦布尔博斯普鲁斯海峡插画。",
+            "inLanguage": "zh-CN"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/dubai-golden-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "投资"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/dubai-golden-visa/": {
+    "path": "/ar/blog/dubai-golden-visa/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "تأشيرة دبي الذهبية والجنسية التركية: الشروط والتكاليف | IGA Law Firm",
+    "description": "قارن الإقامة الذهبية بعقار قيمته مليونا درهم والجنسية التركية بعقار من 400 ألف دولار. تعرّف على التكاليف وحقوق الأسرة والفحص القانوني قبل الاستثمار.",
+    "canonical": "https://igalawfirm.com/ar/blog/dubai-golden-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/dubai-golden-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/dubai-golden-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/dubai-golden-visa/",
+      "title": "تأشيرة دبي الذهبية والجنسية التركية: الشروط والتكاليف | IGA Law Firm",
+      "description": "قارن الإقامة الذهبية بعقار قيمته مليونا درهم والجنسية التركية بعقار من 400 ألف دولار. تعرّف على التكاليف وحقوق الأسرة والفحص القانوني قبل الاستثمار.",
+      "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/dubai-golden-visa/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/dubai-golden-visa/",
+          "name": "تأشيرة دبي الذهبية والجنسية التركية: الشروط والتكاليف | IGA Law Firm",
+          "description": "قارن الإقامة الذهبية بعقار قيمته مليونا درهم والجنسية التركية بعقار من 400 ألف دولار. تعرّف على التكاليف وحقوق الأسرة والفحص القانوني قبل الاستثمار.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/dubai-golden-visa/#article",
+          "url": "https://igalawfirm.com/ar/blog/dubai-golden-visa/",
+          "headline": "تأشيرة دبي الذهبية أم الجنسية التركية: إقامة أم جواز سفر ثانٍ؟",
+          "description": "قارن الإقامة الذهبية بعقار قيمته مليونا درهم والجنسية التركية بعقار من 400 ألف دولار. تعرّف على التكاليف وحقوق الأسرة والفحص القانوني قبل الاستثمار.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/dubai-golden-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-26",
+          "dateModified": "2026-10-26",
+          "image": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/dubai-golden-visa-vs-turkish-citizenship.png",
+            "name": "تأشيرة دبي الذهبية أم الجنسية التركية: إقامة أم جواز سفر ثانٍ؟",
+            "description": "تمنح إقامة دبي والجنسية التركية حقوقاً قانونية مختلفة. رسم توضيحي لدبي وإسطنبول.",
+            "caption": "رسم تحريري في لوحتين منفصلتين لأفق دبي ومضيق البوسفور في إسطنبول.",
+            "inLanguage": "ar"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/dubai-golden-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "الاستثمار"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/the-strongest-passports-in-the-world/": {
     "path": "/en/blog/the-strongest-passports-in-the-world/",
     "language": "en",
