@@ -57,7 +57,18 @@
             "addressLocality": "Beşiktaş",
             "addressRegion": "Istanbul",
             "addressCountry": "TR"
-          }
+          },
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye"
+          },
+          "knowsAbout": [
+            "Turkish citizenship by investment",
+            "Turkish real estate transactions",
+            "Immigration and residence in Türkiye",
+            "Turkish corporate and commercial law",
+            "Litigation and dispute resolution in Türkiye"
+          ]
         },
         {
           "@type": "WebSite",
@@ -77,6 +88,9 @@
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#organization"
           }
         }
       ]
@@ -140,7 +154,18 @@
             "addressLocality": "Beşiktaş",
             "addressRegion": "Istanbul",
             "addressCountry": "TR"
-          }
+          },
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye"
+          },
+          "knowsAbout": [
+            "Turkish citizenship by investment",
+            "Turkish real estate transactions",
+            "Immigration and residence in Türkiye",
+            "Turkish corporate and commercial law",
+            "Litigation and dispute resolution in Türkiye"
+          ]
         },
         {
           "@type": "WebSite",
@@ -160,6 +185,9 @@
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#organization"
           }
         }
       ]
@@ -223,7 +251,18 @@
             "addressLocality": "Beşiktaş",
             "addressRegion": "Istanbul",
             "addressCountry": "TR"
-          }
+          },
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye"
+          },
+          "knowsAbout": [
+            "Turkish citizenship by investment",
+            "Turkish real estate transactions",
+            "Immigration and residence in Türkiye",
+            "Turkish corporate and commercial law",
+            "Litigation and dispute resolution in Türkiye"
+          ]
         },
         {
           "@type": "WebSite",
@@ -243,6 +282,9 @@
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#organization"
           }
         }
       ]
@@ -306,7 +348,18 @@
             "addressLocality": "Beşiktaş",
             "addressRegion": "Istanbul",
             "addressCountry": "TR"
-          }
+          },
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye"
+          },
+          "knowsAbout": [
+            "Turkish citizenship by investment",
+            "Turkish real estate transactions",
+            "Immigration and residence in Türkiye",
+            "Turkish corporate and commercial law",
+            "Litigation and dispute resolution in Türkiye"
+          ]
         },
         {
           "@type": "WebSite",
@@ -326,6 +379,9 @@
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#organization"
           }
         }
       ]

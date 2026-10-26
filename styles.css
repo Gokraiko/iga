@@ -92,3 +92,24 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
 .blog-archive-count{margin:0 0 24px;color:var(--muted);font-size:14px}.article-breadcrumb{max-width:75%;line-height:1.7;overflow-wrap:anywhere}.article-related h2:not(:first-child){margin-top:24px}@media(max-width:760px){.article-breadcrumb{max-width:100%;font-size:10px}.article-heading-top{gap:16px}}
 
 .article-cover img,.article-inline-image img{height:auto;display:block}
+
+/* Additive homepage authority sections: existing shell, typography and brand tokens. */
+.home-authority .section-head h2{max-width:720px}.home-authority-tint{background:var(--cream)}
+.home-authority-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.home-authority-card{border-top:1px solid var(--line);padding:24px 0 12px;min-width:0}
+.home-authority-card h3,.home-investment-steps h3{font:400 25px/1.3 var(--serif);margin:0 0 12px;color:var(--ink)}
+.home-authority-card p,.home-investment-steps p,.home-faq-answer p{font-size:15px;line-height:1.8;color:var(--muted);margin:0 0 18px}
+.home-authority-links{display:flex;flex-wrap:wrap;gap:20px 32px;margin:28px 0 0;align-items:baseline}
+.home-authority-links a,.home-authority-card a,.home-faq-answer a,.team-profile-link{overflow-wrap:anywhere}
+.home-audience-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.home-audience-grid h3{font-size:23px}
+.home-investment-steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px}
+.home-step-number{display:block;color:var(--gold);font:400 34px/1.2 var(--serif);margin:0 0 18px}.home-investment-steps h3{font-size:22px}
+.home-faq-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 44px}
+.home-faq-answer{padding-top:24px;border-top:1px solid var(--line);min-width:0}.home-faq-answer h3{font:400 25px/1.35 var(--serif);margin:0 0 14px}
+.home-faq-answer a{font-size:13px;text-decoration:underline;text-underline-offset:4px}.home-faq-sources{margin-top:32px;padding-top:20px;border-top:1px solid var(--line);font-size:12px;line-height:1.8;color:var(--muted)}.home-faq-sources a{text-decoration:underline}
+.home-guide-links{margin:0;padding:0;list-style:none;display:grid;gap:16px}.home-guide-links a{display:block;padding:20px 0;border-bottom:1px solid var(--line);font:400 23px/1.4 var(--serif);overflow-wrap:anywhere}
+.team-focus{font-size:12px;line-height:1.6;color:var(--muted);margin:12px 0}.team-focus span{font-weight:600}.team-profile-link{font-size:12px;display:inline-block;margin-top:12px;text-decoration:underline;text-underline-offset:4px}.team-card[id]{scroll-margin-top:120px}
+@media(max-width:1050px){.home-investment-steps{grid-template-columns:repeat(3,minmax(0,1fr))}.home-audience-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.home-authority-grid,.home-audience-grid,.home-faq-grid{grid-template-columns:1fr;gap:12px}.home-investment-steps{grid-template-columns:1fr;gap:12px}.home-investment-steps li{border-top:1px solid var(--line);padding-top:20px}.home-step-number{font-size:28px;margin-bottom:12px}.home-authority-links{gap:18px}.home-authority-card h3,.home-faq-answer h3{font-size:23px}.home-authority-card p,.home-investment-steps p,.home-faq-answer p{font-size:14px}.home-guide-links a{font-size:21px}}
+
+.home-authority h2[id]{scroll-margin-top:120px}
