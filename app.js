@@ -216,26 +216,18 @@ function citizenshipArticleLinks(post,lang){
  return `<nav class="article-related" aria-label="${labels[0]}">${related.length?`<h2>${labels[0]}</h2>${related.map(a=>`<a href="${pathFor(lang,'journal',a.slug)}">${esc(articleTitle(a,lang))} ↗</a>`).join('')}`:''}${links?`<h2>${labels[1]}</h2>${links}`:''}</nav>`;
 }
 const homePopularCopy={
- en:{eyebrow:'From the blog',title:'Most-read articles',intro:'Explore the guides readers turn to most on Turkish citizenship, investment and legal matters.'},
- tr:{eyebrow:'Blogdan',title:'En çok okunan yazılar',intro:'Türk vatandaşlığı, yatırım ve hukuki süreçler hakkında okuyucularımızın en çok ilgi gösterdiği rehberler.'},
- zh:{eyebrow:'博客精选',title:'热门文章',intro:'阅读备受读者关注的土耳其入籍、投资及法律事务指南。'},
- ar:{eyebrow:'من المدونة',title:'المقالات الأكثر قراءة',intro:'اكتشف الأدلة التي تحظى باهتمام القراء حول الجنسية التركية والاستثمار والمسائل القانونية.'}
+ en:{eyebrow:'From the blog',title:'Featured Legal Insights',intro:'Selected guides on Turkish citizenship, property investment and legal considerations for international investors.'},
+ tr:{eyebrow:'Blogdan',title:'Öne Çıkan Hukuki İçerikler',intro:'Uluslararası yatırımcılar için Türk vatandaşlığı, gayrimenkul yatırımı ve hukuki konular hakkında seçilmiş rehberler.'},
+ zh:{eyebrow:'博客精选',title:'精选法律解读',intro:'为国际投资者精选的土耳其入籍、房产投资及相关法律问题指南。'},
+ ar:{eyebrow:'من المدونة',title:'رؤى قانونية مختارة',intro:'أدلة مختارة حول الجنسية التركية والاستثمار العقاري والمسائل القانونية للمستثمرين الدوليين.'}
 };
-function popularArticles(counts=window.articlePopularity?.counts||{}){
- // Stable date order breaks ties without altering any publication date.
- return [...articlesByNewest].sort((a,b)=>(Number.isSafeInteger(counts[b.slug])?counts[b.slug]:0)-(Number.isSafeInteger(counts[a.slug])?counts[a.slug]:0)).slice(0,3);
+function homeArticleCardsMarkup(lang){
+ const t=copy[lang],guide=citizenshipContent.guide[lang];
+ const slugs=['turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper','turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide'];
+ const cards=[{id:'investment-guide',title:guide.h1,summary:window.finalSeoMetadata?.[pathFor(lang,'investment')]?.description||guide.description,category:'Investment',href:pathFor(lang,'investment')},...slugs.map(slug=>articles.find(a=>a.slug===slug)).filter(Boolean).map(a=>({id:a.slug,title:articleTitle(a,lang),summary:window.finalSeoMetadata?.[pathFor(lang,'journal',a.slug)]?.description||articleDescription(a,lang),category:a.category,date:articleDate(a,lang),href:pathFor(lang,'journal',a.slug)}))];
+ return cards.map(a=>`<article class="journal-card" data-featured-resource="${esc(a.id)}"><div class="blog-card-top"><small>${articleCategory(a.category,lang)}${a.date?` · ${a.date}`:''}</small></div><h3>${esc(a.title)}</h3><p>${esc(a.summary)}</p><a href="${a.href}">${t.read} ↗</a></article>`).join('');
 }
-function homeArticleCardsMarkup(lang,counts=window.articlePopularity?.counts||{}){
- const t=copy[lang];return popularArticles(counts).map(a=>`<article class="journal-card" data-popular-article="${esc(a.slug)}"><div class="blog-card-top"><small>${articleCategory(a.category,lang)} · ${articleDate(a,lang)}</small>${articleViewMarkup(a.slug,lang,false,counts[a.slug])}</div><h3>${esc(articleTitle(a,lang))}</h3><p>${articleSummary(a,lang)}</p><a href="${pathFor(lang,'journal',a.slug)}">${t.read} ↗</a></article>`).join('');
-}
-window.updatePopularArticles=function(counts){
- const grid=document.getElementById('home-popular-articles');
- if(!grid||!counts||!articles.every(a=>Number.isSafeInteger(counts[a.slug])&&counts[a.slug]>=0))return;
- const wanted=popularArticles(counts).map(a=>a.slug);
- const current=[...grid.querySelectorAll('[data-popular-article]')].map(card=>card.dataset.popularArticle);
- // Keep focused links and cards in place when only their counts changed.
- if(wanted.join('|')!==current.join('|'))grid.innerHTML=homeArticleCardsMarkup(locale,counts);
-};
+
 const homeTeamAnchors={'Irmak Gürer Aksöz':'irmak-gurer-aksoz','Betül Keskin':'betul-keskin','Dilan Caman':'dilan-caman','Neslişah Berbatovci Ertürk':'neslisah-berbatovci-erturk','Latife Küçükalpelli':'latife-kucukalpelli'};
 function homeAuthorityMarkup(lang,section){
  const d=window.homeAuthorityContent?.[lang];if(!d)return '';
