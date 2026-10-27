@@ -210,7 +210,8 @@ window.finalSeoMetadata = {
   },
   "/en/igalawrealestateduediligence/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
-    "title": "Real Estate Due Diligence in Turkey | IGA"
+    "title": "Real Estate Lawyer in Turkey for Foreign Buyers | IGA Law",
+    "description": "Legal assistance for foreign property buyers in Turkey, including title deed review, real estate due diligence, contracts and property transactions."
   },
   "/tr/igalawrealestateduediligence/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",

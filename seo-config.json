@@ -5943,8 +5943,8 @@
     "path": "/en/igalawrealestateduediligence/",
     "language": "en",
     "pageType": "Service",
-    "title": "Real Estate Due Diligence in Turkey | IGA",
-    "description": "Title checks, legal risk assessment and contract review before a property purchase.",
+    "title": "Real Estate Lawyer in Turkey for Foreign Buyers | IGA Law",
+    "description": "Legal assistance for foreign property buyers in Turkey, including title deed review, real estate due diligence, contracts and property transactions.",
     "canonical": "https://igalawfirm.com/en/igalawrealestateduediligence/",
     "alternates": [
       {
@@ -5973,8 +5973,8 @@
       "type": "website",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/igalawrealestateduediligence/",
-      "title": "Real Estate Due Diligence in Turkey | IGA",
-      "description": "Title checks, legal risk assessment and contract review before a property purchase.",
+      "title": "Real Estate Lawyer in Turkey for Foreign Buyers | IGA Law",
+      "description": "Legal assistance for foreign property buyers in Turkey, including title deed review, real estate due diligence, contracts and property transactions.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -6012,8 +6012,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/igalawrealestateduediligence/#webpage",
           "url": "https://igalawfirm.com/en/igalawrealestateduediligence/",
-          "name": "Real Estate Due Diligence in Turkey | IGA",
-          "description": "Title checks, legal risk assessment and contract review before a property purchase.",
+          "name": "Real Estate Lawyer in Turkey for Foreign Buyers | IGA Law",
+          "description": "Legal assistance for foreign property buyers in Turkey, including title deed review, real estate due diligence, contracts and property transactions.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -6022,8 +6022,8 @@
         {
           "@type": "Service",
           "@id": "https://igalawfirm.com/en/igalawrealestateduediligence/#service",
-          "name": "Real Estate Due Diligence",
-          "description": "Title checks, legal risk assessment and contract review before a property purchase.",
+          "name": "Real Estate Lawyer in Turkey for Foreign Buyers",
+          "description": "Legal assistance for foreign property buyers in Turkey, including title deed review, real estate due diligence, contracts and property transactions.",
           "url": "https://igalawfirm.com/en/igalawrealestateduediligence/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
@@ -6035,18 +6035,58 @@
           "mainEntity": [
             {
               "@type": "Question",
-              "name": "What does Real Estate Due Diligence cover?",
+              "name": "Can foreigners buy property in Turkey?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Title checks, legal risk assessment and contract review before a property purchase."
+                "text": "Foreign individuals may buy property subject to the rules applicable to their nationality and the location and characteristics of the property. A particular purchase should be checked individually; a general right to buy does not mean every property is available to every buyer."
               }
             },
             {
               "@type": "Question",
-              "name": "How can I contact the team?",
+              "name": "Do I need a lawyer to buy property in Turkey?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Share a little about the matter you are considering. Our Istanbul team will help you understand the next step."
+                "text": "Independent legal assistance can help you assess the records and contractual obligations before you commit. IGA can review the proposed transaction and explain the agreed checks. The appropriate scope depends on your circumstances, the property and any representation arrangements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can a lawyer check a Turkish title deed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lawyer can review available Land Registry records and the title deed, subject to the necessary authority and access. IGA compares registered ownership and property details with the proposed transaction and examines relevant entries. A title deed copy alone may not show the full current position."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does real estate due diligence include in Turkey?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The agreed scope may include ownership, mortgages, attachments, annotations, other registered restrictions, available zoning documents and transaction records. IGA explains findings, unresolved questions and recommended next steps. Structural inspections, market valuation and financial or tax advice may require separate specialists."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I buy property in Turkey through Power of Attorney?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Specified steps may be carried out by an authorised representative using a suitable Power of Attorney. The powers, authentication and translation must fit the intended transaction and be acceptable to the receiving institution. Personal attendance or additional checks may still be required for particular steps."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can buying property qualify for Turkish citizenship?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A qualifying acquisition may form part of a Turkish Citizenship by Investment application. Eligibility depends on the investment and the applicable requirements, not simply a decision to buy. Our separate programme guide and citizenship lawyer page explain the distinction between programme conditions and legal representation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How can I check whether a property has a mortgage or other encumbrance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The relevant current Land Registry records should be examined with the necessary authority and access. IGA can review registered mortgages, attachments, restrictions and other relevant entries, then explain their significance for the proposed transaction. Do not rely solely on a seller’s statement or an old title copy."
               }
             }
           ]
