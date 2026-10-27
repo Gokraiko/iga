@@ -4,3 +4,8 @@ dist/
 public/assets/team-betul-christina.jpg
 public/assets/team-neslisah.avif
 public/assets/team-neslisah.jpg
+
+# Never commit local email credentials
+.env
+.env.*
+!.env.example
