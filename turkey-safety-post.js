@@ -8,7 +8,7 @@
     "metaDescription": "Planning to visit, live or buy property in Turkey? Review US travel advice, Istanbul safety, visa rules and legal checks for American buyers in 2026.",
     "imageTitle": "Istanbul Bosphorus Waterfront — Safety and Property Guide",
     "imageAlt": "AI-generated illustration of Ortaköy Mosque, the Bosphorus Bridge and a ferry beside Istanbul’s waterfront.",
-    "imageDescription": "An AI-generated editorial view of Istanbul’s Bosphorus for a guide to travel safety, residence and property purchase for Americans.",
+    "imageDescription": "Istanbul’s Bosphorus waterfront, accompanying a guide to travel safety, residence and property purchase for Americans.",
     "blocks": [
       {
         "type": "paragraph",
@@ -227,7 +227,7 @@
     "metaDescription": "Amerikalılar için Türkiye’de seyahat, yaşam ve gayrimenkul alımı: ABD seyahat uyarısı, İstanbul’da güvenlik, vize koşulları ve hukuki kontroller.",
     "imageTitle": "İstanbul Boğazı — Güvenlik ve Gayrimenkul Rehberi",
     "imageAlt": "Ortaköy Camii, Boğaz Köprüsü ve İstanbul kıyısındaki bir vapuru gösteren yapay zekâ görseli.",
-    "imageDescription": "Amerikalılar için seyahat güvenliği, ikamet ve gayrimenkul alımı rehberinde kullanılan, İstanbul Boğazı’nı gösteren yapay zekâ ile üretilmiş görsel.",
+    "imageDescription": "Amerikalılar için seyahat güvenliği, ikamet ve gayrimenkul alımı rehberine eşlik eden İstanbul Boğazı manzarası.",
     "blocks": [
       {
         "type": "paragraph",
@@ -446,7 +446,7 @@
     "metaDescription": "美国人赴土耳其旅游、居住或购房前应了解什么？查看2026年美国旅行提醒、伊斯坦布尔安全、免签停留规定及独立律师的房产法律核查要点。",
     "imageTitle": "伊斯坦布尔博斯普鲁斯海峡：安全与购房指南配图",
     "imageAlt": "AI生成的伊斯坦布尔海滨画面：奥尔塔科伊清真寺、博斯普鲁斯大桥与渡轮。",
-    "imageDescription": "用于美国人在土耳其旅行安全、居留与购房指南的AI生成博斯普鲁斯海峡示意配图。",
+    "imageDescription": "伊斯坦布尔博斯普鲁斯海峡风景，配合美国人在土耳其旅行安全、居留与购房指南。",
     "blocks": [
       {
         "type": "paragraph",
@@ -665,7 +665,7 @@
     "metaDescription": "دليل الأمريكيين للسفر والإقامة وشراء عقار في تركيا: التحذير الأمريكي، سلامة إسطنبول، الإعفاء من التأشيرة والفحوص القانونية قبل الاستثمار في 2026.",
     "imageTitle": "واجهة البوسفور في إسطنبول — دليل السلامة والعقار",
     "imageAlt": "صورة مولدة بالذكاء الاصطناعي لمسجد أورتاكوي وجسر البوسفور وعبّارة قرب واجهة إسطنبول البحرية.",
-    "imageDescription": "مشهد توضيحي مولد بالذكاء الاصطناعي للبوسفور يرافق دليل سلامة السفر والإقامة وشراء العقار للأمريكيين في تركيا.",
+    "imageDescription": "مشهد للبوسفور في إسطنبول يرافق دليل سلامة السفر والإقامة وشراء العقار للأمريكيين في تركيا.",
     "blocks": [
       {
         "type": "paragraph",
