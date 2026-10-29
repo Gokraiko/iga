@@ -1,5 +1,6 @@
 // Existing blog assets: intrinsic sizes and optional smaller-format derivatives.
 window.blogImageVariants={
+  "/public/assets/is-turkey-safe-for-americans-istanbul.webp": {"width": 1536, "height": 1024},
   "/public/assets/bebek-new-office-2026.avif": {
     "width": 1252,
     "height": 1764

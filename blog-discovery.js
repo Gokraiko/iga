@@ -1,5 +1,16 @@
 // Reviewed existing-page relationships; no generated keyword or URL guesses.
 window.blogDiscovery={
+"is-turkey-safe-for-americans": {
+    "cluster": "international",
+    "related": [
+      "best-countries-to-move-to-from-the-us",
+      "dual-citizenship-for-americans"
+    ],
+    "services": [
+      "igalawrealestateduediligence",
+      "igalawresidencepermit"
+    ]
+  },
   "dubai-golden-visa": {
     "cluster": "comparison",
     "related": [

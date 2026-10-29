@@ -7043,6 +7043,534 @@
       ]
     }
   },
+  "/en/blog/is-turkey-safe-for-americans/": {
+    "path": "/en/blog/is-turkey-safe-for-americans/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Is Turkey Safe for Americans? Travel & Legal Guide 2026 | IGA Law Firm",
+    "description": "Planning to visit, live or buy property in Turkey? Review US travel advice, Istanbul safety, visa rules and legal checks for American buyers in 2026.",
+    "canonical": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+      "title": "Is Turkey Safe for Americans? Travel & Legal Guide 2026 | IGA Law Firm",
+      "description": "Planning to visit, live or buy property in Turkey? Review US travel advice, Istanbul safety, visa rules and legal checks for American buyers in 2026.",
+      "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/#webpage",
+          "url": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+          "name": "Is Turkey Safe for Americans? Travel & Legal Guide 2026 | IGA Law Firm",
+          "description": "Planning to visit, live or buy property in Turkey? Review US travel advice, Istanbul safety, visa rules and legal checks for American buyers in 2026.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/#article",
+          "url": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+          "headline": "Is Turkey Safe for Americans? A Lawyer's Guide to Living and Investing in 2026",
+          "description": "Planning to visit, live or buy property in Turkey? Review US travel advice, Istanbul safety, visa rules and legal checks for American buyers in 2026.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-29",
+          "dateModified": "2026-10-29",
+          "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+            "name": "Istanbul Bosphorus Waterfront — Safety and Property Guide",
+            "description": "An AI-generated editorial view of Istanbul’s Bosphorus for a guide to travel safety, residence and property purchase for Americans.",
+            "caption": "AI-generated illustration of Ortaköy Mosque, the Bosphorus Bridge and a ferry beside Istanbul’s waterfront.",
+            "inLanguage": "en"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Is Turkey Safe for Americans? A Lawyer's Guide to Living and Investing in 2026",
+              "item": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/is-turkey-safe-for-americans/": {
+    "path": "/tr/blog/is-turkey-safe-for-americans/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türkiye Amerikalılar İçin Güvenli mi? 2026 Hukuk Rehberi | IGA Law Firm",
+    "description": "Amerikalılar için Türkiye’de seyahat, yaşam ve gayrimenkul alımı: ABD seyahat uyarısı, İstanbul’da güvenlik, vize koşulları ve hukuki kontroller.",
+    "canonical": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+      "title": "Türkiye Amerikalılar İçin Güvenli mi? 2026 Hukuk Rehberi | IGA Law Firm",
+      "description": "Amerikalılar için Türkiye’de seyahat, yaşam ve gayrimenkul alımı: ABD seyahat uyarısı, İstanbul’da güvenlik, vize koşulları ve hukuki kontroller.",
+      "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+          "name": "Türkiye Amerikalılar İçin Güvenli mi? 2026 Hukuk Rehberi | IGA Law Firm",
+          "description": "Amerikalılar için Türkiye’de seyahat, yaşam ve gayrimenkul alımı: ABD seyahat uyarısı, İstanbul’da güvenlik, vize koşulları ve hukuki kontroller.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/#article",
+          "url": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+          "headline": "Türkiye Amerikalılar İçin Güvenli mi? 2026 Yaşam ve Yatırım Rehberi",
+          "description": "Amerikalılar için Türkiye’de seyahat, yaşam ve gayrimenkul alımı: ABD seyahat uyarısı, İstanbul’da güvenlik, vize koşulları ve hukuki kontroller.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-29",
+          "dateModified": "2026-10-29",
+          "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+            "name": "İstanbul Boğazı — Güvenlik ve Gayrimenkul Rehberi",
+            "description": "Amerikalılar için seyahat güvenliği, ikamet ve gayrimenkul alımı rehberinde kullanılan, İstanbul Boğazı’nı gösteren yapay zekâ ile üretilmiş görsel.",
+            "caption": "Ortaköy Camii, Boğaz Köprüsü ve İstanbul kıyısındaki bir vapuru gösteren yapay zekâ görseli.",
+            "inLanguage": "tr"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkiye Amerikalılar İçin Güvenli mi? 2026 Yaşam ve Yatırım Rehberi",
+              "item": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/is-turkey-safe-for-americans/": {
+    "path": "/zh/blog/is-turkey-safe-for-americans/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其对美国人安全吗？2026旅游、居留与购房指南 | IGA Law Firm",
+    "description": "美国人赴土耳其旅游、居住或购房前应了解什么？查看2026年美国旅行提醒、伊斯坦布尔安全、免签停留规定及独立律师的房产法律核查要点。",
+    "canonical": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+      "title": "土耳其对美国人安全吗？2026旅游、居留与购房指南 | IGA Law Firm",
+      "description": "美国人赴土耳其旅游、居住或购房前应了解什么？查看2026年美国旅行提醒、伊斯坦布尔安全、免签停留规定及独立律师的房产法律核查要点。",
+      "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+          "name": "土耳其对美国人安全吗？2026旅游、居留与购房指南 | IGA Law Firm",
+          "description": "美国人赴土耳其旅游、居住或购房前应了解什么？查看2026年美国旅行提醒、伊斯坦布尔安全、免签停留规定及独立律师的房产法律核查要点。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/#article",
+          "url": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+          "headline": "土耳其对美国人安全吗？2026年生活与投资法律指南",
+          "description": "美国人赴土耳其旅游、居住或购房前应了解什么？查看2026年美国旅行提醒、伊斯坦布尔安全、免签停留规定及独立律师的房产法律核查要点。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-29",
+          "dateModified": "2026-10-29",
+          "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+            "name": "伊斯坦布尔博斯普鲁斯海峡：安全与购房指南配图",
+            "description": "用于美国人在土耳其旅行安全、居留与购房指南的AI生成博斯普鲁斯海峡示意配图。",
+            "caption": "AI生成的伊斯坦布尔海滨画面：奥尔塔科伊清真寺、博斯普鲁斯大桥与渡轮。",
+            "inLanguage": "zh-CN"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "土耳其对美国人安全吗？2026年生活与投资法律指南",
+              "item": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/is-turkey-safe-for-americans/": {
+    "path": "/ar/blog/is-turkey-safe-for-americans/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "هل تركيا آمنة للأمريكيين؟ دليل السفر والعقار 2026 | IGA Law Firm",
+    "description": "دليل الأمريكيين للسفر والإقامة وشراء عقار في تركيا: التحذير الأمريكي، سلامة إسطنبول، الإعفاء من التأشيرة والفحوص القانونية قبل الاستثمار في 2026.",
+    "canonical": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
+      "title": "هل تركيا آمنة للأمريكيين؟ دليل السفر والعقار 2026 | IGA Law Firm",
+      "description": "دليل الأمريكيين للسفر والإقامة وشراء عقار في تركيا: التحذير الأمريكي، سلامة إسطنبول، الإعفاء من التأشيرة والفحوص القانونية قبل الاستثمار في 2026.",
+      "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
+          "name": "هل تركيا آمنة للأمريكيين؟ دليل السفر والعقار 2026 | IGA Law Firm",
+          "description": "دليل الأمريكيين للسفر والإقامة وشراء عقار في تركيا: التحذير الأمريكي، سلامة إسطنبول، الإعفاء من التأشيرة والفحوص القانونية قبل الاستثمار في 2026.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/#article",
+          "url": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
+          "headline": "هل تركيا آمنة للأمريكيين؟ دليل قانوني للعيش والاستثمار في 2026",
+          "description": "دليل الأمريكيين للسفر والإقامة وشراء عقار في تركيا: التحذير الأمريكي، سلامة إسطنبول، الإعفاء من التأشيرة والفحوص القانونية قبل الاستثمار في 2026.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-29",
+          "dateModified": "2026-10-29",
+          "image": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+          "associatedMedia": {
+            "@type": "ImageObject",
+            "contentUrl": "https://igalawfirm.com/public/assets/is-turkey-safe-for-americans-istanbul.webp",
+            "name": "واجهة البوسفور في إسطنبول — دليل السلامة والعقار",
+            "description": "مشهد توضيحي مولد بالذكاء الاصطناعي للبوسفور يرافق دليل سلامة السفر والإقامة وشراء العقار للأمريكيين في تركيا.",
+            "caption": "صورة مولدة بالذكاء الاصطناعي لمسجد أورتاكوي وجسر البوسفور وعبّارة قرب واجهة إسطنبول البحرية.",
+            "inLanguage": "ar"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "هل تركيا آمنة للأمريكيين؟ دليل قانوني للعيش والاستثمار في 2026",
+              "item": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/dubai-golden-visa/": {
     "path": "/en/blog/dubai-golden-visa/",
     "language": "en",

@@ -35,6 +35,7 @@ const team=[
  {name:'Latife Küçükalpelli',role:'associate',img:'/public/assets/media/91e93a29a014e965.jpg',alt:'Latife Küçükalpelli, associate attorney',bio:{en:'Associate attorney at IGA Law Firm.',tr:'IGA Hukuk Bürosu bünyesinde avukat.',zh:'IGA Law Firm 律师。'}}
 ];
 const articles=[
+ window.turkeySafetyArticle,
 window.dubaiGoldenVisaArticle,
  window.strongestPassportsArticle,
  window.turkeyEuropeAsiaArticle,
