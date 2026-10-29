@@ -91,14 +91,15 @@ module.exports = async function handler(req, res) {
   const apiKey = process.env.RESEND_API_KEY;
   const from = process.env.LEAD_EMAIL_FROM;
   if (!apiKey || !sender(from)) return send(res, 503, { ok: false, error: 'email_unavailable' });
-  const topic = lead.service || lead.pageTitle;
   const timeIstanbul = new Intl.DateTimeFormat('en-GB', { dateStyle: 'full', timeStyle: 'long', timeZone: 'Europe/Istanbul' }).format(new Date(lead.submittedAt));
   const notification = {
     from,
     to: [RECIPIENT],
     reply_to: lead.replyTo,
-    subject: `New Website Lead – IGA Law Firm${topic ? ' – ' + topic : ''}`,
+    subject: 'Attention Mr. Sinan',
     text: [
+      'Dear Sinan could you please kindly contact my lead',
+      '',
       'New website inquiry — IGA Law Firm',
       '',
       // Plain text preserves multilingual visitor input without HTML execution.
