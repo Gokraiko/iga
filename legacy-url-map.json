@@ -176,7 +176,7 @@
   },
   {
     "old": "/igalawworkpermit/",
-    "new": "/en/igalawworkpermit/",
+    "new": "/en/turkey-work-permit/",
     "status": 301,
     "reason": "Legacy page / matching language equivalent",
     "evidence": "Existing redirect; localized variants use verified canonical equivalents"
@@ -204,7 +204,7 @@
   },
   {
     "old": "/igalawresidencepermit/",
-    "new": "/en/igalawresidencepermit/",
+    "new": "/en/turkey-residence-permit/",
     "status": 301,
     "reason": "Legacy page / matching language equivalent",
     "evidence": "Existing redirect; localized variants use verified canonical equivalents"
@@ -1272,5 +1272,61 @@
     "status": 301,
     "reason": "Old paginated blog listing consolidated into full current article list",
     "evidence": "Indexed Wix blog page 2, 2026-10-15; localized variants"
+  },
+  {
+    "old": "/tr/igalawworkpermit/",
+    "new": "/tr/yabanci-calisma-izni/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/tr/igalawresidencepermit/",
+    "new": "/tr/ikamet-izni/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/en/igalawworkpermit/",
+    "new": "/en/turkey-work-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/en/igalawresidencepermit/",
+    "new": "/en/turkey-residence-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/zh/igalawworkpermit/",
+    "new": "/zh/turkey-work-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/zh/igalawresidencepermit/",
+    "new": "/zh/turkey-residence-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/ar/igalawworkpermit/",
+    "new": "/ar/turkey-work-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/ar/igalawresidencepermit/",
+    "new": "/ar/turkey-residence-permit/",
+    "status": 301,
+    "reason": "Approved conservative service migration",
+    "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
   }
 ]

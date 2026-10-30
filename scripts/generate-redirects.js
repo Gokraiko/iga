@@ -14,6 +14,7 @@ function generateRedirects(seo) {
     if (!seo[row.new] || seo[row.old]) throw new Error(`Unsafe migration: ${row.old}`);
     add(row.old.slice(0, -1), row.new);
     add(row.old, row.new);
+    if (row.reason === 'Approved conservative service migration') add(row.old + 'index.html', row.new);
   }
   // Normalize only actual pages. Unknown URLs remain real 404s.
   for (const pathname of Object.keys(seo)) {

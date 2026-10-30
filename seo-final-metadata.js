@@ -128,35 +128,35 @@ window.finalSeoMetadata = {
     "reason": "Kanıtsız en iyi/en kolay sıralaması yerine karşılaştırma niyeti",
     "title": "تقاعد الأمريكيين بالخارج: مقارنة البلدان والإقامة | IGA"
   },
-  "/en/igalawworkpermit/": {
+  "/en/turkey-work-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "Work Permit Lawyer in Turkey | IGA"
   },
-  "/tr/igalawworkpermit/": {
+  "/tr/yabanci-calisma-izni/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA"
   },
-  "/zh/igalawworkpermit/": {
+  "/zh/turkey-work-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "土耳其工作许可法律服务 | IGA"
   },
-  "/ar/igalawworkpermit/": {
+  "/ar/turkey-work-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "محامي تصاريح العمل في تركيا | IGA"
   },
-  "/en/igalawresidencepermit/": {
+  "/en/turkey-residence-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "Residence Permit Legal Services in Turkey | IGA"
   },
-  "/tr/igalawresidencepermit/": {
+  "/tr/ikamet-izni/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "Türkiye’de İkamet İzni Hukuki Desteği | IGA"
   },
-  "/zh/igalawresidencepermit/": {
+  "/zh/turkey-residence-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "土耳其居留许可法律服务 | IGA"
   },
-  "/ar/igalawresidencepermit/": {
+  "/ar/turkey-residence-permit/": {
     "reason": "Genel hizmet başlığına gövdede mevcut ülke ve hizmet niyeti eklendi",
     "title": "خدمات الإقامة القانونية في تركيا | IGA"
   },

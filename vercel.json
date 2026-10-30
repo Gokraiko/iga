@@ -261,12 +261,12 @@
     },
     {
       "source": "/igalawworkpermit",
-      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
       "statusCode": 301
     },
     {
       "source": "/igalawworkpermit/",
-      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
       "statusCode": 301
     },
     {
@@ -301,12 +301,12 @@
     },
     {
       "source": "/igalawresidencepermit",
-      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
       "statusCode": 301
     },
     {
       "source": "/igalawresidencepermit/",
-      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
       "statusCode": 301
     },
     {
@@ -1830,6 +1830,126 @@
       "statusCode": 301
     },
     {
+      "source": "/tr/igalawworkpermit",
+      "destination": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/tr/ikamet-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/tr/ikamet-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/tr/ikamet-izni/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawworkpermit",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawworkpermit",
+      "destination": "https://igalawfirm.com/zh/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/zh/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/zh/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/zh/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/zh/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/zh/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawworkpermit",
+      "destination": "https://igalawfirm.com/ar/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawworkpermit/",
+      "destination": "https://igalawfirm.com/ar/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawworkpermit/index.html",
+      "destination": "https://igalawfirm.com/ar/turkey-work-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawresidencepermit",
+      "destination": "https://igalawfirm.com/ar/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawresidencepermit/",
+      "destination": "https://igalawfirm.com/ar/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/igalawresidencepermit/index.html",
+      "destination": "https://igalawfirm.com/ar/turkey-residence-permit/",
+      "statusCode": 301
+    },
+    {
       "source": "/en",
       "destination": "https://igalawfirm.com/en/",
       "statusCode": 301
@@ -2150,43 +2270,43 @@
       "statusCode": 301
     },
     {
-      "source": "/en/igalawworkpermit",
-      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "source": "/en/turkey-work-permit",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
       "statusCode": 301
     },
     {
-      "source": "/en/igalawworkpermit/index.html",
-      "destination": "https://igalawfirm.com/en/igalawworkpermit/",
+      "source": "/en/turkey-work-permit/index.html",
+      "destination": "https://igalawfirm.com/en/turkey-work-permit/",
       "statusCode": 301
     },
     {
-      "source": "/tr/igalawworkpermit",
-      "destination": "https://igalawfirm.com/tr/igalawworkpermit/",
+      "source": "/tr/yabanci-calisma-izni",
+      "destination": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
       "statusCode": 301
     },
     {
-      "source": "/tr/igalawworkpermit/index.html",
-      "destination": "https://igalawfirm.com/tr/igalawworkpermit/",
+      "source": "/tr/yabanci-calisma-izni/index.html",
+      "destination": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
       "statusCode": 301
     },
     {
-      "source": "/zh/igalawworkpermit",
-      "destination": "https://igalawfirm.com/zh/igalawworkpermit/",
+      "source": "/zh/turkey-work-permit",
+      "destination": "https://igalawfirm.com/zh/turkey-work-permit/",
       "statusCode": 301
     },
     {
-      "source": "/zh/igalawworkpermit/index.html",
-      "destination": "https://igalawfirm.com/zh/igalawworkpermit/",
+      "source": "/zh/turkey-work-permit/index.html",
+      "destination": "https://igalawfirm.com/zh/turkey-work-permit/",
       "statusCode": 301
     },
     {
-      "source": "/ar/igalawworkpermit",
-      "destination": "https://igalawfirm.com/ar/igalawworkpermit/",
+      "source": "/ar/turkey-work-permit",
+      "destination": "https://igalawfirm.com/ar/turkey-work-permit/",
       "statusCode": 301
     },
     {
-      "source": "/ar/igalawworkpermit/index.html",
-      "destination": "https://igalawfirm.com/ar/igalawworkpermit/",
+      "source": "/ar/turkey-work-permit/index.html",
+      "destination": "https://igalawfirm.com/ar/turkey-work-permit/",
       "statusCode": 301
     },
     {
@@ -2310,43 +2430,43 @@
       "statusCode": 301
     },
     {
-      "source": "/en/igalawresidencepermit",
-      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "source": "/en/turkey-residence-permit",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
       "statusCode": 301
     },
     {
-      "source": "/en/igalawresidencepermit/index.html",
-      "destination": "https://igalawfirm.com/en/igalawresidencepermit/",
+      "source": "/en/turkey-residence-permit/index.html",
+      "destination": "https://igalawfirm.com/en/turkey-residence-permit/",
       "statusCode": 301
     },
     {
-      "source": "/tr/igalawresidencepermit",
-      "destination": "https://igalawfirm.com/tr/igalawresidencepermit/",
+      "source": "/tr/ikamet-izni",
+      "destination": "https://igalawfirm.com/tr/ikamet-izni/",
       "statusCode": 301
     },
     {
-      "source": "/tr/igalawresidencepermit/index.html",
-      "destination": "https://igalawfirm.com/tr/igalawresidencepermit/",
+      "source": "/tr/ikamet-izni/index.html",
+      "destination": "https://igalawfirm.com/tr/ikamet-izni/",
       "statusCode": 301
     },
     {
-      "source": "/zh/igalawresidencepermit",
-      "destination": "https://igalawfirm.com/zh/igalawresidencepermit/",
+      "source": "/zh/turkey-residence-permit",
+      "destination": "https://igalawfirm.com/zh/turkey-residence-permit/",
       "statusCode": 301
     },
     {
-      "source": "/zh/igalawresidencepermit/index.html",
-      "destination": "https://igalawfirm.com/zh/igalawresidencepermit/",
+      "source": "/zh/turkey-residence-permit/index.html",
+      "destination": "https://igalawfirm.com/zh/turkey-residence-permit/",
       "statusCode": 301
     },
     {
-      "source": "/ar/igalawresidencepermit",
-      "destination": "https://igalawfirm.com/ar/igalawresidencepermit/",
+      "source": "/ar/turkey-residence-permit",
+      "destination": "https://igalawfirm.com/ar/turkey-residence-permit/",
       "statusCode": 301
     },
     {
-      "source": "/ar/igalawresidencepermit/index.html",
-      "destination": "https://igalawfirm.com/ar/igalawresidencepermit/",
+      "source": "/ar/turkey-residence-permit/index.html",
+      "destination": "https://igalawfirm.com/ar/turkey-residence-permit/",
       "statusCode": 301
     },
     {
@@ -2427,6 +2547,46 @@
     {
       "source": "/ar/igalawdocumentation/index.html",
       "destination": "https://igalawfirm.com/ar/igalawdocumentation/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/is-turkey-safe-for-americans",
+      "destination": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/is-turkey-safe-for-americans/index.html",
+      "destination": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/is-turkey-safe-for-americans",
+      "destination": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/is-turkey-safe-for-americans/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/is-turkey-safe-for-americans",
+      "destination": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/is-turkey-safe-for-americans/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/is-turkey-safe-for-americans",
+      "destination": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/is-turkey-safe-for-americans/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/is-turkey-safe-for-americans/",
       "statusCode": 301
     },
     {

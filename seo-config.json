@@ -3279,42 +3279,42 @@
       ]
     }
   },
-  "/en/igalawworkpermit/": {
-    "path": "/en/igalawworkpermit/",
+  "/en/turkey-work-permit/": {
+    "path": "/en/turkey-work-permit/",
     "language": "en",
     "pageType": "Service",
-    "title": "Work Permit Lawyer in Turkey | IGA",
-    "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
-    "canonical": "https://igalawfirm.com/en/igalawworkpermit/",
+    "title": "Turkey Work Permit Application | IGA Law Firm",
+    "description": "Requirements, documents, costs and processing time for a Turkey work permit. Let our lawyers handle your application and renewal.",
+    "canonical": "https://igalawfirm.com/en/turkey-work-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawworkpermit/"
+        "href": "https://igalawfirm.com/tr/yabanci-calisma-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawworkpermit/"
+        "href": "https://igalawfirm.com/zh/turkey-work-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawworkpermit/"
+        "href": "https://igalawfirm.com/ar/turkey-work-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "en_US",
-      "url": "https://igalawfirm.com/en/igalawworkpermit/",
-      "title": "Work Permit Lawyer in Turkey | IGA",
-      "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
+      "url": "https://igalawfirm.com/en/turkey-work-permit/",
+      "title": "Turkey Work Permit Application | IGA Law Firm",
+      "description": "Requirements, documents, costs and processing time for a Turkey work permit. Let our lawyers handle your application and renewal.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -3350,10 +3350,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/en/igalawworkpermit/#webpage",
-          "url": "https://igalawfirm.com/en/igalawworkpermit/",
-          "name": "Work Permit Lawyer in Turkey | IGA",
-          "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
+          "@id": "https://igalawfirm.com/en/turkey-work-permit/#webpage",
+          "url": "https://igalawfirm.com/en/turkey-work-permit/",
+          "name": "Turkey Work Permit Application | IGA Law Firm",
+          "description": "Requirements, documents, costs and processing time for a Turkey work permit. Let our lawyers handle your application and renewal.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -3361,17 +3361,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/en/igalawworkpermit/#service",
-          "name": "Work Permit",
+          "@id": "https://igalawfirm.com/en/turkey-work-permit/#service",
+          "name": "Turkey Work Permit Application",
           "description": "Support for foreign nationals and companies seeking lawful work authorization in Türkiye.",
-          "url": "https://igalawfirm.com/en/igalawworkpermit/",
+          "url": "https://igalawfirm.com/en/turkey-work-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/en/igalawworkpermit/#faq",
+          "@id": "https://igalawfirm.com/en/turkey-work-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -3393,7 +3393,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/en/igalawworkpermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/en/turkey-work-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -3412,42 +3412,42 @@
       ]
     }
   },
-  "/tr/igalawworkpermit/": {
-    "path": "/tr/igalawworkpermit/",
+  "/tr/yabanci-calisma-izni/": {
+    "path": "/tr/yabanci-calisma-izni/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
-    "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
-    "canonical": "https://igalawfirm.com/tr/igalawworkpermit/",
+    "title": "Yabancı Çalışma İzni Başvurusu | IGA Law Firm",
+    "description": "Yabancı çalışma izni şartları, gerekli evraklar, ücret ve süreç hakkında bilgi alın. Başvuru ve uzatma işlemlerinizi avukatla yürütün.",
+    "canonical": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawworkpermit/"
+        "href": "https://igalawfirm.com/tr/yabanci-calisma-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawworkpermit/"
+        "href": "https://igalawfirm.com/zh/turkey-work-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawworkpermit/"
+        "href": "https://igalawfirm.com/ar/turkey-work-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "tr_TR",
-      "url": "https://igalawfirm.com/tr/igalawworkpermit/",
-      "title": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
-      "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
+      "url": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
+      "title": "Yabancı Çalışma İzni Başvurusu | IGA Law Firm",
+      "description": "Yabancı çalışma izni şartları, gerekli evraklar, ücret ve süreç hakkında bilgi alın. Başvuru ve uzatma işlemlerinizi avukatla yürütün.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -3483,10 +3483,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/tr/igalawworkpermit/#webpage",
-          "url": "https://igalawfirm.com/tr/igalawworkpermit/",
-          "name": "Türkiye’de Çalışma İzni Hukuki Desteği | IGA",
-          "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
+          "@id": "https://igalawfirm.com/tr/yabanci-calisma-izni/#webpage",
+          "url": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
+          "name": "Yabancı Çalışma İzni Başvurusu | IGA Law Firm",
+          "description": "Yabancı çalışma izni şartları, gerekli evraklar, ücret ve süreç hakkında bilgi alın. Başvuru ve uzatma işlemlerinizi avukatla yürütün.",
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -3494,17 +3494,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/tr/igalawworkpermit/#service",
-          "name": "Çalışma İzni",
+          "@id": "https://igalawfirm.com/tr/yabanci-calisma-izni/#service",
+          "name": "Yabancı Çalışma İzni Başvurusu",
           "description": "Türkiye’de yasal çalışma izni almak isteyen yabancı uyruklu kişiler ve şirketlere destek.",
-          "url": "https://igalawfirm.com/tr/igalawworkpermit/",
+          "url": "https://igalawfirm.com/tr/yabanci-calisma-izni/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/tr/igalawworkpermit/#faq",
+          "@id": "https://igalawfirm.com/tr/yabanci-calisma-izni/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -3526,7 +3526,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/tr/igalawworkpermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/tr/yabanci-calisma-izni/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -3545,42 +3545,42 @@
       ]
     }
   },
-  "/zh/igalawworkpermit/": {
-    "path": "/zh/igalawworkpermit/",
+  "/zh/turkey-work-permit/": {
+    "path": "/zh/turkey-work-permit/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "土耳其工作许可法律服务 | IGA",
-    "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
-    "canonical": "https://igalawfirm.com/zh/igalawworkpermit/",
+    "title": "土耳其工作签证申请 | IGA Law Firm",
+    "description": "了解土耳其工作许可的申请条件、所需材料、费用及办理时间，由律师为您办理申请与续签。",
+    "canonical": "https://igalawfirm.com/zh/turkey-work-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawworkpermit/"
+        "href": "https://igalawfirm.com/tr/yabanci-calisma-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawworkpermit/"
+        "href": "https://igalawfirm.com/zh/turkey-work-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawworkpermit/"
+        "href": "https://igalawfirm.com/ar/turkey-work-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "zh_CN",
-      "url": "https://igalawfirm.com/zh/igalawworkpermit/",
-      "title": "土耳其工作许可法律服务 | IGA",
-      "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
+      "url": "https://igalawfirm.com/zh/turkey-work-permit/",
+      "title": "土耳其工作签证申请 | IGA Law Firm",
+      "description": "了解土耳其工作许可的申请条件、所需材料、费用及办理时间，由律师为您办理申请与续签。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -3616,10 +3616,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/zh/igalawworkpermit/#webpage",
-          "url": "https://igalawfirm.com/zh/igalawworkpermit/",
-          "name": "土耳其工作许可法律服务 | IGA",
-          "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
+          "@id": "https://igalawfirm.com/zh/turkey-work-permit/#webpage",
+          "url": "https://igalawfirm.com/zh/turkey-work-permit/",
+          "name": "土耳其工作签证申请 | IGA Law Firm",
+          "description": "了解土耳其工作许可的申请条件、所需材料、费用及办理时间，由律师为您办理申请与续签。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -3627,17 +3627,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/zh/igalawworkpermit/#service",
-          "name": "工作许可",
+          "@id": "https://igalawfirm.com/zh/turkey-work-permit/#service",
+          "name": "土耳其工作签证与工作许可",
           "description": "为希望在土耳其合法工作的外国人士及企业提供协助。",
-          "url": "https://igalawfirm.com/zh/igalawworkpermit/",
+          "url": "https://igalawfirm.com/zh/turkey-work-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/zh/igalawworkpermit/#faq",
+          "@id": "https://igalawfirm.com/zh/turkey-work-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -3659,7 +3659,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/zh/igalawworkpermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/zh/turkey-work-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -3678,42 +3678,42 @@
       ]
     }
   },
-  "/ar/igalawworkpermit/": {
-    "path": "/ar/igalawworkpermit/",
+  "/ar/turkey-work-permit/": {
+    "path": "/ar/turkey-work-permit/",
     "language": "ar",
     "pageType": "Service",
-    "title": "محامي تصاريح العمل في تركيا | IGA",
-    "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
-    "canonical": "https://igalawfirm.com/ar/igalawworkpermit/",
+    "title": "تصريح العمل في تركيا | IGA Law Firm",
+    "description": "شروط تصريح العمل في تركيا والأوراق المطلوبة والتكاليف ومدة الإجراءات. دع محامينا يتولى طلبك وتجديده.",
+    "canonical": "https://igalawfirm.com/ar/turkey-work-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawworkpermit/"
+        "href": "https://igalawfirm.com/tr/yabanci-calisma-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawworkpermit/"
+        "href": "https://igalawfirm.com/zh/turkey-work-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawworkpermit/"
+        "href": "https://igalawfirm.com/ar/turkey-work-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawworkpermit/"
+        "href": "https://igalawfirm.com/en/turkey-work-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "ar_AR",
-      "url": "https://igalawfirm.com/ar/igalawworkpermit/",
-      "title": "محامي تصاريح العمل في تركيا | IGA",
-      "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
+      "url": "https://igalawfirm.com/ar/turkey-work-permit/",
+      "title": "تصريح العمل في تركيا | IGA Law Firm",
+      "description": "شروط تصريح العمل في تركيا والأوراق المطلوبة والتكاليف ومدة الإجراءات. دع محامينا يتولى طلبك وتجديده.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -3749,10 +3749,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/ar/igalawworkpermit/#webpage",
-          "url": "https://igalawfirm.com/ar/igalawworkpermit/",
-          "name": "محامي تصاريح العمل في تركيا | IGA",
-          "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
+          "@id": "https://igalawfirm.com/ar/turkey-work-permit/#webpage",
+          "url": "https://igalawfirm.com/ar/turkey-work-permit/",
+          "name": "تصريح العمل في تركيا | IGA Law Firm",
+          "description": "شروط تصريح العمل في تركيا والأوراق المطلوبة والتكاليف ومدة الإجراءات. دع محامينا يتولى طلبك وتجديده.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -3760,17 +3760,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/ar/igalawworkpermit/#service",
-          "name": "تصاريح العمل",
+          "@id": "https://igalawfirm.com/ar/turkey-work-permit/#service",
+          "name": "تصريح العمل في تركيا للأجانب",
           "description": "دعم للأفراد الأجانب والشركات للحصول على تصريح عمل نظامي في تركيا.",
-          "url": "https://igalawfirm.com/ar/igalawworkpermit/",
+          "url": "https://igalawfirm.com/ar/turkey-work-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/ar/igalawworkpermit/#faq",
+          "@id": "https://igalawfirm.com/ar/turkey-work-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -3792,7 +3792,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/ar/igalawworkpermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/ar/turkey-work-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -5407,42 +5407,42 @@
       ]
     }
   },
-  "/en/igalawresidencepermit/": {
-    "path": "/en/igalawresidencepermit/",
+  "/en/turkey-residence-permit/": {
+    "path": "/en/turkey-residence-permit/",
     "language": "en",
     "pageType": "Service",
-    "title": "Residence Permit Legal Services in Turkey | IGA",
-    "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
-    "canonical": "https://igalawfirm.com/en/igalawresidencepermit/",
+    "title": "Turkey Residence Permit Application | IGA Law Firm",
+    "description": "Short-term, long-term, family and property-based residence permits in Turkey. Lawyer support for applications, renewals and requirements.",
+    "canonical": "https://igalawfirm.com/en/turkey-residence-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/tr/ikamet-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/zh/turkey-residence-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/ar/turkey-residence-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "en_US",
-      "url": "https://igalawfirm.com/en/igalawresidencepermit/",
-      "title": "Residence Permit Legal Services in Turkey | IGA",
-      "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
+      "url": "https://igalawfirm.com/en/turkey-residence-permit/",
+      "title": "Turkey Residence Permit Application | IGA Law Firm",
+      "description": "Short-term, long-term, family and property-based residence permits in Turkey. Lawyer support for applications, renewals and requirements.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -5478,10 +5478,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/en/igalawresidencepermit/#webpage",
-          "url": "https://igalawfirm.com/en/igalawresidencepermit/",
-          "name": "Residence Permit Legal Services in Turkey | IGA",
-          "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
+          "@id": "https://igalawfirm.com/en/turkey-residence-permit/#webpage",
+          "url": "https://igalawfirm.com/en/turkey-residence-permit/",
+          "name": "Turkey Residence Permit Application | IGA Law Firm",
+          "description": "Short-term, long-term, family and property-based residence permits in Turkey. Lawyer support for applications, renewals and requirements.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -5489,17 +5489,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/en/igalawresidencepermit/#service",
-          "name": "Residence Permit",
+          "@id": "https://igalawfirm.com/en/turkey-residence-permit/#service",
+          "name": "Turkey Residence Permit Application and Renewal",
           "description": "Guidance for short- and long-term residence permit applications for individuals and families.",
-          "url": "https://igalawfirm.com/en/igalawresidencepermit/",
+          "url": "https://igalawfirm.com/en/turkey-residence-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/en/igalawresidencepermit/#faq",
+          "@id": "https://igalawfirm.com/en/turkey-residence-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -5521,7 +5521,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/en/igalawresidencepermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/en/turkey-residence-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -5540,42 +5540,42 @@
       ]
     }
   },
-  "/tr/igalawresidencepermit/": {
-    "path": "/tr/igalawresidencepermit/",
+  "/tr/ikamet-izni/": {
+    "path": "/tr/ikamet-izni/",
     "language": "tr",
     "pageType": "Service",
-    "title": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
-    "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
-    "canonical": "https://igalawfirm.com/tr/igalawresidencepermit/",
+    "title": "İkamet İzni Başvurusu ve Şartları | IGA Law Firm",
+    "description": "Kısa dönem, uzun dönem, aile ve taşınmaz ikamet izni başvurusu ile uzatma işlemlerinde avukat desteği. Şartları ve süreci öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/ikamet-izni/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/tr/ikamet-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/zh/turkey-residence-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/ar/turkey-residence-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "tr_TR",
-      "url": "https://igalawfirm.com/tr/igalawresidencepermit/",
-      "title": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
-      "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
+      "url": "https://igalawfirm.com/tr/ikamet-izni/",
+      "title": "İkamet İzni Başvurusu ve Şartları | IGA Law Firm",
+      "description": "Kısa dönem, uzun dönem, aile ve taşınmaz ikamet izni başvurusu ile uzatma işlemlerinde avukat desteği. Şartları ve süreci öğrenin.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -5611,10 +5611,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/tr/igalawresidencepermit/#webpage",
-          "url": "https://igalawfirm.com/tr/igalawresidencepermit/",
-          "name": "Türkiye’de İkamet İzni Hukuki Desteği | IGA",
-          "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
+          "@id": "https://igalawfirm.com/tr/ikamet-izni/#webpage",
+          "url": "https://igalawfirm.com/tr/ikamet-izni/",
+          "name": "İkamet İzni Başvurusu ve Şartları | IGA Law Firm",
+          "description": "Kısa dönem, uzun dönem, aile ve taşınmaz ikamet izni başvurusu ile uzatma işlemlerinde avukat desteği. Şartları ve süreci öğrenin.",
           "inLanguage": "tr",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -5622,17 +5622,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/tr/igalawresidencepermit/#service",
-          "name": "İkamet İzni",
+          "@id": "https://igalawfirm.com/tr/ikamet-izni/#service",
+          "name": "İkamet İzni Başvurusu ve Uzatma",
           "description": "Bireyler ve aileler için kısa ve uzun dönem ikamet izni başvurularında rehberlik.",
-          "url": "https://igalawfirm.com/tr/igalawresidencepermit/",
+          "url": "https://igalawfirm.com/tr/ikamet-izni/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/tr/igalawresidencepermit/#faq",
+          "@id": "https://igalawfirm.com/tr/ikamet-izni/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -5654,7 +5654,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/tr/igalawresidencepermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/tr/ikamet-izni/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -5673,42 +5673,42 @@
       ]
     }
   },
-  "/zh/igalawresidencepermit/": {
-    "path": "/zh/igalawresidencepermit/",
+  "/zh/turkey-residence-permit/": {
+    "path": "/zh/turkey-residence-permit/",
     "language": "zh-CN",
     "pageType": "Service",
-    "title": "土耳其居留许可法律服务 | IGA",
-    "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
-    "canonical": "https://igalawfirm.com/zh/igalawresidencepermit/",
+    "title": "土耳其居留许可申请与续签 | IGA Law Firm",
+    "description": "办理土耳其短期、长期、家庭及购房居留许可，律师协助申请、续签并解答所需条件。",
+    "canonical": "https://igalawfirm.com/zh/turkey-residence-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/tr/ikamet-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/zh/turkey-residence-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/ar/turkey-residence-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "zh_CN",
-      "url": "https://igalawfirm.com/zh/igalawresidencepermit/",
-      "title": "土耳其居留许可法律服务 | IGA",
-      "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
+      "url": "https://igalawfirm.com/zh/turkey-residence-permit/",
+      "title": "土耳其居留许可申请与续签 | IGA Law Firm",
+      "description": "办理土耳其短期、长期、家庭及购房居留许可，律师协助申请、续签并解答所需条件。",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -5744,10 +5744,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/zh/igalawresidencepermit/#webpage",
-          "url": "https://igalawfirm.com/zh/igalawresidencepermit/",
-          "name": "土耳其居留许可法律服务 | IGA",
-          "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
+          "@id": "https://igalawfirm.com/zh/turkey-residence-permit/#webpage",
+          "url": "https://igalawfirm.com/zh/turkey-residence-permit/",
+          "name": "土耳其居留许可申请与续签 | IGA Law Firm",
+          "description": "办理土耳其短期、长期、家庭及购房居留许可，律师协助申请、续签并解答所需条件。",
           "inLanguage": "zh-CN",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -5755,17 +5755,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/zh/igalawresidencepermit/#service",
-          "name": "居留许可",
+          "@id": "https://igalawfirm.com/zh/turkey-residence-permit/#service",
+          "name": "土耳其居留许可申请与续签",
           "description": "为个人与家庭的短期及长期居留许可申请提供指引。",
-          "url": "https://igalawfirm.com/zh/igalawresidencepermit/",
+          "url": "https://igalawfirm.com/zh/turkey-residence-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/zh/igalawresidencepermit/#faq",
+          "@id": "https://igalawfirm.com/zh/turkey-residence-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -5787,7 +5787,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/zh/igalawresidencepermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/zh/turkey-residence-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
@@ -5806,42 +5806,42 @@
       ]
     }
   },
-  "/ar/igalawresidencepermit/": {
-    "path": "/ar/igalawresidencepermit/",
+  "/ar/turkey-residence-permit/": {
+    "path": "/ar/turkey-residence-permit/",
     "language": "ar",
     "pageType": "Service",
-    "title": "خدمات الإقامة القانونية في تركيا | IGA",
-    "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
-    "canonical": "https://igalawfirm.com/ar/igalawresidencepermit/",
+    "title": "الإقامة في تركيا: التقديم والتجديد | IGA Law Firm",
+    "description": "إقامة قصيرة وطويلة وعائلية وعقارية في تركيا. دعم قانوني في التقديم والتجديد ومعرفة الشروط المطلوبة.",
+    "canonical": "https://igalawfirm.com/ar/turkey-residence-permit/",
     "alternates": [
       {
         "hreflang": "en",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       },
       {
         "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/tr/ikamet-izni/"
       },
       {
         "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/zh/turkey-residence-permit/"
       },
       {
         "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/ar/turkey-residence-permit/"
       },
       {
         "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/igalawresidencepermit/"
+        "href": "https://igalawfirm.com/en/turkey-residence-permit/"
       }
     ],
     "robots": "index,follow",
     "openGraph": {
       "type": "website",
       "locale": "ar_AR",
-      "url": "https://igalawfirm.com/ar/igalawresidencepermit/",
-      "title": "خدمات الإقامة القانونية في تركيا | IGA",
-      "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
+      "url": "https://igalawfirm.com/ar/turkey-residence-permit/",
+      "title": "الإقامة في تركيا: التقديم والتجديد | IGA Law Firm",
+      "description": "إقامة قصيرة وطويلة وعائلية وعقارية في تركيا. دعم قانوني في التقديم والتجديد ومعرفة الشروط المطلوبة.",
       "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
     },
     "structuredData": {
@@ -5877,10 +5877,10 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://igalawfirm.com/ar/igalawresidencepermit/#webpage",
-          "url": "https://igalawfirm.com/ar/igalawresidencepermit/",
-          "name": "خدمات الإقامة القانونية في تركيا | IGA",
-          "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
+          "@id": "https://igalawfirm.com/ar/turkey-residence-permit/#webpage",
+          "url": "https://igalawfirm.com/ar/turkey-residence-permit/",
+          "name": "الإقامة في تركيا: التقديم والتجديد | IGA Law Firm",
+          "description": "إقامة قصيرة وطويلة وعائلية وعقارية في تركيا. دعم قانوني في التقديم والتجديد ومعرفة الشروط المطلوبة.",
           "inLanguage": "ar",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -5888,17 +5888,17 @@
         },
         {
           "@type": "Service",
-          "@id": "https://igalawfirm.com/ar/igalawresidencepermit/#service",
-          "name": "تصاريح الإقامة",
+          "@id": "https://igalawfirm.com/ar/turkey-residence-permit/#service",
+          "name": "الإقامة في تركيا: التقديم والتجديد",
           "description": "إرشاد للأفراد والأسر في طلبات الإقامة القصيرة والطويلة الأجل.",
-          "url": "https://igalawfirm.com/ar/igalawresidencepermit/",
+          "url": "https://igalawfirm.com/ar/turkey-residence-permit/",
           "provider": {
             "@id": "https://igalawfirm.com/#organization"
           }
         },
         {
           "@type": "FAQPage",
-          "@id": "https://igalawfirm.com/ar/igalawresidencepermit/#faq",
+          "@id": "https://igalawfirm.com/ar/turkey-residence-permit/#faq",
           "mainEntity": [
             {
               "@type": "Question",
@@ -5920,7 +5920,7 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/ar/igalawresidencepermit/#breadcrumb",
+          "@id": "https://igalawfirm.com/ar/turkey-residence-permit/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
