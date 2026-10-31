@@ -1,0 +1,842 @@
+{
+  "/en/blog/is-turkey-safe-for-americans/": {
+    "fingerprint": "487d0e4f5c8351b8d78e962b5d3f3f85d618b8b1b0c7a3242883775da0449369",
+    "datePublished": "2026-10-29T09:00:00+03:00",
+    "dateModified": "2026-10-29T09:00:00+03:00"
+  },
+  "/tr/blog/is-turkey-safe-for-americans/": {
+    "fingerprint": "c563810ad7a72dc6c5c017ab75712fc1033d2d66b9945730657ae50c4febb8fc",
+    "datePublished": "2026-10-29T09:00:00+03:00",
+    "dateModified": "2026-10-29T09:00:00+03:00"
+  },
+  "/zh/blog/is-turkey-safe-for-americans/": {
+    "fingerprint": "c175026ba922cf41d13aa82b6407accbfcadb12bbd4475a2b29696be4ffef13a",
+    "datePublished": "2026-10-29T09:00:00+03:00",
+    "dateModified": "2026-10-29T09:00:00+03:00"
+  },
+  "/ar/blog/is-turkey-safe-for-americans/": {
+    "fingerprint": "b10138c7b70b00901402054323f6c2ef959a82fa4188da69d6907c0f347568cb",
+    "datePublished": "2026-10-29T09:00:00+03:00",
+    "dateModified": "2026-10-29T09:00:00+03:00"
+  },
+  "/en/blog/dubai-golden-visa/": {
+    "fingerprint": "21dded6317fccd969192104cb42affe814bc5679568486323930778d50696d40",
+    "datePublished": "2026-10-26T09:00:00+03:00",
+    "dateModified": "2026-10-26T09:00:00+03:00"
+  },
+  "/tr/blog/dubai-golden-visa/": {
+    "fingerprint": "8ffdc1252d3e019dd2aee731da2bb9feb89d7560b58e241242b20e0ba88cd382",
+    "datePublished": "2026-10-26T09:00:00+03:00",
+    "dateModified": "2026-10-26T09:00:00+03:00"
+  },
+  "/zh/blog/dubai-golden-visa/": {
+    "fingerprint": "8432de5c1c50857b058973fafaf4036097be65c21bcb737ac4f503dc5a334d12",
+    "datePublished": "2026-10-26T09:00:00+03:00",
+    "dateModified": "2026-10-26T09:00:00+03:00"
+  },
+  "/ar/blog/dubai-golden-visa/": {
+    "fingerprint": "7816b6c1768a5a1e92f30be6a8ebe679e535fbc3ef6cdc2476d001b7335dfcdd",
+    "datePublished": "2026-10-26T09:00:00+03:00",
+    "dateModified": "2026-10-26T09:00:00+03:00"
+  },
+  "/en/blog/the-strongest-passports-in-the-world/": {
+    "fingerprint": "68ffcdad847597c7325fbe75fae5073110d72c87006c18eb8c6984f62fb37125",
+    "datePublished": "2026-10-25T09:00:00+03:00",
+    "dateModified": "2026-10-25T09:00:00+03:00"
+  },
+  "/tr/blog/the-strongest-passports-in-the-world/": {
+    "fingerprint": "9d1e3b91485c195fe38b314d93acca64c341ad9b3e0ac4bc0cc77d60ba0f76dd",
+    "datePublished": "2026-10-25T09:00:00+03:00",
+    "dateModified": "2026-10-25T09:00:00+03:00"
+  },
+  "/zh/blog/the-strongest-passports-in-the-world/": {
+    "fingerprint": "6e9e0a9ba4b15dfbd68ed689bd79564098b2c7472a6265cf4cb990c837cb8f5a",
+    "datePublished": "2026-10-25T09:00:00+03:00",
+    "dateModified": "2026-10-25T09:00:00+03:00"
+  },
+  "/ar/blog/the-strongest-passports-in-the-world/": {
+    "fingerprint": "3f3cbc3bd87a6d0910b3da048a29438155f3e9516873772c89b28140db5b01cd",
+    "datePublished": "2026-10-25T09:00:00+03:00",
+    "dateModified": "2026-10-25T09:00:00+03:00"
+  },
+  "/en/blog/is-turkey-a-european-or-asian-country/": {
+    "fingerprint": "29f9316297f2166219fd2437e2679f0d1f2fd11c4c29c4abcbda65eb5df4d6f2",
+    "datePublished": "2026-10-24T09:00:00+03:00",
+    "dateModified": "2026-10-24T09:00:00+03:00"
+  },
+  "/tr/blog/is-turkey-a-european-or-asian-country/": {
+    "fingerprint": "bc33f25c0e3654cc835d1e94f7b354b104fed6e90b6155a2e015f0c01807d62f",
+    "datePublished": "2026-10-24T09:00:00+03:00",
+    "dateModified": "2026-10-24T09:00:00+03:00"
+  },
+  "/zh/blog/is-turkey-a-european-or-asian-country/": {
+    "fingerprint": "05a53b69e04b3fdf576fc4c74846eeaff4f11b47d76281adb561b023ee22ebfc",
+    "datePublished": "2026-10-24T09:00:00+03:00",
+    "dateModified": "2026-10-24T09:00:00+03:00"
+  },
+  "/ar/blog/is-turkey-a-european-or-asian-country/": {
+    "fingerprint": "c62733b4ea798532f5aed7d5363025626f38c99a4dbfe1bc696ce9caee86191b",
+    "datePublished": "2026-10-24T09:00:00+03:00",
+    "dateModified": "2026-10-24T09:00:00+03:00"
+  },
+  "/en/blog/triple-citizenship/": {
+    "fingerprint": "724b37c54fe85a497ccf8bd9f3ef86a67efb95d670169edf1e666e29280a7ef0",
+    "datePublished": "2026-10-23T09:00:00+03:00",
+    "dateModified": "2026-10-23T09:00:00+03:00"
+  },
+  "/tr/blog/triple-citizenship/": {
+    "fingerprint": "63e11f0d95035bf8ccb50a07e91178f194d4b025080e9f698148e3512cfd148d",
+    "datePublished": "2026-10-23T09:00:00+03:00",
+    "dateModified": "2026-10-23T09:00:00+03:00"
+  },
+  "/zh/blog/triple-citizenship/": {
+    "fingerprint": "3724635f97acb717c8dfa0cf25b6edadcc51f38936b126cc5e9d05de19f4cd80",
+    "datePublished": "2026-10-23T09:00:00+03:00",
+    "dateModified": "2026-10-23T09:00:00+03:00"
+  },
+  "/ar/blog/triple-citizenship/": {
+    "fingerprint": "cff039ef20ecb4283676a179d5a77c3af9db468e9e04e58ee85fb589821197ee",
+    "datePublished": "2026-10-23T09:00:00+03:00",
+    "dateModified": "2026-10-23T09:00:00+03:00"
+  },
+  "/en/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "fingerprint": "86e019e2ffc1a2e4e0b93f36b753688d350865c30a96d51a5b9e4237b21b5477",
+    "datePublished": "2025-01-14T09:00:00+03:00",
+    "dateModified": "2025-01-14T09:00:00+03:00"
+  },
+  "/tr/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "fingerprint": "8aa221eaf507d1afa8a70528f5b1fc46fe14874e69a508d1d99cb74b86170460",
+    "datePublished": "2025-01-14T09:00:00+03:00",
+    "dateModified": "2025-01-14T09:00:00+03:00"
+  },
+  "/zh/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "fingerprint": "419173e9ad3a4d7d979afaa41c15440fc2d99f7d1b268950f16f4a32e2729642",
+    "datePublished": "2025-01-14T09:00:00+03:00",
+    "dateModified": "2025-01-14T09:00:00+03:00"
+  },
+  "/ar/blog/renunciation-of-turkish-citizenship-2025-process-documents-reapplication/": {
+    "fingerprint": "c7582f840ebfa9e9b92dec2b9262b18b0938d6c94fc0e5e060fd5a9b9ce3f081",
+    "datePublished": "2025-01-14T09:00:00+03:00",
+    "dateModified": "2025-01-14T09:00:00+03:00"
+  },
+  "/en/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "fingerprint": "9c6dcadc1b04c87db938fd88452395731023c22277a372f250058a2b3aabb579",
+    "datePublished": "2025-11-15T09:00:00+03:00",
+    "dateModified": "2025-11-15T09:00:00+03:00"
+  },
+  "/tr/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "fingerprint": "5be5cabf12e1671389f7003fddaaf369aada77ef459b1f9efc8dc331a03ad53b",
+    "datePublished": "2025-11-15T09:00:00+03:00",
+    "dateModified": "2025-11-15T09:00:00+03:00"
+  },
+  "/zh/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "fingerprint": "a0f0b99b14bc90aa407a309f9cdf197a3a825133795b1b0f1b2338b2c0f7a680",
+    "datePublished": "2025-11-15T09:00:00+03:00",
+    "dateModified": "2025-11-15T09:00:00+03:00"
+  },
+  "/ar/blog/turkey-property-valuation-report-exemption-citizenship-investment/": {
+    "fingerprint": "77a16a1dc69a93871840debab41533457de72b241de35e5adccdeccf25a86812",
+    "datePublished": "2025-11-15T09:00:00+03:00",
+    "dateModified": "2025-11-15T09:00:00+03:00"
+  },
+  "/en/blog/dual-citizenship-for-americans/": {
+    "fingerprint": "c1cc333af3fdc908e62a05aabdaa554c7fd13f62a0abe5af3d069b8439bf56d2",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/tr/blog/dual-citizenship-for-americans/": {
+    "fingerprint": "71e02aea11ac6ad8ad556d8b9482833f9fa285b0bf56a687092755709a9f1b9b",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/zh/blog/dual-citizenship-for-americans/": {
+    "fingerprint": "35f1818bd3b54357452569dc87e242cc77a8cfaf69cddbde9a9fdff1bcd7f282",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/ar/blog/dual-citizenship-for-americans/": {
+    "fingerprint": "45497be4026a2a5903ab603eed1711875bec6329e9af49468de0201d6b8111bf",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/en/blog/best-countries-to-move-to-from-the-us/": {
+    "fingerprint": "1057a116b8c822b794dd7eea0273e4a67abcd9e3742cfe47697455308999f361",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/tr/blog/best-countries-to-move-to-from-the-us/": {
+    "fingerprint": "d01fe0f2b249588958057058ba6e22af92cfed1517f71c0a01609cd672ec4a8a",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/zh/blog/best-countries-to-move-to-from-the-us/": {
+    "fingerprint": "7877d3fe34e9751cce6ca69a07ad83dcad79e3aa8cd84ecb371d15676b0804a7",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/ar/blog/best-countries-to-move-to-from-the-us/": {
+    "fingerprint": "e5b3d01ac8a6f1ef02834491b40acab0343b6a78167c39fdccf0db7e3b77d610",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/en/blog/easiest-country-to-get-citizenship/": {
+    "fingerprint": "c74f25479208f7ed1a9ba539f49398189c4795e463532adf04525795f5291def",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/tr/blog/easiest-country-to-get-citizenship/": {
+    "fingerprint": "6f0fa555ac9ac9e9cfed12094b336b29d6dbb52f2ab9095113945d07833f79a0",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/zh/blog/easiest-country-to-get-citizenship/": {
+    "fingerprint": "35fd6dbe0b784c7cd021a7b8df10e4b10b67e81f4f348e4603b4d92a0ac14c33",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/ar/blog/easiest-country-to-get-citizenship/": {
+    "fingerprint": "884fe24e7903633486c6702a67379e85967a9606f7aa4ebb3d3a87a283dc29fb",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/en/blog/best-countries-to-retire-in-for-americans/": {
+    "fingerprint": "0b26de06246f9c59bc7ecff0c94613538dd61457171435f688fb1bd5f1d22b5a",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/tr/blog/best-countries-to-retire-in-for-americans/": {
+    "fingerprint": "3addb20c7887fb2b0ff5ee190cacd0e7471b14e60b508465dcc75692470b2d0d",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/zh/blog/best-countries-to-retire-in-for-americans/": {
+    "fingerprint": "a9989bc507eb02d9af4c545ae780094348b7a60c6241197154ee1bf3b4b0a0c2",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/ar/blog/best-countries-to-retire-in-for-americans/": {
+    "fingerprint": "1322c27106a94806c892e08dc1823262d4c231059db4f14ff34a0e5c1f76cc25",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-13T09:00:00+03:00"
+  },
+  "/en/blog/citizenship-by-investment-programs/": {
+    "fingerprint": "b7cb54f607ee16d8ec4290c6e4df75be8679bcafd9d7e4a46e75ef9af30c81f8",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/citizenship-by-investment-programs/": {
+    "fingerprint": "b9291a453e6d64f87b190fd55e86a3c9099298f7fd3ef9178f77ecf3b7808d18",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/citizenship-by-investment-programs/": {
+    "fingerprint": "80c07654d1270593f36b03de923fe33a8fc7bd7ad44fb16ec6ff1d034d3688a0",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/citizenship-by-investment-programs/": {
+    "fingerprint": "e4524639ea06ab5e68b6d043ef8df5a600b274a8f43b29080f3a4b1013a19f00",
+    "datePublished": "2026-10-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
+    "fingerprint": "f3f14c113e7e6b30674d46e61b5f52e0cc5f5349f95a3bb326c419506393aa19",
+    "datePublished": "2026-01-16T09:00:00+03:00",
+    "dateModified": "2026-01-16T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
+    "fingerprint": "967a93f0a7d6cc4feaa9a0f9adff55ff7c0739837dce3b01c9d72196b249b291",
+    "datePublished": "2026-01-16T09:00:00+03:00",
+    "dateModified": "2026-01-16T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
+    "fingerprint": "f4599523277b212af621dbca008a29564a9d3eee170d854217ab36ec43158e66",
+    "datePublished": "2026-01-16T09:00:00+03:00",
+    "dateModified": "2026-01-16T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
+    "fingerprint": "e8bb1c7d27fbaf08c5c36c2a3f4508f276d1800498c18e9c4917d92ea327be63",
+    "datePublished": "2026-01-16T09:00:00+03:00",
+    "dateModified": "2026-01-16T09:00:00+03:00"
+  },
+  "/en/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/": {
+    "fingerprint": "0256a69df7f00169d2bb240aebbdb295c3439399a17f1462be46b27ef9cdd6de",
+    "datePublished": "2026-01-15T09:00:00+03:00",
+    "dateModified": "2026-01-15T09:00:00+03:00"
+  },
+  "/tr/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/": {
+    "fingerprint": "75f98974bda7dcf3035a48aa9f7fc0b89a6666357bf2ac6bd0b640c7115ecc43",
+    "datePublished": "2026-01-15T09:00:00+03:00",
+    "dateModified": "2026-01-15T09:00:00+03:00"
+  },
+  "/zh/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/": {
+    "fingerprint": "65c1885eb590e949c4881debe122af548331a379d503b5068e24710e92ac72de",
+    "datePublished": "2026-01-15T09:00:00+03:00",
+    "dateModified": "2026-01-15T09:00:00+03:00"
+  },
+  "/ar/blog/can-you-apply-for-turkish-citizenship-without-a-birth-certificate/": {
+    "fingerprint": "4e8adf490d56bf2c7bb004e44ef311708c0ba45197877c38dd014081c746e923",
+    "datePublished": "2026-01-15T09:00:00+03:00",
+    "dateModified": "2026-01-15T09:00:00+03:00"
+  },
+  "/en/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/": {
+    "fingerprint": "d355abb0ade90c408435bc2183c19d48d644669036387fcf736cb178aaf81931",
+    "datePublished": "2026-07-27T09:00:00+03:00",
+    "dateModified": "2026-07-27T09:00:00+03:00"
+  },
+  "/tr/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/": {
+    "fingerprint": "31cfef07b0c3d417ed2dd2329d24ec80537bdcb54cab9712770044249ed80013",
+    "datePublished": "2026-07-27T09:00:00+03:00",
+    "dateModified": "2026-07-27T09:00:00+03:00"
+  },
+  "/zh/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/": {
+    "fingerprint": "fcda93cccad271ac2d66d73a951d82d22ba7d452a0c555f45515d212944a307b",
+    "datePublished": "2026-07-27T09:00:00+03:00",
+    "dateModified": "2026-07-27T09:00:00+03:00"
+  },
+  "/ar/blog/iga-law-firm-is-growing-a-new-chapter-at-our-new-office/": {
+    "fingerprint": "6052af88ee8138e704a50d882f5f6a1472ddc2583da3c0022249c19a2c494590",
+    "datePublished": "2026-07-27T09:00:00+03:00",
+    "dateModified": "2026-07-27T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/": {
+    "fingerprint": "68ef5cc2bcc86d9f9c63085df27ff2d02d1dc9d3e2d891875c71564747318f2f",
+    "datePublished": "2026-01-14T09:00:00+03:00",
+    "dateModified": "2026-01-14T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/": {
+    "fingerprint": "49f9d365f2d9a60351ac6148a84f1152a5eac2d419d42c53925b428416a0420b",
+    "datePublished": "2026-01-14T09:00:00+03:00",
+    "dateModified": "2026-01-14T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/": {
+    "fingerprint": "3256e3b1f810cc44d7c094989e3f63b6a975cb1a0d656bf2b80d17cf34d56bd0",
+    "datePublished": "2026-01-14T09:00:00+03:00",
+    "dateModified": "2026-01-14T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/": {
+    "fingerprint": "ad759f8f1470c9c5fecfdde012377680050b868c3f2bb0fa41e350dd371ac040",
+    "datePublished": "2026-01-14T09:00:00+03:00",
+    "dateModified": "2026-01-14T09:00:00+03:00"
+  },
+  "/en/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/": {
+    "fingerprint": "541c4ae560319a0c64e1425018c4581b0a73dfc4a8e02797182b9bdf71c0123d",
+    "datePublished": "2025-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/": {
+    "fingerprint": "5f583b076ca1812029e6f07092ca32754be2bc719e525e2cf5b83e24bc3f393c",
+    "datePublished": "2025-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/": {
+    "fingerprint": "35081924ce296c45d1c97ebce46848562b9b52930c51a5b6b14e960221d0cbd8",
+    "datePublished": "2025-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval/": {
+    "fingerprint": "a10ba9c6354a8256f4c76a789a2d0854c6a62b382332d9692dffdda975aa7a6c",
+    "datePublished": "2025-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/": {
+    "fingerprint": "2e6e66d05411e38231b721fcfc9760b80b7791821823c7e18a1b6eda1a9e761c",
+    "datePublished": "2025-01-12T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/": {
+    "fingerprint": "6c1c0fa1bd9a1c6a847161b20dbbcfb0a3faa8af8887fceb537e88474d195f78",
+    "datePublished": "2025-01-12T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/": {
+    "fingerprint": "701f578fee97ff9784e6f779dae6a597e25d86648b7e4ec050f50ffedbb8974d",
+    "datePublished": "2025-01-12T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-through-bes-a-secure-path-for-foreign-investors/": {
+    "fingerprint": "218e0e3f3d84667ba526e8487ca354ea4d454e94fad72e98bfbbb5d1c00404fc",
+    "datePublished": "2025-01-12T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/": {
+    "fingerprint": "3d3c6e116f4969fae1c1643a9648a32c33a032bfaa99596a1b5c536d95cc3aae",
+    "datePublished": "2025-01-11T09:00:00+03:00",
+    "dateModified": "2025-01-11T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/": {
+    "fingerprint": "8590807fb959aee01b3727070d19fa20567ad8d47885e78312fdf928ce57188a",
+    "datePublished": "2025-01-11T09:00:00+03:00",
+    "dateModified": "2025-01-11T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/": {
+    "fingerprint": "9b82fdcb8b07e7a926a6e6292bc09c5df2ff9c534a8ccf407ca2836d7a2f1d65",
+    "datePublished": "2025-01-11T09:00:00+03:00",
+    "dateModified": "2025-01-11T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-bank-deposit-2025-complete-and-detailed-process-guide/": {
+    "fingerprint": "0e9b4b876b49ce7eb44c5f20d2ab296d9fb605db880601ea6667830e56db5e9b",
+    "datePublished": "2025-01-11T09:00:00+03:00",
+    "dateModified": "2025-01-11T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/": {
+    "fingerprint": "a67beda6f144c3255255121cc4f25ea56c70bf195ee7b74e4319717b3fff7a64",
+    "datePublished": "2026-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/": {
+    "fingerprint": "81f4e941ffd2741592b5927609c093047cdd57f79c10b96788d9f783433a8ce4",
+    "datePublished": "2026-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/": {
+    "fingerprint": "b8bf09256dcc396fef6a6310bdf95a186767a896348a1a1f489383ca1e5060ad",
+    "datePublished": "2026-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio/": {
+    "fingerprint": "950d8746ce3384450f5e776b2efe5e1c817e53e77892030ce0f265da877d93af",
+    "datePublished": "2026-01-13T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/": {
+    "fingerprint": "30756f784daf977a99118bdc0be526c9f270f74369d502d13b4d86a7e93a0814",
+    "datePublished": "2026-01-12T09:00:00+03:00",
+    "dateModified": "2026-01-12T09:00:00+03:00"
+  },
+  "/tr/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/": {
+    "fingerprint": "98da102a1c1689ae93ffcf64b9b14df55ad92a835fbe2267132d1b91a9a846b8",
+    "datePublished": "2026-01-12T09:00:00+03:00",
+    "dateModified": "2026-01-12T09:00:00+03:00"
+  },
+  "/zh/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/": {
+    "fingerprint": "8241f1cf2c53752015fb59ef5e37f702876d745c1bd27663469667bec0848656",
+    "datePublished": "2026-01-12T09:00:00+03:00",
+    "dateModified": "2026-01-12T09:00:00+03:00"
+  },
+  "/ar/blog/turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors/": {
+    "fingerprint": "262198cd015e58b93905029c91e75ebd0db36c7cb9b3ac05fa02a1a45ba4de66",
+    "datePublished": "2026-01-12T09:00:00+03:00",
+    "dateModified": "2026-01-12T09:00:00+03:00"
+  },
+  "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
+    "fingerprint": "4753b400d47e0860141720f8f852455c447ef66a2ae202e7cfe8c2ee94f2098d",
+    "datePublished": "2026-01-11T09:00:00+03:00",
+    "dateModified": "2026-01-11T09:00:00+03:00"
+  },
+  "/tr/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
+    "fingerprint": "bb2ce5eb253ab5a587128f1b732d834c693bbf7f314e5d1f265765e4d4a8a01f",
+    "datePublished": "2026-01-11T09:00:00+03:00",
+    "dateModified": "2026-01-11T09:00:00+03:00"
+  },
+  "/zh/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
+    "fingerprint": "a62cb8e676e01a065c5903fdd38917229c4f6a28f3ea8968bee44cc79ad1802b",
+    "datePublished": "2026-01-11T09:00:00+03:00",
+    "dateModified": "2026-01-11T09:00:00+03:00"
+  },
+  "/ar/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
+    "fingerprint": "9ff95fbe4ece2562ca433a0fa6b8736b774b8b7330f5985006283c4fe42709ae",
+    "datePublished": "2026-01-11T09:00:00+03:00",
+    "dateModified": "2026-01-11T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
+    "fingerprint": "646a3e290589ca4dff6e34ebef258f542fb5edd1b63f888a55abc20c6715d274",
+    "datePublished": "2026-01-10T09:00:00+03:00",
+    "dateModified": "2026-01-10T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
+    "fingerprint": "9c99b6fc72620de8dde40754f01ef6f2f6a6a3703b4b2d1ca6bb08dcc203325f",
+    "datePublished": "2026-01-10T09:00:00+03:00",
+    "dateModified": "2026-01-10T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
+    "fingerprint": "9aad2992324124660cec9709ecdfcc9b3475b6f7ddf2858bd99b3a06ed70bc68",
+    "datePublished": "2026-01-10T09:00:00+03:00",
+    "dateModified": "2026-01-10T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
+    "fingerprint": "cf6207781375f7897cdb98db114e0bc0693960c80fda8b6dfb1ea6ddfbb55fd3",
+    "datePublished": "2026-01-10T09:00:00+03:00",
+    "dateModified": "2026-01-10T09:00:00+03:00"
+  },
+  "/en/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/": {
+    "fingerprint": "93184349ef63cb96531da22ed1f496775b0ae16563b3f9b0e37349e85d36287c",
+    "datePublished": "2026-01-09T09:00:00+03:00",
+    "dateModified": "2026-01-09T09:00:00+03:00"
+  },
+  "/tr/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/": {
+    "fingerprint": "8b715b720a8871276e788448eb7d97766250080dff4077406e5f3ffef09b128b",
+    "datePublished": "2026-01-09T09:00:00+03:00",
+    "dateModified": "2026-01-09T09:00:00+03:00"
+  },
+  "/zh/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/": {
+    "fingerprint": "979a2ccad9ca2cbe2aaf5135739a8b2a90f13e6d7c98f07da2c48b3d5bf92a1d",
+    "datePublished": "2026-01-09T09:00:00+03:00",
+    "dateModified": "2026-01-09T09:00:00+03:00"
+  },
+  "/ar/blog/qnb-bank-turkish-citizenship-by-investment-why-investors-choose-qnb-in-2026/": {
+    "fingerprint": "fd22dfefe137f6631359bf3bf5e1c39cb37b388a933cee2010ece56c9b76afb9",
+    "datePublished": "2026-01-09T09:00:00+03:00",
+    "dateModified": "2026-01-09T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/": {
+    "fingerprint": "6e1f84e94d61d711587a543b528c76212503beda35afe5e2479a4b4065c5ff0d",
+    "datePublished": "2026-01-08T09:00:00+03:00",
+    "dateModified": "2026-01-08T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/": {
+    "fingerprint": "b50f8c1d33af3bf75478cd4cc5bc849d29f906e3db81c14d432d6c91f38c82a8",
+    "datePublished": "2026-01-08T09:00:00+03:00",
+    "dateModified": "2026-01-08T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/": {
+    "fingerprint": "5bff1b5678278b20024d29b7113aa9dce919a36d7ff9580e0fd4d0ec01f1bd72",
+    "datePublished": "2026-01-08T09:00:00+03:00",
+    "dateModified": "2026-01-08T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-via-allianz-bes-secure-500-000-strategy-with-gold-funds-2026/": {
+    "fingerprint": "c8b08fd3230e882a28a56099be897e3ca86c2dcf27894be039f3843c2072ae4f",
+    "datePublished": "2026-01-08T09:00:00+03:00",
+    "dateModified": "2026-01-08T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/": {
+    "fingerprint": "cd60f52fd135e432cf3e63b2f7246969cbf6cfa9a7ca82721441a69a1bd77290",
+    "datePublished": "2026-01-07T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/": {
+    "fingerprint": "0ec0579956edd2bcf422bd9fe89bd7f6e566f1a54265359a9f8efccdade6557d",
+    "datePublished": "2026-01-07T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/": {
+    "fingerprint": "2673f3313b27057a846171b1e2905c834c1da84369e672f0009735cd92ad7720",
+    "datePublished": "2026-01-07T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/": {
+    "fingerprint": "173723d93558b14c8aa4da7088b98465f5793be4ebfed38cbc7b8f5136749374",
+    "datePublished": "2026-01-07T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/": {
+    "fingerprint": "30c11d0a51f87e71319986627b75bceeddb3aa6e7c43cda886581ed4fac87a1d",
+    "datePublished": "2026-01-06T09:00:00+03:00",
+    "dateModified": "2026-01-06T09:00:00+03:00"
+  },
+  "/tr/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/": {
+    "fingerprint": "e21cb5d048183adfaff75f88ffc8b1b9a26596059a194524a9ff9031133fd12f",
+    "datePublished": "2026-01-06T09:00:00+03:00",
+    "dateModified": "2026-01-06T09:00:00+03:00"
+  },
+  "/zh/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/": {
+    "fingerprint": "ee1572b530e471d8b393f9e8c384121451c74093e00fe7064be58dbc24db8994",
+    "datePublished": "2026-01-06T09:00:00+03:00",
+    "dateModified": "2026-01-06T09:00:00+03:00"
+  },
+  "/ar/blog/turkey-citizenship-by-investment-bes-fund-route-explained-legal-structure-process-latest-succes/": {
+    "fingerprint": "6121141f45086f679d34ef7ee0355dec18224f8de55205a0c7ea7ffc93ea4a59",
+    "datePublished": "2026-01-06T09:00:00+03:00",
+    "dateModified": "2026-01-06T09:00:00+03:00"
+  },
+  "/en/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/": {
+    "fingerprint": "c2e75183a92b7e5c0049d7f32a50a4e2d6d2d679adcbb5ef96ebaddf5f09e5bc",
+    "datePublished": "2026-01-05T09:00:00+03:00",
+    "dateModified": "2026-01-05T09:00:00+03:00"
+  },
+  "/tr/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/": {
+    "fingerprint": "dd5bacd5d17e58bade9e81f717191b6f37c930553719a18ef5f6d8fda894937a",
+    "datePublished": "2026-01-05T09:00:00+03:00",
+    "dateModified": "2026-01-05T09:00:00+03:00"
+  },
+  "/zh/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/": {
+    "fingerprint": "20d8a2e697f9a356b18ccac9934bf89dcf2800858e14cce93ceb632b0176660d",
+    "datePublished": "2026-01-05T09:00:00+03:00",
+    "dateModified": "2026-01-05T09:00:00+03:00"
+  },
+  "/ar/blog/fund-investment-for-turkish-citizenship-legal-structure-of-the-bes-fund-institutional-background/": {
+    "fingerprint": "21f7917c73dc2cff24cbdf972383a625685bb4f0bbb08e16cc774529f1784dce",
+    "datePublished": "2026-01-05T09:00:00+03:00",
+    "dateModified": "2026-01-05T09:00:00+03:00"
+  },
+  "/en/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/": {
+    "fingerprint": "ec6a1a3d0999890de60b059b4546b2a689874db76fcbacdbfe83d5e0afd12676",
+    "datePublished": "2026-01-04T09:00:00+03:00",
+    "dateModified": "2026-01-04T09:00:00+03:00"
+  },
+  "/tr/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/": {
+    "fingerprint": "aba51a80c907027ca3d76674ca730a7670559690ad082059be96e942019ffbd1",
+    "datePublished": "2026-01-04T09:00:00+03:00",
+    "dateModified": "2026-01-04T09:00:00+03:00"
+  },
+  "/zh/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/": {
+    "fingerprint": "3aba3acc2d777da49c4a7eedb8d54aea167027dfbbae365fbb538dd36a5a777b",
+    "datePublished": "2026-01-04T09:00:00+03:00",
+    "dateModified": "2026-01-04T09:00:00+03:00"
+  },
+  "/ar/blog/bank-deposit-for-turkish-citizenship-how-a-usd-500-000-investment-became-usd-620-640-and-was-safely/": {
+    "fingerprint": "fc55500376514e17534cc333260f050321304be9e002db4038c9e485fe71b67d",
+    "datePublished": "2026-01-04T09:00:00+03:00",
+    "dateModified": "2026-01-04T09:00:00+03:00"
+  },
+  "/en/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/": {
+    "fingerprint": "58ba31c54a3f6b7a62387e185de7ce536ba0f7474224f2f9c4b2025416cf03f0",
+    "datePublished": "2026-01-03T09:00:00+03:00",
+    "dateModified": "2026-01-03T09:00:00+03:00"
+  },
+  "/tr/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/": {
+    "fingerprint": "50d012d84dbff9741aa06d996c584ea2836fcf12f11f44fe647fd197edd9c5ef",
+    "datePublished": "2026-01-03T09:00:00+03:00",
+    "dateModified": "2026-01-03T09:00:00+03:00"
+  },
+  "/zh/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/": {
+    "fingerprint": "92de54ce79725132f9bd18b8e24769242146ad39ab33f574b6a542b085a0d710",
+    "datePublished": "2026-01-03T09:00:00+03:00",
+    "dateModified": "2026-01-03T09:00:00+03:00"
+  },
+  "/ar/blog/bes-for-turkish-citizenship-2026-10-key-legal-questions-answered-by-a-lawyer/": {
+    "fingerprint": "92d88bd06220268af3a9ab6782a309019e05378074e4e15aa6833f3accf53e2a",
+    "datePublished": "2026-01-03T09:00:00+03:00",
+    "dateModified": "2026-01-03T09:00:00+03:00"
+  },
+  "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/": {
+    "fingerprint": "3c31b12caa7c372fb87107c54f0c341b923bab4a5e3de48dfde94e370b5b4855",
+    "datePublished": "2026-01-02T09:00:00+03:00",
+    "dateModified": "2026-01-02T09:00:00+03:00"
+  },
+  "/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/": {
+    "fingerprint": "8c3b12b08e92d3d5e4d4de8929eda6d967a3ed22cf33afa6a027a42e50e88933",
+    "datePublished": "2026-01-02T09:00:00+03:00",
+    "dateModified": "2026-01-02T09:00:00+03:00"
+  },
+  "/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/": {
+    "fingerprint": "2d9e765f91aa933dfcf6d627345affcf83cfcb7bc8a0ec687321cd9c188a4e02",
+    "datePublished": "2026-01-02T09:00:00+03:00",
+    "dateModified": "2026-01-02T09:00:00+03:00"
+  },
+  "/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/": {
+    "fingerprint": "aa42958eda0d138e101bf2c9f97b7dc9e5bca44e5ed0568dd1424bc11065abe3",
+    "datePublished": "2026-01-02T09:00:00+03:00",
+    "dateModified": "2026-01-02T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/": {
+    "fingerprint": "bf361c18edaea76cf55dac4a88589dc8c6660c3c7120f0b2612c1be0f6b69f75",
+    "datePublished": "2026-01-01T09:00:00+03:00",
+    "dateModified": "2026-01-01T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/": {
+    "fingerprint": "87b25572c5aac18f4f76f59210729f189f6b88d0038b73024e7a57535a019be5",
+    "datePublished": "2026-01-01T09:00:00+03:00",
+    "dateModified": "2026-01-01T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/": {
+    "fingerprint": "6e7178e0c10cf1bee32d5f15efdb3d18a4c73e2961fe91b4c51376a22303fbdc",
+    "datePublished": "2026-01-01T09:00:00+03:00",
+    "dateModified": "2026-01-01T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-2026-legal-process-investment-options/": {
+    "fingerprint": "edf7f31923673c7b04aee49e074732837e82a631a981fa9b11e7ce63fd33ebd7",
+    "datePublished": "2026-01-01T09:00:00+03:00",
+    "dateModified": "2026-01-01T09:00:00+03:00"
+  },
+  "/en/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/": {
+    "fingerprint": "0844664f55bfff6f4657b46474b2750eeebff2e57fadd5a4f73303574b98d312",
+    "datePublished": "2025-01-10T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/": {
+    "fingerprint": "7f74b7c82f28e57beebfa0e412541b457a306bb45a221c161bad075bfae20094",
+    "datePublished": "2025-01-10T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/": {
+    "fingerprint": "e9cb03f6b2d1cac4e0577bdad4ffaceeb380942968f4ab59581324f7d1c0887d",
+    "datePublished": "2025-01-10T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know/": {
+    "fingerprint": "f6f97726c11483bade73ee5ba312ae52aaf1675d370b99ab74558628cee80133",
+    "datePublished": "2025-01-10T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/": {
+    "fingerprint": "5e31320836b0e704058b74ef580e6584ea5823417723cc1a97506dbd816423a9",
+    "datePublished": "2025-01-09T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/": {
+    "fingerprint": "9ac4720bd7322ee1a7da9fada7877eb1337d387d5981ba0a58c122724d9993a2",
+    "datePublished": "2025-01-09T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/": {
+    "fingerprint": "fe7f8c2547fbbfd286e8953e7947dca035728bbdaa3ca2aafc43aa6c8f24555f",
+    "datePublished": "2025-01-09T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd/": {
+    "fingerprint": "8484219f9b06c02d9b324093d980ed88ec83e6680d5fcbc983efd119b24c5fd2",
+    "datePublished": "2025-01-09T09:00:00+03:00",
+    "dateModified": "2026-10-21T09:00:00+03:00"
+  },
+  "/en/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/": {
+    "fingerprint": "628663cd6b4db2749c52de6d576291c794331fde9b0b46e0462999da293615b3",
+    "datePublished": "2025-01-08T09:00:00+03:00",
+    "dateModified": "2025-01-08T09:00:00+03:00"
+  },
+  "/tr/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/": {
+    "fingerprint": "0c4bedfe030451dc084ed012fb54c5eb4282161d892030e35bde8cd2a138c551",
+    "datePublished": "2025-01-08T09:00:00+03:00",
+    "dateModified": "2025-01-08T09:00:00+03:00"
+  },
+  "/zh/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/": {
+    "fingerprint": "6b3d13cd45c90f05f4263d55c52fd9de1b3cc8be1c22a92cc634c469694f634e",
+    "datePublished": "2025-01-08T09:00:00+03:00",
+    "dateModified": "2025-01-08T09:00:00+03:00"
+  },
+  "/ar/blog/2025-tl-deposit-usd-yield-full-return-analysis-for-foreign-investors-exiting-kkm-in-february-2025/": {
+    "fingerprint": "3c358d5822c0ba5b6af3c1a23afc25570f3733eb835e04be80055dd94f27ccca",
+    "datePublished": "2025-01-08T09:00:00+03:00",
+    "dateModified": "2025-01-08T09:00:00+03:00"
+  },
+  "/en/blog/turkey-china-immigration-investment-cooperation/": {
+    "fingerprint": "6243b4663b22f9b2244b69600580d987d3fb2cdc6ef0134792c6e6b65c9e3571",
+    "datePublished": "2025-01-07T09:00:00+03:00",
+    "dateModified": "2025-01-07T09:00:00+03:00"
+  },
+  "/tr/blog/turkey-china-immigration-investment-cooperation/": {
+    "fingerprint": "30ccf69921a1d48aa1ff933ab68a9a191a8231dfa0e673fd85a8077b653c4abb",
+    "datePublished": "2025-01-07T09:00:00+03:00",
+    "dateModified": "2025-01-07T09:00:00+03:00"
+  },
+  "/zh/blog/turkey-china-immigration-investment-cooperation/": {
+    "fingerprint": "4b48f5cf4e666c9145f146f12d7b2009ae9d8123f18e5e65a319d6bec17ee07f",
+    "datePublished": "2025-01-07T09:00:00+03:00",
+    "dateModified": "2025-01-07T09:00:00+03:00"
+  },
+  "/ar/blog/turkey-china-immigration-investment-cooperation/": {
+    "fingerprint": "2a46b29ef478ad77502de849f8ba824291577b7b045d0ca347627bc82c0f30e2",
+    "datePublished": "2025-01-07T09:00:00+03:00",
+    "dateModified": "2025-01-07T09:00:00+03:00"
+  },
+  "/en/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/": {
+    "fingerprint": "d1508b67ae11055d83e1efa669048a860fee37c4270a6a4183e7abec02287b2c",
+    "datePublished": "2025-01-06T09:00:00+03:00",
+    "dateModified": "2025-01-06T09:00:00+03:00"
+  },
+  "/tr/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/": {
+    "fingerprint": "4047af164b0f47c7dae707f2693009bc9085a1902f66628b70d85b35eae9ba21",
+    "datePublished": "2025-01-06T09:00:00+03:00",
+    "dateModified": "2025-01-06T09:00:00+03:00"
+  },
+  "/zh/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/": {
+    "fingerprint": "a06287c2cfd8760cc4c8f95457e4d32cc8504fbf5908c4448724aa4601dde2d5",
+    "datePublished": "2025-01-06T09:00:00+03:00",
+    "dateModified": "2025-01-06T09:00:00+03:00"
+  },
+  "/ar/blog/success-stories-newly-approved-turkish-citizenship-turkish-id-cards/": {
+    "fingerprint": "ca50d6eceb05441a9e8716aa60697adfb5aad2b0a2f05ac88e1be8a2b5d551a3",
+    "datePublished": "2025-01-06T09:00:00+03:00",
+    "dateModified": "2025-01-06T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+    "fingerprint": "54bd829f5a6ce6f122ad5664718056b17556eca3590f7d2a73b9d824dfe5d4c3",
+    "datePublished": "2025-01-05T09:00:00+03:00",
+    "dateModified": "2025-01-05T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+    "fingerprint": "8ff530008dae6828b754f9e9977c35334bf896b8a40e0ed841c3e37481009ebc",
+    "datePublished": "2025-01-05T09:00:00+03:00",
+    "dateModified": "2025-01-05T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+    "fingerprint": "ac84634344979e8fb79faaef6de43d616c01a421a71d314382715e48e00fbe8b",
+    "datePublished": "2025-01-05T09:00:00+03:00",
+    "dateModified": "2025-01-05T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+    "fingerprint": "0779b9c7291e93ff2f326e4a5062078e6af36dd0243d3e57c1a8c58b4b5b353d",
+    "datePublished": "2025-01-05T09:00:00+03:00",
+    "dateModified": "2025-01-05T09:00:00+03:00"
+  },
+  "/en/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "fingerprint": "201b8a6eb064c857b4bc7043142b32165ebd71cbddf9c23143f289b90e234aa5",
+    "datePublished": "2025-01-04T09:00:00+03:00",
+    "dateModified": "2025-01-04T09:00:00+03:00"
+  },
+  "/tr/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "fingerprint": "a2a091c1444d5a55cb9009e7790df972da0037bcaf97ec58ffa72785e04d174a",
+    "datePublished": "2025-01-04T09:00:00+03:00",
+    "dateModified": "2025-01-04T09:00:00+03:00"
+  },
+  "/zh/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "fingerprint": "7875e68f352f6efa36776f2ac046baf82a9d397d023b93756d9b2f6e3e3d6bdc",
+    "datePublished": "2025-01-04T09:00:00+03:00",
+    "dateModified": "2025-01-04T09:00:00+03:00"
+  },
+  "/ar/blog/work-permit-turkey-turkish-parent-family-connection/": {
+    "fingerprint": "7103840f5aad75967306509acd99a2d645a55f210c0b57faee19203c33c73d86",
+    "datePublished": "2025-01-04T09:00:00+03:00",
+    "dateModified": "2025-01-04T09:00:00+03:00"
+  },
+  "/en/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "fingerprint": "c7bfc1caff3c438cf418e65034462665f20a346703f3b488996f92597f78db5a",
+    "datePublished": "2025-01-03T09:00:00+03:00",
+    "dateModified": "2025-01-03T09:00:00+03:00"
+  },
+  "/tr/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "fingerprint": "3f7931f211e08c546f8d7e45fcca3726ce3cefed67862fd1437ac73adb1a9457",
+    "datePublished": "2025-01-03T09:00:00+03:00",
+    "dateModified": "2025-01-03T09:00:00+03:00"
+  },
+  "/zh/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "fingerprint": "98c69e0128eac1922a791b99f2fca7d5eba884765a5d7f2dc5dd8f802538b0a1",
+    "datePublished": "2025-01-03T09:00:00+03:00",
+    "dateModified": "2025-01-03T09:00:00+03:00"
+  },
+  "/ar/blog/work-permit-turkey-company-owners-shareholders-2025/": {
+    "fingerprint": "a52e05c13d877ca9556ef712d356ba69d12069955f7a37e660b9eed999248b7e",
+    "datePublished": "2025-01-03T09:00:00+03:00",
+    "dateModified": "2025-01-03T09:00:00+03:00"
+  },
+  "/en/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "fingerprint": "765ee718196af0e8edeea28092c3dca7cf9abcf5db5e4bed7f7a2c9e8b7bd6f0",
+    "datePublished": "2025-01-02T09:00:00+03:00",
+    "dateModified": "2025-01-02T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "fingerprint": "b4b3714dced4304b04463141e36963f82bb76c49304eff8e66d8311f9d47b28b",
+    "datePublished": "2025-01-02T09:00:00+03:00",
+    "dateModified": "2025-01-02T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "fingerprint": "5be71110f186053e1e012f2c46d6b133114b5d86e7553f0a339ed99b15e44243",
+    "datePublished": "2025-01-02T09:00:00+03:00",
+    "dateModified": "2025-01-02T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-citizenship-by-investment-bes-private-pension-funds-guide/": {
+    "fingerprint": "fec8958b5964b148a77ac368bdc88b9d8aa4fee9537fefc509d51cdc5431e8d9",
+    "datePublished": "2025-01-02T09:00:00+03:00",
+    "dateModified": "2025-01-02T09:00:00+03:00"
+  },
+  "/en/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "fingerprint": "6bab7b2d9f451d16f40020225357e740a2e92728e56f14c75b327d4929cd6903",
+    "datePublished": "2025-01-01T09:00:00+03:00",
+    "dateModified": "2025-01-01T09:00:00+03:00"
+  },
+  "/tr/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "fingerprint": "4a79aeacfde16f170d485c7d181afca283a296b5882cc7eef311a7aa73922d90",
+    "datePublished": "2025-01-01T09:00:00+03:00",
+    "dateModified": "2025-01-01T09:00:00+03:00"
+  },
+  "/zh/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "fingerprint": "23596ac5429b088f6b2d53644c0b155d959bfc697053c083bca9af9c376bd5b6",
+    "datePublished": "2025-01-01T09:00:00+03:00",
+    "dateModified": "2025-01-01T09:00:00+03:00"
+  },
+  "/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/": {
+    "fingerprint": "8536759b59233122fa77dfaef3fb2d69ddfbf0f1972ab1912454e7f4f2ed2db2",
+    "datePublished": "2025-01-01T09:00:00+03:00",
+    "dateModified": "2025-01-01T09:00:00+03:00"
+  }
+}

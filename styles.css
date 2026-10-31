@@ -113,3 +113,6 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
 @media(max-width:760px){.home-authority-grid,.home-audience-grid,.home-faq-grid{grid-template-columns:1fr;gap:12px}.home-investment-steps{grid-template-columns:1fr;gap:12px}.home-investment-steps li{border-top:1px solid var(--line);padding-top:20px}.home-step-number{font-size:28px;margin-bottom:12px}.home-authority-links{gap:18px}.home-authority-card h3,.home-faq-answer h3{font-size:23px}.home-authority-card p,.home-investment-steps p,.home-faq-answer p{font-size:14px}.home-guide-links a{font-size:21px}}
 
 .home-authority h2[id]{scroll-margin-top:120px}
+
+/* Visible breadcrumb: scoped to the existing crumb area. */
+.site-breadcrumb ol{list-style:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:5px 8px;margin:0;padding:0}.site-breadcrumb li{display:inline-flex;align-items:baseline;gap:8px;min-width:0;max-width:100%}.site-breadcrumb a:hover{text-decoration:underline}.site-breadcrumb [aria-current="page"]{overflow-wrap:anywhere}.breadcrumb-separator{opacity:.6}.article-author-line{white-space:normal}.article-author-line a:hover{text-decoration:underline}

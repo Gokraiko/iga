@@ -6,12 +6,13 @@ const vm = require('node:vm');
 if (process.env.IGA_REFRESH_POPULARITY !== '0') require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, 'scripts/update-article-popularity.cjs')], { stdio: 'inherit', timeout: 10000 });
 
 const origin = 'https://igalawfirm.com';
+const schemaMedia = require('./scripts/build-schema-media.cjs').createTracker(__dirname);
 const languages = ['en', 'tr', 'zh', 'ar'];
 const template = fs.readFileSync('index.html', 'utf8');
 const out = path.join(__dirname, 'dist');
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(path.join(out, 'public'), { recursive: true });
-for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'app.js', 'contact-forms.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
+for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'schema-content.js', 'app.js', 'contact-forms.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
@@ -37,7 +38,7 @@ let document = createDocument();
 const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
-for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'app.js']) {
+for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'schema-content.js', 'app.js']) {
   vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
 }
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);
@@ -79,9 +80,11 @@ for (const route of routes) {
     const structuredData = JSON.parse(schema?.textContent || '{"@context":"https://schema.org","@graph":[]}');
     const graph = structuredData['@graph'] || [];
     const blogPosting = graph.find(item => item['@type'] === 'BlogPosting');
+    const originalOgImage=blogPosting?.image || origin + '/public/assets/bosphorus-editorial.jpg';
+    if(blogPosting)schemaMedia.enhance(structuredData,{canonical,language:lang,visibleArticleContent:(document.app.innerHTML.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/)?.[0]||'')+(document.app.innerHTML.match(/<article class="article article-full">([\s\S]*?)<\/article>/)?.[1]||'')});
     const pageType = route.sub ? 'BlogPosting' : ['igaturkishcitizenshipbyinvestment','igalawworkpermit','igalawcorporatelaw','igalawlegalconsultancy','igalawlitigation','igalawresidencepermit','igalawrealestateduediligence','igalawdocumentation'].includes(route.page) ? 'Service' : route.page === 'journal' ? 'Blog' : route.page;
     const languageCode = lang === 'zh' ? 'zh-CN' : lang;
-    const ogImage = blogPosting?.image || origin + '/public/assets/bosphorus-editorial.jpg';
+    const ogImage = originalOgImage;
     const pageConfig = { path: pathname, language: languageCode, pageType, title, description, canonical, alternates: alternateEntries, robots: 'index,follow', openGraph: { type: route.sub ? 'article' : 'website', locale: lang === 'zh' ? 'zh_CN' : lang === 'ar' ? 'ar_AR' : lang === 'tr' ? 'tr_TR' : 'en_US', url: canonical, title, description, image: ogImage }, structuredData };
     seoConfig[pathname] = pageConfig;
     const alternateHtml = alternateEntries.map(item => `<link rel="alternate" hreflang="${item.hreflang}" href="${escapeHtml(item.href)}" />`).join('\n    ');
@@ -94,7 +97,7 @@ for (const route of routes) {
     <meta property="og:title" content="${escapeHtml(pageConfig.openGraph.title)}" />
     <meta property="og:description" content="${escapeHtml(pageConfig.openGraph.description)}" />
     <meta property="og:image" content="${escapeHtml(pageConfig.openGraph.image)}" />
-    ${blogPosting?.associatedMedia?.caption ? `<meta property="og:image:alt" content="${escapeHtml(blogPosting.associatedMedia.caption)}" /><meta name="twitter:image:alt" content="${escapeHtml(blogPosting.associatedMedia.caption)}" />` : ''}
+    ${blogPosting?.image?.caption ? `<meta property="og:image:alt" content="${escapeHtml(blogPosting.image.caption)}" /><meta name="twitter:image:alt" content="${escapeHtml(blogPosting.image.caption)}" />` : ''}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="${escapeHtml(title)}" />
     <meta name="twitter:description" content="${escapeHtml(description)}" />
@@ -118,6 +121,7 @@ for (const route of routes) {
   }
 }
 
+schemaMedia.save();
 fs.writeFileSync(path.join(__dirname, 'seo-config.json'), JSON.stringify(seoConfig, null, 2) + '\n');
 fs.writeFileSync(path.join(out, 'seo-config.json'), JSON.stringify(seoConfig, null, 2) + '\n');
 fs.writeFileSync(path.join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitemap.join('')}</urlset>\n`);
