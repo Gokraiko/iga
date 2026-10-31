@@ -10131,6 +10131,866 @@
       ]
     }
   },
+  "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/": {
+    "path": "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Transfer Money to Turkey from China: Property & Citizenship",
+    "description": "Buying property in Turkey from China? Understand Hong Kong and Singapore transfers, third-party payments, DAB records and citizenship-related legal checks.",
+    "canonical": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "title": "Transfer Money to Turkey from China: Property & Citizenship",
+      "description": "Buying property in Turkey from China? Understand Hong Kong and Singapore transfers, third-party payments, DAB records and citizenship-related legal checks.",
+      "image": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "name": "Transfer Money to Turkey from China: Property & Citizenship",
+          "description": "Buying property in Turkey from China? Understand Hong Kong and Singapore transfers, third-party payments, DAB records and citizenship-related legal checks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#article",
+          "url": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "headline": "How Chinese Investors Can Transfer Money to Turkey for Property & Citizenship (2026)",
+          "description": "Buying property in Turkey from China? Understand Hong Kong and Singapore transfers, third-party payments, DAB records and citizenship-related legal checks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-31T09:00:00+03:00",
+          "dateModified": "2026-10-31T08:30:10.548Z",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp",
+            "width": 1672,
+            "height": 941,
+            "name": "Chinese Investor Property Payments in Istanbul",
+            "description": "An Istanbul office scene accompanying guidance on documented bank transfers, property payments and Turkish citizenship applications.",
+            "caption": "AI-created illustration of an investor and legal adviser reviewing property payment documents in an Istanbul office overlooking the Bosphorus.",
+            "inLanguage": "en"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "How Chinese Investors Can Transfer Money to Turkey for Property & Citizenship (2026)",
+              "item": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Can my friend in Hong Kong transfer money for my Turkish property purchase?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Potentially. Whether the proposed structure is suitable depends on the circumstances, including the relationship between the parties, the payment purpose, banking requirements and the documentation available. It should be reviewed before the transfer is made."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can my Chinese company pay for a property registered in my personal name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A corporate-funded payment structure may be possible in appropriate circumstances, but the relationship with the company, basis for the payment, supporting documentation and applicable compliance requirements need to be reviewed. It should not be assumed to be automatically acceptable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I need to visit Turkey to open a bank account?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not necessarily in every case. Some institutions may offer remote identification or other arrangements for eligible foreign clients, but the requirements vary between banks and applicants."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I purchase property through a Power of Attorney?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A properly drafted and accepted POA can authorise a representative to carry out specified property-related procedures where representation is legally permitted. However, a Power of Attorney does not necessarily eliminate every personal-attendance requirement connected with the broader residence and citizenship process."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is USD 400,000 Enough to Obtain Turkish Citizenship?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "USD 400,000 is the current minimum qualifying threshold for the real estate investment route, but reaching the financial threshold alone does not guarantee citizenship. The property, transaction, payment evidence, holding requirement, applicant and application must satisfy the applicable requirements, and the competent authorities make the relevant determinations. For the complete programme structure and alternative investment routes, see our Turkish Citizenship by Investment requirements and options."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/": {
+    "path": "/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Çin’den Türkiye’ye Para Transferi: Konut ve Vatandaşlık",
+    "description": "Çinli yatırımcılar için Türkiye’ye para transferi: Hong Kong ve Singapur hesapları, üçüncü kişi ödemeleri, DAB ve vatandaşlık için hukuki kontroller.",
+    "canonical": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "title": "Çin’den Türkiye’ye Para Transferi: Konut ve Vatandaşlık",
+      "description": "Çinli yatırımcılar için Türkiye’ye para transferi: Hong Kong ve Singapur hesapları, üçüncü kişi ödemeleri, DAB ve vatandaşlık için hukuki kontroller.",
+      "image": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "name": "Çin’den Türkiye’ye Para Transferi: Konut ve Vatandaşlık",
+          "description": "Çinli yatırımcılar için Türkiye’ye para transferi: Hong Kong ve Singapur hesapları, üçüncü kişi ödemeleri, DAB ve vatandaşlık için hukuki kontroller.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#article",
+          "url": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "headline": "Çinli Yatırımcılar Gayrimenkul ve Vatandaşlık İçin Türkiye’ye Nasıl Para Transfer Edebilir? (2026)",
+          "description": "Çinli yatırımcılar için Türkiye’ye para transferi: Hong Kong ve Singapur hesapları, üçüncü kişi ödemeleri, DAB ve vatandaşlık için hukuki kontroller.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-31T09:00:00+03:00",
+          "dateModified": "2026-10-31T08:30:10.559Z",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp",
+            "width": 1672,
+            "height": 941,
+            "name": "Çinli Yatırımcıların İstanbul’da Gayrimenkul Ödemeleri",
+            "description": "Belgeli banka transferleri, gayrimenkul ödemeleri ve Türk vatandaşlığı başvurularına ilişkin rehbere eşlik eden İstanbul ofisi sahnesi.",
+            "caption": "Boğaz manzaralı İstanbul ofisinde gayrimenkul ödeme belgelerini inceleyen yatırımcı ve hukuk danışmanını gösteren yapay zekâ illüstrasyonu.",
+            "inLanguage": "tr"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Çinli Yatırımcılar Gayrimenkul ve Vatandaşlık İçin Türkiye’ye Nasıl Para Transfer Edebilir? (2026)",
+              "item": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Hong Kong’daki arkadaşım Türkiye’deki gayrimenkul alımım için para gönderebilir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Koşullara göre mümkün olabilir. Uygunluk; tarafların ilişkisi, ödeme amacı, bankacılık şartları ve mevcut belgeler dahil somut duruma bağlıdır. Transferden önce incelenmelidir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Çin’deki şirketim şahsım adına tescil edilecek gayrimenkulün bedelini ödeyebilir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Şirket tarafından finanse edilen ödeme uygun koşullarda mümkün olabilir. Ancak şirketle ilişki, ödemenin dayanağı, destekleyici belgeler ve uyum şartları incelenmelidir. Otomatik kabul edileceği varsayılmamalıdır."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Banka hesabı açmak için Türkiye’ye gelmem gerekir mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Her durumda şart olmayabilir. Bazı kurumlar uygun yabancı müşterilere uzaktan kimlik tespiti veya başka düzenlemeler sunabilir; şartlar bankaya ve başvuru sahibine göre değişir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vekâletnameyle gayrimenkul satın alabilir miyim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uygun düzenlenmiş ve kabul edilmiş vekâletname, hukuken temsilin mümkün olduğu belirli gayrimenkul işlemlerini bir temsilcinin yürütmesine yetki verebilir. Ancak vekâletname, daha geniş ikamet ve vatandaşlık sürecindeki her şahsen katılım şartını mutlaka ortadan kaldırmaz."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Türk Vatandaşlığı İçin 400.000 ABD Doları Yeterli mi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400.000 ABD doları, gayrimenkul yatırım yolu için mevcut asgari uygun yatırım eşiğidir. Ancak yalnız bu tutara ulaşmak vatandaşlığı garanti etmez. Gayrimenkul, işlem, ödeme kanıtları, elde tutma şartı, başvuru sahibi ve başvuru ilgili gereklilikleri karşılamalıdır. İlgili tespitleri yetkili makamlar yapar. Programın tam yapısı ve alternatif yatırım yolları için yatırım yoluyla Türk vatandaşlığı şartlarını ve seçeneklerini inceleyebilirsiniz."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/": {
+    "path": "/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "中国投资者汇款到土耳其买房入籍：2026法律指南",
+    "description": "中国投资者向土耳其汇款购房前，应了解香港和新加坡账户、第三方付款、DAB外汇买入凭证及入籍相关法律审查。",
+    "canonical": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "title": "中国投资者汇款到土耳其买房入籍：2026法律指南",
+      "description": "中国投资者向土耳其汇款购房前，应了解香港和新加坡账户、第三方付款、DAB外汇买入凭证及入籍相关法律审查。",
+      "image": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "name": "中国投资者汇款到土耳其买房入籍：2026法律指南",
+          "description": "中国投资者向土耳其汇款购房前，应了解香港和新加坡账户、第三方付款、DAB外汇买入凭证及入籍相关法律审查。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#article",
+          "url": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "headline": "中国投资者如何向土耳其汇款购房并申请国籍？（2026）",
+          "description": "中国投资者向土耳其汇款购房前，应了解香港和新加坡账户、第三方付款、DAB外汇买入凭证及入籍相关法律审查。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-31T09:00:00+03:00",
+          "dateModified": "2026-10-31T08:30:10.560Z",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp",
+            "width": 1672,
+            "height": 941,
+            "name": "中国投资者在伊斯坦布尔的购房付款安排",
+            "description": "伊斯坦布尔办公室场景，配合银行汇款凭证、房产付款及土耳其入籍申请指南。",
+            "caption": "人工智能创作的示意图：投资者与法律顾问在俯瞰博斯普鲁斯海峡的伊斯坦布尔办公室审阅购房付款文件。",
+            "inLanguage": "zh-CN"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "中国投资者如何向土耳其汇款购房并申请国籍？（2026）",
+              "item": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "我的香港朋友可以为我在土耳其购房汇款吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "在适当条件下可能可以。安排是否合适，取决于具体情况，包括双方关系、付款用途、银行要求及可提供的文件。应在汇款前审查。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我的中国公司可以支付登记在我个人名下的房产款吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "在适当情况下，公司出资付款的结构可能可行，但必须审查与公司的关系、付款依据、支持文件及适用合规要求，不能假设必然被接受。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "开户时必须到土耳其吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "并非每个案件都必然要求到场。某些机构可能为符合资格的外国客户提供远程识别或其他安排，但要求因银行及申请人而异。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我可以通过授权委托书购买房产吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "在法律允许代理的情况下，适当起草并被接受的授权委托书，可以授权代理人办理指定的房产相关手续。 但授权委托书并不一定免除整个居留和入籍过程中的所有本人到场要求。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "40万美元足以取得土耳其国籍吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40万美元是房产投资途径目前的最低合资格金额，但仅达到资金门槛，并不保证取得国籍。 房产、交易、付款凭证、持有期、申请人及申请材料都必须满足适用要求，相关认定由主管机关作出。 关于计划的完整结构及其他投资途径，请参阅土耳其投资入籍要求及选择。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/": {
+    "path": "/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "تحويل الأموال إلى تركيا للصينيين: العقار والجنسية 2026",
+    "description": "دليل تحويل الأموال إلى تركيا للمستثمر الصيني: حسابات هونغ كونغ وسنغافورة، دفع الأطراف الثالثة، شهادة DAB والمراجعة القانونية للعقار والجنسية.",
+    "canonical": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "title": "تحويل الأموال إلى تركيا للصينيين: العقار والجنسية 2026",
+      "description": "دليل تحويل الأموال إلى تركيا للمستثمر الصيني: حسابات هونغ كونغ وسنغافورة، دفع الأطراف الثالثة، شهادة DAB والمراجعة القانونية للعقار والجنسية.",
+      "image": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "name": "تحويل الأموال إلى تركيا للصينيين: العقار والجنسية 2026",
+          "description": "دليل تحويل الأموال إلى تركيا للمستثمر الصيني: حسابات هونغ كونغ وسنغافورة، دفع الأطراف الثالثة، شهادة DAB والمراجعة القانونية للعقار والجنسية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#article",
+          "url": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+          "headline": "كيف يحوّل المستثمرون الصينيون الأموال إلى تركيا للعقار والجنسية؟ (2026)",
+          "description": "دليل تحويل الأموال إلى تركيا للمستثمر الصيني: حسابات هونغ كونغ وسنغافورة، دفع الأطراف الثالثة، شهادة DAB والمراجعة القانونية للعقار والجنسية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-10-31T09:00:00+03:00",
+          "dateModified": "2026-10-31T08:30:10.561Z",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/chinese-investors-turkey-property-transfer.webp",
+            "width": 1672,
+            "height": 941,
+            "name": "ترتيب مدفوعات العقارات للمستثمرين الصينيين في إسطنبول",
+            "description": "مشهد مكتب في إسطنبول يرافق دليلاً بشأن توثيق التحويلات المصرفية ومدفوعات العقار وطلبات الجنسية التركية.",
+            "caption": "رسم توضيحي مولد بالذكاء الاصطناعي لمستثمر ومستشارة قانونية يراجعان وثائق دفع عقار في مكتب بإسطنبول مطل على البوسفور.",
+            "inLanguage": "ar"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "كيف يحوّل المستثمرون الصينيون الأموال إلى تركيا للعقار والجنسية؟ (2026)",
+              "item": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "هل يستطيع صديقي في هونغ كونغ تحويل الأموال لشراء عقاري في تركيا؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "قد يكون ذلك ممكناً. تعتمد مناسبة الهيكل على الظروف، ومنها العلاقة بين الأطراف والغرض من الدفع ومتطلبات البنك والوثائق المتاحة. ويجب مراجعته قبل التحويل."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكن لشركتي الصينية دفع ثمن عقار يُسجّل باسمي الشخصي؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "قد يكون الهيكل الممول من الشركة ممكناً في ظروف مناسبة، لكن يلزم مراجعة العلاقة مع الشركة وأساس الدفع والوثائق الداعمة ومتطلبات الامتثال. ولا ينبغي افتراض قبوله تلقائياً."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل أحتاج إلى زيارة تركيا لفتح حساب مصرفي؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "ليس بالضرورة في كل حالة. قد تقدم بعض المؤسسات إجراءات تحقق عن بُعد أو ترتيبات أخرى للعملاء الأجانب المؤهلين، لكن المتطلبات تختلف باختلاف البنوك ومقدمي الطلبات."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يمكنني شراء عقار عن طريق وكالة؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يمكن لوكالة مصاغة ومقبولة بصورة مناسبة أن تسمح لممثل بإجراء معاملات عقارية محددة عندما يسمح القانون بالتمثيل. لكن الوكالة لا تلغي بالضرورة كل متطلبات الحضور الشخصي المرتبطة بإجراءات الإقامة والجنسية الأوسع."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "هل يكفي مبلغ 400,000 دولار أمريكي للحصول على الجنسية التركية؟",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400,000 دولار أمريكي هو الحد الأدنى الحالي للاستثمار العقاري المؤهل، لكن بلوغ الحد المالي وحده لا يضمن الحصول على الجنسية. يجب أن يستوفي العقار والمعاملة وإثبات الدفع ومدة الاحتفاظ ومقدم الطلب والطلب المتطلبات السارية، وتتخذ الجهات المختصة القرارات ذات الصلة. للاطلاع على هيكل البرنامج الكامل ومسارات الاستثمار البديلة، راجع متطلبات الجنسية التركية عن طريق الاستثمار وخياراتها."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/is-turkey-safe-for-americans/": {
     "path": "/en/blog/is-turkey-safe-for-americans/",
     "language": "en",

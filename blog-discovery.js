@@ -1,5 +1,10 @@
 // Reviewed existing-page relationships; no generated keyword or URL guesses.
 window.blogDiscovery={
+ "chinese-investors-transfer-money-turkey-property-citizenship": {
+  "cluster":"investment",
+  "related":["turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide","turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper"],
+  "services":["igalawrealestateduediligence"]
+ },
 "is-turkey-safe-for-americans": {
     "cluster": "international",
     "related": [

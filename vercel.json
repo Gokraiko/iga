@@ -2550,6 +2550,46 @@
       "statusCode": 301
     },
     {
+      "source": "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship",
+      "destination": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/index.html",
+      "destination": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship",
+      "destination": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship",
+      "destination": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship",
+      "destination": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
+      "statusCode": 301
+    },
+    {
       "source": "/en/blog/is-turkey-safe-for-americans",
       "destination": "https://igalawfirm.com/en/blog/is-turkey-safe-for-americans/",
       "statusCode": 301

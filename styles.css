@@ -116,3 +116,6 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
 
 /* Visible breadcrumb: scoped to the existing crumb area. */
 .site-breadcrumb ol{list-style:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:5px 8px;margin:0;padding:0}.site-breadcrumb li{display:inline-flex;align-items:baseline;gap:8px;min-width:0;max-width:100%}.site-breadcrumb a:hover{text-decoration:underline}.site-breadcrumb [aria-current="page"]{overflow-wrap:anywhere}.breadcrumb-separator{opacity:.6}.article-author-line{white-space:normal}.article-author-line a:hover{text-decoration:underline}
+
+/* This post's optional compact author profile; other article headers keep their bylines. */
+.article-author-card{display:inline-flex;align-items:center;gap:11px;margin:6px 0 18px;color:inherit;text-transform:none;letter-spacing:normal;max-width:100%}.article-author-card>img{width:48px;height:48px;border-radius:50%;object-fit:cover;object-position:center 20%;flex:none}.article-author-card__copy{display:grid;gap:1px;line-height:1.45}.article-author-card__copy small{font-size:10px;opacity:.75}.article-author-card__copy strong{font-size:14px;font-weight:600}.article-author-card__copy>span{font-size:11px;opacity:.8}.article-author-card:hover strong{text-decoration:underline}

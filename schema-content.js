@@ -36,13 +36,15 @@ window.igaSchemaContent = (() => {
     if (!article) return [];
     const faqTitle=/^(?:frequently asked questions|faqs?|sık(?:ça)? sorulan sorular|常见问题(?:解答)?|الأسئلة الشائعة|الأسئلة المتداولة)(?:\s*[:：（(].*)?$/i;
     const tokens=[...article.matchAll(/<(h[2-4]|p|li)\b[^>]*>([\s\S]*?)<\/\1>/g)];
-    const entries=[];let sectionLevel=0,pending=null;
+    const entries=[];let sectionLevel=0,sectionNumber=null,pending=null;
     const finish=()=>{if(pending?.answers.length)entries.push([pending.question,pending.answers.join(' ')]);pending=null;};
     for (const token of tokens) {
       const tag=token[1],value=text(token[2]);
       if(tag.startsWith('h')) {
         const level=Number(tag[1]);
-        if(faqTitle.test(value)){finish();sectionLevel=level;continue;}
+        if(faqTitle.test(value.replace(/^\d+[.)、]\s*/,''))){finish();sectionLevel=level;sectionNumber=value.match(/^(\d+)[.)、]/)?.[1]||null;continue;}
+        const nextNumber=value.match(/^(\d+)[.)、]/)?.[1];
+        if(sectionLevel && level<=sectionLevel && sectionNumber!==null && nextNumber && Number(nextNumber)>Number(sectionNumber)){finish();sectionLevel=0;sectionNumber=null;continue;}
         if(sectionLevel && (level>sectionLevel || /[?？؟]$/.test(value))){finish();pending={question:value,answers:[],kind:'heading'};}
         else if(sectionLevel && level<=sectionLevel){finish();sectionLevel=0;}
       } else if(sectionLevel && value) {
@@ -83,7 +85,11 @@ window.igaSchemaContent = (() => {
     const faqs=post?articleFaqs(content):detailFaqs(content);
     if(faqs.length)graph.push({'@type':'FAQPage','@id':canonical+'#faq',mainEntity:faqs.map(([q,a])=>({'@type':'Question',name:q,acceptedAnswer:{'@type':'Answer',text:a}}))});
     const article=graph.find(n=>n['@type']==='BlogPosting');
-    if(article)article.author={'@id':personId(author(post,team,anchors,route.lang,pathFor).member)};
+    if(article){
+      const writer=author(post,team,anchors,route.lang,pathFor).member;
+      article.author={'@id':personId(writer)};
+      if(post.authorPresentation==='profile-card')graph.find(n=>n['@id']===personId(writer)).image=origin+writer.img;
+    }
     return graph;
   }
   return {text,breadcrumbs,breadcrumbMarkup,author,enhance,articleFaqs,detailFaqs};

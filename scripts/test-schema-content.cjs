@@ -20,6 +20,7 @@ for(const title of ['Frequently Asked Questions','Sıkça Sorulan Sorular','常�
 }
 check(schema.articleFaqs('<div class="article-content"><h2>FAQ</h2><p>Question?</p><p>Answer.</p><p>Contact the firm.</p></div>')[0][1]==='Answer.');
 check(schema.articleFaqs('<div class="article-content"><h2>No FAQ here</h2><h3>A question?</h3><p>Answer.</p></div>').length===0);
+check(schema.articleFaqs('<div class="article-content"><h2>9. Sık Sorulan Sorular</h2><h3>Soru?</h3><p>Cevap.</p><h2>10. Nasıl yardımcı oluruz?</h2><p>Hizmet açıklaması.</p></div>').length===1);
 check(schema.detailFaqs('<details><summary>A question?</summary><p>Visible <a href="/x/">answer</a>.</p></details>')[0][1]==='Visible answer.');
 const {isoDate,createTracker}=require('./build-schema-media.cjs');
 check(isoDate('2025-01-01')==='2025-01-01T09:00:00+03:00');
