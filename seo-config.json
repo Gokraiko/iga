@@ -2036,6 +2036,9 @@
             },
             {
               "@id": "https://igalawfirm.com/#gokhan-aydinir"
+            },
+            {
+              "@id": "https://igalawfirm.com/#melih-seref"
             }
           ],
           "breadcrumb": {
@@ -2131,6 +2134,16 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "url": "https://igalawfirm.com/en/team/#gokhan-aydinir"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#melih-seref",
+          "name": "Melih Şeref",
+          "jobTitle": "Finance Director",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#melih-seref"
         },
         {
           "@type": "BreadcrumbList",
@@ -2274,6 +2287,9 @@
             },
             {
               "@id": "https://igalawfirm.com/#gokhan-aydinir"
+            },
+            {
+              "@id": "https://igalawfirm.com/#melih-seref"
             }
           ],
           "breadcrumb": {
@@ -2369,6 +2385,16 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "url": "https://igalawfirm.com/tr/team/#gokhan-aydinir"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#melih-seref",
+          "name": "Melih Şeref",
+          "jobTitle": "Finans Direktörü",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#melih-seref"
         },
         {
           "@type": "BreadcrumbList",
@@ -2512,6 +2538,9 @@
             },
             {
               "@id": "https://igalawfirm.com/#gokhan-aydinir"
+            },
+            {
+              "@id": "https://igalawfirm.com/#melih-seref"
             }
           ],
           "breadcrumb": {
@@ -2607,6 +2636,16 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "url": "https://igalawfirm.com/zh/team/#gokhan-aydinir"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#melih-seref",
+          "name": "Melih Şeref",
+          "jobTitle": "财务总监",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#melih-seref"
         },
         {
           "@type": "BreadcrumbList",
@@ -2750,6 +2789,9 @@
             },
             {
               "@id": "https://igalawfirm.com/#gokhan-aydinir"
+            },
+            {
+              "@id": "https://igalawfirm.com/#melih-seref"
             }
           ],
           "breadcrumb": {
@@ -2845,6 +2887,16 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "url": "https://igalawfirm.com/ar/team/#gokhan-aydinir"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#melih-seref",
+          "name": "Melih Şeref",
+          "jobTitle": "المدير المالي",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#melih-seref"
         },
         {
           "@type": "BreadcrumbList",
