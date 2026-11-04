@@ -270,4 +270,71 @@ window.finalSeoMetadata = {
     "description": "اقرأ حالة عميل للجنسية التركية بالإيداع البنكي خلال ثلاث سنوات وخطوات السحب. النتائج السابقة لا تضمن عوائد مستقبلية أو حماية رأس المال."
   }
 };
+// Search snippets for the four CTR review articles.
+Object.assign(window.finalSeoMetadata, {
+  "/en/blog/triple-citizenship/": {
+    "searchTitle": "Can You Have Triple Citizenship? Rules and Risks",
+    "searchDescription": "Can you hold triple citizenship? Learn how people acquire three nationalities, how US and Turkish rules apply, and what to check before adding a passport."
+  },
+  "/tr/blog/triple-citizenship/": {
+    "searchTitle": "Üçlü Vatandaşlık Mümkün mü? Kurallar ve Riskler",
+    "searchDescription": "Üçlü vatandaşlık nasıl kazanılır? ABD ve Türkiye kurallarını, vatandaşlık kaybı riskini ve üçüncü bir vatandaşlık edinmeden önce neleri kontrol etmeniz gerektiğini öğrenin."
+  },
+  "/zh/blog/triple-citizenship/": {
+    "searchTitle": "可以拥有三重国籍吗？美国和土耳其的规定与风险",
+    "searchDescription": "了解三重国籍的取得方式、美国和土耳其的国籍规定，以及取得第三个国籍前应核查的原国籍丧失风险和税务义务。"
+  },
+  "/ar/blog/triple-citizenship/": {
+    "searchTitle": "هل يمكن حمل ثلاث جنسيات؟ القواعد والمخاطر",
+    "searchDescription": "تعرّف على طرق اكتساب الجنسية الثلاثية، وقواعد الولايات المتحدة وتركيا، ومخاطر فقدان الجنسية، وما ينبغي مراجعته قبل اكتساب جنسية ثالثة."
+  },
+  "/en/blog/dual-citizenship-for-americans/": {
+    "searchTitle": "Can Americans Have Dual Citizenship? US Rules Explained",
+    "searchDescription": "Can Americans have dual citizenship? Learn how US rules apply, which routes can lead to a second nationality, and what to know about passports and tax reporting."
+  },
+  "/tr/blog/dual-citizenship-for-americans/": {
+    "searchTitle": "ABD Vatandaşları Çifte Vatandaş Olabilir mi?",
+    "searchDescription": "ABD vatandaşlarının çifte vatandaşlık kurallarını, ikinci vatandaşlık yollarını ve Türk vatandaşlığı seçeneğini inceleyin. Pasaport ve vergi bildirimlerini öğrenin."
+  },
+  "/zh/blog/dual-citizenship-for-americans/": {
+    "searchTitle": "美国公民可以拥有双重国籍吗？美国规则与申请途径",
+    "searchDescription": "了解美国公民持有双重国籍的规则、取得第二国籍的途径，以及考虑申请土耳其国籍时需要留意的护照使用和税务申报义务。"
+  },
+  "/ar/blog/dual-citizenship-for-americans/": {
+    "searchTitle": "هل يسمح للأمريكيين بازدواج الجنسية؟ القواعد والخيارات",
+    "searchDescription": "تعرّف على قواعد ازدواج الجنسية للأمريكيين، وطرق اكتساب جنسية ثانية بما فيها الجنسية التركية، والتزامات استخدام جواز السفر والإبلاغ الضريبي."
+  },
+  "/en/blog/the-strongest-passports-in-the-world/": {
+    "searchTitle": "World’s Strongest Passports: Rankings and Visa Access",
+    "searchDescription": "See how the world’s strongest passports rank and where Türkiye stands. Learn what visa-free scores count and how to compare the travel benefits of a second passport."
+  },
+  "/tr/blog/the-strongest-passports-in-the-world/": {
+    "searchTitle": "Dünyanın En Güçlü Pasaportları ve Türkiye’nin Sırası",
+    "searchDescription": "Dünyanın en güçlü pasaportlarını ve Türkiye’nin sırasını karşılaştırın. Vizesiz erişim puanlarının neyi ölçtüğünü ve ikinci pasaportun seyahate etkisini öğrenin."
+  },
+  "/zh/blog/the-strongest-passports-in-the-world/": {
+    "searchTitle": "全球最强护照排名：免签通行与土耳其护照排名",
+    "searchDescription": "了解全球最强护照的排名和土耳其护照的位置，弄清免签通行分数如何计算，以及如何比较第二本护照的实际旅行便利。"
+  },
+  "/ar/blog/the-strongest-passports-in-the-world/": {
+    "searchTitle": "أقوى جوازات السفر في العالم: الترتيب والسفر دون تأشيرة",
+    "searchDescription": "قارن أقوى جوازات السفر في العالم وتعرّف على موقع تركيا في الترتيب، وكيف تُحسب درجات السفر دون تأشيرة، وما الذي قد يضيفه جواز سفر ثانٍ."
+  },
+  "/en/blog/is-turkey-a-european-or-asian-country/": {
+    "searchTitle": "Is Turkey in Europe or Asia? Geography and Travel Rights",
+    "searchDescription": "Turkey spans Europe and Asia, and Istanbul sits on both continents. Learn where the boundary lies and what Türkiye’s status means for EU travel and residence."
+  },
+  "/tr/blog/is-turkey-a-european-or-asian-country/": {
+    "searchTitle": "Türkiye Avrupa’da mı Asya’da mı? Coğrafya ve Seyahat",
+    "searchDescription": "Türkiye iki kıtaya yayılır. İstanbul’un Avrupa ve Asya yakalarını, kıtalar arasındaki sınırı ve Türkiye’nin statüsünün AB seyahati ile ikamete etkisini öğrenin."
+  },
+  "/zh/blog/is-turkey-a-european-or-asian-country/": {
+    "searchTitle": "土耳其在欧洲还是亚洲？两洲地理与欧洲旅行指南",
+    "searchDescription": "土耳其横跨欧洲和亚洲，伊斯坦布尔也分布在两洲。了解两洲分界线，以及土耳其的地位对前往欧盟旅行、签证和居留有何影响。"
+  },
+  "/ar/blog/is-turkey-a-european-or-asian-country/": {
+    "searchTitle": "هل تركيا في أوروبا أم آسيا؟ الجغرافيا وحقوق السفر",
+    "searchDescription": "تمتد تركيا وإسطنبول عبر أوروبا وآسيا. تعرّف على الحدود الجغرافية بين القارتين وما يعنيه وضع تركيا للسفر والإقامة في الاتحاد الأوروبي."
+  }
+});
 window.articleContentUpdates = {"citizenship-by-investment-programs": "2026-10-21", "crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know": "2026-10-21", "turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio": "2026-10-21", "step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval": "2026-10-21", "turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey": "2026-10-21", "turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd": "2026-10-21", "turkish-citizenship-through-bes-a-secure-path-for-foreign-investors": "2026-10-21"};

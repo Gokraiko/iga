@@ -50,6 +50,7 @@ window.blogDiscovery={
   "triple-citizenship": {
     "cluster": "nationality",
     "related": [
+      "dual-citizenship-for-americans",
       "the-strongest-passports-in-the-world",
       "is-turkey-a-european-or-asian-country"
     ],
@@ -81,6 +82,7 @@ window.blogDiscovery={
   "dual-citizenship-for-americans": {
     "cluster": "nationality",
     "related": [
+      "triple-citizenship",
       "the-strongest-passports-in-the-world",
       "is-turkey-a-european-or-asian-country"
     ],

@@ -415,20 +415,22 @@ function updateSEO(r,t,visible){
   const description=migratedService(r.lang,r.page)?.description||finalMeta?.description||special?.description||(post?articleDescription(post,r.lang):service?serviceData[service.id].desc[r.lang]:pageSeo[r.lang]?.[r.page]?.description||t.practiceIntro);
   const normalizedLang=r.lang==='zh'?'zh-CN':r.lang;
   const url='https://igalawfirm.com'+pathFor(r.lang,r.page,r.sub);
-  document.title=title;
+  const searchTitle=finalMeta?.searchTitle||title;
+  const searchDescription=finalMeta?.searchDescription||description;
+  document.title=searchTitle;
   document.documentElement.lang=normalizedLang;
   document.documentElement.dir=r.lang==='ar'?'rtl':'ltr';
   let canonical=document.querySelector('link[rel="canonical"]');
   if(!canonical){canonical=document.createElement('link');canonical.rel='canonical';document.head.appendChild(canonical)}
   canonical.href=url;
   function setMeta(selector,attribute,value){let item=document.querySelector(selector);if(!item){item=document.createElement('meta');const separator=attribute.indexOf(':');item.setAttribute(attribute.slice(0,separator),attribute.slice(separator+1));document.head.appendChild(item)}item.content=value}
-  setMeta('meta[name="description"]','name:description',description);
-  setMeta('meta[property="og:title"]','property:og:title',title);
-  setMeta('meta[property="og:description"]','property:og:description',description);
+  setMeta('meta[name="description"]','name:description',searchDescription);
+  setMeta('meta[property="og:title"]','property:og:title',searchTitle);
+  setMeta('meta[property="og:description"]','property:og:description',searchDescription);
   setMeta('meta[property="og:url"]','property:og:url',url);
   setMeta('meta[property="og:locale"]','property:og:locale',r.lang==='zh'?'zh_CN':r.lang==='ar'?'ar_AR':r.lang==='tr'?'tr_TR':'en_US');
-  setMeta('meta[name="twitter:title"]','name:twitter:title',title);
-  setMeta('meta[name="twitter:description"]','name:twitter:description',description);
+  setMeta('meta[name="twitter:title"]','name:twitter:title',searchTitle);
+  setMeta('meta[name="twitter:description"]','name:twitter:description',searchDescription);
   const old=document.getElementById('iga-structured-data');if(old)old.remove();
   const org={'@type':['Organization','LegalService'],'@id':'https://igalawfirm.com/#organization','name':'IGA Law Firm','url':'https://igalawfirm.com','email':'info@igalawfirm.com','telephone':'+90 530 426 46 12','logo':'https://igalawfirm.com/public/assets/iga-logo.png'};
   org.address={'@type':'PostalAddress','streetAddress':'Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1','addressLocality':'Beşiktaş','addressRegion':'Istanbul','addressCountry':'TR'};
