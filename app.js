@@ -232,9 +232,15 @@ function commercialLawyerMarkup(lang,t){
  const link=(page,label,fragment='')=>`<a href="${pathFor(lang,page)+fragment}">${esc(label)} ↗</a>`;
  const stages=c.stages.map(([heading,text],i)=>`<section><h3>${esc(heading)}</h3>${i===3?'':paragraph(d.sections[[0,1,2,null,3][i]][1])}${paragraph(text)}</section>`).join('');
  const body=c.sections.map((entry,i)=>section(entry,i===1?link('igalawrealestateduediligence',c.labels.property):i===2?paragraph(d.related)+link('investment',c.labels.guide):i===5?link('contact',c.labels.review):i===7?link('team',c.labels.expert,'#irmak-gurer-aksoz'):'')).join('');
+ const propertyReview = c.propertyIntro
+   ? section(c.propertyIntro, `<p class="source-note"><a href="https://www.tkgm.gov.tr/yabanci-isler-dairesi-baskanligi/dokumanlar" target="_blank" rel="noopener noreferrer">${esc(c.propertySourceLabel)} ↗</a></p>`)
+   : '';
+ const consultationCopy = c.consultationText
+   ? {...t, formTitle: c.labels.contact, contactText: c.consultationText}
+   : t;
  const retained=d.sections.slice(4).map(entry=>section(entry)).join('');
  const faq=`<section><h2>${esc(c.labels.faq)}</h2><div class="citizenship-faq">${c.faq.map(([q,a])=>`<details><summary>${esc(q)}</summary>${paragraph(a)}</details>`).join('')}</div></section>`;
- return `<main><section class="page-hero"><div class="shell"><div class="crumb">${t.home} / ${t.nav[1]}</div><h1>${esc(d.h1)}</h1>${paragraph(c.intro)}<p class="seo-consultation">${link('contact',c.labels.contact)}</p><a class="hero-jump" href="#citizenship-process">${esc(c.labels.reference)} ↓</a></div></section><section class="section"><div class="shell detail-layout"><article class="detail-copy">${section(c.answer)}<section><h2>${esc(c.processTitle)}</h2>${stages}</section>${body}${retained}${faq}</article><aside class="detail-aside"><h3>${esc(t.relatedCta)}</h3>${paragraph(t.contactText)}${link('contact',c.labels.contact)}</aside></div></section><section class="section"><div class="shell"><h2>${esc(c.labels.reference)}</h2>${paragraph(c.labels.referenceIntro)}</div></section>${lawyerProcessMarkup(lang)}${contactPreview(t,lang)}</main>`;
+ return `<main><section class="page-hero"><div class="shell"><div class="crumb">${t.home} / ${t.nav[1]}</div><h1>${esc(d.h1)}</h1>${paragraph(c.intro)}<p class="seo-consultation">${link('contact',c.labels.contact)}</p><a class="hero-jump" href="#citizenship-process">${esc(c.labels.reference)} ↓</a></div></section><section class="section"><div class="shell detail-layout"><article class="detail-copy">${propertyReview}${section(c.answer)}<section><h2>${esc(c.processTitle)}</h2>${stages}</section>${body}${retained}${faq}</article><aside class="detail-aside"><h3>${esc(t.relatedCta)}</h3>${paragraph(t.contactText)}${link('contact',c.labels.contact)}</aside></div></section><section class="section"><div class="shell"><h2>${esc(c.labels.reference)}</h2>${paragraph(c.labels.referenceIntro)}</div></section>${lawyerProcessMarkup(lang)}${contactPreview(consultationCopy,lang)}</main>`;
 }
 function commercialArticleLinkConfig(slug,lang){
  const c=window.citizenshipCommercialLinks?.[slug]?.[lang];

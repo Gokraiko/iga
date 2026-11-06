@@ -4638,6 +4638,14 @@
             },
             {
               "@type": "Question",
+              "name": "Can I obtain Turkish citizenship by purchasing multiple properties?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiple qualifying properties may be considered, but their combined purchase price alone does not establish eligibility. We review each acquisition date, ownership history, valuation and payment evidence, together with applicable foreign-exchange records and holding commitments, before advising on additional purchases. A purchase and a promise-to-sell arrangement have different documentation conditions, so the proposed combination needs individual review. The competent authorities determine investment conformity and decide the citizenship application."
+              }
+            },
+            {
+              "@type": "Question",
               "name": "Can IGA assist if I have already invested?",
               "acceptedAnswer": {
                 "@type": "Answer",
@@ -4670,10 +4678,10 @@
             },
             {
               "@type": "Question",
-              "name": "What does a lawyer check before a citizenship property purchase?",
+              "name": "How can an independent lawyer check whether an apartment qualifies for citizenship?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The agreed review may include title ownership, annotations, mortgages, other encumbrances, transfer restrictions, transaction terms and the payment trail. IGA considers those findings together with the citizenship-related conditions for the proposed acquisition. A purchase price at the required threshold is not a substitute for examining the legal records, and due diligence cannot guarantee investment performance or citizenship approval."
+                "text": "Before purchase, an independent lawyer can review the title deed, ownership and transfer history, annotations, mortgages, restrictions, purchase terms and payment trail. For citizenship eligibility, the review also addresses the applicable valuation and foreign-exchange documentation, the three-year holding commitment and conformity requirements. We assess these records together before you make a binding commitment. A price of USD 400,000 alone does not establish eligibility. The competent authorities make the required determinations, and legal due diligence cannot guarantee investment performance or citizenship approval."
               }
             },
             {

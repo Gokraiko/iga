@@ -36,7 +36,7 @@ window.citizenshipCommercial = {
       ],
       [
         "Legal Due Diligence Before Making the Investment",
-        "Meeting an investment threshold does not replace review of the underlying transaction. For property matters, IGA may examine the title deed, ownership, annotations, mortgages, other encumbrances and transfer restrictions, together with the contract and payment evidence. We consider how those records relate to the proposed citizenship application. The scope depends on the property and available official records; legal checks cannot remove every commercial or investment risk."
+        "Meeting an investment threshold does not replace review of the underlying transaction. For property matters, IGA may examine the title deed, ownership, annotations, mortgages, other encumbrances and transfer restrictions, together with the contract and payment evidence. We consider how those records relate to the proposed citizenship application. The scope depends on the property and available official records; legal checks cannot remove every commercial or investment risk. A legally transferable property is not necessarily suitable for your investment objectives or eligible for citizenship. These are separate assessments. For citizenship, we also review the relevant valuation and foreign-exchange records, the three-year holding commitment and the evidence for a conformity certificate."
       ],
       [
         "Legal Support Across Turkish Citizenship Investment Routes",
@@ -52,7 +52,7 @@ window.citizenshipCommercial = {
       ],
       [
         "Already Made an Investment?",
-        "IGA can review a completed transaction and the available records to identify potential compliance issues and possible next legal steps. Share the agreement, payment records, title or bank documents and any conformity or application correspondence for an initial scope discussion. Some defects may require further evidence or a different approach; not every non-compliant investment can be corrected."
+        "IGA can review a completed transaction and the available records to identify potential compliance issues and possible next legal steps. Share the agreement, payment records, title or bank documents and any conformity or application correspondence for an initial scope discussion. Some defects may require further evidence or a different approach; not every non-compliant investment can be corrected. For an existing property, we assess the acquisition date, ownership and transfer history, valuation, applicable foreign-exchange records, prior citizenship applications and any commitments or restrictions. A further purchase needs its own assessment. Earlier ownership does not automatically establish eligibility, and missing mandatory transaction documents cannot be assumed to be obtainable retrospectively."
       ],
       [
         "Why International Investors Work With IGA Law",
@@ -67,6 +67,10 @@ window.citizenshipCommercial = {
       [
         "When should I involve a citizenship lawyer?",
         "A legal review is most useful before signing a purchase agreement or transferring investment funds, when transaction structure and document gaps can still be addressed. An early discussion also helps establish the proposed legal scope, the documents to obtain abroad and any attendance that may be required. IGA can then identify matters needing further evidence or specialist advice before the client makes a binding commitment."
+      ],
+      [
+        "Can I obtain Turkish citizenship by purchasing multiple properties?",
+        "Multiple qualifying properties may be considered, but their combined purchase price alone does not establish eligibility. We review each acquisition date, ownership history, valuation and payment evidence, together with applicable foreign-exchange records and holding commitments, before advising on additional purchases. A purchase and a promise-to-sell arrangement have different documentation conditions, so the proposed combination needs individual review. The competent authorities determine investment conformity and decide the citizenship application."
       ],
       [
         "Can IGA assist if I have already invested?",
@@ -85,8 +89,8 @@ window.citizenshipCommercial = {
         "A power of attorney can cover specified steps where legal representation is permitted. IGA checks the intended authority, wording, authentication and translation before use. It does not necessarily remove the need for the investor or family members to attend identity, biometric or other appointments. We plan remote coordination alongside any personal procedures required by the relevant institutions."
       ],
       [
-        "What does a lawyer check before a citizenship property purchase?",
-        "The agreed review may include title ownership, annotations, mortgages, other encumbrances, transfer restrictions, transaction terms and the payment trail. IGA considers those findings together with the citizenship-related conditions for the proposed acquisition. A purchase price at the required threshold is not a substitute for examining the legal records, and due diligence cannot guarantee investment performance or citizenship approval."
+        "How can an independent lawyer check whether an apartment qualifies for citizenship?",
+        "Before purchase, an independent lawyer can review the title deed, ownership and transfer history, annotations, mortgages, restrictions, purchase terms and payment trail. For citizenship eligibility, the review also addresses the applicable valuation and foreign-exchange documentation, the three-year holding commitment and conformity requirements. We assess these records together before you make a binding commitment. A price of USD 400,000 alone does not establish eligibility. The competent authorities make the required determinations, and legal due diligence cannot guarantee investment performance or citizenship approval."
       ],
       [
         "Can IGA assist with bank deposit or BES investment routes?",
@@ -102,7 +106,7 @@ window.citizenshipCommercial = {
       ]
     ],
     "labels": {
-      "contact": "Speak With Our Legal Team",
+      "contact": "Request a Legal Consultation",
       "review": "Request a Legal Review",
       "guide": "Turkish Citizenship by Investment requirements and investment routes",
       "property": "real estate due diligence for international investors",
@@ -111,7 +115,13 @@ window.citizenshipCommercial = {
       "reference": "Investment conditions, documents and procedural reference",
       "referenceIntro": "Use the practical reference below when preparing your file. For a broader programme comparison, use our dedicated citizenship guide.",
       "source": "Official property and citizenship guidance"
-    }
+    },
+    "propertyIntro": [
+      "Buying Property in Türkiye for Citizenship?",
+      "The real estate route has a minimum qualifying investment of USD 400,000, but purchase price alone does not establish eligibility. Before signing a binding agreement or transferring funds, the title deed, ownership history, valuation and banking documentation should be assessed against the citizenship requirements. The applicable three-year holding restriction and conformity procedures also matter. IGA Law Firm provides independent legal due diligence and coordinates the property and citizenship documentation within the agreed scope of representation. If you already own a property, its acquisition date and available records need an individual assessment before you rely on it or make an additional purchase. The competent authorities determine conformity and citizenship approval."
+    ],
+    "propertySourceLabel": "Official property eligibility guidance from TKGM",
+    "consultationText": "Planning to purchase property in Türkiye for citizenship purposes? Contact our legal team to discuss the applicable legal requirements and documentation."
   },
   "tr": {
     "intro": "IGA Hukuk Bürosu, uygun bir yatırımla Türk vatandaşlığına başvurmayı planlayan yatırımcılara ve ailelerine hukuki destek sunar. Yatırımın hukuki risklerini inceler, başvuru dosyasını hazırlar ve ilgili kurumlarla süreci koordine ederiz. İstanbul merkezli ekibimiz, uluslararası müvekkillerin yatırım başvurularının hukuki ve idari aşamalarında görev alır. Yatırım öncesi hukuki durum incelemesinden aile kayıtlarına, vekâletname hazırlığından kurumlar nezdinde takibe kadar gereken çalışmayı dosyanın özelliklerine göre planlarız. Bağlayıcı bir taahhüt verilmeden önce olası sorunları, temsilin kapsamını ve şahsen katılım gerektirebilecek işlemleri açıklarız. Yatırımın mevzuata uygunluğuna ve vatandaşlık başvurusuna ilişkin değerlendirme ve karar yetkili makamlara aittir; avukat desteği bu değerlendirmenin yerine geçmez.",
