@@ -122,3 +122,12 @@ html[dir="rtl"] .blog-card-top>small,html[dir="rtl"] .article-heading-top .crumb
 
 /* Make the latest article's existing internal links visually identifiable. */
 main:has([data-article-views="chinese-investors-transfer-money-turkey-property-citizenship"]) .article-content a[href^="/"]{color:var(--ink);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}main:has([data-article-views="chinese-investors-transfer-money-turkey-property-citizenship"]) .article-content a[href^="/"]:hover{color:var(--ink-2);text-decoration-thickness:2px}main:has([data-article-views="chinese-investors-transfer-money-turkey-property-citizenship"]) .article-content a[href^="/"]:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+
+/* Match blog detail headings and body to the site's 19px mobile gutters. */
+@media (max-width: 828px) {
+  .article.article-full,
+  main:has(.article.article-full) > .page-hero > .shell {
+    width: calc(100% - 38px);
+    overflow-wrap: anywhere;
+  }
+}
