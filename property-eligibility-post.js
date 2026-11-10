@@ -1,7 +1,7 @@
 // Full supplied article and complete EN/TR/ZH/AR translations. Attorney approval confirmed by the user.
-// Set publicationDate to the actual release day only after attorney and publication approval.
+// Publication date set to 2026-11-06 at the user’s explicit request; first deployed 2026-11-10.
 {
- const publicationDate='2026-11-10';
+ const publicationDate='2026-11-06';
  const legalReviewDate='2026-11-06';
  const slug="how-to-check-property-eligibility-turkish-citizenship";
  const copy={
