@@ -131,3 +131,14 @@ main:has([data-article-views="chinese-investors-transfer-money-turkey-property-c
     overflow-wrap: anywhere;
   }
 }
+
+/* Property eligibility article: existing typography, table and button components. */
+.property-eligibility-content a{color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+.property-eligibility-content .property-eligibility-cta{padding:24px;margin:32px 0;background:var(--cream);border:1px solid var(--line);border-radius:8px}
+.property-eligibility-content .property-eligibility-cta h3{margin-top:0}
+.property-eligibility-content .property-eligibility-cta .button{color:white;text-decoration:none;white-space:normal;text-align:center;max-width:100%;line-height:1.5}
+.property-eligibility-content ol{padding-inline-start:24px}
+.property-eligibility-content li{margin-block:8px}
+.property-eligibility-content .article-source{font-size:14px;line-height:1.65}
+.property-eligibility-content .article-cover{margin-inline:0}
+@media(max-width:700px){.property-eligibility-content .property-eligibility-cta{padding:18px}.property-eligibility-content .button{width:100%}}

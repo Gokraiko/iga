@@ -10191,6 +10191,682 @@
       ]
     }
   },
+  "/en/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "path": "/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkish Citizenship Property Eligibility: 7 Checks",
+    "description": "Buying property in Turkey for citizenship? Check title deeds, valuation, seller history and payment rules before committing $400,000.",
+    "canonical": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "title": "Turkish Citizenship Property Eligibility: 7 Checks",
+      "description": "Buying property in Turkey for citizenship? Check title deeds, valuation, seller history and payment rules before committing $400,000.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage",
+          "url": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "name": "Turkish Citizenship Property Eligibility: 7 Checks",
+          "description": "Buying property in Turkey for citizenship? Check title deeds, valuation, seller history and payment rules before committing $400,000.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#article",
+          "url": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "headline": "How to Check if a Property Qualifies for Turkish Citizenship Before Buying",
+          "description": "Buying property in Turkey for citizenship? Check title deeds, valuation, seller history and payment rules before committing $400,000.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-10T09:00:00+03:00",
+          "dateModified": "2026-11-10T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg",
+            "width": 1536,
+            "height": 1024,
+            "name": "How to Check if a Property Qualifies for Turkish Citizenship Before Buying",
+            "description": "Istanbul waterfront and residential buildings accompanying a guide to property eligibility for Turkish citizenship",
+            "caption": "Istanbul waterfront and residential buildings accompanying a guide to property eligibility for Turkish citizenship",
+            "inLanguage": "en"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "How to Check if a Property Qualifies for Turkish Citizenship Before Buying",
+              "item": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "path": "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türk Vatandaşlığı İçin Taşınmaz Uygunluğu: 7 Kontrol",
+    "description": "Vatandaşlık için Türkiye’de taşınmaz mı alıyorsunuz? 400.000 dolar yatırmadan önce tapuyu, değerlemeyi, satıcı geçmişini ve ödeme kurallarını kontrol edin.",
+    "canonical": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "title": "Türk Vatandaşlığı İçin Taşınmaz Uygunluğu: 7 Kontrol",
+      "description": "Vatandaşlık için Türkiye’de taşınmaz mı alıyorsunuz? 400.000 dolar yatırmadan önce tapuyu, değerlemeyi, satıcı geçmişini ve ödeme kurallarını kontrol edin.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "name": "Türk Vatandaşlığı İçin Taşınmaz Uygunluğu: 7 Kontrol",
+          "description": "Vatandaşlık için Türkiye’de taşınmaz mı alıyorsunuz? 400.000 dolar yatırmadan önce tapuyu, değerlemeyi, satıcı geçmişini ve ödeme kurallarını kontrol edin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#article",
+          "url": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "headline": "Satın Almadan Önce Bir Taşınmazın Türk Vatandaşlığına Uygunluğu Nasıl Kontrol Edilir?",
+          "description": "Vatandaşlık için Türkiye’de taşınmaz mı alıyorsunuz? 400.000 dolar yatırmadan önce tapuyu, değerlemeyi, satıcı geçmişini ve ödeme kurallarını kontrol edin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-10T09:00:00+03:00",
+          "dateModified": "2026-11-10T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg",
+            "width": 1536,
+            "height": 1024,
+            "name": "Satın Almadan Önce Bir Taşınmazın Türk Vatandaşlığına Uygunluğu Nasıl Kontrol Edilir?",
+            "description": "Türk vatandaşlığı için taşınmaz uygunluğu rehberine eşlik eden İstanbul kıyısı ve konutlar",
+            "caption": "Türk vatandaşlığı için taşınmaz uygunluğu rehberine eşlik eden İstanbul kıyısı ve konutlar",
+            "inLanguage": "tr"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Satın Almadan Önce Bir Taşınmazın Türk Vatandaşlığına Uygunluğu Nasıl Kontrol Edilir?",
+              "item": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "path": "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其购房入籍资格：买房前的7项法律核查",
+    "description": "计划在土耳其购房入籍？投入40万美元前，了解产权证、估值、卖方历史、付款与外汇文件及三年持有要求，审查交易的法律风险。",
+    "canonical": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "title": "土耳其购房入籍资格：买房前的7项法律核查",
+      "description": "计划在土耳其购房入籍？投入40万美元前，了解产权证、估值、卖方历史、付款与外汇文件及三年持有要求，审查交易的法律风险。",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "name": "土耳其购房入籍资格：买房前的7项法律核查",
+          "description": "计划在土耳其购房入籍？投入40万美元前，了解产权证、估值、卖方历史、付款与外汇文件及三年持有要求，审查交易的法律风险。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#article",
+          "url": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "headline": "购买前如何核查房产是否符合土耳其入籍条件",
+          "description": "计划在土耳其购房入籍？投入40万美元前，了解产权证、估值、卖方历史、付款与外汇文件及三年持有要求，审查交易的法律风险。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-10T09:00:00+03:00",
+          "dateModified": "2026-11-10T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg",
+            "width": 1536,
+            "height": 1024,
+            "name": "购买前如何核查房产是否符合土耳其入籍条件",
+            "description": "伊斯坦布尔滨水住宅景观，配合土耳其购房入籍资格指南",
+            "caption": "伊斯坦布尔滨水住宅景观，配合土耳其购房入籍资格指南",
+            "inLanguage": "zh-CN"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "购买前如何核查房产是否符合土耳其入籍条件",
+              "item": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "path": "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "أهلية العقار للجنسية التركية: 7 فحوص قبل الشراء",
+    "description": "تشتري عقاراً في تركيا للجنسية؟ افحص الطابو والتقييم وسجل البائع وقواعد السداد قبل الالتزام باستثمار 400,000 دولار أمريكي.",
+    "canonical": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "title": "أهلية العقار للجنسية التركية: 7 فحوص قبل الشراء",
+      "description": "تشتري عقاراً في تركيا للجنسية؟ افحص الطابو والتقييم وسجل البائع وقواعد السداد قبل الالتزام باستثمار 400,000 دولار أمريكي.",
+      "image": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "name": "أهلية العقار للجنسية التركية: 7 فحوص قبل الشراء",
+          "description": "تشتري عقاراً في تركيا للجنسية؟ افحص الطابو والتقييم وسجل البائع وقواعد السداد قبل الالتزام باستثمار 400,000 دولار أمريكي.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#article",
+          "url": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+          "headline": "كيف تتحقق من أهلية العقار للجنسية التركية قبل شرائه؟",
+          "description": "تشتري عقاراً في تركيا للجنسية؟ افحص الطابو والتقييم وسجل البائع وقواعد السداد قبل الالتزام باستثمار 400,000 دولار أمريكي.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-10T09:00:00+03:00",
+          "dateModified": "2026-11-10T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg",
+            "width": 1536,
+            "height": 1024,
+            "name": "كيف تتحقق من أهلية العقار للجنسية التركية قبل شرائه؟",
+            "description": "واجهة إسطنبول البحرية ومبانٍ سكنية ترافق دليل أهلية العقار للجنسية التركية",
+            "caption": "واجهة إسطنبول البحرية ومبانٍ سكنية ترافق دليل أهلية العقار للجنسية التركية",
+            "inLanguage": "ar"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "كيف تتحقق من أهلية العقار للجنسية التركية قبل شرائه؟",
+              "item": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/": {
     "path": "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
     "language": "en",
@@ -37760,7 +38436,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2025-01-05T09:00:00+03:00"
+          "dateModified": "2026-11-10T06:46:41.135Z"
         },
         {
           "@type": "Person",
@@ -37924,7 +38600,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2025-01-05T09:00:00+03:00"
+          "dateModified": "2026-11-10T06:46:41.138Z"
         },
         {
           "@type": "Person",
@@ -38088,7 +38764,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2025-01-05T09:00:00+03:00"
+          "dateModified": "2026-11-10T06:46:41.139Z"
         },
         {
           "@type": "Person",
@@ -38252,7 +38928,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2025-01-05T09:00:00+03:00"
+          "dateModified": "2026-11-10T06:46:41.139Z"
         },
         {
           "@type": "Person",

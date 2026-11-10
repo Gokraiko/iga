@@ -2550,6 +2550,46 @@
       "statusCode": 301
     },
     {
+      "source": "/en/blog/how-to-check-property-eligibility-turkish-citizenship",
+      "destination": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/how-to-check-property-eligibility-turkish-citizenship/index.html",
+      "destination": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/how-to-check-property-eligibility-turkish-citizenship",
+      "destination": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/index.html",
+      "destination": "https://igalawfirm.com/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/how-to-check-property-eligibility-turkish-citizenship",
+      "destination": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/index.html",
+      "destination": "https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/how-to-check-property-eligibility-turkish-citizenship",
+      "destination": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/index.html",
+      "destination": "https://igalawfirm.com/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+      "statusCode": 301
+    },
+    {
       "source": "/en/blog/chinese-investors-transfer-money-turkey-property-citizenship",
       "destination": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/",
       "statusCode": 301

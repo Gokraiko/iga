@@ -740,24 +740,24 @@
     "dateModified": "2025-01-06T09:00:00+03:00"
   },
   "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
-    "fingerprint": "54bd829f5a6ce6f122ad5664718056b17556eca3590f7d2a73b9d824dfe5d4c3",
+    "fingerprint": "47fe95c4d4bbc0e61a9dd253089aa82b18cc26cbd7761509ac677594833b4d64",
     "datePublished": "2025-01-05T09:00:00+03:00",
-    "dateModified": "2025-01-05T09:00:00+03:00"
+    "dateModified": "2026-11-10T06:46:41.135Z"
   },
   "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
-    "fingerprint": "8ff530008dae6828b754f9e9977c35334bf896b8a40e0ed841c3e37481009ebc",
+    "fingerprint": "42566b919987d0c58ab6095b830a4018f20beac54a00311e5e4e73293b26674c",
     "datePublished": "2025-01-05T09:00:00+03:00",
-    "dateModified": "2025-01-05T09:00:00+03:00"
+    "dateModified": "2026-11-10T06:46:41.138Z"
   },
   "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
-    "fingerprint": "ac84634344979e8fb79faaef6de43d616c01a421a71d314382715e48e00fbe8b",
+    "fingerprint": "de29a3297fc081c346f1e689e02ee557bace164a8a0e033d55801e5474738714",
     "datePublished": "2025-01-05T09:00:00+03:00",
-    "dateModified": "2025-01-05T09:00:00+03:00"
+    "dateModified": "2026-11-10T06:46:41.139Z"
   },
   "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
-    "fingerprint": "0779b9c7291e93ff2f326e4a5062078e6af36dd0243d3e57c1a8c58b4b5b353d",
+    "fingerprint": "8caeaa4538978abab6efe2a484087c8b2966867c66fc31b503cba5ff45a9cb7d",
     "datePublished": "2025-01-05T09:00:00+03:00",
-    "dateModified": "2025-01-05T09:00:00+03:00"
+    "dateModified": "2026-11-10T06:46:41.139Z"
   },
   "/en/blog/work-permit-turkey-turkish-parent-family-connection/": {
     "fingerprint": "201b8a6eb064c857b4bc7043142b32165ebd71cbddf9c23143f289b90e234aa5",
@@ -858,5 +858,25 @@
     "fingerprint": "915dcbc2a9e1b7f90ffbe0eb8f28eef84d9a8372800277dd4e0c233abd1e4d25",
     "datePublished": "2026-10-31T09:00:00+03:00",
     "dateModified": "2026-10-31T08:30:10.561Z"
+  },
+  "/en/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "fingerprint": "ec139897e41fe987243e7b7c792c9ae751fea2f61dbe8a4c71402030b70b4903",
+    "datePublished": "2026-11-10T09:00:00+03:00",
+    "dateModified": "2026-11-10T09:00:00+03:00"
+  },
+  "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "fingerprint": "a8139f83060894dbe495db2d6c4b7c32e17cef9ca7ec138197af551a338a66d3",
+    "datePublished": "2026-11-10T09:00:00+03:00",
+    "dateModified": "2026-11-10T09:00:00+03:00"
+  },
+  "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "fingerprint": "556032154f83d1ff08f48c2c2c5ac88e59d422173bcdb6347d78b21cb013b0e7",
+    "datePublished": "2026-11-10T09:00:00+03:00",
+    "dateModified": "2026-11-10T09:00:00+03:00"
+  },
+  "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/": {
+    "fingerprint": "28a051bf5594ed0748cb343ed62a27a418cd94ab2f173ea3ba5e48112bdcf848",
+    "datePublished": "2026-11-10T09:00:00+03:00",
+    "dateModified": "2026-11-10T09:00:00+03:00"
   }
 }

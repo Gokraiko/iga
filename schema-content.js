@@ -82,7 +82,7 @@ window.igaSchemaContent = (() => {
       const id=canonical+'#services';page.mainEntity={'@id':id};
       graph.push({'@type':'ItemList','@id':id,itemListElement:services.map((s,i)=>({'@type':'ListItem',position:i+1,name:practiceAreaCopy[route.lang][s.id].title,item:{'@id':origin+pathFor(route.lang,s.path)+'#service'}}))});
     }
-    const faqs=post?articleFaqs(content):detailFaqs(content);
+    const faqs=post?(post.faqSchema===false?[]:articleFaqs(content)):detailFaqs(content);
     if(faqs.length)graph.push({'@type':'FAQPage','@id':canonical+'#faq',mainEntity:faqs.map(([q,a])=>({'@type':'Question',name:q,acceptedAnswer:{'@type':'Answer',text:a}}))});
     const article=graph.find(n=>n['@type']==='BlogPosting');
     if(article){
