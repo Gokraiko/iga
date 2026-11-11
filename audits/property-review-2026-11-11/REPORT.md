@@ -75,3 +75,7 @@ node scripts/property-review-preview.cjs
 Adres: http://127.0.0.1:4178/en/igalawrealestateduediligence/#property-legal-review
 
 Ekli görevdeki “Do not deploy, publish or modify the production website without explicit approval” şartı nedeniyle hiçbir push veya yayın yapılmadı. Açık noktalar tamamlandıktan sonra incelenmiş değişiklik için yayın onayı alınmalıdır.
+
+## Yayın onayı — 11 Kasım 2026
+
+Kullanıcı açık noktalar bildirildikten sonra “bir canlıya alsana bakacağım olmazsa geri al diyeceğim” talimatıyla canlı inceleme yayınına izin verdi. Önceki sürüm 39ad2ae0626c81db298a69c5407fd769c338b72b geri dönüş noktasıdır. Bu onay, gizlilik metninin hukuki incelemesinin veya gelen kutusu teslim testinin tamamlandığı şeklinde yorumlanmaz. Yeni analitik olaylar izin sinyali bulunmadıkça kapalı kalır.

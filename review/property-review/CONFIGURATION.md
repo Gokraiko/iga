@@ -1,6 +1,6 @@
 # Review status and required configuration
 
-Not deployed. No new provider, database, CRM or paid service was introduced.
+Publication authorized by the user on 2026-11-11 for live review with rollback available. No new provider, database, CRM or paid service was introduced.
 
 ## Existing server infrastructure
 
@@ -19,7 +19,7 @@ When those existing secrets are securely available in the local development proc
 node scripts/test-property-review-delivery.cjs --send-real-test-emails
 ```
 
-This authorized test sends exactly five fictional test leads to info@igalawfirm.com. Then verify each provider ID in the existing Resend dashboard and confirm receipt in the destination mailbox. API acceptance alone is not inbox delivery. Do not deploy until these checks and the publication approval are complete.
+This authorized test sends exactly five fictional test leads to info@igalawfirm.com. Then verify each provider ID in the existing Resend dashboard and confirm receipt in the destination mailbox. API acceptance alone is not inbox delivery. The user explicitly authorized live review before these remaining checks; verify production acceptance after deployment. Inbox delivery and the privacy/consent review remain separately tracked.
 
 ## Privacy review still required
 
