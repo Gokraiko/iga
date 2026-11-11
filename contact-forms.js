@@ -17,7 +17,7 @@
   }
   document.addEventListener('submit', async function (event) {
     const form = event.target;
-    if (!(form instanceof HTMLFormElement)) return;
+    if (!(form instanceof HTMLFormElement) || form.hasAttribute('data-property-inquiry') || form.hasAttribute('data-property-start')) return;
     event.preventDefault();
     let current = state.get(form);
     if (current?.busy) return;

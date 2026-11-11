@@ -1,0 +1,47 @@
+{
+  "seoRecordsCompared": 237,
+  "seoRecordsChanged": 0,
+  "routesAdded": 0,
+  "routesRemoved": 0,
+  "redirectsChanged": 0,
+  "languages": [
+    {
+      "language": "en",
+      "homeShortForm": true,
+      "propertyForm": true,
+      "citizenshipCTA": true,
+      "noUploads": true,
+      "privacyMasked": true,
+      "aboutRoutePreserved": true
+    },
+    {
+      "language": "tr",
+      "homeShortForm": true,
+      "propertyForm": true,
+      "citizenshipCTA": true,
+      "noUploads": true,
+      "privacyMasked": true,
+      "aboutRoutePreserved": true
+    },
+    {
+      "language": "zh",
+      "homeShortForm": true,
+      "propertyForm": true,
+      "citizenshipCTA": true,
+      "noUploads": true,
+      "privacyMasked": true,
+      "aboutRoutePreserved": true
+    },
+    {
+      "language": "ar",
+      "homeShortForm": true,
+      "propertyForm": true,
+      "citizenshipCTA": true,
+      "noUploads": true,
+      "privacyMasked": true,
+      "aboutRoutePreserved": true
+    }
+  ],
+  "realEmailDelivery": "not tested: existing server credentials unavailable in development environment",
+  "publication": "not deployed"
+}
