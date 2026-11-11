@@ -12,7 +12,7 @@ const template = fs.readFileSync('index.html', 'utf8');
 const out = path.join(__dirname, 'dist');
 fs.rmSync(out, { recursive: true, force: true });
 fs.mkdirSync(path.join(out, 'public'), { recursive: true });
-for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'china-transfer-post.js', 'property-eligibility-post.js', 'schema-content.js', 'app.js', 'contact-forms.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
+for (const file of ['turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'seo-optimizations.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'china-transfer-post.js', 'property-eligibility-post.js', 'bank-deposit-client-post.js', 'schema-content.js', 'app.js', 'contact-forms.js', 'article-views.js', 'blog-posts-data.js', 'new-blog-posts-data.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'arabic-content.js', 'styles.css']) {
   fs.copyFileSync(file, path.join(out, file));
 }
 fs.cpSync('public/assets', path.join(out, 'public/assets'), { recursive: true });
@@ -38,10 +38,11 @@ let document = createDocument();
 const window = { addEventListener() {}, blogPostContent: {}, __BUILD_SEO__: true };
 let location = { pathname: '/', hash: '', replace() {} };
 const context = vm.createContext({ window, document, location, console, Date, FormData: class {} });
-for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'china-transfer-post.js', 'property-eligibility-post.js', 'schema-content.js', 'app.js']) {
+for (const file of ['blog-posts-data.js', 'new-blog-posts-data.js', 'blog-post-translations.js', 'valuation-exemption-post.js', 'bank-deposit-guide-update.js', 'renunciation-post.js', 'citizenship-approvals-update.js', 'real-estate-2025-post.js', 'turkish-parent-work-permit-post.js', 'company-owner-work-permit-2025-post.js', 'bes-citizenship-funds-guide-post.js', 'military-service-abroad-guide-post.js', 'office-news-update.js', 'citizenship-content.js', 'arabic-content.js', 'citizenship-lawyer-process.js', 'practice-area-copy.js', 'litigation-content.js', 'work-permit-content.js', 'residence-permit-content.js', 'corporate-content.js', 'property-due-diligence-content.js', 'legal-consultancy-content.js', 'documentation-services-content.js', 'seo-optimizations.js', 'turkey-europe-asia-post.js', 'strongest-passports-post.js', 'dubai-golden-visa-post.js', 'turkey-safety-post.js', 'article-archive-dates.js', 'triple-citizenship-post.js', 'seo-final-metadata.js', 'home-authority-content.js', 'article-popularity.js', 'blog-image-variants.js', 'blog-discovery.js', 'citizenship-commercial-content.js', 'citizenship-commercial-links.js', 'real-estate-pillar.js', 'service-routes.js', 'china-transfer-post.js', 'property-eligibility-post.js', 'bank-deposit-client-post.js', 'schema-content.js', 'app.js']) {
   vm.runInContext(fs.readFileSync(file, 'utf8'), context, { filename: file });
 }
 if(process.env.VERCEL_ENV==='production' && (!window.propertyEligibilityArticle.publishedAt || !window.propertyEligibilityArticle.legalReviewDate)) throw new Error('Property eligibility article requires attorney approval and actual publication date before production.');
+const articleLanguages = vm.runInContext('Object.fromEntries(articles.map(a=>[a.slug,a.availableLanguages]))', context);
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);
 fs.writeFileSync('blog-slugs.json', JSON.stringify(slugs, null, 2) + '\n');
 const pages = ['home', 'services', 'investment', 'team', 'about', 'journal', 'contact',
@@ -51,7 +52,7 @@ const pages = ['home', 'services', 'investment', 'team', 'about', 'journal', 'co
 const routes = pages.map(page => ({ page, sub: '' })).concat(slugs.map(sub => ({ page: 'journal', sub })));
 for (const slug of slugs) {
   const source = window.blogPostContent[slug];
-  for (const lang of languages.filter(code => code !== 'en')) {
+  for (const lang of (articleLanguages[slug] || languages).filter(code => code !== 'en')) {
     const translated = window.blogPostTranslations?.[lang]?.[slug];
     if (!source || !translated?.title || !translated?.seoTitle || !translated?.metaDescription || translated.blocks?.length !== source.blocks?.length) {
       throw new Error(`Incomplete ${lang} translation for ${slug}`);
@@ -64,7 +65,8 @@ const urlFor = (lang, route) => vm.runInContext(`pathFor(${JSON.stringify(lang)}
 const sitemap = [];
 const seoConfig = {};
 for (const route of routes) {
-  for (const lang of languages) {
+  const routeLanguages = articleLanguages[route.sub] || languages;
+  for (const lang of routeLanguages) {
     const pathname = urlFor(lang, route);
     document = createDocument();
     location = { pathname, hash: '', replace() {} };
@@ -77,7 +79,7 @@ for (const route of routes) {
     const description = meta?.content || '';
     if (!title.trim() || !description.trim() || /[…]|\.\.\.$|:$/.test(description)) throw new Error(`Missing or truncated metadata: ${pathname}`);
     const canonical = origin + pathname;
-    const alternateEntries = languages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
+    const alternateEntries = routeLanguages.map(code => ({ hreflang: code === 'zh' ? 'zh-CN' : code, href: origin + urlFor(code, route) })).concat({ hreflang: 'x-default', href: origin + urlFor('en', route) });
     const structuredData = JSON.parse(schema?.textContent || '{"@context":"https://schema.org","@graph":[]}');
     const graph = structuredData['@graph'] || [];
     const blogPosting = graph.find(item => item['@type'] === 'BlogPosting');
@@ -132,4 +134,4 @@ fs.writeFileSync(path.join(out, '404.html'), '<!doctype html><html lang="en"><he
 fs.copyFileSync('google3d5df3fe239ec586.html', path.join(out, 'en', 'google3d5df3fe239ec586.html'));
 // Review builds must preserve the audited routing configuration.
 if (!process.argv.includes('--preserve-routing')) require('./scripts/generate-redirects')(seoConfig);
-console.log(`Generated ${routes.length * languages.length} localized pages and ${sitemap.length} sitemap entries`);
+console.log(`Generated ${sitemap.length} localized pages and ${sitemap.length} sitemap entries`);

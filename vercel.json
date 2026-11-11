@@ -2550,6 +2550,16 @@
       "statusCode": 301
     },
     {
+      "source": "/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case/index.html",
+      "destination": "https://igalawfirm.com/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case/",
+      "statusCode": 301
+    },
+    {
       "source": "/en/blog/how-to-check-property-eligibility-turkish-citizenship",
       "destination": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
       "statusCode": 301
