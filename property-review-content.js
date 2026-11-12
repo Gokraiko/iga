@@ -1,7 +1,7 @@
 // Generated from review/property-review/*.json; edit source translations.
 window.propertyReviewCopy={
   "en": {
-    "nav": "Property Legal Review",
+    "nav": "Property Check",
     "homeTitle": "Found a Property in Turkey? Check Before You Buy.",
     "homeIntro": "Planning to purchase property in Turkey for investment or citizenship? IGA Law Firm can assist with legal due diligence, citizenship-related property assessments and coordination of independent property valuation services.",
     "homeService": "What service do you need?",
@@ -59,7 +59,6 @@ window.propertyReviewCopy={
     },
     "location": "Property location",
     "locationPlaceholder": "Istanbul, Beyoğlu",
-    "listingUrl": "Property listing URL",
     "name": "Full name",
     "country": "Country / region (optional)",
     "countryHint": "This helps us understand your preferred contact channel.",
@@ -101,7 +100,6 @@ window.propertyReviewCopy={
     "phoneError": "Enter an international phone number beginning with + and including your country calling code.",
     "wechatError": "Enter your WeChat ID or select that you do not use WeChat.",
     "contactError": "Add details for your selected contact method, or choose email.",
-    "urlError": "Enter a complete http:// or https:// property listing URL without a username or password.",
     "requiredError": "Please complete this field.",
     "emailError": "Enter a valid email address.",
     "wait": "Please wait a moment and try again.",
@@ -169,7 +167,6 @@ window.propertyReviewCopy={
     },
     "location": "Taşınmazın konumu",
     "locationPlaceholder": "İstanbul, Beyoğlu",
-    "listingUrl": "Taşınmaz ilanının bağlantısı",
     "name": "Ad ve soyadı",
     "country": "Ülke / bölge (isteğe bağlı)",
     "countryHint": "Tercih ettiğiniz iletişim kanalını anlamamıza yardımcı olur.",
@@ -211,7 +208,6 @@ window.propertyReviewCopy={
     "phoneError": "+ ile başlayan ve ülke arama kodunuzu içeren uluslararası bir telefon numarası girin.",
     "wechatError": "WeChat kimliğinizi girin veya WeChat kullanmadığınızı işaretleyin.",
     "contactError": "Seçtiğiniz iletişim yöntemine ait bilgileri ekleyin veya e-postayı seçin.",
-    "urlError": "Kullanıcı adı ve parola içermeyen, http:// veya https:// ile başlayan tam ilan bağlantısını girin.",
     "requiredError": "Lütfen bu alanı doldurun.",
     "emailError": "Geçerli bir e-posta adresi girin.",
     "wait": "Lütfen kısa bir süre bekleyip yeniden deneyin.",
@@ -279,7 +275,6 @@ window.propertyReviewCopy={
     },
     "location": "房产所在地",
     "locationPlaceholder": "伊斯坦布尔，贝伊奥卢区",
-    "listingUrl": "房源网页链接",
     "name": "姓名",
     "country": "国家／地区（选填）",
     "countryHint": "这有助于我们了解适合您的联系渠道。",
@@ -321,7 +316,6 @@ window.propertyReviewCopy={
     "phoneError": "请输入以+开头并包含国家区号的国际电话号码。",
     "wechatError": "请输入微信号，或选择“我不使用微信”。",
     "contactError": "请填写与所选联系方式对应的信息，或选择电子邮件。",
-    "urlError": "请输入以http://或https://开头的完整房源网页链接，链接中不得包含用户名或密码。",
     "requiredError": "请填写此项。",
     "emailError": "请输入有效的电子邮箱地址。",
     "wait": "请稍等片刻后重试。",
@@ -389,7 +383,6 @@ window.propertyReviewCopy={
     },
     "location": "موقع العقار",
     "locationPlaceholder": "إسطنبول، بيوغلو",
-    "listingUrl": "رابط إعلان العقار",
     "name": "الاسم الكامل",
     "country": "الدولة / المنطقة (اختياري)",
     "countryHint": "يساعدنا ذلك على فهم وسيلة التواصل التي تفضلها.",
@@ -431,7 +424,6 @@ window.propertyReviewCopy={
     "phoneError": "أدخل رقم هاتف دولياً يبدأ بعلامة + ويتضمن رمز الاتصال ببلدك.",
     "wechatError": "أدخل معرّف WeChat أو حدد أنك لا تستخدم WeChat.",
     "contactError": "أضف بيانات وسيلة التواصل المختارة أو اختر البريد الإلكتروني.",
-    "urlError": "أدخل رابط إعلان العقار كاملاً بحيث يبدأ بـ http:// أو https://، ومن دون اسم مستخدم أو كلمة مرور.",
     "requiredError": "يرجى تعبئة هذا الحقل.",
     "emailError": "أدخل عنوان بريد إلكتروني صالحاً.",
     "wait": "يرجى الانتظار قليلاً والمحاولة مرة أخرى.",
@@ -453,7 +445,7 @@ window.propertyReview = (() => {
  const input=(name,label,type='text',required=false,extra='',hint='')=>`<label class="property-field" data-field="${name}"><span>${e(label)} <span data-required-marker>${required?'*':''}</span></span><input name="${name}" type="${type}" ${required?'required':''} ${extra}>${hint?`<small>${e(hint)}</small>`:''}<span class="property-error" data-error-for="${name}" aria-live="polite"></span></label>`;
  const codes='AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW'.split(' ');
  const names=new Intl.DisplayNames([lang],{type:'region'});const countries=Object.fromEntries(codes.map(code=>[code,names.of(code)]).sort((a,b)=>a[1].localeCompare(b[1],lang)));
- return `<section class="section property-inquiry" id="property-legal-review"><div class="shell"><div class="property-form-heading"><span class="eyebrow">IGA LAW FIRM</span><h2>${e(d.title)}</h2><p>${e(d.intro)}</p><small>${e(d.requiredNote)}</small></div><form class="property-form" data-property-inquiry data-language="${lang}" data-clarity-mask="true" autocomplete="on" method="post" action="/api/property-review"><fieldset><legend>${e(d.propertyLegend)}</legend><div class="property-grid">${select('service',d.service,d.services)}${select('purpose',d.purpose,d.purposes)}<div class="property-valuation property-wide" data-valuation hidden><h3>${e(d.valuationTitle)}</h3><p>${e(d.valuationIntro)}</p></div>${select('status',d.status,d.statuses)}${select('budget',d.budget,d.budgets)}${input('location',d.location,'text',false,`maxlength="250" placeholder="${e(d.locationPlaceholder)}" autocomplete="off"`)}${input('listingUrl',d.listingUrl,'url',false,'maxlength="2048" placeholder="https://" dir="ltr" autocomplete="off"')}<div data-valuation hidden>${select('valuationPurpose',d.valuationPurpose,d.valuationPurposes,false,'disabled')}</div></div></fieldset><fieldset><legend>${e(d.contactLegend)}</legend><div class="property-grid">${input('name',d.name,'text',true,'maxlength="120" autocomplete="name"')}${input('email',d.email,'email',true,'maxlength="254" autocomplete="email" dir="ltr"')}${select('country',d.country,countries,false,'autocomplete="country"')}${input('phone',d.phone,'tel',false,'maxlength="50" autocomplete="tel" placeholder="+90 530 000 00 00" dir="ltr"',d.phoneHint)}<div class="property-wechat" data-wechat>${input('wechat',d.wechat,'text',false,'maxlength="100" autocomplete="off" dir="ltr"',d.wechatHint)}<label class="property-checkbox"><input type="checkbox" name="noWechat">${e(d.noWechat)}</label></div>${select('preferredContact',d.preferredContact,d.contactMethods)}<label class="property-field property-wide"><span>${e(d.message)} (${e(d.optional)})</span><textarea name="message" maxlength="5000" rows="4" placeholder="${e(d.messagePlaceholder)}"></textarea><small>${e(d.documents)}</small></label></div></fieldset><div class="property-privacy"><h3>${e(d.privacyTitle)}</h3><p>${e(d.privacy)}</p><label class="property-checkbox"><input name="privacyAcknowledged" type="checkbox" required><span>${e(d.privacyAck)} *</span></label><span class="property-error" data-error-for="privacyAcknowledged" aria-live="polite"></span></div><p class="property-scope">${e(d.scope)}</p><div class="property-honeypot" aria-hidden="true"><label>Website<input name="website" autocomplete="off" tabindex="-1"></label></div><div class="property-actions"><button type="submit" class="button">${e(d.submit)} <span aria-hidden="true">↗</span></button><button type="button" class="text-link" data-new-request hidden>${e(d.newRequest)}</button></div><p class="property-form-status" data-property-status role="status" aria-live="polite" tabindex="-1"></p></form></div></section>`;
+ return `<section class="section property-inquiry" id="property-legal-review"><div class="shell"><div class="property-form-heading"><span class="eyebrow">IGA LAW FIRM</span><h2>${e(d.title)}</h2><p>${e(d.intro)}</p><small>${e(d.requiredNote)}</small></div><form class="property-form" data-property-inquiry data-language="${lang}" data-clarity-mask="true" autocomplete="on" method="post" action="/api/property-review"><fieldset><legend>${e(d.propertyLegend)}</legend><div class="property-grid">${select('service',d.service,d.services)}${select('purpose',d.purpose,d.purposes)}<div class="property-valuation property-wide" data-valuation hidden><h3>${e(d.valuationTitle)}</h3><p>${e(d.valuationIntro)}</p></div>${select('status',d.status,d.statuses)}${select('budget',d.budget,d.budgets)}${input('location',d.location,'text',false,`maxlength="250" placeholder="${e(d.locationPlaceholder)}" autocomplete="off"`)}<div data-valuation hidden>${select('valuationPurpose',d.valuationPurpose,d.valuationPurposes,false,'disabled')}</div></div></fieldset><fieldset><legend>${e(d.contactLegend)}</legend><div class="property-grid">${input('name',d.name,'text',true,'maxlength="120" autocomplete="name"')}${input('email',d.email,'email',true,'maxlength="254" autocomplete="email" dir="ltr"')}${select('country',d.country,countries,false,'autocomplete="country"')}${input('phone',d.phone,'tel',false,'maxlength="50" autocomplete="tel" placeholder="+90 530 000 00 00" dir="ltr"',d.phoneHint)}<div class="property-wechat" data-wechat>${input('wechat',d.wechat,'text',false,'maxlength="100" autocomplete="off" dir="ltr"',d.wechatHint)}<label class="property-checkbox"><input type="checkbox" name="noWechat">${e(d.noWechat)}</label></div>${select('preferredContact',d.preferredContact,d.contactMethods)}<label class="property-field property-wide"><span>${e(d.message)} (${e(d.optional)})</span><textarea name="message" maxlength="5000" rows="4" placeholder="${e(d.messagePlaceholder)}"></textarea><small>${e(d.documents)}</small></label></div></fieldset><div class="property-privacy"><h3>${e(d.privacyTitle)}</h3><p>${e(d.privacy)}</p><label class="property-checkbox"><input name="privacyAcknowledged" type="checkbox" required><span>${e(d.privacyAck)} *</span></label><span class="property-error" data-error-for="privacyAcknowledged" aria-live="polite"></span></div><p class="property-scope">${e(d.scope)}</p><div class="property-honeypot" aria-hidden="true"><label>Website<input name="website" autocomplete="off" tabindex="-1"></label></div><div class="property-actions"><button type="submit" class="button">${e(d.submit)} <span aria-hidden="true">↗</span></button><button type="button" class="text-link" data-new-request hidden>${e(d.newRequest)}</button></div><p class="property-form-status" data-property-status role="status" aria-live="polite" tabindex="-1"></p></form></div></section>`;
  }
  return {home,form,cta,target};
 })();

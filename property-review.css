@@ -6,3 +6,5 @@
 /* Longer localized navigation labels wrap inside their own item. */
 .navlinks a{white-space:normal;text-align:center}.navlinks a[href*="igalawrealestateduediligence"]{max-width:155px}
 @media(max-width:760px){.property-short,.property-grid{grid-template-columns:1fr}.property-actions{align-items:stretch;flex-direction:column;gap:20px}.property-actions .button{width:100%;justify-content:space-between}.property-inquiry{scroll-margin-top:80px}.property-privacy,.property-valuation{padding:18px}.property-form-heading h2{font-size:30px}.property-field{font-size:14px}}
+
+html[lang="en"] .navlinks a[href*="igalawrealestateduediligence"]{white-space:nowrap;max-width:none}

@@ -85,8 +85,8 @@ function submission(b, origin, secret) {
   // Browser timing is supplemental; the signed server timestamp enforces the minimum dwell time.
   const started = typeof b.startedAt === 'number' ? b.startedAt : typeof b.startedAt === 'string' ? Date.parse(b.startedAt) : NaN;
   if (!Number.isFinite(started) || Date.now() - started < 2000 || Date.now() - started > RETRY_MS) return null;
-  const name = string(b.name, 120, true), mail = string(b.email, 254, true), phoneInput = string(b.phone, 50), wechat = string(b.wechat, 100), location = string(b.location, 250), listing = string(b.listingUrl, 2048), message = string(b.message, 5000, false, true), country = string(b.country, 2);
-  if ([name, mail, phoneInput, wechat, location, listing, message, country].includes(null) || !email(mail)) return null;
+  const name = string(b.name, 120, true), mail = string(b.email, 254, true), phoneInput = string(b.phone, 50), wechat = string(b.wechat, 100), location = string(b.location, 250), message = string(b.message, 5000, false, true), country = string(b.country, 2);
+  if ([name, mail, phoneInput, wechat, location, message, country].includes(null) || !email(mail)) return null;
   if (country && !COUNTRIES.has(country)) return null;
   if (b.noWechat !== undefined && typeof b.noWechat !== 'boolean') return null;
   if (b.noWechat && wechat) return null;
@@ -96,18 +96,10 @@ function submission(b, origin, secret) {
   if (b.preferredContact === 'wechat' && (!wechat || b.noWechat)) return null;
   if (b.service === 'valuation' && (!location || (!wechat && b.noWechat !== true) || !has(VALUATION_PURPOSES, b.valuationPurpose))) return null;
   if (b.valuationPurpose !== undefined && b.valuationPurpose !== '' && !has(VALUATION_PURPOSES, b.valuationPurpose)) return null;
-  let listingUrl = '';
-  if (listing) {
-    try {
-      const u = new URL(listing);
-      if (!['http:', 'https:'].includes(u.protocol) || !u.hostname || u.username || u.password) return null;
-      listingUrl = u.href;
-    } catch { return null; }
-  }
   const lawyer = { en: 'turkish-citizenship-by-investment-lawyer', tr: 'yatirim-yoluyla-turk-vatandasligi-avukati', zh: 'tuerqi-touzi-ruji-lushi', ar: 'turkish-citizenship-by-investment-lawyer' }[b.language];
   const knownPaths = [`/${b.language}/`, `/${b.language}/igalawrealestateduediligence/`, `/${b.language}/${lawyer}/`];
   if (typeof b.sourcePage !== 'string' || !knownPaths.includes(b.sourcePage)) return null;
-  return { name, email: mail, phone, wechat, noWechat: b.noWechat === true, country, location, listingUrl, message, service: b.service, purpose: b.purpose, status: b.status, budget: b.budget, preferredContact: b.preferredContact, valuationPurpose: b.service === 'valuation' ? b.valuationPurpose : '', language: b.language, sourcePage: b.sourcePage, submissionId: b.submissionId, receivedAt: b.challenge.receivedAt };
+  return { name, email: mail, phone, wechat, noWechat: b.noWechat === true, country, location, message, service: b.service, purpose: b.purpose, status: b.status, budget: b.budget, preferredContact: b.preferredContact, valuationPurpose: b.service === 'valuation' ? b.valuationPurpose : '', language: b.language, sourcePage: b.sourcePage, submissionId: b.submissionId, receivedAt: b.challenge.receivedAt };
 }
 function notification(lead, from) {
   const fallback = value => value || 'Not Provided';
@@ -118,7 +110,7 @@ function notification(lead, from) {
     text: [
       'NEW PROPERTY INQUIRY — IGA LAW FIRM', '', `Requested Service: ${SERVICES[lead.service][0]}`, '',
       'Client Information', `Full Name: ${lead.name}`, `Email: ${lead.email}`, `Phone: ${fallback(lead.phone)}`, `WeChat ID: ${lead.noWechat ? 'Does not use WeChat' : fallback(lead.wechat)}`, `Country: ${fallback(lead.country)}`, `Preferred Contact Method: ${CONTACTS[lead.preferredContact]}`, '',
-      'Property Information', `Investment Purpose: ${PURPOSES[lead.purpose]}`, `Estimated Property Value: ${BUDGETS[lead.budget]}`, `Property Status: ${STATUSES[lead.status]}`, `Property Location: ${fallback(lead.location)}`, `Property Listing: ${fallback(lead.listingUrl)}`, ...(lead.valuationPurpose ? [`Valuation Purpose: ${VALUATION_PURPOSES[lead.valuationPurpose]}`] : []), '',
+      'Property Information', `Investment Purpose: ${PURPOSES[lead.purpose]}`, `Estimated Property Value: ${BUDGETS[lead.budget]}`, `Property Status: ${STATUSES[lead.status]}`, `Property Location: ${fallback(lead.location)}`, ...(lead.valuationPurpose ? [`Valuation Purpose: ${VALUATION_PURPOSES[lead.valuationPurpose]}`] : []), '',
       'Additional Information', fallback(lead.message), '',
       'Lead Information', `Source Page: https://igalawfirm.com${lead.sourcePage}`, `Website Language: ${lead.language}`, `Submission Date and Time (server, UTC): ${lead.submittedAt}`, `Lead Type: ${SERVICES[lead.service][0]}`, `Submission ID: ${lead.submissionId}`, 'Privacy notice acknowledged: Yes', '',
       'Suggested Next Step', SERVICES[lead.service][2]

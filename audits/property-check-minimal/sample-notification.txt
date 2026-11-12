@@ -1,0 +1,36 @@
+[IGA NEW LEAD] Property Valuation Request — TEST ONLY — 张伟 اختبار
+
+NEW PROPERTY INQUIRY — IGA LAW FIRM
+
+Requested Service: Independent Property Valuation
+
+Client Information
+Full Name: TEST ONLY — 张伟 اختبار
+Email: example@example.com
+Phone: +8613800000000
+WeChat ID: Does not use WeChat
+Country: CN
+Preferred Contact Method: Email
+
+Property Information
+Investment Purpose: Turkish Citizenship by Investment
+Estimated Property Value: USD 400,000–500,000
+Property Status: Property Selected
+Property Location: Istanbul, Beyoğlu
+Valuation Purpose: Purchase decision
+
+Additional Information
+Fictional local test. 中文 العربية <script>alert(1)</script>
+
+Lead Information
+Source Page: https://igalawfirm.com/zh/igalawrealestateduediligence/
+Website Language: zh
+Submission Date and Time (server, UTC): 2026-11-11T19:26:05.880Z
+Lead Type: Independent Property Valuation
+Submission ID: a4ecf146-0dc4-4559-93cc-cc9c3e1acee4
+Privacy notice acknowledged: Yes
+
+Suggested Next Step
+Contact the client using their preferred channel. Confirm property location, purpose of valuation, available property information and whether an appropriately qualified independent valuation provider is required.
+
+LOCAL MOCK: NOT AN ACTUAL EMAIL DELIVERY.

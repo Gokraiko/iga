@@ -54,7 +54,6 @@
    if(!error&&el.name==='phone'&&el.value){const normalized=el.value.replace(/[\s().-]/g,'').replace(/^00/,'+');if(!/^\+[1-9]\d{7,14}$/.test(normalized))error=d.phoneError;}
    if(el.name==='wechat'&&get('service').value==='valuation'&&!el.value.trim()&&!get('noWechat').checked)error=d.wechatError;
    if(el.name==='preferredContact'&&el.value==='wechat'&&(!get('wechat').value.trim()||get('noWechat').checked))error=d.contactError;
-   if(el.name==='listingUrl'&&el.value){try{const url=new URL(el.value);if(!['http:','https:'].includes(url.protocol)||url.username||url.password)throw Error();}catch{error=d.urlError;}}
    if(!error&&!el.validity.valid)error=d.invalid;
    el.setCustomValidity(error);el.setAttribute('aria-invalid',String(Boolean(error)));const message=form.querySelector(`[data-error-for="${el.name}"]`);if(message)message.textContent=error;if(error&&!first)first=el;
   }

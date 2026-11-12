@@ -2,7 +2,7 @@ const vm=require('node:vm'),fs=require('node:fs'),assert=require('node:assert/st
 const code=fs.readFileSync('property-review-forms.js','utf8');let count=0;
 for(const lang of ['en','tr','zh','ar'])for(const consent of [undefined,false,true]){
  const events={},sent=[],navigations=[];
- const fields={pr_service:'valuation',pr_status:'selected',pr_source:'home',name:'PRIVATE',email:'private@example.com',phone:'+8613800000000',wechat:'PRIVATE',listingUrl:'https://private.example',message:'PRIVATE'};
+ const fields={pr_service:'valuation',pr_status:'selected',pr_source:'home',name:'PRIVATE',email:'private@example.com',phone:'+8613800000000',wechat:'PRIVATE',message:'PRIVATE'};
  const form={action:`https://igalawfirm.com/${lang}/igalawrealestateduediligence/#property-legal-review`,elements:{namedItem:n=>({value:fields[n]||''})},addEventListener:(n,fn)=>{events[n]=fn}};
  // Actual short form only has non-personal fields. Full-form extras model hostile accidental additions.
  class FD{constructor(){return Object.entries(fields).filter(([k])=>k.startsWith('pr_'))[Symbol.iterator]();}}

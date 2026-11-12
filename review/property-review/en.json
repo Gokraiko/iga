@@ -1,5 +1,5 @@
 {
- "nav":"Property Legal Review",
+ "nav":"Property Check",
  "homeTitle":"Found a Property in Turkey? Check Before You Buy.",
  "homeIntro":"Planning to purchase property in Turkey for investment or citizenship? IGA Law Firm can assist with legal due diligence, citizenship-related property assessments and coordination of independent property valuation services.",
  "homeService":"What service do you need?",
@@ -25,7 +25,6 @@
  "budgets":{"under200":"Under USD 200,000","200to399":"USD 200,000–399,999","400to500":"USD 400,000–500,000","above500":"Above USD 500,000","unsure":"Not Sure"},
  "location":"Property location",
  "locationPlaceholder":"Istanbul, Beyoğlu",
- "listingUrl":"Property listing URL",
  "name":"Full name",
  "country":"Country / region (optional)",
  "countryHint":"This helps us understand your preferred contact channel.",
@@ -57,7 +56,6 @@
  "phoneError":"Enter an international phone number beginning with + and including your country calling code.",
  "wechatError":"Enter your WeChat ID or select that you do not use WeChat.",
  "contactError":"Add details for your selected contact method, or choose email.",
- "urlError":"Enter a complete http:// or https:// property listing URL without a username or password.",
  "requiredError":"Please complete this field.",
  "emailError":"Enter a valid email address.",
  "wait":"Please wait a moment and try again.",
