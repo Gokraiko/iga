@@ -55,6 +55,8 @@ html[dir="rtl"]{--sans:'Noto Sans Arabic',Arial,sans-serif;--serif:'Noto Naskh A
 .blog-card-top>small{flex:1;min-width:0;line-height:1.7}
 .article-heading-top .crumb{flex:1;min-width:0}
 .article-view-count{display:inline-flex;align-items:center;gap:5px;flex-shrink:0;direction:ltr;color:var(--ink);background:#fff9;border:1px solid var(--line);border-radius:30px;padding:6px 8px;font:500 11px/1.3 var(--sans);letter-spacing:0;white-space:nowrap;text-transform:none;font-variant-numeric:tabular-nums}
+/* Temporarily hide archive read counts; remove this rule to restore them. Tracking and stored counts remain active. */
+.blog-list .article-view-count{display:none}
 .article-view-count svg{width:16px;height:16px;flex-shrink:0}
 .article-view-count [data-read-count]{font-weight:700}
 .article-heading-top .article-view-count{color:white;background:#ffffff12;border-color:#ffffff38;padding:8px 12px;font-size:12px}
