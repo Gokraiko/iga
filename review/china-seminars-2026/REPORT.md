@@ -1,3 +1,7 @@
+## Follow-up: visible links and founding year
+
+User requested underlined clickable links and the 2022 founding date in the Irmak Gürer Aksöz section. All six body anchors in each seminar article are underlined with article-local inline styling; their existing valid destinations remain unchanged. IGA Law Firm's 2022 founding year is added to both language versions, separately from the attorney's professional work since 2018. Only the two seminar page HTML outputs change; 239 other pages and all sitemap entries remain identical. The two article modification timestamps update through the existing content-history mechanism. No global CSS change.
+
 # Approved China seminar release — 2026-11-13
 
 The user explicitly authorized adding the two articles and supplied photographs to the live site for review, with removal on request. This supersedes the draft-only state below. Implementation was confined to the two new pages, their EN/ZH archive cards and necessary scoped registrations. No unrelated content was edited.

@@ -14,6 +14,7 @@ for lang,a in data.items():
  md=folder/(lang+'.md');text=md.read_text().replace('**Publication status:** Unpublished draft. The actual publication date will be set after approval.','**Publication date:** 13 November 2026.').replace('**发布状态：**未发布草稿。批准发布后填写实际发布日期。','**发布日期：**2026年11月13日。');md.write_text(text)
  raw=(folder/(lang+'.body.html')).read_text().replace('<strong>Publication status:</strong> Unpublished draft. The actual publication date will be set after approval.','<strong>Publication date:</strong> 13 November 2026.').replace('<strong>发布状态：</strong>未发布草稿。批准发布后填写实际发布日期。','<strong>发布日期：</strong>2026年11月13日。')
  assert 'Unpublished' not in raw and '未发布' not in raw
+ raw=raw.replace('<a href=', '<a style="text-decoration:underline;text-underline-offset:3px" href=')
  counter=[0]
  def replace(m):counter[0]+=1;return '{{IMAGE_'+str(counter[0])+'}}'
  raw=re.sub(r'<figure class="article-inline-image">.*?</figure>',replace,raw,flags=re.S);assert counter[0]==4;body[lang]=raw

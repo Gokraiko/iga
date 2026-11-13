@@ -132,7 +132,7 @@ Certain transactions and official procedures may still require personal attendan
 
 Irmak Gürer Aksöz is a founding attorney of IGA Law Firm, an Istanbul-based legal practice advising international clients on Turkish citizenship by investment, property transactions and related legal matters.
 
-Her professional work in investment immigration dates to 2018.
+IGA Law Firm was founded in 2022. Her professional work in investment immigration dates to 2018.
 
 IGA Law Firm reports having assisted more than 600 families through its international legal practice, including clients from China and other countries.
 
