@@ -10191,6 +10191,336 @@
       ]
     }
   },
+  "/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/": {
+    "path": "/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "IGA Law Firm China Seminars 2026 | Citizenship & Property",
+    "description": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+    "canonical": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+      "title": "IGA Law Firm China Seminars 2026 | Citizenship & Property",
+      "description": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+      "image": "https://igalawfirm.com/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#webpage",
+          "url": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+          "name": "IGA Law Firm China Seminars 2026 | Citizenship & Property",
+          "description": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#article",
+          "url": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+          "headline": "IGA Law Firm in China: Turkish Citizenship Investment Seminars in Four Major Cities",
+          "description": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-13T09:00:00+03:00",
+          "dateModified": "2026-11-13T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+            "width": 1280,
+            "height": 1707,
+            "name": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+            "description": "Participants at a seminar during IGA Law Firm’s November 2026 visit to China.",
+            "caption": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+            "inLanguage": "en"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "IGA Law Firm in China: Turkish Citizenship Investment Seminars in Four Major Cities",
+              "item": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/": {
+    "path": "/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "IGA律师事务所中国四城讲座｜土耳其购房与投资入籍",
+    "description": "IGA律师事务所创始律师Irmak Gürer Aksöz赴上海、杭州、深圳和北京举办土耳其购房投资与入籍法律讲座，为中国投资者介绍房产交易及相关法律问题。",
+    "canonical": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+      "title": "IGA律师事务所中国四城讲座｜土耳其购房与投资入籍",
+      "description": "IGA律师事务所创始律师Irmak Gürer Aksöz赴上海、杭州、深圳和北京举办土耳其购房投资与入籍法律讲座，为中国投资者介绍房产交易及相关法律问题。",
+      "image": "https://igalawfirm.com/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+          "name": "IGA律师事务所中国四城讲座｜土耳其购房与投资入籍",
+          "description": "IGA律师事务所创始律师Irmak Gürer Aksöz赴上海、杭州、深圳和北京举办土耳其购房投资与入籍法律讲座，为中国投资者介绍房产交易及相关法律问题。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#breadcrumb"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#primaryimage"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#article",
+          "url": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+          "headline": "IGA律师事务所走进中国四大城市：土耳其购房投资与入籍法律讲座",
+          "description": "IGA律师事务所创始律师Irmak Gürer Aksöz赴上海、杭州、深圳和北京举办土耳其购房投资与入籍法律讲座，为中国投资者介绍房产交易及相关法律问题。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-13T09:00:00+03:00",
+          "dateModified": "2026-11-13T09:00:00+03:00",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#primaryimage",
+            "url": "https://igalawfirm.com/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+            "width": 1280,
+            "height": 1707,
+            "name": "IGA律师事务所土耳其投资入籍讲座参会人员合影",
+            "description": "IGA律师事务所2026年11月访华期间的讲座参会人员合影。",
+            "caption": "IGA律师事务所土耳其投资入籍讲座参会人员合影",
+            "inLanguage": "zh-CN"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "IGA律师事务所走进中国四大城市：土耳其购房投资与入籍法律讲座",
+              "item": "https://igalawfirm.com/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/": {
     "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
     "language": "en",

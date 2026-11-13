@@ -18,7 +18,7 @@ window.igaSchemaContent = (() => {
     return `<nav class="crumb site-breadcrumb" aria-label="${breadcrumbLabels[lang]}"><ol>${items.map((item,i)=>`<li>${i?'<span class="breadcrumb-separator" aria-hidden="true">›</span>':''}${i===items.length-1?`<span aria-current="page">${escape(item.name)}</span>`:`<a href="${escape(item.path)}">${escape(item.name)}</a>`}</li>`).join('')}</ol></nav>`;
   }
   function author(post,team,anchors,lang,pathFor) {
-    if(post.slug==='buying-tenanted-apartment-istanbul-foreign-buyers' && post.author?.type==='Organization') return {member:null,organization:true,label:lang==='zh'?'作者：IGA律师事务所编辑团队':'Author: IGA Law Firm Editorial Team',path:pathFor(lang,'about')};
+    if(['buying-tenanted-apartment-istanbul-foreign-buyers','iga-law-firm-china-turkish-citizenship-investment-seminars-2026'].includes(post.slug) && post.author?.type==='Organization') return {member:null,organization:true,label:lang==='zh'?'作者：IGA律师事务所编辑团队':'Author: IGA Law Firm Editorial Team',path:pathFor(lang,'about')};
     const value=post.author;
     const name=typeof value==='object'?value.name:value;
     const member=team.find(m=>m.name===name || anchors[m.name]===name);

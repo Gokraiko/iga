@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "filename": "iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+    "webp": "iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 296567,
+    "webpBytes": 309136,
+    "sha256": "cc1fba230a304c493f3a0ec1f902ecec3ff76a8fcddf9faa57416b3b4a8b4c04",
+    "alt": {
+      "en": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+      "zh": "IGA律师事务所土耳其投资入籍讲座参会人员合影"
+    },
+    "caption": {
+      "en": "Participants at a seminar during IGA Law Firm’s November 2026 visit to China.",
+      "zh": "IGA律师事务所2026年11月访华期间的讲座参会人员合影。"
+    },
+    "placement": "After introduction",
+    "city": null,
+    "loading": "eager",
+    "originalPreserved": true
+  },
+  {
+    "id": 2,
+    "filename": "irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.jpg",
+    "webp": "irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.webp",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 274549,
+    "webpBytes": 196960,
+    "sha256": "29071805f62758cab9e9a71797507ec632bd7847e6ef959e2235ab116057c83d",
+    "alt": {
+      "en": "Attorney Irmak Gürer Aksöz presenting Turkish citizenship by investment regulations and legal risk management.",
+      "zh": "IGA律师事务所创始律师Irmak Gürer Aksöz介绍土耳其投资入籍法律规定"
+    },
+    "caption": {
+      "en": "Irmak Gürer Aksöz presents investment pathways, 2026 regulatory developments and legal risk management in China.",
+      "zh": "Irmak Gürer Aksöz在中国介绍投资途径、2026年监管动态及法律风险管理。"
+    },
+    "placement": "After Connecting Chinese Investors with Turkish Legal Expertise",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  },
+  {
+    "id": 3,
+    "filename": "turkish-citizenship-by-investment-chinese-language-seminar-brochure.jpg",
+    "webp": "turkish-citizenship-by-investment-chinese-language-seminar-brochure.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 173955,
+    "webpBytes": 120948,
+    "sha256": "31196580f8528e78300da889ee1cfea7ce05d74e86adf8693dca1a63e2671f89",
+    "alt": {
+      "en": "Chinese-language Turkish citizenship by investment seminar brochure displayed at an investment presentation.",
+      "zh": "土耳其投资入籍中文讲座宣传资料"
+    },
+    "caption": {
+      "en": "Chinese-language seminar materials supplied as part of the November 2026 China event photographs.",
+      "zh": "2026年11月中国讲座活动照片中的中文宣传资料。"
+    },
+    "placement": "After citizenship investment section",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  },
+  {
+    "id": 4,
+    "filename": "iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.jpg",
+    "webp": "iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.webp",
+    "width": 1707,
+    "height": 1280,
+    "bytes": 227348,
+    "webpBytes": 189600,
+    "sha256": "f9a01351adc218e6d066501d5768a72eb6d0d26c51d0a1f6e0083c64b3ae3679",
+    "alt": {
+      "en": "Group photograph from a Turkish property investment and citizenship seminar for Chinese attendees.",
+      "zh": "中国投资者参加土耳其房产投资与入籍法律讲座的集体合影"
+    },
+    "caption": {
+      "en": "Seminar participants during the November 2026 China visit.",
+      "zh": "2026年11月访华讲座的参会人员合影。"
+    },
+    "placement": "Before final CTA",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  }
+]

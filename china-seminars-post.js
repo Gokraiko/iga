@@ -1,0 +1,1239 @@
+// User-confirmed November 2026 China seminar series. New EN/ZH article only.
+{
+ const slug="iga-law-firm-china-turkish-citizenship-investment-seminars-2026";
+ const slugs={
+  "en": "iga-law-firm-china-turkish-citizenship-investment-seminars-2026",
+  "zh": "iga-law-firm-china-turkey-property-citizenship-seminars-2026"
+};
+ const copy={
+  "en": {
+    "title": "IGA Law Firm in China: Turkish Citizenship Investment Seminars in Four Major Cities",
+    "seoTitle": "IGA Law Firm China Seminars 2026 | Citizenship & Property",
+    "metaDescription": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "markdown": "**November 2026 | IGA Law Firm International Activities**",
+        "text": "**November 2026 | IGA Law Firm International Activities**"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm continued its engagement with Chinese investors in November 2026 as founding attorney **Irmak Gürer Aksöz** visited Shanghai, Hangzhou, Shenzhen and Beijing to deliver presentations on Turkish citizenship by investment, real estate investment considerations and the importance of legal risk management in cross-border transactions.",
+        "text": "IGA Law Firm continued its engagement with Chinese investors in November 2026 as founding attorney **Irmak Gürer Aksöz** visited Shanghai, Hangzhou, Shenzhen and Beijing to deliver presentations on Turkish citizenship by investment, real estate investment considerations and the importance of legal risk management in cross-border transactions."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The seminars brought together participants interested in Türkiye's investment opportunities and the legal framework governing investment-based citizenship.",
+        "text": "The seminars brought together participants interested in Türkiye's investment opportunities and the legal framework governing investment-based citizenship."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For Chinese nationals considering purchasing property in Istanbul or elsewhere in Türkiye, understanding the legal requirements before making an investment is an essential part of planning a secure transaction.",
+        "text": "For Chinese nationals considering purchasing property in Istanbul or elsewhere in Türkiye, understanding the legal requirements before making an investment is an essential part of planning a secure transaction."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The visit reflects IGA Law Firm's ongoing work with international investors and its commitment to providing accessible legal information to Chinese-speaking clients.",
+        "text": "The visit reflects IGA Law Firm's ongoing work with international investors and its commitment to providing accessible legal information to Chinese-speaking clients."
+      },
+      {
+        "type": "image",
+        "image": 1,
+        "src": "/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+        "alt": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+        "caption": "Participants at a seminar during IGA Law Firm’s November 2026 visit to China.",
+        "width": 1280,
+        "height": 1707,
+        "loading": "eager",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Turkish Citizenship Investment Seminars Across Four Chinese Cities"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "In November 2026, IGA Law Firm founding attorney Irmak Gürer Aksöz visited four major Chinese cities — **Shanghai, Hangzhou, Shenzhen and Beijing** — to deliver seminars on Turkish citizenship by investment and related legal considerations.",
+        "text": "In November 2026, IGA Law Firm founding attorney Irmak Gürer Aksöz visited four major Chinese cities — **Shanghai, Hangzhou, Shenzhen and Beijing** — to deliver seminars on Turkish citizenship by investment and related legal considerations."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "These meetings provided opportunities to engage directly with audiences in China and share information about Türkiye's investment framework, property acquisition procedures and legal risk management.",
+        "text": "These meetings provided opportunities to engage directly with audiences in China and share information about Türkiye's investment framework, property acquisition procedures and legal risk management."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For Chinese investors considering purchasing residential property in Istanbul or elsewhere in Türkiye, the seminars emphasized the importance of understanding legal requirements before committing to an investment.",
+        "text": "For Chinese investors considering purchasing residential property in Istanbul or elsewhere in Türkiye, the seminars emphasized the importance of understanding legal requirements before committing to an investment."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Through these professional activities, IGA Law Firm continued strengthening its connections with Chinese investors and supporting access to information about Turkish property and investment law.",
+        "text": "Through these professional activities, IGA Law Firm continued strengthening its connections with Chinese investors and supporting access to information about Turkish property and investment law."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Connecting Chinese Investors with Turkish Legal Expertise"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Cross-border real estate transactions require careful planning, particularly when the investment may also form part of a Turkish citizenship application.",
+        "text": "Cross-border real estate transactions require careful planning, particularly when the investment may also form part of a Turkish citizenship application."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "During the China visit, Irmak Gürer Aksöz presented key considerations concerning the Turkish citizenship by investment framework and the legal risks associated with investment transactions.",
+        "text": "During the China visit, Irmak Gürer Aksöz presented key considerations concerning the Turkish citizenship by investment framework and the legal risks associated with investment transactions."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The presentation addressed 2026 regulatory developments, investment pathways and legal risk management.",
+        "text": "The presentation addressed 2026 regulatory developments, investment pathways and legal risk management."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For prospective property buyers, these issues are closely connected to the practical steps required before completing a transaction in Türkiye.",
+        "text": "For prospective property buyers, these issues are closely connected to the practical steps required before completing a transaction in Türkiye."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Investors should understand that choosing a property, verifying its legal status and determining its eligibility for citizenship are related but distinct decisions.",
+        "text": "Investors should understand that choosing a property, verifying its legal status and determining its eligibility for citizenship are related but distinct decisions."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm assists international clients with legal due diligence, investment documentation and citizenship-related legal procedures within the agreed scope of representation.",
+        "text": "IGA Law Firm assists international clients with legal due diligence, investment documentation and citizenship-related legal procedures within the agreed scope of representation."
+      },
+      {
+        "type": "image",
+        "image": 2,
+        "src": "/public/assets/irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.jpg",
+        "alt": "Attorney Irmak Gürer Aksöz presenting Turkish citizenship by investment regulations and legal risk management.",
+        "caption": "Irmak Gürer Aksöz presents investment pathways, 2026 regulatory developments and legal risk management in China.",
+        "width": 2048,
+        "height": 1536,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "What Should Chinese Investors Know Before Buying Property in Türkiye?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Chinese nationals considering a Turkish property investment should obtain reliable information about the proposed transaction before signing binding documents or transferring funds.",
+        "text": "Chinese nationals considering a Turkish property investment should obtain reliable information about the proposed transaction before signing binding documents or transferring funds."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Several issues deserve particular attention.",
+        "text": "Several issues deserve particular attention."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "1. Property Ownership and Title Deed Verification"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "A buyer should establish who legally owns the property and whether any registered mortgages, restrictions, annotations or other issues may affect the acquisition.",
+        "text": "A buyer should establish who legally owns the property and whether any registered mortgages, restrictions, annotations or other issues may affect the acquisition."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The legal status of a property should be reviewed independently of marketing materials or representations made during a property viewing.",
+        "text": "The legal status of a property should be reviewed independently of marketing materials or representations made during a property viewing."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "2. Property Eligibility for Turkish Citizenship"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Under the applicable real estate investment route, a qualifying investment of at least USD 400,000 or its permitted equivalent is generally required, together with the applicable three-year restriction on resale and other legal conditions.",
+        "text": "Under the applicable real estate investment route, a qualifying investment of at least USD 400,000 or its permitted equivalent is generally required, together with the applicable three-year restriction on resale and other legal conditions."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "However, the advertised price or purchase price alone does not establish eligibility.",
+        "text": "However, the advertised price or purchase price alone does not establish eligibility."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Ownership history, valuation, payment documentation, land registry requirements and the relevant conformity assessment must be considered.",
+        "text": "Ownership history, valuation, payment documentation, land registry requirements and the relevant conformity assessment must be considered."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The competent Turkish authorities make the final eligibility and citizenship determinations.",
+        "text": "The competent Turkish authorities make the final eligibility and citizenship determinations."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For a detailed explanation, read:",
+        "text": "For a detailed explanation, read:"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[How to Check if a Property Qualifies for Turkish Citizenship Before Buying](https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/)",
+        "text": "[How to Check if a Property Qualifies for Turkish Citizenship Before Buying](https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "3. Cross-Border Payment Documentation"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Foreign buyers should understand the banking and documentation requirements applicable to the transaction.",
+        "text": "Foreign buyers should understand the banking and documentation requirements applicable to the transaction."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Where citizenship eligibility is intended, the relevant payment trail, foreign-exchange documentation and land registry records may be especially important.",
+        "text": "Where citizenship eligibility is intended, the relevant payment trail, foreign-exchange documentation and land registry records may be especially important."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Chinese investors should plan cross-border transfers carefully and seek advice about the applicable banking and regulatory requirements.",
+        "text": "Chinese investors should plan cross-border transfers carefully and seek advice about the applicable banking and regulatory requirements."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For further information:",
+        "text": "For further information:"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[How Chinese Investors Can Transfer Money to Turkey for Property and Citizenship](https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/)",
+        "text": "[How Chinese Investors Can Transfer Money to Turkey for Property and Citizenship](https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "4. Independent Legal Representation"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "A property developer or real estate agent may help identify and market suitable properties.",
+        "text": "A property developer or real estate agent may help identify and market suitable properties."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "An independent lawyer performs a different role: reviewing the legal documents, identifying relevant risks and advising on the legal implications of the proposed transaction.",
+        "text": "An independent lawyer performs a different role: reviewing the legal documents, identifying relevant risks and advising on the legal implications of the proposed transaction."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Foreign buyers should understand the scope of representation before proceeding.",
+        "text": "Foreign buyers should understand the scope of representation before proceeding."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[Property Legal Due Diligence for Foreign Buyers](https://igalawfirm.com/en/igalawrealestateduediligence/)",
+        "text": "[Property Legal Due Diligence for Foreign Buyers](https://igalawfirm.com/en/igalawrealestateduediligence/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Turkish Citizenship by Investment: An Important Consideration for Property Buyers"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Türkiye provides a citizenship by investment framework that includes qualifying real estate investments.",
+        "text": "Türkiye provides a citizenship by investment framework that includes qualifying real estate investments."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For investors considering the property route, the minimum qualifying amount is generally USD 400,000, subject to the applicable legal requirements.",
+        "text": "For investors considering the property route, the minimum qualifying amount is generally USD 400,000, subject to the applicable legal requirements."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "An investment meeting the financial threshold does not automatically guarantee citizenship.",
+        "text": "An investment meeting the financial threshold does not automatically guarantee citizenship."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The legal status of the property, transaction documentation, relevant investment restrictions and the applicant's individual circumstances remain important.",
+        "text": "The legal status of the property, transaction documentation, relevant investment restrictions and the applicant's individual circumstances remain important."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Chinese investors who are considering purchasing one or more properties should seek an individual assessment before assuming that a proposed acquisition will satisfy the requirements.",
+        "text": "Chinese investors who are considering purchasing one or more properties should seek an individual assessment before assuming that a proposed acquisition will satisfy the requirements."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm provides legal support relating to property investment due diligence, citizenship eligibility assessment and the relevant application documentation.",
+        "text": "IGA Law Firm provides legal support relating to property investment due diligence, citizenship eligibility assessment and the relevant application documentation."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[Turkish Citizenship by Investment Lawyer — IGA Law Firm](https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/)",
+        "text": "[Turkish Citizenship by Investment Lawyer — IGA Law Firm](https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/)"
+      },
+      {
+        "type": "image",
+        "image": 3,
+        "src": "/public/assets/turkish-citizenship-by-investment-chinese-language-seminar-brochure.jpg",
+        "alt": "Chinese-language Turkish citizenship by investment seminar brochure displayed at an investment presentation.",
+        "caption": "Chinese-language seminar materials supplied as part of the November 2026 China event photographs.",
+        "width": 1080,
+        "height": 1920,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Supporting Chinese Investors Before and After Their Visit to Türkiye"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Some investors begin researching Turkish property opportunities while still living in China.",
+        "text": "Some investors begin researching Turkish property opportunities while still living in China."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Others travel to Istanbul to view properties, meet developers and discuss possible investments.",
+        "text": "Others travel to Istanbul to view properties, meet developers and discuss possible investments."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "In either situation, early legal preparation can help buyers understand the documents and legal questions that should be addressed before committing to a transaction.",
+        "text": "In either situation, early legal preparation can help buyers understand the documents and legal questions that should be addressed before committing to a transaction."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Depending on the circumstances and agreed scope of services, IGA Law Firm can assist with:",
+        "text": "Depending on the circumstances and agreed scope of services, IGA Law Firm can assist with:"
+      },
+      {
+        "type": "list",
+        "text": "Reviewing proposed property purchase documentation."
+      },
+      {
+        "type": "list",
+        "text": "Conducting legal due diligence on relevant property records."
+      },
+      {
+        "type": "list",
+        "text": "Assessing legal questions connected with citizenship eligibility."
+      },
+      {
+        "type": "list",
+        "text": "Explaining appropriate powers of attorney for permitted representation."
+      },
+      {
+        "type": "list",
+        "text": "Coordinating relevant investment and citizenship documentation."
+      },
+      {
+        "type": "list",
+        "text": "Supporting communication with international clients through its multilingual team."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm provides Chinese- and English-language communication support.",
+        "text": "IGA Law Firm provides Chinese- and English-language communication support."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Certain transactions and official procedures may still require personal attendance or additional documentation.",
+        "text": "Certain transactions and official procedures may still require personal attendance or additional documentation."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "About Attorney Irmak Gürer Aksöz"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Irmak Gürer Aksöz is a founding attorney of IGA Law Firm, an Istanbul-based legal practice advising international clients on Turkish citizenship by investment, property transactions and related legal matters.",
+        "text": "Irmak Gürer Aksöz is a founding attorney of IGA Law Firm, an Istanbul-based legal practice advising international clients on Turkish citizenship by investment, property transactions and related legal matters."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Her professional work in investment immigration dates to 2018.",
+        "text": "Her professional work in investment immigration dates to 2018."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm reports having assisted more than 600 families through its international legal practice, including clients from China and other countries.",
+        "text": "IGA Law Firm reports having assisted more than 600 families through its international legal practice, including clients from China and other countries."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Her participation in the November 2026 seminars in China forms part of the firm's continuing professional engagement with international investors.",
+        "text": "Her participation in the November 2026 seminars in China forms part of the firm's continuing professional engagement with international investors."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[Learn More About IGA Law Firm](https://igalawfirm.com/en/about/)",
+        "text": "[Learn More About IGA Law Firm](https://igalawfirm.com/en/about/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Strengthening Legal Connections Between China and Türkiye"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The November 2026 seminars offered an opportunity to share information about Turkish investment-related legal matters directly with participants in China.",
+        "text": "The November 2026 seminars offered an opportunity to share information about Turkish investment-related legal matters directly with participants in China."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "For Chinese investors considering purchasing an apartment or another eligible property in Türkiye, access to clear legal information is particularly important before a financial commitment is made.",
+        "text": "For Chinese investors considering purchasing an apartment or another eligible property in Türkiye, access to clear legal information is particularly important before a financial commitment is made."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm aims to support informed investment decisions by explaining the legal process, reviewing transaction documentation and identifying matters that may require further investigation.",
+        "text": "IGA Law Firm aims to support informed investment decisions by explaining the legal process, reviewing transaction documentation and identifying matters that may require further investigation."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The firm continues to assist international clients seeking legal advice about property purchases and investment-based citizenship applications.",
+        "text": "The firm continues to assist international clients seeking legal advice about property purchases and investment-based citizenship applications."
+      },
+      {
+        "type": "image",
+        "image": 4,
+        "src": "/public/assets/iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.jpg",
+        "alt": "Group photograph from a Turkish property investment and citizenship seminar for Chinese attendees.",
+        "caption": "Seminar participants during the November 2026 China visit.",
+        "width": 1707,
+        "height": 1280,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Planning to Buy Property in Istanbul from China?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "If you are considering purchasing an apartment in Istanbul, whether for personal use, rental investment or a potential Turkish citizenship application, it is important to understand the legal implications of the proposed purchase.",
+        "text": "If you are considering purchasing an apartment in Istanbul, whether for personal use, rental investment or a potential Turkish citizenship application, it is important to understand the legal implications of the proposed purchase."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Before signing binding agreements or transferring substantial funds, consider obtaining independent advice regarding the property's legal status and the applicable transaction requirements.",
+        "text": "Before signing binding agreements or transferring substantial funds, consider obtaining independent advice regarding the property's legal status and the applicable transaction requirements."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**IGA Law Firm provides legal assistance to international property buyers and Turkish citizenship by investment applicants.**",
+        "text": "**IGA Law Firm provides legal assistance to international property buyers and Turkish citizenship by investment applicants.**"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Contact the team to discuss your investment plans and the appropriate scope of legal support.",
+        "text": "Contact the team to discuss your investment plans and the appropriate scope of legal support."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**[Contact IGA Law Firm About Buying Property in Türkiye](https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/)**",
+        "text": "**[Contact IGA Law Firm About Buying Property in Türkiye](https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/)**"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Can Chinese citizens buy property in Türkiye?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Chinese citizens may be eligible to purchase property in Türkiye, subject to the applicable foreign ownership rules, restrictions and the legal status of the particular property. Eligibility should be confirmed for the proposed transaction.",
+        "text": "Chinese citizens may be eligible to purchase property in Türkiye, subject to the applicable foreign ownership rules, restrictions and the legal status of the particular property. Eligibility should be confirmed for the proposed transaction."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Can Chinese investors obtain Turkish citizenship through property investment?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "The Turkish citizenship by investment framework includes a qualifying real estate route with a generally applicable USD 400,000 minimum. Meeting the investment amount alone does not guarantee citizenship; all applicable requirements must be satisfied.",
+        "text": "The Turkish citizenship by investment framework includes a qualifying real estate route with a generally applicable USD 400,000 minimum. Meeting the investment amount alone does not guarantee citizenship; all applicable requirements must be satisfied."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Does IGA Law Firm assist Chinese-speaking investors?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm provides legal services to international investors and has Chinese- and English-language communication support.",
+        "text": "IGA Law Firm provides legal services to international investors and has Chinese- and English-language communication support."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Should I contact a Turkish lawyer before visiting Istanbul to buy property?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Early legal consultation can help identify documents, eligibility questions and potential transaction risks before a buyer signs binding agreements or transfers funds.",
+        "text": "Early legal consultation can help identify documents, eligibility questions and potential transaction risks before a buyer signs binding agreements or transfers funds."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Can I buy property in Türkiye without travelling there?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Certain purchase-related steps may be completed through appropriately authorized representation, where legally permitted. Other steps may require personal attendance. The specific transaction and any citizenship application should be assessed individually.",
+        "text": "Certain purchase-related steps may be completed through appropriately authorized representation, where legally permitted. Other steps may require personal attendance. The specific transaction and any citizenship application should be assessed individually."
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Can IGA Law Firm review a property before I purchase it?"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA Law Firm provides real estate legal due diligence services. The appropriate scope of review depends on the property, available records and the proposed transaction.",
+        "text": "IGA Law Firm provides real estate legal due diligence services. The appropriate scope of review depends on the property, available records and the proposed transaction."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Author:** IGA Law Firm Editorial Team",
+        "text": "**Author:** IGA Law Firm Editorial Team"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Featured attorney:** Irmak Gürer Aksöz, Founding Attorney",
+        "text": "**Featured attorney:** Irmak Gürer Aksöz, Founding Attorney"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Event period:** November 2026",
+        "text": "**Event period:** November 2026"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Publication date:** 13 November 2026.",
+        "text": "**Publication date:** 13 November 2026."
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Jurisdiction:** Türkiye",
+        "text": "**Jurisdiction:** Türkiye"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**Disclaimer:** This article provides general information and does not constitute legal advice for any individual transaction. Citizenship eligibility and property acquisition requirements depend on the applicable law and individual circumstances.",
+        "text": "**Disclaimer:** This article provides general information and does not constitute legal advice for any individual transaction. Citizenship eligibility and property acquisition requirements depend on the applicable law and individual circumstances."
+      }
+    ],
+    "imageAlt": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+    "imageDescription": "Participants at a seminar during IGA Law Firm’s November 2026 visit to China.",
+    "imageTitle": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm."
+  },
+  "zh": {
+    "title": "IGA律师事务所走进中国四大城市：土耳其购房投资与入籍法律讲座",
+    "seoTitle": "IGA律师事务所中国四城讲座｜土耳其购房与投资入籍",
+    "metaDescription": "IGA律师事务所创始律师Irmak Gürer Aksöz赴上海、杭州、深圳和北京举办土耳其购房投资与入籍法律讲座，为中国投资者介绍房产交易及相关法律问题。",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "markdown": "**2026年11月｜IGA律师事务所国际交流活动**",
+        "text": "**2026年11月｜IGA律师事务所国际交流活动**"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "2026年11月，IGA律师事务所创始律师**Irmak Gürer Aksöz**走访中国**上海、杭州、深圳和北京**四座城市，围绕土耳其投资入籍、房地产投资相关事项，以及跨境交易中的法律风险管理举办讲座，继续与中国投资者开展交流。",
+        "text": "2026年11月，IGA律师事务所创始律师**Irmak Gürer Aksöz**走访中国**上海、杭州、深圳和北京**四座城市，围绕土耳其投资入籍、房地产投资相关事项，以及跨境交易中的法律风险管理举办讲座，继续与中国投资者开展交流。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "讲座为关注土耳其投资机会及投资入籍法律框架的参与者提供了交流平台。",
+        "text": "讲座为关注土耳其投资机会及投资入籍法律框架的参与者提供了交流平台。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对于计划在伊斯坦布尔或土耳其其他地区购房的中国公民而言，在作出投资决定之前了解法律要求，是审慎安排交易的重要环节。",
+        "text": "对于计划在伊斯坦布尔或土耳其其他地区购房的中国公民而言，在作出投资决定之前了解法律要求，是审慎安排交易的重要环节。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "此次访问体现了IGA律师事务所持续服务国际投资者，并为中文客户提供易于理解的法律信息的工作方向。",
+        "text": "此次访问体现了IGA律师事务所持续服务国际投资者，并为中文客户提供易于理解的法律信息的工作方向。"
+      },
+      {
+        "type": "image",
+        "image": 1,
+        "src": "/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+        "alt": "IGA律师事务所土耳其投资入籍讲座参会人员合影",
+        "caption": "IGA律师事务所2026年11月访华期间的讲座参会人员合影。",
+        "width": 1280,
+        "height": 1707,
+        "loading": "eager",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "IGA律师事务所走进上海、杭州、深圳和北京"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "2026年11月，IGA律师事务所创始律师Irmak Gürer Aksöz先后前往中国四大城市——**上海、杭州、深圳和北京**，举办土耳其投资入籍及相关法律问题专题讲座。",
+        "text": "2026年11月，IGA律师事务所创始律师Irmak Gürer Aksöz先后前往中国四大城市——**上海、杭州、深圳和北京**，举办土耳其投资入籍及相关法律问题专题讲座。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "讲座围绕土耳其投资入籍政策、房地产投资法律要求以及跨境投资中的法律风险管理展开。",
+        "text": "讲座围绕土耳其投资入籍政策、房地产投资法律要求以及跨境投资中的法律风险管理展开。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对于计划在伊斯坦布尔或土耳其其他地区购买房产的中国投资者而言，在签署购房合同或支付投资款项之前，充分了解相关法律规定和房产交易程序尤为重要。",
+        "text": "对于计划在伊斯坦布尔或土耳其其他地区购买房产的中国投资者而言，在签署购房合同或支付投资款项之前，充分了解相关法律规定和房产交易程序尤为重要。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "通过此次中国之行，IGA律师事务所进一步加强了与中国投资者的交流，并持续为有意在土耳其购房及申请投资入籍的国际客户提供专业法律支持。",
+        "text": "通过此次中国之行，IGA律师事务所进一步加强了与中国投资者的交流，并持续为有意在土耳其购房及申请投资入籍的国际客户提供专业法律支持。"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "为中国投资者介绍土耳其法律实务"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "跨境房地产交易需要充分准备，尤其是拟购房产同时可能用于土耳其入籍申请的情况下。",
+        "text": "跨境房地产交易需要充分准备，尤其是拟购房产同时可能用于土耳其入籍申请的情况下。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "此次访华期间，Irmak Gürer Aksöz介绍了土耳其投资入籍制度的主要考虑因素，以及投资交易可能涉及的法律风险。",
+        "text": "此次访华期间，Irmak Gürer Aksöz介绍了土耳其投资入籍制度的主要考虑因素，以及投资交易可能涉及的法律风险。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "演讲内容涉及2026年的监管动态、投资途径和法律风险管理。",
+        "text": "演讲内容涉及2026年的监管动态、投资途径和法律风险管理。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对有意购房的投资者而言，这些问题与在土耳其完成交易之前需要采取的实际步骤密切相关。",
+        "text": "对有意购房的投资者而言，这些问题与在土耳其完成交易之前需要采取的实际步骤密切相关。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "投资者应认识到，选择房产、核查房产法律状态，以及判断是否符合入籍条件，是相互关联但并不相同的决定。",
+        "text": "投资者应认识到，选择房产、核查房产法律状态，以及判断是否符合入籍条件，是相互关联但并不相同的决定。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所在双方约定的委托范围内，为国际客户提供法律尽职调查、投资文件审查及入籍相关法律程序方面的协助。",
+        "text": "IGA律师事务所在双方约定的委托范围内，为国际客户提供法律尽职调查、投资文件审查及入籍相关法律程序方面的协助。"
+      },
+      {
+        "type": "image",
+        "image": 2,
+        "src": "/public/assets/irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.jpg",
+        "alt": "IGA律师事务所创始律师Irmak Gürer Aksöz介绍土耳其投资入籍法律规定",
+        "caption": "Irmak Gürer Aksöz在中国介绍投资途径、2026年监管动态及法律风险管理。",
+        "width": 2048,
+        "height": 1536,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "中国投资者在土耳其购房前，应了解哪些事项？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "考虑投资土耳其房产的中国公民，应在签署具有约束力的文件或转款之前，就拟进行的交易取得可靠信息。",
+        "text": "考虑投资土耳其房产的中国公民，应在签署具有约束力的文件或转款之前，就拟进行的交易取得可靠信息。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "以下事项尤其值得关注。",
+        "text": "以下事项尤其值得关注。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "1. 房产所有权与产权登记核查"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "买家应查明谁是房产的合法所有权人，并核查是否存在已登记的抵押、限制、注记或其他可能影响购入的事项。",
+        "text": "买家应查明谁是房产的合法所有权人，并核查是否存在已登记的抵押、限制、注记或其他可能影响购入的事项。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对房产法律状态的审查，应独立于销售宣传材料或看房时的口头介绍。",
+        "text": "对房产法律状态的审查，应独立于销售宣传材料或看房时的口头介绍。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "2. 房产是否符合土耳其入籍条件"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "根据适用的房产投资途径，通常要求至少40万美元或允许的等值金额的合资格投资，同时满足适用的三年不得转售限制及其他法律条件。",
+        "text": "根据适用的房产投资途径，通常要求至少40万美元或允许的等值金额的合资格投资，同时满足适用的三年不得转售限制及其他法律条件。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "但是，广告标价或成交价本身，并不能证明房产符合要求。",
+        "text": "但是，广告标价或成交价本身，并不能证明房产符合要求。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "还须考虑所有权历史、估值、付款文件、不动产登记要求，以及相关合规认定。",
+        "text": "还须考虑所有权历史、估值、付款文件、不动产登记要求，以及相关合规认定。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "最终的资格及入籍决定，由土耳其主管机关作出。",
+        "text": "最终的资格及入籍决定，由土耳其主管机关作出。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "如需详细了解，请阅读：",
+        "text": "如需详细了解，请阅读："
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[购房前如何核查房产是否符合土耳其投资入籍条件](https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/)",
+        "text": "[购房前如何核查房产是否符合土耳其投资入籍条件](https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "3. 跨境付款文件"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "外国买家应了解适用于其交易的银行及文件要求。",
+        "text": "外国买家应了解适用于其交易的银行及文件要求。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "如果投资同时以入籍为目的，相关资金支付记录、外汇文件及不动产登记材料，可能尤其重要。",
+        "text": "如果投资同时以入籍为目的，相关资金支付记录、外汇文件及不动产登记材料，可能尤其重要。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "中国投资者应提前安排跨境转款，并就适用的银行及监管要求取得专业意见。",
+        "text": "中国投资者应提前安排跨境转款，并就适用的银行及监管要求取得专业意见。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "更多信息请参阅：",
+        "text": "更多信息请参阅："
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[中国投资者如何向土耳其转款用于购房及入籍](https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/)",
+        "text": "[中国投资者如何向土耳其转款用于购房及入籍](https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/)"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "4. 独立法律代理"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "房地产开发商或中介可以协助寻找和介绍适合的房产。",
+        "text": "房地产开发商或中介可以协助寻找和介绍适合的房产。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "独立律师的角色则有所不同：审查法律文件、识别相关风险，并就拟进行交易的法律后果提供意见。",
+        "text": "独立律师的角色则有所不同：审查法律文件、识别相关风险，并就拟进行交易的法律后果提供意见。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "外国买家应在推进交易之前，了解委托代理的具体范围。",
+        "text": "外国买家应在推进交易之前，了解委托代理的具体范围。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[面向外国买家的房产法律尽职调查](https://igalawfirm.com/zh/igalawrealestateduediligence/)",
+        "text": "[面向外国买家的房产法律尽职调查](https://igalawfirm.com/zh/igalawrealestateduediligence/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "土耳其投资入籍：购房者需要考虑的重要事项"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "土耳其的投资入籍制度包含合资格房地产投资这一途径。",
+        "text": "土耳其的投资入籍制度包含合资格房地产投资这一途径。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对于考虑房产途径的投资者，一般适用的最低投资金额为40万美元，并须满足相应法律要求。",
+        "text": "对于考虑房产途径的投资者，一般适用的最低投资金额为40万美元，并须满足相应法律要求。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "达到投资金额门槛，并不意味着一定能够取得国籍。",
+        "text": "达到投资金额门槛，并不意味着一定能够取得国籍。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "房产法律状态、交易文件、相关投资限制及申请人的个别情况，仍然至关重要。",
+        "text": "房产法律状态、交易文件、相关投资限制及申请人的个别情况，仍然至关重要。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "考虑购买一处或多处房产的中国投资者，应先取得个别评估，而不应直接假定拟进行的购房安排一定符合要求。",
+        "text": "考虑购买一处或多处房产的中国投资者，应先取得个别评估，而不应直接假定拟进行的购房安排一定符合要求。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所提供房产投资尽职调查、入籍资格法律评估，以及相关申请文件方面的法律支持。",
+        "text": "IGA律师事务所提供房产投资尽职调查、入籍资格法律评估，以及相关申请文件方面的法律支持。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[土耳其投资入籍律师服务——IGA律师事务所](https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/)",
+        "text": "[土耳其投资入籍律师服务——IGA律师事务所](https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/)"
+      },
+      {
+        "type": "image",
+        "image": 3,
+        "src": "/public/assets/turkish-citizenship-by-investment-chinese-language-seminar-brochure.jpg",
+        "alt": "土耳其投资入籍中文讲座宣传资料",
+        "caption": "2026年11月中国讲座活动照片中的中文宣传资料。",
+        "width": 1080,
+        "height": 1920,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "在赴土耳其前后，为中国投资者提供支持"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "部分投资者仍在中国居住时，就开始了解土耳其房产机会。",
+        "text": "部分投资者仍在中国居住时，就开始了解土耳其房产机会。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "也有投资者前往伊斯坦布尔看房、与开发商会面，并讨论可能的投资安排。",
+        "text": "也有投资者前往伊斯坦布尔看房、与开发商会面，并讨论可能的投资安排。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "无论属于哪种情况，尽早进行法律准备，都有助于买家了解在作出交易承诺前应处理哪些文件和法律问题。",
+        "text": "无论属于哪种情况，尽早进行法律准备，都有助于买家了解在作出交易承诺前应处理哪些文件和法律问题。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "根据具体情况及双方约定的服务范围，IGA律师事务所可协助：",
+        "text": "根据具体情况及双方约定的服务范围，IGA律师事务所可协助："
+      },
+      {
+        "type": "list",
+        "text": "审查拟签署的购房交易文件。"
+      },
+      {
+        "type": "list",
+        "text": "对相关房产记录开展法律尽职调查。"
+      },
+      {
+        "type": "list",
+        "text": "评估与入籍资格有关的法律问题。"
+      },
+      {
+        "type": "list",
+        "text": "解释依法允许的代理事项所需的适当授权委托书。"
+      },
+      {
+        "type": "list",
+        "text": "协调相关投资及入籍文件。"
+      },
+      {
+        "type": "list",
+        "text": "通过多语言团队支持与国际客户的沟通。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所提供中文及英文沟通支持。",
+        "text": "IGA律师事务所提供中文及英文沟通支持。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "部分交易步骤及官方程序，仍可能要求本人到场或提交额外文件。",
+        "text": "部分交易步骤及官方程序，仍可能要求本人到场或提交额外文件。"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "关于Irmak Gürer Aksöz律师"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "Irmak Gürer Aksöz是IGA律师事务所的创始律师。本所位于伊斯坦布尔，就土耳其投资入籍、房产交易及相关法律事项为国际客户提供法律意见。",
+        "text": "Irmak Gürer Aksöz是IGA律师事务所的创始律师。本所位于伊斯坦布尔，就土耳其投资入籍、房产交易及相关法律事项为国际客户提供法律意见。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "她自2018年起从事投资移民相关专业工作。",
+        "text": "她自2018年起从事投资移民相关专业工作。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "根据IGA律师事务所提供的资料，本所通过其国际法律业务已协助超过600个家庭，其中包括来自中国及其他国家的客户。",
+        "text": "根据IGA律师事务所提供的资料，本所通过其国际法律业务已协助超过600个家庭，其中包括来自中国及其他国家的客户。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "她参加2026年11月中国讲座，是本所持续与国际投资者开展专业交流的一部分。",
+        "text": "她参加2026年11月中国讲座，是本所持续与国际投资者开展专业交流的一部分。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "[进一步了解IGA律师事务所](https://igalawfirm.com/zh/about/)",
+        "text": "[进一步了解IGA律师事务所](https://igalawfirm.com/zh/about/)"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "加强中国与土耳其之间的法律交流"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "2026年11月的讲座，为向中国参与者直接介绍土耳其投资相关法律事项提供了机会。",
+        "text": "2026年11月的讲座，为向中国参与者直接介绍土耳其投资相关法律事项提供了机会。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "对于计划在土耳其购买公寓或其他合资格房产的中国投资者来说，在作出财务承诺之前获得清晰的法律信息，尤为重要。",
+        "text": "对于计划在土耳其购买公寓或其他合资格房产的中国投资者来说，在作出财务承诺之前获得清晰的法律信息，尤为重要。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所通过解释法律流程、审查交易文件，以及识别可能需要进一步调查的事项，帮助投资者在了解情况的基础上作出决定。",
+        "text": "IGA律师事务所通过解释法律流程、审查交易文件，以及识别可能需要进一步调查的事项，帮助投资者在了解情况的基础上作出决定。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "本所持续协助就购房及投资入籍申请寻求法律意见的国际客户。",
+        "text": "本所持续协助就购房及投资入籍申请寻求法律意见的国际客户。"
+      },
+      {
+        "type": "image",
+        "image": 4,
+        "src": "/public/assets/iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.jpg",
+        "alt": "中国投资者参加土耳其房产投资与入籍法律讲座的集体合影",
+        "caption": "2026年11月访华讲座的参会人员合影。",
+        "width": 1707,
+        "height": 1280,
+        "loading": "lazy",
+        "preserveAspectRatio": true,
+        "text": ""
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "从中国出发，计划在伊斯坦布尔购房？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "如果您正在考虑购买伊斯坦布尔的公寓，无论用于自住、出租投资，还是可能的土耳其入籍申请，都需要了解拟进行交易的法律影响。",
+        "text": "如果您正在考虑购买伊斯坦布尔的公寓，无论用于自住、出租投资，还是可能的土耳其入籍申请，都需要了解拟进行交易的法律影响。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "在签署具有约束力的协议或转出大额资金之前，可考虑就房产法律状态及适用的交易要求，取得独立法律意见。",
+        "text": "在签署具有约束力的协议或转出大额资金之前，可考虑就房产法律状态及适用的交易要求，取得独立法律意见。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**IGA律师事务所为国际房产买家及土耳其投资入籍申请人提供法律协助。**",
+        "text": "**IGA律师事务所为国际房产买家及土耳其投资入籍申请人提供法律协助。**"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "欢迎与本所团队讨论您的投资计划及适当的法律服务范围。本所提供中文沟通支持。",
+        "text": "欢迎与本所团队讨论您的投资计划及适当的法律服务范围。本所提供中文沟通支持。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**[联系IGA律师事务所，咨询您的土耳其房产投资计划](https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/)**",
+        "text": "**[联系IGA律师事务所，咨询您的土耳其房产投资计划](https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/)**"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "常见问题"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "中国公民可以在土耳其买房吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "中国公民可能具备在土耳其购房的资格，但须符合适用的外国人所有权规定、限制及特定房产的法律条件。应就拟进行的交易确认资格。",
+        "text": "中国公民可能具备在土耳其购房的资格，但须符合适用的外国人所有权规定、限制及特定房产的法律条件。应就拟进行的交易确认资格。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "中国投资者可以通过房产投资取得土耳其国籍吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "土耳其投资入籍制度包含合资格房产途径，一般最低投资金额为40万美元。但仅达到金额要求并不能保证取得国籍，所有适用条件均须满足。",
+        "text": "土耳其投资入籍制度包含合资格房产途径，一般最低投资金额为40万美元。但仅达到金额要求并不能保证取得国籍，所有适用条件均须满足。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "IGA律师事务所可以协助中文投资者吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所为国际投资者提供法律服务，并提供中文及英文沟通支持。",
+        "text": "IGA律师事务所为国际投资者提供法律服务，并提供中文及英文沟通支持。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "在赴伊斯坦布尔购房之前，应先联系土耳其律师吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "尽早进行法律咨询，有助于在签署有约束力的协议或转款之前，识别所需文件、资格问题和潜在交易风险。",
+        "text": "尽早进行法律咨询，有助于在签署有约束力的协议或转款之前，识别所需文件、资格问题和潜在交易风险。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "不前往土耳其，可以在那里买房吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "在法律允许的情况下，部分购房步骤可通过适当授权的代理完成。其他步骤可能要求本人到场。具体交易及任何入籍申请均应个别评估。",
+        "text": "在法律允许的情况下，部分购房步骤可通过适当授权的代理完成。其他步骤可能要求本人到场。具体交易及任何入籍申请均应个别评估。"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "IGA律师事务所可以在购房前审查房产吗？"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "IGA律师事务所提供房产法律尽职调查服务。适当的审查范围取决于具体房产、可取得的记录及拟进行的交易。",
+        "text": "IGA律师事务所提供房产法律尽职调查服务。适当的审查范围取决于具体房产、可取得的记录及拟进行的交易。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**作者：**IGA Law Firm Editorial Team（IGA律师事务所编辑团队）",
+        "text": "**作者：**IGA Law Firm Editorial Team（IGA律师事务所编辑团队）"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**本文介绍的律师：**Irmak Gürer Aksöz，创始律师",
+        "text": "**本文介绍的律师：**Irmak Gürer Aksöz，创始律师"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**活动期间：**2026年11月",
+        "text": "**活动期间：**2026年11月"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**发布日期：**2026年11月13日。",
+        "text": "**发布日期：**2026年11月13日。"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**适用法域：**土耳其",
+        "text": "**适用法域：**土耳其"
+      },
+      {
+        "type": "paragraph",
+        "markdown": "**免责声明：**本文提供一般信息，不构成针对任何个别交易的法律意见。入籍资格及房产取得要求，取决于适用法律及个别情况。",
+        "text": "**免责声明：**本文提供一般信息，不构成针对任何个别交易的法律意见。入籍资格及房产取得要求，取决于适用法律及个别情况。"
+      }
+    ],
+    "imageAlt": "IGA律师事务所土耳其投资入籍讲座参会人员合影",
+    "imageDescription": "IGA律师事务所2026年11月访华期间的讲座参会人员合影。",
+    "imageTitle": "IGA律师事务所土耳其投资入籍讲座参会人员合影"
+  }
+};
+ const bodies={
+  "en": "<div class=\"article-content\" lang=\"en\"><p><strong>November 2026 | IGA Law Firm International Activities</strong></p><p>IGA Law Firm continued its engagement with Chinese investors in November 2026 as founding attorney <strong>Irmak Gürer Aksöz</strong> visited Shanghai, Hangzhou, Shenzhen and Beijing to deliver presentations on Turkish citizenship by investment, real estate investment considerations and the importance of legal risk management in cross-border transactions.</p><p>The seminars brought together participants interested in Türkiye's investment opportunities and the legal framework governing investment-based citizenship.</p><p>For Chinese nationals considering purchasing property in Istanbul or elsewhere in Türkiye, understanding the legal requirements before making an investment is an essential part of planning a secure transaction.</p><p>The visit reflects IGA Law Firm's ongoing work with international investors and its commitment to providing accessible legal information to Chinese-speaking clients.</p>{{IMAGE_1}}<h2>Turkish Citizenship Investment Seminars Across Four Chinese Cities</h2><p>In November 2026, IGA Law Firm founding attorney Irmak Gürer Aksöz visited four major Chinese cities — <strong>Shanghai, Hangzhou, Shenzhen and Beijing</strong> — to deliver seminars on Turkish citizenship by investment and related legal considerations.</p><p>These meetings provided opportunities to engage directly with audiences in China and share information about Türkiye's investment framework, property acquisition procedures and legal risk management.</p><p>For Chinese investors considering purchasing residential property in Istanbul or elsewhere in Türkiye, the seminars emphasized the importance of understanding legal requirements before committing to an investment.</p><p>Through these professional activities, IGA Law Firm continued strengthening its connections with Chinese investors and supporting access to information about Turkish property and investment law.</p><h2>Connecting Chinese Investors with Turkish Legal Expertise</h2><p>Cross-border real estate transactions require careful planning, particularly when the investment may also form part of a Turkish citizenship application.</p><p>During the China visit, Irmak Gürer Aksöz presented key considerations concerning the Turkish citizenship by investment framework and the legal risks associated with investment transactions.</p><p>The presentation addressed 2026 regulatory developments, investment pathways and legal risk management.</p><p>For prospective property buyers, these issues are closely connected to the practical steps required before completing a transaction in Türkiye.</p><p>Investors should understand that choosing a property, verifying its legal status and determining its eligibility for citizenship are related but distinct decisions.</p><p>IGA Law Firm assists international clients with legal due diligence, investment documentation and citizenship-related legal procedures within the agreed scope of representation.</p>{{IMAGE_2}}<h2>What Should Chinese Investors Know Before Buying Property in Türkiye?</h2><p>Chinese nationals considering a Turkish property investment should obtain reliable information about the proposed transaction before signing binding documents or transferring funds.</p><p>Several issues deserve particular attention.</p><h3>1. Property Ownership and Title Deed Verification</h3><p>A buyer should establish who legally owns the property and whether any registered mortgages, restrictions, annotations or other issues may affect the acquisition.</p><p>The legal status of a property should be reviewed independently of marketing materials or representations made during a property viewing.</p><h3>2. Property Eligibility for Turkish Citizenship</h3><p>Under the applicable real estate investment route, a qualifying investment of at least USD 400,000 or its permitted equivalent is generally required, together with the applicable three-year restriction on resale and other legal conditions.</p><p>However, the advertised price or purchase price alone does not establish eligibility.</p><p>Ownership history, valuation, payment documentation, land registry requirements and the relevant conformity assessment must be considered.</p><p>The competent Turkish authorities make the final eligibility and citizenship determinations.</p><p>For a detailed explanation, read:</p><p><a href=\"https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/\">How to Check if a Property Qualifies for Turkish Citizenship Before Buying</a></p><h3>3. Cross-Border Payment Documentation</h3><p>Foreign buyers should understand the banking and documentation requirements applicable to the transaction.</p><p>Where citizenship eligibility is intended, the relevant payment trail, foreign-exchange documentation and land registry records may be especially important.</p><p>Chinese investors should plan cross-border transfers carefully and seek advice about the applicable banking and regulatory requirements.</p><p>For further information:</p><p><a href=\"https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/\">How Chinese Investors Can Transfer Money to Turkey for Property and Citizenship</a></p><h3>4. Independent Legal Representation</h3><p>A property developer or real estate agent may help identify and market suitable properties.</p><p>An independent lawyer performs a different role: reviewing the legal documents, identifying relevant risks and advising on the legal implications of the proposed transaction.</p><p>Foreign buyers should understand the scope of representation before proceeding.</p><p><a href=\"https://igalawfirm.com/en/igalawrealestateduediligence/\">Property Legal Due Diligence for Foreign Buyers</a></p><h2>Turkish Citizenship by Investment: An Important Consideration for Property Buyers</h2><p>Türkiye provides a citizenship by investment framework that includes qualifying real estate investments.</p><p>For investors considering the property route, the minimum qualifying amount is generally USD 400,000, subject to the applicable legal requirements.</p><p>An investment meeting the financial threshold does not automatically guarantee citizenship.</p><p>The legal status of the property, transaction documentation, relevant investment restrictions and the applicant's individual circumstances remain important.</p><p>Chinese investors who are considering purchasing one or more properties should seek an individual assessment before assuming that a proposed acquisition will satisfy the requirements.</p><p>IGA Law Firm provides legal support relating to property investment due diligence, citizenship eligibility assessment and the relevant application documentation.</p><p><a href=\"https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/\">Turkish Citizenship by Investment Lawyer — IGA Law Firm</a></p>{{IMAGE_3}}<h2>Supporting Chinese Investors Before and After Their Visit to Türkiye</h2><p>Some investors begin researching Turkish property opportunities while still living in China.</p><p>Others travel to Istanbul to view properties, meet developers and discuss possible investments.</p><p>In either situation, early legal preparation can help buyers understand the documents and legal questions that should be addressed before committing to a transaction.</p><p>Depending on the circumstances and agreed scope of services, IGA Law Firm can assist with:</p><ul><li>Reviewing proposed property purchase documentation.</li><li>Conducting legal due diligence on relevant property records.</li><li>Assessing legal questions connected with citizenship eligibility.</li><li>Explaining appropriate powers of attorney for permitted representation.</li><li>Coordinating relevant investment and citizenship documentation.</li><li>Supporting communication with international clients through its multilingual team.</li></ul><p>IGA Law Firm provides Chinese- and English-language communication support.</p><p>Certain transactions and official procedures may still require personal attendance or additional documentation.</p><h2>About Attorney Irmak Gürer Aksöz</h2><p>Irmak Gürer Aksöz is a founding attorney of IGA Law Firm, an Istanbul-based legal practice advising international clients on Turkish citizenship by investment, property transactions and related legal matters.</p><p>Her professional work in investment immigration dates to 2018.</p><p>IGA Law Firm reports having assisted more than 600 families through its international legal practice, including clients from China and other countries.</p><p>Her participation in the November 2026 seminars in China forms part of the firm's continuing professional engagement with international investors.</p><p><a href=\"https://igalawfirm.com/en/about/\">Learn More About IGA Law Firm</a></p><h2>Strengthening Legal Connections Between China and Türkiye</h2><p>The November 2026 seminars offered an opportunity to share information about Turkish investment-related legal matters directly with participants in China.</p><p>For Chinese investors considering purchasing an apartment or another eligible property in Türkiye, access to clear legal information is particularly important before a financial commitment is made.</p><p>IGA Law Firm aims to support informed investment decisions by explaining the legal process, reviewing transaction documentation and identifying matters that may require further investigation.</p><p>The firm continues to assist international clients seeking legal advice about property purchases and investment-based citizenship applications.</p>{{IMAGE_4}}<h2>Planning to Buy Property in Istanbul from China?</h2><p>If you are considering purchasing an apartment in Istanbul, whether for personal use, rental investment or a potential Turkish citizenship application, it is important to understand the legal implications of the proposed purchase.</p><p>Before signing binding agreements or transferring substantial funds, consider obtaining independent advice regarding the property's legal status and the applicable transaction requirements.</p><p><strong>IGA Law Firm provides legal assistance to international property buyers and Turkish citizenship by investment applicants.</strong></p><p>Contact the team to discuss your investment plans and the appropriate scope of legal support.</p><p><strong><a href=\"https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/\">Contact IGA Law Firm About Buying Property in Türkiye</a></strong></p><hr><h2>Frequently Asked Questions</h2><h3>Can Chinese citizens buy property in Türkiye?</h3><p>Chinese citizens may be eligible to purchase property in Türkiye, subject to the applicable foreign ownership rules, restrictions and the legal status of the particular property. Eligibility should be confirmed for the proposed transaction.</p><h3>Can Chinese investors obtain Turkish citizenship through property investment?</h3><p>The Turkish citizenship by investment framework includes a qualifying real estate route with a generally applicable USD 400,000 minimum. Meeting the investment amount alone does not guarantee citizenship; all applicable requirements must be satisfied.</p><h3>Does IGA Law Firm assist Chinese-speaking investors?</h3><p>IGA Law Firm provides legal services to international investors and has Chinese- and English-language communication support.</p><h3>Should I contact a Turkish lawyer before visiting Istanbul to buy property?</h3><p>Early legal consultation can help identify documents, eligibility questions and potential transaction risks before a buyer signs binding agreements or transfers funds.</p><h3>Can I buy property in Türkiye without travelling there?</h3><p>Certain purchase-related steps may be completed through appropriately authorized representation, where legally permitted. Other steps may require personal attendance. The specific transaction and any citizenship application should be assessed individually.</p><h3>Can IGA Law Firm review a property before I purchase it?</h3><p>IGA Law Firm provides real estate legal due diligence services. The appropriate scope of review depends on the property, available records and the proposed transaction.</p><hr><p><strong>Author:</strong> IGA Law Firm Editorial Team</p><p><strong>Featured attorney:</strong> Irmak Gürer Aksöz, Founding Attorney</p><p><strong>Event period:</strong> November 2026</p><p><strong>Publication date:</strong> 13 November 2026.</p><p><strong>Jurisdiction:</strong> Türkiye</p><p><strong>Disclaimer:</strong> This article provides general information and does not constitute legal advice for any individual transaction. Citizenship eligibility and property acquisition requirements depend on the applicable law and individual circumstances.</p></div>",
+  "zh": "<div class=\"article-content\" lang=\"zh-CN\"><p><strong>2026年11月｜IGA律师事务所国际交流活动</strong></p><p>2026年11月，IGA律师事务所创始律师<strong>Irmak Gürer Aksöz</strong>走访中国<strong>上海、杭州、深圳和北京</strong>四座城市，围绕土耳其投资入籍、房地产投资相关事项，以及跨境交易中的法律风险管理举办讲座，继续与中国投资者开展交流。</p><p>讲座为关注土耳其投资机会及投资入籍法律框架的参与者提供了交流平台。</p><p>对于计划在伊斯坦布尔或土耳其其他地区购房的中国公民而言，在作出投资决定之前了解法律要求，是审慎安排交易的重要环节。</p><p>此次访问体现了IGA律师事务所持续服务国际投资者，并为中文客户提供易于理解的法律信息的工作方向。</p>{{IMAGE_1}}<h2>IGA律师事务所走进上海、杭州、深圳和北京</h2><p>2026年11月，IGA律师事务所创始律师Irmak Gürer Aksöz先后前往中国四大城市——<strong>上海、杭州、深圳和北京</strong>，举办土耳其投资入籍及相关法律问题专题讲座。</p><p>讲座围绕土耳其投资入籍政策、房地产投资法律要求以及跨境投资中的法律风险管理展开。</p><p>对于计划在伊斯坦布尔或土耳其其他地区购买房产的中国投资者而言，在签署购房合同或支付投资款项之前，充分了解相关法律规定和房产交易程序尤为重要。</p><p>通过此次中国之行，IGA律师事务所进一步加强了与中国投资者的交流，并持续为有意在土耳其购房及申请投资入籍的国际客户提供专业法律支持。</p><h2>为中国投资者介绍土耳其法律实务</h2><p>跨境房地产交易需要充分准备，尤其是拟购房产同时可能用于土耳其入籍申请的情况下。</p><p>此次访华期间，Irmak Gürer Aksöz介绍了土耳其投资入籍制度的主要考虑因素，以及投资交易可能涉及的法律风险。</p><p>演讲内容涉及2026年的监管动态、投资途径和法律风险管理。</p><p>对有意购房的投资者而言，这些问题与在土耳其完成交易之前需要采取的实际步骤密切相关。</p><p>投资者应认识到，选择房产、核查房产法律状态，以及判断是否符合入籍条件，是相互关联但并不相同的决定。</p><p>IGA律师事务所在双方约定的委托范围内，为国际客户提供法律尽职调查、投资文件审查及入籍相关法律程序方面的协助。</p>{{IMAGE_2}}<h2>中国投资者在土耳其购房前，应了解哪些事项？</h2><p>考虑投资土耳其房产的中国公民，应在签署具有约束力的文件或转款之前，就拟进行的交易取得可靠信息。</p><p>以下事项尤其值得关注。</p><h3>1. 房产所有权与产权登记核查</h3><p>买家应查明谁是房产的合法所有权人，并核查是否存在已登记的抵押、限制、注记或其他可能影响购入的事项。</p><p>对房产法律状态的审查，应独立于销售宣传材料或看房时的口头介绍。</p><h3>2. 房产是否符合土耳其入籍条件</h3><p>根据适用的房产投资途径，通常要求至少40万美元或允许的等值金额的合资格投资，同时满足适用的三年不得转售限制及其他法律条件。</p><p>但是，广告标价或成交价本身，并不能证明房产符合要求。</p><p>还须考虑所有权历史、估值、付款文件、不动产登记要求，以及相关合规认定。</p><p>最终的资格及入籍决定，由土耳其主管机关作出。</p><p>如需详细了解，请阅读：</p><p><a href=\"https://igalawfirm.com/zh/blog/how-to-check-property-eligibility-turkish-citizenship/\">购房前如何核查房产是否符合土耳其投资入籍条件</a></p><h3>3. 跨境付款文件</h3><p>外国买家应了解适用于其交易的银行及文件要求。</p><p>如果投资同时以入籍为目的，相关资金支付记录、外汇文件及不动产登记材料，可能尤其重要。</p><p>中国投资者应提前安排跨境转款，并就适用的银行及监管要求取得专业意见。</p><p>更多信息请参阅：</p><p><a href=\"https://igalawfirm.com/zh/blog/chinese-investors-transfer-money-turkey-property-citizenship/\">中国投资者如何向土耳其转款用于购房及入籍</a></p><h3>4. 独立法律代理</h3><p>房地产开发商或中介可以协助寻找和介绍适合的房产。</p><p>独立律师的角色则有所不同：审查法律文件、识别相关风险，并就拟进行交易的法律后果提供意见。</p><p>外国买家应在推进交易之前，了解委托代理的具体范围。</p><p><a href=\"https://igalawfirm.com/zh/igalawrealestateduediligence/\">面向外国买家的房产法律尽职调查</a></p><h2>土耳其投资入籍：购房者需要考虑的重要事项</h2><p>土耳其的投资入籍制度包含合资格房地产投资这一途径。</p><p>对于考虑房产途径的投资者，一般适用的最低投资金额为40万美元，并须满足相应法律要求。</p><p>达到投资金额门槛，并不意味着一定能够取得国籍。</p><p>房产法律状态、交易文件、相关投资限制及申请人的个别情况，仍然至关重要。</p><p>考虑购买一处或多处房产的中国投资者，应先取得个别评估，而不应直接假定拟进行的购房安排一定符合要求。</p><p>IGA律师事务所提供房产投资尽职调查、入籍资格法律评估，以及相关申请文件方面的法律支持。</p><p><a href=\"https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/\">土耳其投资入籍律师服务——IGA律师事务所</a></p>{{IMAGE_3}}<h2>在赴土耳其前后，为中国投资者提供支持</h2><p>部分投资者仍在中国居住时，就开始了解土耳其房产机会。</p><p>也有投资者前往伊斯坦布尔看房、与开发商会面，并讨论可能的投资安排。</p><p>无论属于哪种情况，尽早进行法律准备，都有助于买家了解在作出交易承诺前应处理哪些文件和法律问题。</p><p>根据具体情况及双方约定的服务范围，IGA律师事务所可协助：</p><ul><li>审查拟签署的购房交易文件。</li><li>对相关房产记录开展法律尽职调查。</li><li>评估与入籍资格有关的法律问题。</li><li>解释依法允许的代理事项所需的适当授权委托书。</li><li>协调相关投资及入籍文件。</li><li>通过多语言团队支持与国际客户的沟通。</li></ul><p>IGA律师事务所提供中文及英文沟通支持。</p><p>部分交易步骤及官方程序，仍可能要求本人到场或提交额外文件。</p><h2>关于Irmak Gürer Aksöz律师</h2><p>Irmak Gürer Aksöz是IGA律师事务所的创始律师。本所位于伊斯坦布尔，就土耳其投资入籍、房产交易及相关法律事项为国际客户提供法律意见。</p><p>她自2018年起从事投资移民相关专业工作。</p><p>根据IGA律师事务所提供的资料，本所通过其国际法律业务已协助超过600个家庭，其中包括来自中国及其他国家的客户。</p><p>她参加2026年11月中国讲座，是本所持续与国际投资者开展专业交流的一部分。</p><p><a href=\"https://igalawfirm.com/zh/about/\">进一步了解IGA律师事务所</a></p><h2>加强中国与土耳其之间的法律交流</h2><p>2026年11月的讲座，为向中国参与者直接介绍土耳其投资相关法律事项提供了机会。</p><p>对于计划在土耳其购买公寓或其他合资格房产的中国投资者来说，在作出财务承诺之前获得清晰的法律信息，尤为重要。</p><p>IGA律师事务所通过解释法律流程、审查交易文件，以及识别可能需要进一步调查的事项，帮助投资者在了解情况的基础上作出决定。</p><p>本所持续协助就购房及投资入籍申请寻求法律意见的国际客户。</p>{{IMAGE_4}}<h2>从中国出发，计划在伊斯坦布尔购房？</h2><p>如果您正在考虑购买伊斯坦布尔的公寓，无论用于自住、出租投资，还是可能的土耳其入籍申请，都需要了解拟进行交易的法律影响。</p><p>在签署具有约束力的协议或转出大额资金之前，可考虑就房产法律状态及适用的交易要求，取得独立法律意见。</p><p><strong>IGA律师事务所为国际房产买家及土耳其投资入籍申请人提供法律协助。</strong></p><p>欢迎与本所团队讨论您的投资计划及适当的法律服务范围。本所提供中文沟通支持。</p><p><strong><a href=\"https://igalawfirm.com/zh/tuerqi-touzi-ruji-lushi/\">联系IGA律师事务所，咨询您的土耳其房产投资计划</a></strong></p><hr><h2>常见问题</h2><h3>中国公民可以在土耳其买房吗？</h3><p>中国公民可能具备在土耳其购房的资格，但须符合适用的外国人所有权规定、限制及特定房产的法律条件。应就拟进行的交易确认资格。</p><h3>中国投资者可以通过房产投资取得土耳其国籍吗？</h3><p>土耳其投资入籍制度包含合资格房产途径，一般最低投资金额为40万美元。但仅达到金额要求并不能保证取得国籍，所有适用条件均须满足。</p><h3>IGA律师事务所可以协助中文投资者吗？</h3><p>IGA律师事务所为国际投资者提供法律服务，并提供中文及英文沟通支持。</p><h3>在赴伊斯坦布尔购房之前，应先联系土耳其律师吗？</h3><p>尽早进行法律咨询，有助于在签署有约束力的协议或转款之前，识别所需文件、资格问题和潜在交易风险。</p><h3>不前往土耳其，可以在那里买房吗？</h3><p>在法律允许的情况下，部分购房步骤可通过适当授权的代理完成。其他步骤可能要求本人到场。具体交易及任何入籍申请均应个别评估。</p><h3>IGA律师事务所可以在购房前审查房产吗？</h3><p>IGA律师事务所提供房产法律尽职调查服务。适当的审查范围取决于具体房产、可取得的记录及拟进行的交易。</p><hr><p><strong>作者：</strong>IGA Law Firm Editorial Team（IGA律师事务所编辑团队）</p><p><strong>本文介绍的律师：</strong>Irmak Gürer Aksöz，创始律师</p><p><strong>活动期间：</strong>2026年11月</p><p><strong>发布日期：</strong>2026年11月13日。</p><p><strong>适用法域：</strong>土耳其</p><p><strong>免责声明：</strong>本文提供一般信息，不构成针对任何个别交易的法律意见。入籍资格及房产取得要求，取决于适用法律及个别情况。</p></div>"
+};
+ const images=[
+  {
+    "id": 1,
+    "filename": "iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg",
+    "webp": "iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 296567,
+    "webpBytes": 309136,
+    "sha256": "cc1fba230a304c493f3a0ec1f902ecec3ff76a8fcddf9faa57416b3b4a8b4c04",
+    "alt": {
+      "en": "Chinese investors and seminar attendees at a Turkish citizenship by investment presentation involving IGA Law Firm.",
+      "zh": "IGA律师事务所土耳其投资入籍讲座参会人员合影"
+    },
+    "caption": {
+      "en": "Participants at a seminar during IGA Law Firm’s November 2026 visit to China.",
+      "zh": "IGA律师事务所2026年11月访华期间的讲座参会人员合影。"
+    },
+    "placement": "After introduction",
+    "city": null,
+    "loading": "eager",
+    "originalPreserved": true
+  },
+  {
+    "id": 2,
+    "filename": "irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.jpg",
+    "webp": "irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.webp",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 274549,
+    "webpBytes": 196960,
+    "sha256": "29071805f62758cab9e9a71797507ec632bd7847e6ef959e2235ab116057c83d",
+    "alt": {
+      "en": "Attorney Irmak Gürer Aksöz presenting Turkish citizenship by investment regulations and legal risk management.",
+      "zh": "IGA律师事务所创始律师Irmak Gürer Aksöz介绍土耳其投资入籍法律规定"
+    },
+    "caption": {
+      "en": "Irmak Gürer Aksöz presents investment pathways, 2026 regulatory developments and legal risk management in China.",
+      "zh": "Irmak Gürer Aksöz在中国介绍投资途径、2026年监管动态及法律风险管理。"
+    },
+    "placement": "After Connecting Chinese Investors with Turkish Legal Expertise",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  },
+  {
+    "id": 3,
+    "filename": "turkish-citizenship-by-investment-chinese-language-seminar-brochure.jpg",
+    "webp": "turkish-citizenship-by-investment-chinese-language-seminar-brochure.webp",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 173955,
+    "webpBytes": 120948,
+    "sha256": "31196580f8528e78300da889ee1cfea7ce05d74e86adf8693dca1a63e2671f89",
+    "alt": {
+      "en": "Chinese-language Turkish citizenship by investment seminar brochure displayed at an investment presentation.",
+      "zh": "土耳其投资入籍中文讲座宣传资料"
+    },
+    "caption": {
+      "en": "Chinese-language seminar materials supplied as part of the November 2026 China event photographs.",
+      "zh": "2026年11月中国讲座活动照片中的中文宣传资料。"
+    },
+    "placement": "After citizenship investment section",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  },
+  {
+    "id": 4,
+    "filename": "iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.jpg",
+    "webp": "iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.webp",
+    "width": 1707,
+    "height": 1280,
+    "bytes": 227348,
+    "webpBytes": 189600,
+    "sha256": "f9a01351adc218e6d066501d5768a72eb6d0d26c51d0a1f6e0083c64b3ae3679",
+    "alt": {
+      "en": "Group photograph from a Turkish property investment and citizenship seminar for Chinese attendees.",
+      "zh": "中国投资者参加土耳其房产投资与入籍法律讲座的集体合影"
+    },
+    "caption": {
+      "en": "Seminar participants during the November 2026 China visit.",
+      "zh": "2026年11月访华讲座的参会人员合影。"
+    },
+    "placement": "Before final CTA",
+    "city": null,
+    "loading": "lazy",
+    "originalPreserved": true
+  }
+];
+ window.chinaSeminarArticle={
+  "slug": "iga-law-firm-china-turkish-citizenship-investment-seminars-2026",
+  "title": "IGA Law Firm in China: Turkish Citizenship Investment Seminars in Four Major Cities",
+  "seoTitle": "IGA Law Firm China Seminars 2026 | Citizenship & Property",
+  "metaDescription": "IGA Law Firm held Turkish citizenship investment seminars in Shanghai, Hangzhou, Shenzhen and Beijing, helping Chinese investors understand property-related legal matters.",
+  "date": "2026",
+  "publishedAt": "2026-11-13",
+  "updatedAt": "2026-11-13",
+  "publicationStatus": "published",
+  "availableLanguages": [
+    "en",
+    "zh"
+  ],
+  "category": "Firm news",
+  "author": {
+    "type": "Organization",
+    "name": "IGA Law Firm Editorial Team"
+  },
+  "faqSchema": false
+};
+ window.blogPostContent[slug]={...copy.en,heroImage:"/public/assets/"+images[0].filename};
+ window.blogPostTranslations=window.blogPostTranslations||{};
+ window.blogPostTranslations.zh=window.blogPostTranslations.zh||{};
+ window.blogPostTranslations.zh[slug]=copy.zh;
+ Object.assign(window.blogImageVariants,{
+  "/public/assets/iga-law-firm-china-turkish-citizenship-investment-seminar-group-01.jpg": {
+    "width": 1280,
+    "height": 1707
+  },
+  "/public/assets/irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.jpg": {
+    "width": 2048,
+    "height": 1536,
+    "webp": "/public/assets/irmak-gurer-aksoz-turkish-citizenship-investment-presentation-china.webp"
+  },
+  "/public/assets/turkish-citizenship-by-investment-chinese-language-seminar-brochure.jpg": {
+    "width": 1080,
+    "height": 1920,
+    "webp": "/public/assets/turkish-citizenship-by-investment-chinese-language-seminar-brochure.webp"
+  },
+  "/public/assets/iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.jpg": {
+    "width": 1707,
+    "height": 1280,
+    "webp": "/public/assets/iga-law-firm-chinese-investors-turkey-property-citizenship-seminar-group-02.webp"
+  }
+});
+ for(const lang of ["en","zh"])window.finalSeoMetadata["/"+lang+"/blog/"+slugs[lang]+"/"]={title:copy[lang].seoTitle,description:copy[lang].metaDescription};
+ window.chinaSeminarPost={slug,slugs,
+  normalize(lang,sub){return sub===slugs[lang]?slug:sub},
+  localized(lang,sub){return sub===slug?(slugs[lang]||sub):sub},
+  render(lang,esc,imageMarkup){return bodies[lang].replace(/\{\{IMAGE_(\d)\}\}/g,(_,id)=>{const item=images[Number(id)-1];const image=imageMarkup("/public/assets/"+item.filename,item.alt[lang],"",Number(id)>1).replace("<img ","<img style=\"max-height:none;height:auto\" ");return `<figure class="article-inline-image">${image}<figcaption>${esc(item.caption[lang])}</figcaption></figure>`;});}
+ };
+}
