@@ -10191,6 +10191,308 @@
       ]
     }
   },
+  "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/": {
+    "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Buying a Tenanted Apartment in Istanbul | IGA Law",
+    "description": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.",
+    "canonical": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+      "title": "Buying a Tenanted Apartment in Istanbul | IGA Law",
+      "description": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#webpage",
+          "url": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+          "name": "Buying a Tenanted Apartment in Istanbul | IGA Law",
+          "description": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#article",
+          "url": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+          "headline": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing",
+          "description": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-13T09:00:00+03:00",
+          "dateModified": "2026-11-13T09:00:00+03:00",
+          "author": {
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing",
+              "item": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/": {
+    "path": "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "伊斯坦布尔购买带租客的房产｜租客权利与法律风险｜IGA律师事务所",
+    "description": "想在伊斯坦布尔购买已有租客的公寓？了解土耳其租客保护、房屋出售后的租约、租金收入及购房法律审查。IGA律师事务所为外国投资者提供法律支持。",
+    "canonical": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+      "title": "伊斯坦布尔购买带租客的房产｜租客权利与法律风险｜IGA律师事务所",
+      "description": "想在伊斯坦布尔购买已有租客的公寓？了解土耳其租客保护、房屋出售后的租约、租金收入及购房法律审查。IGA律师事务所为外国投资者提供法律支持。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+          "name": "伊斯坦布尔购买带租客的房产｜租客权利与法律风险｜IGA律师事务所",
+          "description": "想在伊斯坦布尔购买已有租客的公寓？了解土耳其租客保护、房屋出售后的租约、租金收入及购房法律审查。IGA律师事务所为外国投资者提供法律支持。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#article",
+          "url": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/",
+          "headline": "在伊斯坦布尔购买带租客的公寓：外国买家购房前必须了解的法律问题",
+          "description": "想在伊斯坦布尔购买已有租客的公寓？了解土耳其租客保护、房屋出售后的租约、租金收入及购房法律审查。IGA律师事务所为外国投资者提供法律支持。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-13T09:00:00+03:00",
+          "dateModified": "2026-11-13T09:00:00+03:00",
+          "author": {
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "在伊斯坦布尔购买带租客的公寓：外国买家购房前必须了解的法律问题",
+              "item": "https://igalawfirm.com/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case/": {
     "path": "/en/blog/turkish-citizenship-approval-500k-bank-deposit-client-case/",
     "language": "en",

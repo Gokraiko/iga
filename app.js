@@ -40,6 +40,7 @@ const team=[
  {"name": "Melih Şeref", "role": "financeDirector", "img": "/public/assets/melih-seref-iga-law-firm.png", "imagePosition": "center top", "realPortrait": true, "bio": {"en": "Coordinates financial planning, budgeting and day-to-day financial operations.", "tr": "Finansal planlama, bütçeleme ve günlük finans işlerini koordine eder.", "zh": "负责协调财务规划、预算及日常财务工作。", "ar": "ينسق التخطيط المالي وإعداد الميزانيات والأعمال المالية اليومية."}}
 ];
 const articles=[
+ ...(window.tenantedApartmentArticle?[window.tenantedApartmentArticle]:[]),
  window.bankDepositClientArticle,
  window.propertyEligibilityArticle,
  window.chinaTransferArticle,

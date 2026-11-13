@@ -1,0 +1,159 @@
+{
+  "reports": [
+    {
+      "lang": "en",
+      "width": 1440,
+      "title": "Buying a Tenanted Apartment in Istanbul | IGA Law",
+      "h1": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing",
+      "h1Count": 1,
+      "overflow": false,
+      "articleLength": 16781,
+      "author": " · Author: IGA Law Firm Editorial Team",
+      "counterHidden": true,
+      "languageLinks": [
+        {
+          "lang": "en",
+          "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "tr",
+          "path": "/tr/blog/"
+        },
+        {
+          "lang": "zh-CN",
+          "path": "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "ar",
+          "path": "/ar/blog/"
+        }
+      ],
+      "padding": 325
+    },
+    {
+      "lang": "zh",
+      "width": 1440,
+      "title": "伊斯坦布尔购买带租客的房产｜租客权利与法律风险｜IGA律师事务所",
+      "h1": "在伊斯坦布尔购买带租客的公寓：外国买家购房前必须了解的法律问题",
+      "h1Count": 1,
+      "overflow": false,
+      "articleLength": 4884,
+      "author": " · 作者：IGA律师事务所编辑团队",
+      "counterHidden": true,
+      "languageLinks": [
+        {
+          "lang": "en",
+          "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "tr",
+          "path": "/tr/blog/"
+        },
+        {
+          "lang": "zh-CN",
+          "path": "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "ar",
+          "path": "/ar/blog/"
+        }
+      ],
+      "padding": 325
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "title": "Buying a Tenanted Apartment in Istanbul | IGA Law",
+      "h1": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing",
+      "h1Count": 1,
+      "overflow": false,
+      "articleLength": 16781,
+      "author": " · Author: IGA Law Firm Editorial Team",
+      "counterHidden": true,
+      "languageLinks": [
+        {
+          "lang": "en",
+          "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "tr",
+          "path": "/tr/blog/"
+        },
+        {
+          "lang": "zh-CN",
+          "path": "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "ar",
+          "path": "/ar/blog/"
+        }
+      ],
+      "padding": 19
+    },
+    {
+      "lang": "zh",
+      "width": 390,
+      "title": "伊斯坦布尔购买带租客的房产｜租客权利与法律风险｜IGA律师事务所",
+      "h1": "在伊斯坦布尔购买带租客的公寓：外国买家购房前必须了解的法律问题",
+      "h1Count": 1,
+      "overflow": false,
+      "articleLength": 4884,
+      "author": " · 作者：IGA律师事务所编辑团队",
+      "counterHidden": true,
+      "languageLinks": [
+        {
+          "lang": "en",
+          "path": "/en/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "tr",
+          "path": "/tr/blog/"
+        },
+        {
+          "lang": "zh-CN",
+          "path": "/zh/blog/buying-tenanted-apartment-istanbul-foreign-buyers/"
+        },
+        {
+          "lang": "ar",
+          "path": "/ar/blog/"
+        }
+      ],
+      "padding": 19
+    }
+  ],
+  "existingRouteSmokeChecks": 16,
+  "errors": [
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr",
+    "Missing related guide tr"
+  ],
+  "baselineErrors": [
+    "Missing related guide tr"
+  ],
+  "newRuntimeErrors": []
+}

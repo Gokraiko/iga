@@ -18,6 +18,7 @@ window.igaSchemaContent = (() => {
     return `<nav class="crumb site-breadcrumb" aria-label="${breadcrumbLabels[lang]}"><ol>${items.map((item,i)=>`<li>${i?'<span class="breadcrumb-separator" aria-hidden="true">›</span>':''}${i===items.length-1?`<span aria-current="page">${escape(item.name)}</span>`:`<a href="${escape(item.path)}">${escape(item.name)}</a>`}</li>`).join('')}</ol></nav>`;
   }
   function author(post,team,anchors,lang,pathFor) {
+    if(post.slug==='buying-tenanted-apartment-istanbul-foreign-buyers' && post.author?.type==='Organization') return {member:null,organization:true,label:lang==='zh'?'作者：IGA律师事务所编辑团队':'Author: IGA Law Firm Editorial Team',path:pathFor(lang,'about')};
     const value=post.author;
     const name=typeof value==='object'?value.name:value;
     const member=team.find(m=>m.name===name || anchors[m.name]===name);
@@ -65,7 +66,7 @@ window.igaSchemaContent = (() => {
     org.image=org.logo;org.areaServed={'@type':'Country',name:'Türkiye',identifier:'TR'};
     org.knowsLanguage=['tr','en','zh','ar'];org.founder={'@id':personId(founder)};
     const people=route.page==='team'?team:[founder];
-    if(post){const a=author(post,team,anchors,route.lang,pathFor);if(!people.includes(a.member))people.push(a.member);}
+    if(post){const a=author(post,team,anchors,route.lang,pathFor);if(a.member&&!people.includes(a.member))people.push(a.member);}
     people.forEach(member=>graph.push(person(member)));
     if(route.page==='team'){page['@type']='WebPage';page.mainEntity=team.map(member=>({'@id':personId(member)}));}
     if(route.page==='about'){page['@type']='AboutPage';page.about={'@id':org['@id']};}
@@ -86,8 +87,9 @@ window.igaSchemaContent = (() => {
     if(faqs.length)graph.push({'@type':'FAQPage','@id':canonical+'#faq',mainEntity:faqs.map(([q,a])=>({'@type':'Question',name:q,acceptedAnswer:{'@type':'Answer',text:a}}))});
     const article=graph.find(n=>n['@type']==='BlogPosting');
     if(article){
-      const writer=author(post,team,anchors,route.lang,pathFor).member;
-      article.author={'@id':personId(writer)};
+      const authorInfo=author(post,team,anchors,route.lang,pathFor);
+      const writer=authorInfo.member;
+      article.author=authorInfo.organization?{'@type':'Organization',name:'IGA Law Firm Editorial Team',url:origin+pathFor(route.lang,'about'),parentOrganization:{'@id':org['@id']}}:{'@id':personId(writer)};
       if(post.authorPresentation==='profile-card')graph.find(n=>n['@id']===personId(writer)).image=origin+writer.img;
     }
     return graph;
