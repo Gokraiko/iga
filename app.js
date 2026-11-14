@@ -171,7 +171,18 @@ const articleCategory=(category,lang)=>({Citizenship:{tr:'Vatandaşlık',zh:'入
 const articleDate=(article,lang)=>{if(article.publicationStatus==='draft')return esc({en:'Draft · not yet published',tr:'Taslak · henüz yayımlanmadı',zh:'草稿 · 尚未发布',ar:'مسودة · لم تُنشر بعد'}[lang]);const actual=article.publishedAt;const date=actual||window.articleArchiveDates?.[article.slug];if(!date)return esc(article.date);const [year,month,day]=date.split('-');const label=actual?'':({en:'Assigned archive date; original publication day is unknown.',tr:'Atanmış arşiv tarihi; özgün yayın günü bilinmiyor.',zh:'指定的归档日期；原始发布日期不详。',ar:'تاريخ أرشيف محدد؛ يوم النشر الأصلي غير معروف.'}[lang]);return `<time datetime="${esc(date)}"${label?` title="${esc(label)}" data-assigned-archive-date="true"`:''} dir="ltr">${day}.${month}.${year}</time>`};
 const articleViewHint={en:'Recorded unique browser reads after 8 seconds of visible viewing. Repeat visits in the same browser count once.',tr:'Yazı 8 saniye görünür kaldığında kaydedilen tekil tarayıcı okumalarıdır. Aynı tarayıcıdaki tekrar ziyaretler bir kez sayılır.',zh:'文章可见8秒后记录的独立浏览器阅读次数。同一浏览器重复访问仅计一次。',ar:'قراءات المتصفحات الفريدة المسجلة بعد ظهور المقال 8 ثوانٍ. تُحسب الزيارات المتكررة من المتصفح نفسه مرة واحدة.'};
 // Default author remains overridable per article in the shared article data model.
-articles.forEach(article=>{if(!article.author)article.author='Irmak Gürer Aksöz';});
+// Editorial assignments reviewed by content type at the user’s request (2026-11-14).
+const editorialArticleSlugs=new Set([
+  "iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
+  "turkey-china-immigration-investment-cooperation",
+  "success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
+  "is-turkey-a-european-or-asian-country",
+  "the-strongest-passports-in-the-world",
+  "best-countries-to-move-to-from-the-us",
+  "best-countries-to-retire-in-for-americans",
+  "most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm"
+]);
+articles.forEach(article=>{if(editorialArticleSlugs.has(article.slug)){article.author={type:'Organization',name:'IGA Law Firm Editorial Team'};article.authorPresentation='byline';}else if(!article.author)article.author='Irmak Gürer Aksöz';});
 function articleAuthorMarkup(post,lang){if(!lang||post.authorPresentation==='profile-card')return '';const author=window.igaSchemaContent.author(post,team,homeTeamAnchors,lang,pathFor);return `<span class="article-author-line"> · <a rel="author" href="${author.path}">${esc(author.label)}</a></span>`} 
 
 function blogCardAuthorMarkup(post,lang){

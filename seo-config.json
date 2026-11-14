@@ -14402,7 +14402,12 @@
           "datePublished": "2026-10-25T09:00:00+03:00",
           "dateModified": "2026-10-25T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -14610,7 +14615,12 @@
           "datePublished": "2026-10-25T09:00:00+03:00",
           "dateModified": "2026-10-25T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -14818,7 +14828,12 @@
           "datePublished": "2026-10-25T09:00:00+03:00",
           "dateModified": "2026-10-25T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -15026,7 +15041,12 @@
           "datePublished": "2026-10-25T09:00:00+03:00",
           "dateModified": "2026-10-25T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -15234,7 +15254,12 @@
           "datePublished": "2026-10-24T09:00:00+03:00",
           "dateModified": "2026-10-24T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -15442,7 +15467,12 @@
           "datePublished": "2026-10-24T09:00:00+03:00",
           "dateModified": "2026-10-24T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -15650,7 +15680,12 @@
           "datePublished": "2026-10-24T09:00:00+03:00",
           "dateModified": "2026-10-24T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -15858,7 +15893,12 @@
           "datePublished": "2026-10-24T09:00:00+03:00",
           "dateModified": "2026-10-24T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           }
         },
         {
@@ -18961,7 +19001,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -19169,7 +19214,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -19377,7 +19427,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -19585,7 +19640,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -20625,7 +20685,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -20833,7 +20898,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -21041,7 +21111,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -21249,7 +21324,12 @@
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-10-13T09:00:00+03:00"
         },
@@ -23891,7 +23971,12 @@
             "height": 1764
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-07-27T09:00:00+03:00"
         },
@@ -24055,7 +24140,12 @@
             "height": 1764
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-07-27T09:00:00+03:00"
         },
@@ -24219,7 +24309,12 @@
             "height": 1764
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-07-27T09:00:00+03:00"
         },
@@ -24383,7 +24478,12 @@
             "height": 1764
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-07-27T09:00:00+03:00"
         },
@@ -28603,7 +28703,12 @@
             "height": 534
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-01-11T09:00:00+03:00"
         },
@@ -28767,7 +28872,12 @@
             "height": 534
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-01-11T09:00:00+03:00"
         },
@@ -28931,7 +29041,12 @@
             "height": 534
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-01-11T09:00:00+03:00"
         },
@@ -29095,7 +29210,12 @@
             "height": 534
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2026-01-11T09:00:00+03:00"
         },
@@ -37907,7 +38027,12 @@
             "height": 759
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-07T09:00:00+03:00"
         },
@@ -38071,7 +38196,12 @@
             "height": 759
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-07T09:00:00+03:00"
         },
@@ -38235,7 +38365,12 @@
             "height": 759
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-07T09:00:00+03:00"
         },
@@ -38399,7 +38534,12 @@
             "height": 759
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-07T09:00:00+03:00"
         },
@@ -38563,7 +38703,12 @@
             "height": 1683
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-06T09:00:00+03:00"
         },
@@ -38727,7 +38872,12 @@
             "height": 1683
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/tr/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-06T09:00:00+03:00"
         },
@@ -38891,7 +39041,12 @@
             "height": 1683
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/zh/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-06T09:00:00+03:00"
         },
@@ -39055,7 +39210,12 @@
             "height": 1683
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/ar/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
           "dateModified": "2025-01-06T09:00:00+03:00"
         },

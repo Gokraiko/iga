@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-14",
+  "basis": "User-authorized editorial classification by content type; not a claim of independently verified historical authorship",
+  "newEditorialAssignments": {
+    "iga-law-firm-is-growing-a-new-chapter-at-our-new-office": "Institutional office and team announcement",
+    "turkey-china-immigration-investment-cooperation": "Institutional delegation visit/event report",
+    "success-stories-newly-approved-turkish-citizenship-turkish-id-cards": "Collective firm/client milestone announcement, not an individual legal case analysis",
+    "is-turkey-a-european-or-asian-country": "General geography and travel-rights explainer compiled from public sources",
+    "the-strongest-passports-in-the-world": "Passport index and travel-access research roundup",
+    "best-countries-to-move-to-from-the-us": "General relocation destination comparison",
+    "best-countries-to-retire-in-for-americans": "General retirement destination comparison",
+    "most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm": "District and property-market overview written in the firm’s collective voice"
+  },
+  "previousEditorialRetained": [
+    "buying-tenanted-apartment-istanbul-foreign-buyers",
+    "iga-law-firm-china-turkish-citizenship-investment-seminars-2026"
+  ],
+  "legalAndCaseAnalysisAuthors": "unchanged"
+}
