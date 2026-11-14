@@ -1,0 +1,17 @@
+{
+  "changedPages": [
+    "/en/blog/",
+    "/tr/blog/",
+    "/zh/blog/",
+    "/ar/blog/"
+  ],
+  "unchangedPages": 237,
+  "SEORecordsUnchanged": true,
+  "sitemapAndRedirectsUnchanged": true,
+  "cardsByLanguage": {
+    "en": 47,
+    "tr": 44,
+    "zh": 46,
+    "ar": 44
+  }
+}
