@@ -24,8 +24,9 @@ window.igaSchemaContent = (() => {
     const member=team.find(m=>m.name===name || anchors[m.name]===name);
     if (!member) throw new Error(`Unknown article author: ${name}`);
     const founder=member.name==='Irmak Gürer Aksöz';
-    const label=founder?{en:'Author: Irmak Gürer Aksöz, Attorney',tr:'Yazar: Av. Irmak Gürer Aksöz',zh:'作者：Irmak Gürer Aksöz 律师',ar:'الكاتبة: المحامية Irmak Gürer Aksöz'}[lang]:`${{en:'Author:',tr:'Yazar:',zh:'作者：',ar:'الكاتب:'}[lang]} ${member.name}`;
-    return {member,anchor:anchors[member.name],path:pathFor(lang,'team')+'#'+anchors[member.name],label};
+    const title=founder?{en:'Founding Attorney',tr:'Kurucu Avukat',zh:'创始律师',ar:'المحامية المؤسسة'}[lang]:'';
+    const label=founder?{en:'Author: Irmak Gürer Aksöz, Founding Attorney',tr:'Yazar: Irmak Gürer Aksöz, Kurucu Avukat',zh:'作者：Irmak Gürer Aksöz 创始律师',ar:'الكاتبة: المحامية المؤسسة Irmak Gürer Aksöz'}[lang]:`${{en:'Author:',tr:'Yazar:',zh:'作者：',ar:'الكاتب:'}[lang]} ${member.name}`;
+    return {member,anchor:anchors[member.name],path:pathFor(lang,'team')+'#'+anchors[member.name],label,title};
   }
   // Read the same rendered, visible details/summary source as visitors see.
   function detailFaqs(content) {

@@ -153,3 +153,5 @@ main:has([data-article-views="chinese-investors-transfer-money-turkey-property-c
 .blog-card .blog-card-author small{font-size:9px;letter-spacing:.04em;text-transform:none}
 .blog-card .blog-card-author strong{font-size:12px;font-weight:600;overflow-wrap:anywhere}
 .blog-card .blog-card-author:hover strong{text-decoration:underline}
+
+.blog-card .blog-card-author-title{font-size:11px;overflow-wrap:anywhere}
