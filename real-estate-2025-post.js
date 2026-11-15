@@ -1832,7 +1832,7 @@
     get title(){return isEnglishDetail() ? 'Turkish Citizenship by Real Estate Investment: Complete Legal Guide' : 'Turkish Citizenship by Real Estate Investment: 2025 Complete Guide';},
     seoTitle:'Turkish Citizenship by Real Estate 2025 | Legal Guide',
     metaDescription:'Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.',
-    get author(){return isEnglishDetail() ? {type:'Organization',name:'IGA Law Firm Editorial Team'} : 'Irmak Gürer Aksöz';}
+    author:'Irmak Gürer Aksöz'
   };
 
 }

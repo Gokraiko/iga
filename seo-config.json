@@ -39379,12 +39379,7 @@
             "height": 1024
           },
           "author": {
-            "@type": "Organization",
-            "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/en/about/",
-            "parentOrganization": {
-              "@id": "https://igalawfirm.com/#organization"
-            }
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
           "dateModified": "2026-11-15T05:58:54.168Z"
         },
