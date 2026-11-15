@@ -33,9 +33,9 @@ window.finalSeoMetadata = {
     "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification."
   },
   "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
-    "reason": "Otomatik kesilmiş veya tamamlanmamış giriş metni yerine konuya özgü tam açıklama",
-    "description": "Explore Istanbul neighbourhoods discussed by property investors in 2026, with location considerations and legal checks before choosing a property."
-  },
+  "title": "Best Areas to Buy Property in Istanbul (2026) | Legal Guide",
+  "description": "Compare Istanbul's best areas for property investment in 2026. Explore rental demand, resale potential, location risks and legal checks for foreign buyers."
+},
   "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
     "reason": "Otomatik kesilmiş veya tamamlanmamış giriş metni yerine konuya özgü tam açıklama",
     "description": "Review Allianz BES fund and portfolio choices for Turkish citizenship, including the investment threshold, fund selection and legal checks before applying."
