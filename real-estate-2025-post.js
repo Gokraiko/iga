@@ -122,4 +122,1717 @@
       };
     }
   }
+  // English detail-page revision only. Archive cards and all translations retain their existing data.
+  const englishPath = '/en/blog/'+slug+'/';
+  const isEnglishDetail = () => location.pathname === englishPath;
+  const revisedEnglish = [
+  {
+    "type": "paragraph",
+    "text": "A practical guide for international investors considering Turkish citizenship through a qualifying property investment of at least USD 400,000.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "A practical guide for international investors considering Turkish citizenship through a qualifying property investment of at least USD 400,000."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Turkish citizenship by real estate investment offers eligible foreign nationals a route to apply for citizenship through a qualifying property acquisition in Türkiye.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Turkish citizenship by real estate investment offers eligible foreign nationals a route to apply for citizenship through a qualifying property acquisition in Türkiye."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "However, purchasing an apartment for USD 400,000 does not automatically entitle the buyer to a Turkish passport.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "However, purchasing an apartment for USD 400,000 does not automatically entitle the buyer to a Turkish passport."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The transaction must satisfy the applicable investment requirements, including the qualifying property type, official investment documentation, ownership and seller restrictions, payment procedures and a three-year commitment not to sell the property.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The transaction must satisfy the applicable investment requirements, including the qualifying property type, official investment documentation, ownership and seller restrictions, payment procedures and a three-year commitment not to sell the property."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The competent Turkish authorities must confirm the qualifying investment, and citizenship remains subject to the relevant governmental decision.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The competent Turkish authorities must confirm the qualifying investment, and citizenship remains subject to the relevant governmental decision."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Quick answer: Under the applicable Turkish citizenship by investment framework, an eligible foreign national may apply for exceptional Turkish citizenship after making a qualifying real estate investment of at least USD 400,000 or its equivalent in foreign currency, subject to the required three-year restriction and official procedures.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "Quick answer:"
+      },
+      {
+        "type": "text",
+        "text": " Under the applicable Turkish citizenship by investment framework, an eligible foreign national may apply for exceptional Turkish citizenship after making a qualifying real estate investment of at least USD 400,000 or its equivalent in foreign currency, subject to the required three-year restriction and official procedures."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For international investors, the most important decision often comes before the citizenship application: choosing a property and completing a transaction that can satisfy the legal requirements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For international investors, the most important decision often comes before the citizenship application: choosing a property and completing a transaction that can satisfy the legal requirements."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "This guide explains the overall process, the investment threshold, family eligibility, additional costs, common mistakes and the role of independent legal advice.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "This guide explains the overall process, the investment threshold, family eligibility, additional costs, common mistakes and the role of independent legal advice."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "1. Who Can Apply for Turkish Citizenship Through Property Investment?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The real estate investment route is part of Türkiye's exceptional citizenship framework.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The real estate investment route is part of Türkiye's exceptional citizenship framework."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Foreign nationals who meet the relevant investment requirements may be eligible to apply, subject to the applicable nationality, acquisition and citizenship rules.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Foreign nationals who meet the relevant investment requirements may be eligible to apply, subject to the applicable nationality, acquisition and citizenship rules."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A qualifying property purchase is only one part of the process.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A qualifying property purchase is only one part of the process."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The authorities may also consider identity documents, personal circumstances, security-related requirements and other conditions under Turkish law.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The authorities may also consider identity documents, personal circumstances, security-related requirements and other conditions under Turkish law."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can family members be included?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The applicable framework may allow the investor's spouse and minor or otherwise qualifying dependent children to be included.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The applicable framework may allow the investor's spouse and minor or otherwise qualifying dependent children to be included."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The position of adult children, parents and other relatives must be assessed separately.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The position of adult children, parents and other relatives must be assessed separately."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Marriage certificates, birth certificates and other family documents may require authentication and translation.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Marriage certificates, birth certificates and other family documents may require authentication and translation."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Family eligibility should be reviewed before the investment is completed, especially where applicants have children approaching the relevant age limits or complex family circumstances.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Family eligibility should be reviewed before the investment is completed, especially where applicants have children approaching the relevant age limits or complex family circumstances."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Does purchasing property guarantee citizenship?"
+  },
+  {
+    "type": "paragraph",
+    "text": "No.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A qualifying investment can establish the basis for an application, but the final citizenship decision remains with the competent Turkish authorities.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A qualifying investment can establish the basis for an application, but the final citizenship decision remains with the competent Turkish authorities."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Neither a developer, real estate agent nor lawyer can guarantee approval.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Neither a developer, real estate agent nor lawyer can guarantee approval."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "2. What Is the Minimum Real Estate Investment for Turkish Citizenship?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The applicable minimum investment amount is USD 400,000 or its equivalent in foreign currency.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The applicable minimum investment amount is "
+      },
+      {
+        "type": "strong",
+        "text": "USD 400,000 or its equivalent in foreign currency"
+      },
+      {
+        "type": "text",
+        "text": "."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The transaction must satisfy the relevant official requirements, and the property must be subject to the required three-year restriction against sale.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The transaction must satisfy the relevant official requirements, and the property must be subject to the required three-year restriction against sale."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The amount stated in a property advertisement is not necessarily the amount recognised for citizenship purposes.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The amount stated in a property advertisement is not necessarily the amount recognised for citizenship purposes."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For example, consider two hypothetical apartments:",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For example, consider two hypothetical apartments:"
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Apartment A: Advertised at USD 420,000, with a transaction and documentation that satisfy the applicable investment rules.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "Apartment A:"
+      },
+      {
+        "type": "text",
+        "text": " Advertised at USD 420,000, with a transaction and documentation that satisfy the applicable investment rules."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Apartment B: Advertised at USD 420,000, but with unresolved seller restrictions or insufficient qualifying payment documentation.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "Apartment B:"
+      },
+      {
+        "type": "text",
+        "text": " Advertised at USD 420,000, but with unresolved seller restrictions or insufficient qualifying payment documentation."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Although both properties have the same advertised price, they may have very different legal outcomes.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Although both properties have the same advertised price, they may have very different legal outcomes."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "This is why an investment should be assessed as a complete transaction rather than by price alone.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "This is why an investment should be assessed as a complete transaction rather than by price alone."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For the detailed pre-purchase checks, read",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For the detailed pre-purchase checks, read"
+      }
+    ]
+  },
+  {
+    "type": "source",
+    "text": "How to Check if a Property Qualifies for Turkish Citizenship Before Buying",
+    "url": "https://igalawfirm.com/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "3. What Types of Property Can Qualify?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The type and legal status of the property matter.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The type and legal status of the property matter."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The applicable rules distinguish qualifying condominium or construction-easement units and certain land registered with a lawful permanent building from property that does not meet those conditions.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The applicable rules distinguish qualifying condominium or construction-easement units and certain land registered with a lawful permanent building from property that does not meet those conditions."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A buyer should not assume that vacant land, an unfinished project or every apartment advertised for citizenship is eligible.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A buyer should not assume that vacant land, an unfinished project or every apartment advertised for citizenship is eligible."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The property's registered classification, ownership details, applicable construction status and transaction structure must be examined.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The property's registered classification, ownership details, applicable construction status and transaction structure must be examined."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can an off-plan apartment qualify?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Certain transactions involving properties under construction may be considered under the applicable framework, including legally qualifying promise-of-sale arrangements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Certain transactions involving properties under construction may be considered under the applicable framework, including legally qualifying promise-of-sale arrangements."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "However, an ordinary developer reservation agreement is not necessarily sufficient.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "However, an ordinary developer reservation agreement is not necessarily sufficient."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The legal form of the agreement, the status of the property, the payment requirements and the registration procedures must be assessed.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The legal form of the agreement, the status of the property, the payment requirements and the registration procedures must be assessed."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Buyers should also consider the separate commercial risk of construction or delivery delays.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Buyers should also consider the separate commercial risk of construction or delivery delays."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Is a ready title deed enough?"
+  },
+  {
+    "type": "paragraph",
+    "text": "No.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A ready title deed may facilitate an ownership transfer, but it does not independently establish eligibility for Turkish citizenship.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A ready title deed may facilitate an ownership transfer, but it does not independently establish eligibility for Turkish citizenship."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Seller restrictions, transaction history, investment documentation and the applicable official assessment remain important.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Seller restrictions, transaction history, investment documentation and the applicable official assessment remain important."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "4. Can You Buy More Than One Property to Reach USD 400,000?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Depending on the applicable transaction structure, multiple qualifying property acquisitions may be considered together.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Depending on the applicable transaction structure, multiple qualifying property acquisitions may be considered together."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For example, an investor may wish to purchase two apartments rather than a single apartment worth more than USD 400,000.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For example, an investor may wish to purchase two apartments rather than a single apartment worth more than USD 400,000."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "However, the ability to combine acquisitions is subject to the relevant rules, including requirements concerning transaction type, timing, ownership, investment documentation and registration.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "However, the ability to combine acquisitions is subject to the relevant rules, including requirements concerning transaction type, timing, ownership, investment documentation and registration."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The rules governing completed title deed transfers should not be assumed to be identical to those governing promise-of-sale contracts.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The rules governing completed title deed transfers should not be assumed to be identical to those governing promise-of-sale contracts."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "What if you already own an apartment in Türkiye?"
+  },
+  {
+    "type": "paragraph",
+    "text": "An existing property cannot automatically be counted toward a new citizenship application.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "An existing property cannot automatically be counted toward a new citizenship application."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Its acquisition date, legal status, original payment documentation and the requirements applicable to that transaction must be assessed.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Its acquisition date, legal status, original payment documentation and the requirements applicable to that transaction must be assessed."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "In some cases, an earlier purchase may not be eligible to contribute toward the investment threshold.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "In some cases, an earlier purchase may not be eligible to contribute toward the investment threshold."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Before buying an additional property, obtain a transaction-specific assessment of whether the earlier acquisition can legally be considered.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Before buying an additional property, obtain a transaction-specific assessment of whether the earlier acquisition can legally be considered."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The important question is not simply how much your properties are worth today, but whether the relevant acquisitions satisfy the citizenship investment rules.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "The important question is not simply how much your properties are worth today, but whether the relevant acquisitions satisfy the citizenship investment rules."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "5. Step-by-Step: How Does the Turkish Citizenship Property Investment Process Work?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The exact sequence depends on the investor, property and applicable administrative procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The exact sequence depends on the investor, property and applicable administrative procedures."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The following overview explains the main stages.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The following overview explains the main stages."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 1 — Assess the investor's eligibility and objectives"
+  },
+  {
+    "type": "paragraph",
+    "text": "Before selecting a property, consider the investor's nationality, family circumstances, intended investment structure and legal eligibility.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Before selecting a property, consider the investor's nationality, family circumstances, intended investment structure and legal eligibility."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The investor should also clarify whether the property is intended for personal use, rental income, long-term ownership or a combination of purposes.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The investor should also clarify whether the property is intended for personal use, rental income, long-term ownership or a combination of purposes."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 2 — Select and legally review the property"
+  },
+  {
+    "type": "paragraph",
+    "text": "Identify a potential property and examine the legal documents before making a binding commitment.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Identify a potential property and examine the legal documents before making a binding commitment."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Relevant checks may include ownership, registered restrictions, seller status, the legal description of the property and the transaction's potential citizenship eligibility.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Relevant checks may include ownership, registered restrictions, seller status, the legal description of the property and the transaction's potential citizenship eligibility."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The property's commercial value and resale prospects should be assessed independently of its citizenship suitability.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The property's commercial value and resale prospects should be assessed independently of its citizenship suitability."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For additional guidance, see",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For additional guidance, see"
+      }
+    ]
+  },
+  {
+    "type": "source",
+    "text": "A Lawyer's Guide to Choosing the Right Property for Turkish Citizenship by Investment",
+    "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-investment-through-real-estate-a-lawyer-s-guide-to-choosing-the-right-proper/"
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 3 — Prepare the transaction and payment documentation"
+  },
+  {
+    "type": "paragraph",
+    "text": "The parties must arrange the sale and payment procedures in accordance with the applicable requirements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The parties must arrange the sale and payment procedures in accordance with the applicable requirements."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Citizenship-related property transactions require the applicable banking evidence, foreign-exchange documentation and official investment amount confirmation. Relevant documents can include the foreign-exchange purchase certificate (DAB) and the investment amount confirmation document (TTB); their requirements must be checked for the particular transaction.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Citizenship-related property transactions require the applicable banking evidence, foreign-exchange documentation and official investment amount confirmation. Relevant documents can include the foreign-exchange purchase certificate (DAB) and the investment amount confirmation document (TTB); their requirements must be checked for the particular transaction."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Payment documentation should be planned before money is transferred.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Payment documentation should be planned before money is transferred."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A payment that cannot be adequately documented may create problems even where the buyer has paid the agreed purchase price.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A payment that cannot be adequately documented may create problems even where the buyer has paid the agreed purchase price."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Chinese investors should also plan the documentation for",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Chinese investors should also plan the documentation for"
+      }
+    ]
+  },
+  {
+    "type": "source",
+    "text": "transferring money from China for a Turkish property purchase",
+    "url": "https://igalawfirm.com/en/blog/chinese-investors-transfer-money-turkey-property-citizenship/"
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 4 — Complete the applicable purchase or promise-of-sale procedure"
+  },
+  {
+    "type": "paragraph",
+    "text": "The legally appropriate transaction must be completed using the required form and registration procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The legally appropriate transaction must be completed using the required form and registration procedures."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "For a completed real estate purchase, ownership transfer is generally effected through registration at the land registry.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For a completed real estate purchase, ownership transfer is generally effected through registration at the land registry."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A preliminary agreement does not, by itself, transfer ownership.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A preliminary agreement does not, by itself, transfer ownership."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Where a qualifying promise-of-sale arrangement is used, its formal requirements and registration conditions must be satisfied.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Where a qualifying promise-of-sale arrangement is used, its formal requirements and registration conditions must be satisfied."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 5 — Establish the qualifying investment and obtain the required official confirmation"
+  },
+  {
+    "type": "paragraph",
+    "text": "The relevant authorities examine the transaction and its supporting documents under the applicable citizenship investment framework.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The relevant authorities examine the transaction and its supporting documents under the applicable citizenship investment framework."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The required investment confirmation process must be completed.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The required investment confirmation process must be completed."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The applicable three-year commitment must also be properly reflected in the relevant official records.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The applicable three-year commitment must also be properly reflected in the relevant official records."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 6 — Complete the applicable residence and citizenship procedures"
+  },
+  {
+    "type": "paragraph",
+    "text": "Following the qualifying investment procedures, the applicant proceeds through the required residence-related and exceptional citizenship application stages.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Following the qualifying investment procedures, the applicant proceeds through the required residence-related and exceptional citizenship application stages."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The exact requirements depend on the investor's circumstances and current administrative procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The exact requirements depend on the investor's circumstances and current administrative procedures."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Additional identity documents, translations, authenticated records or other evidence may be requested.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Additional identity documents, translations, authenticated records or other evidence may be requested."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Step 7 — Await the citizenship decision"
+  },
+  {
+    "type": "paragraph",
+    "text": "The competent authorities review the application.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The competent authorities review the application."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Meeting the investment conditions does not eliminate the government's authority to assess the citizenship application.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Meeting the investment conditions does not eliminate the government's authority to assess the citizenship application."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "If citizenship is granted, the applicant can complete the relevant civil registration and identity document procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "If citizenship is granted, the applicant can complete the relevant civil registration and identity document procedures."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "6. What Are the Additional Costs Beyond USD 400,000?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The minimum qualifying investment should not be confused with the total cost of the transaction.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The minimum qualifying investment should not be confused with the total cost of the transaction."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Investors may need to budget for additional expenses.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Investors may need to budget for additional expenses."
+      }
+    ]
+  },
+  {
+    "type": "list",
+    "text": "Title deed transfer charges: Applicable statutory charges and agreed allocation between the parties"
+  },
+  {
+    "type": "list",
+    "text": "Taxes: VAT or other taxes depending on the transaction and eligibility for exemptions"
+  },
+  {
+    "type": "list",
+    "text": "Official valuation or investment documentation: Requirements and fees applicable to the property transaction"
+  },
+  {
+    "type": "list",
+    "text": "Translation and notarisation: Documents and powers of attorney where required"
+  },
+  {
+    "type": "list",
+    "text": "Legal services: Scope and fees agreed with the lawyer"
+  },
+  {
+    "type": "list",
+    "text": "Banking and currency conversion: Transfer charges and exchange-rate differences"
+  },
+  {
+    "type": "list",
+    "text": "Property ownership expenses: Insurance, maintenance, building charges and ongoing taxes"
+  },
+  {
+    "type": "paragraph",
+    "text": "The precise amounts depend on the transaction and current rules.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The precise amounts depend on the transaction and current rules."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The USD 400,000 threshold should not be treated as a complete all-inclusive budget.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "The USD 400,000 threshold should not be treated as a complete all-inclusive budget."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "An investor should obtain an itemised estimate before signing a purchase agreement.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "An investor should obtain an itemised estimate before signing a purchase agreement."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "7. How Long Does Turkish Citizenship by Property Investment Take?"
+  },
+  {
+    "type": "paragraph",
+    "text": "There is no universally guaranteed processing time.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "There is no universally guaranteed processing time."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The overall timeline depends on several separate stages, including:",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The overall timeline depends on several separate stages, including:"
+      }
+    ]
+  },
+  {
+    "type": "list",
+    "text": "Property identification and legal checks."
+  },
+  {
+    "type": "list",
+    "text": "Preparation and completion of the acquisition."
+  },
+  {
+    "type": "list",
+    "text": "Official investment confirmation."
+  },
+  {
+    "type": "list",
+    "text": "Residence-related procedures where applicable."
+  },
+  {
+    "type": "list",
+    "text": "Citizenship application review."
+  },
+  {
+    "type": "list",
+    "text": "Additional document or security-related checks."
+  },
+  {
+    "type": "paragraph",
+    "text": "A transaction involving incomplete records, ownership complications or missing documents may require additional time.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A transaction involving incomplete records, ownership complications or missing documents may require additional time."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Investors should be cautious about promises of guaranteed citizenship within a fixed number of months.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Investors should be cautious about promises of guaranteed citizenship within a fixed number of months."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The timeline should be assessed based on the specific case and current administrative practice.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The timeline should be assessed based on the specific case and current administrative practice."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "8. Can You Buy Property and Apply Without Visiting Turkey?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Certain steps may be completed through authorised representation, subject to applicable legal requirements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Certain steps may be completed through authorised representation, subject to applicable legal requirements."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A properly prepared power of attorney may allow a representative to undertake specified property or administrative procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A properly prepared power of attorney may allow a representative to undertake specified property or administrative procedures."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "However, the ability to complete a property transaction remotely should not be confused with a guarantee that every stage of the citizenship process can be completed without personal attendance.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "However, the ability to complete a property transaction remotely should not be confused with a guarantee that every stage of the citizenship process can be completed without personal attendance."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Identity verification, biometrics and other procedural requirements depend on the applicant's circumstances and the competent authorities' instructions.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Identity verification, biometrics and other procedural requirements depend on the applicant's circumstances and the competent authorities' instructions."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Foreign investors should clarify the scope of the power of attorney and any personal attendance requirements before making travel arrangements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Foreign investors should clarify the scope of the power of attorney and any personal attendance requirements before making travel arrangements."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "9. Can You Rent Out or Sell the Property After Obtaining Citizenship?"
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Renting the property"
+  },
+  {
+    "type": "paragraph",
+    "text": "Rental arrangements may be possible, subject to the property's legal status, applicable regulations and contractual restrictions.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Rental arrangements may be possible, subject to the property's legal status, applicable regulations and contractual restrictions."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Ordinary residential leasing and short-term tourist accommodation may involve different legal requirements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Ordinary residential leasing and short-term tourist accommodation may involve different legal requirements."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Citizenship eligibility does not automatically establish permission to operate a property as a short-term holiday rental.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Citizenship eligibility does not automatically establish permission to operate a property as a short-term holiday rental."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Selling the property"
+  },
+  {
+    "type": "paragraph",
+    "text": "The citizenship investment framework requires the applicable three-year commitment against sale.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The citizenship investment framework requires the applicable three-year commitment against sale."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Investors should not assume that receiving citizenship immediately removes that restriction.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Investors should not assume that receiving citizenship immediately removes that restriction."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Before selling or restructuring ownership, the relevant land registry records and citizenship-related obligations should be reviewed.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Before selling or restructuring ownership, the relevant land registry records and citizenship-related obligations should be reviewed."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "What about resale value?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The ability to apply for citizenship does not guarantee that a property will appreciate in value.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The ability to apply for citizenship does not guarantee that a property will appreciate in value."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Investors should consider location, market demand, maintenance costs, liquidity, comparable sales and potential resale restrictions.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Investors should consider location, market demand, maintenance costs, liquidity, comparable sales and potential resale restrictions."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A property can be legally eligible for citizenship without necessarily being the best financial investment.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A property can be legally eligible for citizenship without necessarily being the best financial investment."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "10. Common Mistakes That Can Delay or Complicate a Citizenship Application"
+  },
+  {
+    "type": "paragraph",
+    "text": "Several recurring issues deserve attention.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Several recurring issues deserve attention."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 1 — Relying only on a developer's citizenship promise"
+  },
+  {
+    "type": "paragraph",
+    "text": "A marketing statement is not an official legal determination.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A marketing statement is not an official legal determination."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 2 — Choosing a property based solely on the USD 400,000 price"
+  },
+  {
+    "type": "paragraph",
+    "text": "The complete transaction must satisfy the applicable requirements.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The complete transaction must satisfy the applicable requirements."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 3 — Transferring funds before planning the documentation"
+  },
+  {
+    "type": "paragraph",
+    "text": "Banking records and foreign-exchange procedures should be arranged correctly from the outset.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Banking records and foreign-exchange procedures should be arranged correctly from the outset."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 4 — Assuming a previous property purchase can be counted"
+  },
+  {
+    "type": "paragraph",
+    "text": "Earlier acquisitions require individual legal assessment.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Earlier acquisitions require individual legal assessment."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 5 — Signing a contract before reviewing seller and ownership restrictions"
+  },
+  {
+    "type": "paragraph",
+    "text": "An otherwise attractive apartment may present legal issues affecting the transaction.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "An otherwise attractive apartment may present legal issues affecting the transaction."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 6 — Confusing citizenship eligibility with investment quality"
+  },
+  {
+    "type": "paragraph",
+    "text": "The legal requirements and commercial merits of a property are separate considerations.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The legal requirements and commercial merits of a property are separate considerations."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Mistake 7 — Assuming citizenship approval is automatic"
+  },
+  {
+    "type": "paragraph",
+    "text": "The investment confirmation and citizenship decision are distinct stages.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The investment confirmation and citizenship decision are distinct stages."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "A careful pre-purchase review can help identify these risks before the investor becomes financially committed.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A careful pre-purchase review can help identify these risks before the investor becomes financially committed."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "11. Should You Have a Lawyer Review the Property Before Paying a Deposit?"
+  },
+  {
+    "type": "paragraph",
+    "text": "For an investor whose primary objective is Turkish citizenship, the legal eligibility of the transaction can be fundamental to the purchasing decision.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For an investor whose primary objective is Turkish citizenship, the legal eligibility of the transaction can be fundamental to the purchasing decision."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "If a substantial deposit is paid before the legal position is understood, resolving a problem afterward may become more complicated.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "If a substantial deposit is paid before the legal position is understood, resolving a problem afterward may become more complicated."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "An independent legal review may help clarify:",
+    "inline": [
+      {
+        "type": "text",
+        "text": "An independent legal review may help clarify:"
+      }
+    ]
+  },
+  {
+    "type": "list",
+    "text": "Whether the proposed acquisition structure is legally suitable."
+  },
+  {
+    "type": "list",
+    "text": "Whether the seller and property records require further examination."
+  },
+  {
+    "type": "list",
+    "text": "Whether the proposed payment arrangements are appropriate."
+  },
+  {
+    "type": "list",
+    "text": "Whether the purchase agreement adequately addresses material legal risks."
+  },
+  {
+    "type": "list",
+    "text": "Which official documents and procedures will be required."
+  },
+  {
+    "type": "paragraph",
+    "text": "A lawyer cannot guarantee citizenship approval or eliminate market risk.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "A lawyer cannot guarantee citizenship approval or eliminate market risk."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "However, obtaining advice before entering a binding agreement may help investors make a better-informed decision.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "However, obtaining advice before entering a binding agreement may help investors make a better-informed decision."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Already Selected a Property in Istanbul?"
+  },
+  {
+    "type": "paragraph",
+    "text": "If you are considering a property investment of USD 400,000 or more for Turkish citizenship, the legal assessment should take place before you commit substantial funds.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "If you are considering a property investment of USD 400,000 or more for Turkish citizenship, the legal assessment should take place before you commit substantial funds."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "IGA Law Firm provides legal assistance to international investors concerning Turkish real estate transactions and citizenship-related procedures.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "IGA Law Firm provides legal assistance to international investors concerning Turkish real estate transactions and citizenship-related procedures."
+      }
+    ]
+  },
+  {
+    "type": "source",
+    "text": "Contact IGA Law Firm's Turkish Citizenship Legal Team",
+    "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment-lawyer/"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "12. How IGA Law Firm Assists International Investors"
+  },
+  {
+    "type": "paragraph",
+    "text": "IGA Law Firm is an Istanbul-based law firm providing legal services to international clients.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "IGA Law Firm is an Istanbul-based law firm providing legal services to international clients."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Depending on the scope of engagement, assistance with a Turkish citizenship property investment may include:",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Depending on the scope of engagement, assistance with a Turkish citizenship property investment may include:"
+      }
+    ]
+  },
+  {
+    "type": "list",
+    "text": "Reviewing the legal framework applicable to the investor."
+  },
+  {
+    "type": "list",
+    "text": "Examining property ownership and transaction documents."
+  },
+  {
+    "type": "list",
+    "text": "Assessing relevant citizenship investment requirements."
+  },
+  {
+    "type": "list",
+    "text": "Reviewing purchase agreements and associated legal risks."
+  },
+  {
+    "type": "list",
+    "text": "Coordinating applicable transaction documentation."
+  },
+  {
+    "type": "list",
+    "text": "Assisting with investment confirmation and citizenship-related procedures."
+  },
+  {
+    "type": "paragraph",
+    "text": "Legal advice should be tailored to the individual investor, property and transaction.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Legal advice should be tailored to the individual investor, property and transaction."
+      }
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The firm does not guarantee citizenship approval, investment returns or a particular administrative timeline.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The firm does not guarantee citizenship approval, investment returns or a particular administrative timeline."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "Frequently Asked Questions"
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Is USD 400,000 enough to obtain Turkish citizenship?"
+  },
+  {
+    "type": "paragraph",
+    "text": "USD 400,000 is the minimum qualifying real estate investment threshold under the applicable framework. However, the property and transaction must meet additional requirements, and citizenship remains subject to official approval.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "USD 400,000 is the minimum qualifying real estate investment threshold under the applicable framework. However, the property and transaction must meet additional requirements, and citizenship remains subject to official approval."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can my spouse and children obtain Turkish citizenship with me?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Eligible family members may be included under the applicable rules. Their eligibility depends on age, family relationship and other relevant conditions.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Eligible family members may be included under the applicable rules. Their eligibility depends on age, family relationship and other relevant conditions."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can I buy two apartments instead of one?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Multiple qualifying property acquisitions may be considered under the applicable rules. The structure, timing and documentation must be reviewed before purchasing.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Multiple qualifying property acquisitions may be considered under the applicable rules. The structure, timing and documentation must be reviewed before purchasing."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can I use a property I already own?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Possibly, but not automatically. The earlier purchase must be examined against the rules applicable to its acquisition and the current application.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Possibly, but not automatically. The earlier purchase must be examined against the rules applicable to its acquisition and the current application."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can I purchase property remotely?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Certain transaction steps may be handled through legally authorised representation. Personal attendance requirements for other procedures must be confirmed separately.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Certain transaction steps may be handled through legally authorised representation. Personal attendance requirements for other procedures must be confirmed separately."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Does an off-plan apartment qualify for citizenship?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Certain qualifying property or promise-of-sale transactions may be eligible. The specific legal status, agreement and documentation must be checked.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Certain qualifying property or promise-of-sale transactions may be eligible. The specific legal status, agreement and documentation must be checked."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can I rent out my citizenship investment property?"
+  },
+  {
+    "type": "paragraph",
+    "text": "Rental arrangements may be possible, subject to applicable legal and contractual requirements. Short-term rentals can involve separate licensing obligations.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "Rental arrangements may be possible, subject to applicable legal and contractual requirements. Short-term rentals can involve separate licensing obligations."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Can I sell the property after three years?"
+  },
+  {
+    "type": "paragraph",
+    "text": "The investment framework includes a three-year commitment against sale. Any proposed sale should be reviewed against the applicable restrictions and records before proceeding.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "The investment framework includes a three-year commitment against sale. Any proposed sale should be reviewed against the applicable restrictions and records before proceeding."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 3,
+    "text": "Is Turkish citizenship guaranteed after the property purchase?"
+  },
+  {
+    "type": "paragraph",
+    "text": "No. A qualifying property investment is a basis for an application, not a guarantee of citizenship.",
+    "inline": [
+      {
+        "type": "text",
+        "text": "No. A qualifying property investment is a basis for an application, not a guarantee of citizenship."
+      }
+    ]
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "Further Reading"
+  },
+  {
+    "type": "paragraph",
+    "text": "For the wider programme framework, see the",
+    "inline": [
+      {
+        "type": "text",
+        "text": "For the wider programme framework, see the"
+      }
+    ]
+  },
+  {
+    "type": "source",
+    "text": "Turkish Citizenship by Investment requirements guide",
+    "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment/"
+  },
+  {
+    "type": "heading",
+    "level": 2,
+    "text": "Official Sources"
+  },
+  {
+    "type": "source",
+    "text": "Invest in Türkiye — Acquiring Property and Citizenship",
+    "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+  },
+  {
+    "type": "source",
+    "text": "General Directorate of Land Registry and Cadastre (TKGM)",
+    "url": "https://www.tkgm.gov.tr/"
+  },
+  {
+    "type": "source",
+    "text": "TKGM — Citizenship property acquisition legislation and guide",
+    "url": "https://tkgm.gov.tr/yabanci-isler-dairesi-baskanligi/dokumanlar"
+  },
+  {
+    "type": "source",
+    "text": "TKGM — 29 September 2026 circular amendment",
+    "url": "https://www.tkgm.gov.tr/duyurular/20244-sayili-genelge-degisikligi-hakkinda-duyuru"
+  },
+  {
+    "type": "source",
+    "text": "NVİ — Citizenship questions and family eligibility",
+    "url": "https://www.nvi.gov.tr/sss-vatandaslik-hizmetleri/"
+  },
+  {
+    "type": "paragraph",
+    "text": "Disclaimer: This article provides general information and does not constitute legal, tax or investment advice for any particular transaction. Citizenship eligibility and approval depend on applicable law, official procedures and the competent authorities' decisions.",
+    "inline": [
+      {
+        "type": "strong",
+        "text": "Disclaimer:"
+      },
+      {
+        "type": "text",
+        "text": " This article provides general information and does not constitute legal, tax or investment advice for any particular transaction. Citizenship eligibility and approval depend on applicable law, official procedures and the competent authorities' decisions."
+      }
+    ]
+  }
+];
+  const originalEnglishBlocks = window.blogPostContent[slug].blocks;
+  Object.defineProperty(window.blogPostContent[slug], 'blocks', {
+    enumerable: true,
+    get: () => isEnglishDetail() ? revisedEnglish : originalEnglishBlocks
+  });
+  window.realEstate2025Article = {
+    slug, date:'2025', category:'Investment',
+    get title(){return isEnglishDetail() ? 'Turkish Citizenship by Real Estate Investment: Complete Legal Guide' : 'Turkish Citizenship by Real Estate Investment: 2025 Complete Guide';},
+    seoTitle:'Turkish Citizenship by Real Estate 2025 | Legal Guide',
+    metaDescription:'Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.',
+    get author(){return isEnglishDetail() ? {type:'Organization',name:'IGA Law Firm Editorial Team'} : 'Irmak Gürer Aksöz';}
+  };
+
 }

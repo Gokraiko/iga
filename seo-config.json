@@ -39260,8 +39260,8 @@
     "path": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
     "language": "en",
     "pageType": "BlogPosting",
-    "title": "Turkish Citizenship by Real Estate 2025 | Legal Guide | IGA Law Firm",
-    "description": "Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.",
+    "title": "Turkish Citizenship by Property Investment | Legal Guide",
+    "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks.",
     "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
     "alternates": [
       {
@@ -39290,8 +39290,8 @@
       "type": "article",
       "locale": "en_US",
       "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
-      "title": "Turkish Citizenship by Real Estate 2025 | Legal Guide | IGA Law Firm",
-      "description": "Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.",
+      "title": "Turkish Citizenship by Property Investment | Legal Guide",
+      "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks.",
       "image": "https://igalawfirm.com/public/assets/turkish-citizenship-real-estate-2025.jpg"
     },
     "structuredData": {
@@ -39344,8 +39344,8 @@
           "@type": "WebPage",
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/#webpage",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
-          "name": "Turkish Citizenship by Real Estate 2025 | Legal Guide | IGA Law Firm",
-          "description": "Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.",
+          "name": "Turkish Citizenship by Property Investment | Legal Guide",
+          "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks.",
           "inLanguage": "en",
           "isPartOf": {
             "@id": "https://igalawfirm.com/#website"
@@ -39361,8 +39361,8 @@
           "@type": "BlogPosting",
           "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/#article",
           "url": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
-          "headline": "Turkish Citizenship by Real Estate Investment: 2025 Complete Guide",
-          "description": "Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.",
+          "headline": "Turkish Citizenship by Real Estate Investment: Complete Legal Guide",
+          "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks.",
           "inLanguage": "en",
           "mainEntityOfPage": {
             "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/#webpage"
@@ -39379,9 +39379,14 @@
             "height": 1024
           },
           "author": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+            "@type": "Organization",
+            "name": "IGA Law Firm Editorial Team",
+            "url": "https://igalawfirm.com/en/about/",
+            "parentOrganization": {
+              "@id": "https://igalawfirm.com/#organization"
+            }
           },
-          "dateModified": "2026-11-10T06:46:41.135Z"
+          "dateModified": "2026-11-15T05:58:54.168Z"
         },
         {
           "@type": "Person",
@@ -39412,8 +39417,86 @@
             {
               "@type": "ListItem",
               "position": 3,
-              "name": "Turkish Citizenship by Real Estate Investment: 2025 Complete Guide",
+              "name": "Turkish Citizenship by Real Estate Investment: Complete Legal Guide",
               "item": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is USD 400,000 enough to obtain Turkish citizenship?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "USD 400,000 is the minimum qualifying real estate investment threshold under the applicable framework. However, the property and transaction must meet additional requirements, and citizenship remains subject to official approval."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can my spouse and children obtain Turkish citizenship with me?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Eligible family members may be included under the applicable rules. Their eligibility depends on age, family relationship and other relevant conditions."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I buy two apartments instead of one?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiple qualifying property acquisitions may be considered under the applicable rules. The structure, timing and documentation must be reviewed before purchasing."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I use a property I already own?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Possibly, but not automatically. The earlier purchase must be examined against the rules applicable to its acquisition and the current application."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I purchase property remotely?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Certain transaction steps may be handled through legally authorised representation. Personal attendance requirements for other procedures must be confirmed separately."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does an off-plan apartment qualify for citizenship?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Certain qualifying property or promise-of-sale transactions may be eligible. The specific legal status, agreement and documentation must be checked."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I rent out my citizenship investment property?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rental arrangements may be possible, subject to applicable legal and contractual requirements. Short-term rentals can involve separate licensing obligations."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can I sell the property after three years?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The investment framework includes a three-year commitment against sale. Any proposed sale should be reviewed against the applicable restrictions and records before proceeding."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Turkish citizenship guaranteed after the property purchase?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. A qualifying property investment is a basis for an application, not a guarantee of citizenship."
+              }
             }
           ]
         }

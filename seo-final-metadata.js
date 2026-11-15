@@ -1,5 +1,9 @@
 // Explicit, reviewed metadata overrides. Existing valid values remain in their source files.
 window.finalSeoMetadata = {
+  "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+  "title": "Turkish Citizenship by Property Investment | Legal Guide",
+  "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks."
+},
   "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/": {
     "reason": "Otomatik kesilmiş veya tamamlanmamış giriş metni yerine konuya özgü tam açıklama",
     "description": "Preparing a Turkish citizenship application for a Chinese family? Review Hukou, birth and marriage records, apostille formalities and document checks."
