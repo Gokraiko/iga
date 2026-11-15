@@ -1,5 +1,17 @@
 // Explicit, reviewed metadata overrides. Existing valid values remain in their source files.
 window.finalSeoMetadata = {
+  "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+  "title": "Gayrimenkul Yatırımıyla Türk Vatandaşlığı | Hukuki Rehber",
+  "description": "400.000 ABD doları tutarında gayrimenkul yatırımıyla Türk vatandaşlığı: uygunluk, hukuki kontroller, maliyetler, başvuru adımları ve yaygın riskler."
+},
+  "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+  "title": "土耳其购房投资入籍｜完整法律指南",
+  "description": "了解通过40万美元房地产投资申请土耳其国籍的流程，包括申请资格、购房法律核查、额外费用、申请步骤及常见风险。"
+},
+  "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
+  "title": "الجنسية التركية بالاستثمار العقاري | دليل قانوني",
+  "description": "تعرف على الجنسية التركية باستثمار عقاري بقيمة 400,000 دولار، بما يشمل الأهلية والفحوص القانونية والتكاليف وخطوات الطلب والمخاطر الشائعة."
+},
   "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
   "title": "Turkish Citizenship by Property Investment | Legal Guide",
   "description": "Learn how Turkish citizenship through a $400,000 property investment works, including eligibility, legal checks, costs, application steps and common risks."

@@ -174,15 +174,9 @@ const articleViewHint={en:'Recorded unique browser reads after 8 seconds of visi
 // Editorial assignments reviewed by content type at the user’s request (2026-11-14).
 const editorialArticleSlugs=new Set([
   "iga-law-firm-is-growing-a-new-chapter-at-our-new-office",
-  "turkey-china-immigration-investment-cooperation",
-  "success-stories-newly-approved-turkish-citizenship-turkish-id-cards",
-  "is-turkey-a-european-or-asian-country",
-  "the-strongest-passports-in-the-world",
-  "best-countries-to-move-to-from-the-us",
-  "best-countries-to-retire-in-for-americans",
-  "most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm"
+  "iga-law-firm-china-turkish-citizenship-investment-seminars-2026"
 ]);
-articles.forEach(article=>{if(editorialArticleSlugs.has(article.slug)){article.author={type:'Organization',name:'IGA Law Firm Editorial Team'};article.authorPresentation='byline';}else if(!article.author)article.author='Irmak Gürer Aksöz';});
+articles.forEach(article=>{if(editorialArticleSlugs.has(article.slug)){article.author={type:'Organization',name:'IGA Law Firm Editorial Team'};article.authorPresentation='byline';}else article.author='Irmak Gürer Aksöz';});
 function articleAuthorMarkup(post,lang){if(!lang||post.authorPresentation==='profile-card')return '';const author=window.igaSchemaContent.author(post,team,homeTeamAnchors,lang,pathFor);return `<span class="article-author-line"> · <a rel="author" href="${author.path}">${esc(author.label)}</a></span>`} 
 
 function blogCardAuthorMarkup(post,lang){

@@ -1231,14 +1231,14 @@
       },
       {
         "type": "paragraph",
-        "text": "Prepared by: IGA Law Firm Editorial Team",
+        "text": "Prepared by: Irmak Gürer Aksöz, Founding Attorney",
         "inline": [
           {
             "type": "strong",
             "text": "Prepared by:"
           },
           {
-            "text": " IGA Law Firm Editorial Team"
+            "text": " Irmak Gürer Aksöz, Founding Attorney"
           }
         ]
       },
@@ -2478,14 +2478,14 @@
       },
       {
         "type": "paragraph",
-        "text": "编写：IGA Law Firm Editorial Team（IGA律师事务所编辑团队）。",
+        "text": "编写：Irmak Gürer Aksöz，创始律师。",
         "inline": [
           {
             "type": "strong",
             "text": "编写："
           },
           {
-            "text": "IGA Law Firm Editorial Team（IGA律师事务所编辑团队）。"
+            "text": "Irmak Gürer Aksöz，创始律师。"
           }
         ]
       },
@@ -2544,7 +2544,7 @@
     ]
   }
 };
- window.tenantedApartmentArticle={"slug": "buying-tenanted-apartment-istanbul-foreign-buyers", "title": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing", "seoTitle": "Buying a Tenanted Apartment in Istanbul | IGA Law", "metaDescription": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.", "date": "2026", "publishedAt": "2026-11-13", "updatedAt": "2026-11-13", "publicationStatus": "published", "availableLanguages": ["en", "zh"], "category": "Real estate", "author": {"type": "Organization", "name": "IGA Law Firm Editorial Team"}, "faqSchema": false};
+ window.tenantedApartmentArticle={"slug": "buying-tenanted-apartment-istanbul-foreign-buyers", "title": "Buying an Apartment in Istanbul with a Tenant: What Foreign Buyers Must Know Before Purchasing", "seoTitle": "Buying a Tenanted Apartment in Istanbul | IGA Law", "metaDescription": "Buying a tenanted apartment in Istanbul? Learn about tenant rights, eviction rules, rental income and legal checks with IGA Law Firm.", "date": "2026", "publishedAt": "2026-11-13", "updatedAt": "2026-11-13", "publicationStatus": "published", "availableLanguages": ["en", "zh"], "category": "Real estate", "author": "Irmak Gürer Aksöz", "faqSchema": false};
  window.blogPostContent[slug]=copy.en;
  window.blogPostTranslations=window.blogPostTranslations||{};
  window.blogPostTranslations.zh=window.blogPostTranslations.zh||{};
