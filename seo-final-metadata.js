@@ -33,8 +33,8 @@ window.finalSeoMetadata = {
     "description": "Read about tax and inheritance issues for foreign investors in Türkiye, including claimed exemptions and why eligibility requires individual verification."
   },
   "/en/blog/most-preferred-areas-by-real-estate-investors-in-istanbul-2026-iga-law-firm/": {
-  "title": "Best Areas to Buy Property in Istanbul (2026) | Legal Guide",
-  "description": "Compare Istanbul's best areas for property investment in 2026. Explore rental demand, resale potential, location risks and legal checks for foreign buyers."
+  "title": "Best Areas to Buy Property in Istanbul | Investor Guide",
+  "description": "Explore the best areas to buy property in Istanbul, including Taksim, Şişli, Beşiktaş and Sarıyer. Compare locations, rental considerations and legal risks."
 },
   "/en/blog/turkish-citizenship-by-investment-bes-allianz-funds-and-best-portfolio-strategy-2026-guide/": {
     "reason": "Otomatik kesilmiş veya tamamlanmamış giriş metni yerine konuya özgü tam açıklama",
