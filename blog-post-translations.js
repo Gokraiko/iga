@@ -21909,3 +21909,3289 @@ window.blogPostTranslations = {
 }
   }
 };
+
+// Complete translations of the Vanuatu–Turkey comparison; no existing articles changed.
+window.blogPostTranslations["tr"]["vanuatu-vs-turkey-citizenship-by-investment"] = {
+  "title": "Vanuatu ve Türkiye’de Yatırım Yoluyla Vatandaşlık: Maliyetler, Riskler ve Uzun Vadeli Değer (2026)",
+  "seoTitle": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık (2026)",
+  "metaDescription": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Vanuatu ve Türkiye’nin yatırım yoluyla vatandaşlık programlarını karşılaştıran yatırımcılar genellikle iki soruyla başlar: Vatandaşlık için ne kadar yatırım gerekir ve süreç ne kadar sürer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak başlangıç yatırımı, kararın yalnızca bir bölümüdür."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir vatandaşlık programı; hukuki şartları, seyahat hakları, uzun vadeli istikrarı, aile üyelerinin uygunluğu ve mali sonuçları bakımından da değerlendirilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu ve Türkiye farklı yaklaşımlar sunar. Vanuatu’nun Kalkınma Destek Programı (DSP), iade edilmeyen bir katkı ödemesine dayanırken Türkiye, gayrimenkul dahil çeşitli uygun yatırım yolları sunar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu rehber, iki ülkeyi yatırımcının bakış açısından karşılaştırır; özellikle yatırılan sermayenin geri kazanılması, pasaportun tanınması ve hukuki riskler üzerinde durur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resmî kaynaklar Kasım 2026’da kontrol edilmiştir; program şartları, ücretler ve göç politikaları değişebilir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Kısa Yanıt: Yatırım Yoluyla Vatandaşlık İçin Vanuatu mu, Türkiye mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hiçbir program herkes için daha iyi değildir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Başlangıç katkısının daha düşük olması ve başvuru sürecinin daha kısa olabilmesi, bazı yatırımcılar için Vanuatu’yu cazip kılabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Uygun bir varlık edinmek, yatırımını belirli bir süre korumak ve daha sonraki bir satışla sermayesini geri kazanma olanağını değerlendirmek isteyen yatırımcılar için Türkiye daha cazip olabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak Türkiye’de gayrimenkul yatırımı piyasa, kur, likidite ve işlem riskleri taşır. 400.000 ABD dolarlık yatırım, vatandaşlığın onaylanmasını veya taşınmazın değerini korumasını garanti etmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "En uygun seçenek; yatırımcının uyruğuna, kullanılabilir sermayesine, aile durumuna, seyahat ihtiyaçlarına ve uzun vadeli hedeflerine bağlıdır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık Karşılaştırması"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ele alınan temel yol"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Kalkınma Destek Programı (DSP)",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Kalkınma Destek Programı (DSP)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Şartları sağlayan gayrimenkul yatırımı",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Şartları sağlayan gayrimenkul yatırımı"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yatırımın yapısı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Genel olarak iade edilmeyen katkı ödemesi",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Genel olarak iade edilmeyen katkı ödemesi"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Şartları sağlayan gayrimenkulün satın alınması",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Şartları sağlayan gayrimenkulün satın alınması"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Başlangıç tutarı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Güncel resmî program ücretleri doğrulanmalıdır",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Güncel resmî program ücretleri doğrulanmalıdır"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Gayrimenkul için en az 400.000 ABD doları",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Gayrimenkul için en az 400.000 ABD doları"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sermayenin geri kazanılması"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: DSP katkısı iade edilmez",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " DSP katkısı iade edilmez"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Uygulanabilir elde tutma kısıtlaması sona erdikten sonra, piyasa koşullarına bağlı olarak taşınmaz satılabilir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Uygulanabilir elde tutma kısıtlaması sona erdikten sonra, piyasa koşullarına bağlı olarak taşınmaz satılabilir"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "İşlem süresi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Programa ve başvuruya bağlıdır",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Programa ve başvuruya bağlıdır"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Yatırıma, belgelere ve idari incelemeye bağlıdır",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Yatırıma, belgelere ve idari incelemeye bağlıdır"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Schengen bölgesine vizesiz seyahat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Mevcut AB vize kuralları kapsamında mümkün değildir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Mevcut AB vize kuralları kapsamında mümkün değildir"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Umuma mahsus Türk pasaportu sahipleri için genel olarak mümkün değildir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Umuma mahsus Türk pasaportu sahipleri için genel olarak mümkün değildir"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Birleşik Krallık’a vizesiz seyahat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Mevcut Birleşik Krallık kuralları kapsamında mümkün değildir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Mevcut Birleşik Krallık kuralları kapsamında mümkün değildir"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Umuma mahsus Türk pasaportu sahipleri için genel olarak mümkün değildir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Umuma mahsus Türk pasaportu sahipleri için genel olarak mümkün değildir"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ABD E-2 anlaşması"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: E-2 kapsamında uygun bir anlaşma tespit edilmemiştir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " E-2 kapsamında uygun bir anlaşma tespit edilmemiştir"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Türkiye, ilgili tüm şartlara tabi olmak üzere E-2 anlaşmasına taraf bir ülkedir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Türkiye, ilgili tüm şartlara tabi olmak üzere E-2 anlaşmasına taraf bir ülkedir"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Aile üyelerinin uygunluğu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Program kurallarına ve bakmakla yükümlü olunan kişi tanımlarına bağlıdır",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Program kurallarına ve bakmakla yükümlü olunan kişi tanımlarına bağlıdır"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: İlgili kurallar kapsamında eş ve uygun çocuklar başvuruya dahil edilebilir",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " İlgili kurallar kapsamında eş ve uygun çocuklar başvuruya dahil edilebilir"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Temel değerlendirme konusu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: İade edilmeyen katkı ve pasaportun tanınması",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " İade edilmeyen katkı ve pasaportun tanınması"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Yatırımın kurallara uygunluğu, varlığın değeri ve idari şartların sağlanması",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Yatırımın kurallara uygunluğu, varlığın değeri ve idari şartların sağlanması"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu özet genel bir karşılaştırmadır; kişiye özel uygunluk değerlendirmesi değildir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu’da Yatırım Yoluyla Vatandaşlık Nasıl İşler?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu, Kalkınma Destek Programı dahil çeşitli vatandaşlık programları yürütür."
+    },
+    {
+      "type": "paragraph",
+      "text": "DSP kapsamında uygun başvuru sahipleri, genellikle daha sonra satılabilecek bir varlık satın almak yerine devlete katkı ödemesi yapar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Program; uyruk, kimlik, geçmiş incelemesi ve belgelendirme şartları içerir. Başvurular ilgili resmî usule göre işleme alınır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Başvuru yapmayı düşünenler; programın güncel olarak başvuruya açık olup olmadığını, yetkili aracıları, katkı tutarlarını, biyometrik şartları ve başvuru usullerini Vanuatu Vatandaşlık Ofisinden bağımsız olarak doğrulamalıdır."
+    },
+    {
+      "type": "source",
+      "text": "Resmî kaynak: Vanuatu Vatandaşlık Ofisi",
+      "url": "https://vancitizenship.gov.vu/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2026’da Vanuatu Vatandaşlığının Maliyeti Nedir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu Vatandaşlık Ofisinin yayımladığı ücretler sayfasında tek başvuru sahibi için 130.000 ABD doları ve ayrıca 5.000 ABD doları FIU inceleme ücreti belirtilir. Bu tutarlar her şey dahil, garantili bir fiyat teklifi değildir; uygulanacak program ve güncel toplam doğrudan Vatandaşlık Ofisinden teyit edilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yayımlanan ticari fiyat teklifleri resmî ücret tarifesi olarak kabul edilmemelidir."
+    },
+    {
+      "type": "source",
+      "text": "Resmî kaynak: Vanuatu Vatandaşlık Ofisi — Ücretler ve Masraflar",
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kesin tutar; uygulanacak programa, aile yapısına, resmî ücretlere ve izin verilen mesleki hizmet bedellerine bağlıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İlerlemeye başlamadan önce yatırımcılar şu konularda güncel yazılı teyit almalıdır:"
+    },
+    {
+      "type": "list",
+      "text": "Uygulanacak devlet katkısı"
+    },
+    {
+      "type": "list",
+      "text": "Durum tespiti ve işlem ücretleri"
+    },
+    {
+      "type": "list",
+      "text": "Aile üyelerine ilişkin ücretler"
+    },
+    {
+      "type": "list",
+      "text": "Yetkili aracı ücretleri"
+    },
+    {
+      "type": "list",
+      "text": "Varsa iade koşulları"
+    },
+    {
+      "type": "list",
+      "text": "Programın başvuruya açıklığı ve usul şartları"
+    },
+    {
+      "type": "paragraph",
+      "text": "Önemli bir mali fark, DSP bağışının usulüne uygun tamamlanmasından sonra genel olarak geri alınamamasıdır."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vanuatu Vatandaşlık Süreci Ne Kadar Sürer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu’nun yatırım yoluyla vatandaşlık programları sıklıkla görece hızlı olarak pazarlanır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak belirtilen işlem süresi, garantili karar tarihi olarak anlaşılmamalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Süre; belgelerin hazırlanmasına, geçmiş incelemelerine, biyometrik işlemlere, resmî değerlendirmeye ve idari şartlardaki değişikliklere bağlı olabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcılar yalnızca pazarlama tahminlerine dayanmak yerine güncel işlem süresi beklentilerini yetkili Vanuatu makamından teyit etmelidir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu, Avrupa Birliği’ne Vizesiz Seyahat Hakkını Neden Kaybetti?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık programları karşılaştırılırken pasaportun tanınması önemli bir değerlendirme konusudur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avrupa Birliği, Vanuatu’nun yatırımcı vatandaşlığı programlarıyla bağlantılı kaygılar nedeniyle vizesiz seyahat imkanını aşamalı olarak kısıtladı."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aralık 2024’te Avrupa Birliği Konseyi, Vanuatu’nun kısa süreli vizesiz seyahatten yararlanan ülkeler listesinden çıkarılmasına karar verdi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ardından (AB) 2025/11 sayılı Tüzük değişikliği resmileştirdi ve 3 Şubat 2025’te yürürlüğe girdi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonuç olarak Vanuatu pasaportu sahipleri ilgili Schengen vizesi şartlarına tabidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Birleşik Krallık da Temmuz 2023’te Vanuatu vatandaşları için ayrıca vize zorunluluğu getirdi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu değişiklikler önemli bir riski gösterir: İkinci bir vatandaşlık kazanmak, onun sağladığı uluslararası seyahat imkanlarının değişmeden kalacağını garanti etmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Resmî kaynaklar:",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Resmî kaynaklar:"
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "Avrupa Birliği Konseyi — Vanuatu vize muafiyeti",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/"
+    },
+    {
+      "type": "source",
+      "text": "Avrupa Parlamentosu — (AB) 2025/11 sayılı Tüzük",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1802174"
+    },
+    {
+      "type": "source",
+      "text": "Birleşik Krallık Hükümeti — Vanuatu vatandaşlarına vize zorunluluğu",
+      "url": "https://www.gov.uk/government/news/visa-requirement-for-ni-vanuatu-nationals-visiting-uk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Türkiye’de Yatırım Yoluyla Vatandaşlık Nasıl İşler?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye, yürürlükteki hukuki çerçeve kapsamında istisnai vatandaşlığın kazanılması için çeşitli yatırım yolları sunar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkulle ilgilenen yatırımcılar için açıklanan asgari uygun yatırım tutarı 400.000 ABD dolarıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taşınmaz ilgili hukuki ve idari şartları sağlamalı ve tapu kayıtlarına üç yıl satılmamasına ilişkin kısıtlama işlenmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Açıklanan diğer yatırım yolları; kendi eşik ve koşullarına tabi olmak üzere uygun banka mevduatlarını, sabit sermaye yatırımlarını, yatırım fonlarını ve bireysel emeklilik sistemini içerir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım yetkili makam tarafından değerlendirilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırım eşiğinin karşılanması otomatik olarak Türk vatandaşlığı kazandırmaz. Başvuru, resmî sürece ve ilgili makamların kararlarına tabidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mevcut yatırım yollarının kapsamlı açıklaması için IGA Law Firm’ün yatırım yoluyla Türk vatandaşlığı rehberini inceleyebilirsiniz.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Mevcut yatırım yollarının kapsamlı açıklaması için IGA Law Firm’ün "
+        },
+        {
+          "type": "link",
+          "text": "yatırım yoluyla Türk vatandaşlığı rehberini",
+          "page": "investment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " inceleyebilirsiniz."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayrimenkule alternatifleri değerlendiren yatırımcılar Türk vatandaşlığı yatırım yolları karşılaştırmamızı da inceleyebilir.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Gayrimenkule alternatifleri değerlendiren yatırımcılar "
+        },
+        {
+          "type": "link",
+          "text": "Türk vatandaşlığı yatırım yolları karşılaştırmamızı",
+          "page": "journal",
+          "slug": "real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026"
+        },
+        {
+          "type": "text",
+          "text": " da inceleyebilir."
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "Resmî kaynak: Invest in Türkiye — Gayrimenkul Edinimi ve Vatandaşlık",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yatırımcılar Türk Vatandaşlığı İçin Yaptıkları Yatırımı Geri Kazanabilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "İki program arasındaki önemli farklardan biri mali yapıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’de şartları sağlayan gayrimenkul yatırımı, yatırımcıya bir varlığın mülkiyetini kazandırır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İlgili üç yıllık elde tutma kısıtlaması yerine getirildikten ve hukuki şartlar kontrol edildikten sonra yatırımcı taşınmazı satabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak ilk satın alma bedelinin geri kazanılması garanti değildir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nihai sonuç aşağıdaki gibi etkenlere bağlıdır:"
+    },
+    {
+      "type": "list",
+      "text": "Satın alma anındaki gerçek piyasa değeri"
+    },
+    {
+      "type": "list",
+      "text": "Yerli ve uluslararası alıcıların talebi"
+    },
+    {
+      "type": "list",
+      "text": "Taşınmazın konumu ve durumu"
+    },
+    {
+      "type": "list",
+      "text": "Döviz kuru hareketleri"
+    },
+    {
+      "type": "list",
+      "text": "İşleme ilişkin vergiler ve masraflar"
+    },
+    {
+      "type": "list",
+      "text": "Kira geliri ve işletme giderleri"
+    },
+    {
+      "type": "list",
+      "text": "Yatırımcının satış yapmak istediği sıradaki piyasa likiditesi"
+    },
+    {
+      "type": "paragraph",
+      "text": "400.000 ABD doları fiyatla ilan edilen bir taşınmazın yeniden satıştaki piyasa değeri mutlaka 400.000 ABD doları olmayabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu nedenle bağlayıcı bir taahhütten önce bağımsız değerleme ve hukuki durum tespiti değerlendirilmelidir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Taşınmazın Uygunluğu Türk Vatandaşlığı İçin Neden Önemlidir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Taşınmazın ilan fiyatı tek başına vatandaşlığa uygunluğunu belirlemez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mülkiyet ve devir geçmişi, tapu kısıtlamaları, işlem belgeleri, değerleme şartları, banka kayıtları ve ilgili elde tutma taahhüdü dikkate alınması gereken hususlar arasındadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcı ilan edilen satın alma bedeli eşiğini karşılamasına rağmen vatandaşlık başvurusunu etkileyen belgesel veya hukuki sorunlarla karşılaşabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu durum satın alma öncesi incelemeyi özellikle önemli kılar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcılar üç ayrı soruyu birbirinden ayırmalıdır:"
+    },
+    {
+      "type": "list",
+      "text": "Taşınmaz hukuken satın alınabilir ve devredilebilir mi?"
+    },
+    {
+      "type": "list",
+      "text": "İşlem, ilgili vatandaşlık yatırımı şartlarını sağlıyor mu?"
+    },
+    {
+      "type": "list",
+      "text": "Taşınmaz ticari açıdan yatırımcının mali hedeflerine uygun mu?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir soruya olumlu yanıt verilmesi diğerlerini kendiliğinden yanıtlamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taşınmazını seçmiş yatırımcılar, IGA Law Firm’ün satın almadan önce taşınmazın Türk vatandaşlığına uygunluğunu kontrol etme konulu yazısını inceleyebilir.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Taşınmazını seçmiş yatırımcılar, IGA Law Firm’ün "
+        },
+        {
+          "type": "link",
+          "text": "satın almadan önce taşınmazın Türk vatandaşlığına uygunluğunu kontrol etme",
+          "page": "journal",
+          "slug": "how-to-check-property-eligibility-turkish-citizenship"
+        },
+        {
+          "type": "text",
+          "text": " konulu yazısını inceleyebilir."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Türk Vatandaşlığı ABD E-2 Yatırımcı Vizesine Erişim Sağlar mı?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye, ABD’nin anlaşmalı yatırımcı sistemi kapsamında E-2 anlaşmasına taraf bir ülkedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak Türk vatandaşlığı tek başına E-2 vizesini garanti etmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Başvuru sahipleri; uyruk, yatırım, işletme faaliyetleri ve diğer göçmenlik ölçütlerine ilişkin uygulanabilir şartları sağlamalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir anlaşma ülkesinin vatandaşlığını mali yatırımla kazanan kişiler için ek bir husus vardır."
+    },
+    {
+      "type": "paragraph",
+      "text": "8 U.S.C. § 1101(a)(15)(E) uyarınca ilgili vatandaşlığı mali yatırımla kazanmış ve daha önce E statüsü verilmemiş başvuru sahiplerinin, başvurudan önce herhangi bir dönemde o ülkede kesintisiz en az üç yıl yerleşim yeri (domicile) bulunmuş olması gerekir. Bu şartın uygulanması kişiye özel değerlendirilmelidir."
+    },
+    {
+      "type": "source",
+      "text": "Resmî kaynak: 8 U.S.C. § 1101(a)(15)(E)",
+      "url": "https://uscode.house.gov/us/usc/119-118/t8/s1101/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu nedenle yatırımcılar, yatırım yoluyla Türk vatandaşlığını kazanmanın hemen E-2 vizesine uygunluk sağlayacağını varsaymamalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İlgili kurallar ve kişisel durum, yetkin bir ABD göçmenlik hukuku avukatıyla değerlendirilmelidir."
+    },
+    {
+      "type": "source",
+      "text": "ABD Dışişleri Bakanlığı — E Vizesi Rehberi",
+      "url": "https://fam.state.gov/FAM/09FAM/09FAM040209.html"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu ve Türkiye: Üç Yatırımcı Senaryosu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aşağıdaki örnekler varsayımsaldır. Gerçek müvekkilleri anlatmaz ve uygunluk garantisi oluşturmaz."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Senaryo 1: 150.000 ABD Doları Bütçesi Olan Yatırımcı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir yatırımcı ikinci vatandaşlık istemekte, ancak gayrimenkul alımına 400.000 ABD doları ayırmak istememektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcının temel öncelikleri başlangıç maliyeti ve gayrimenkul edinmeden süreci tamamlayabilmektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu’nun katkı esaslı programı, başvuruya açıksa ve yatırımcı şartları sağlıyorsa araştırılmaya değer olabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak yatırımcı, katkının genel olarak iade edilmediğini ve pasaportun Schengen bölgesine veya Birleşik Krallık’a vizesiz seyahat sağlamadığını bilmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin 400.000 ABD dolarlık gayrimenkul yolu belirtilen bütçeye uymaz."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Senaryo 2: 450.000 ABD Dolarıyla Uzun Vadeli Varlık Arayan Yatırımcı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir yatırımcı ikinci vatandaşlık isterken yatırım amaçlı taşınmazın mülkiyetini de korumak istemektedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcı Türkiye’de bir daire düşünmekte; kira potansiyelini ve yeniden satış talebini değerlendirmeyi planlamaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin gayrimenkul yolu bu hedeflerle daha iyi örtüşebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak yatırımcı, fonlarını bağlamadan önce taşınmazın gerçek piyasa değerini, işlem maliyetlerini, mülkiyet geçmişini ve vatandaşlığa uygunluğunu bağımsız olarak değerlendirmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gelecekte yeniden satış olanağı, mali kayıp riskini ortadan kaldırmaz."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Senaryo 3: Gelecekte ABD’de Ticari Faaliyet Planlayan Yatırımcı"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir yatırımcı, kısmen gelecekteki ABD iş planları nedeniyle ikinci vatandaşlık seçeneklerini karşılaştırmaktadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin E-2 anlaşması ilişkisi bu bakımdan önem taşıyabilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ancak yatırımla kazanılan vatandaşlık, yerleşim yeri şartları ve E-2 vizesinin diğer koşulları dikkate alınmalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcı, olası E-2 başvurusuna dayanarak vatandaşlık programı seçmeden önce ABD göçmenlik hukuku danışmanlığı almalıdır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bağımsız Hukuki İncelemenin Önemi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vatandaşlık yatırımı kararları; göçmenlik hukuku, banka belgeleri, gayrimenkul hukuku, uluslararası vergilendirme ve önemli mali taahhütleri içerebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcılar program pazarlaması ile bağımsız hukuki değerlendirmeyi ayırmalıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’de gayrimenkul işlemleri için hukuki inceleme şu konuları kapsayabilir:"
+    },
+    {
+      "type": "list",
+      "text": "Tapu ve mülkiyetin doğrulanması"
+    },
+    {
+      "type": "list",
+      "text": "Satıcı ve devir geçmişi kontrolleri"
+    },
+    {
+      "type": "list",
+      "text": "Sözleşmesel yükümlülükler"
+    },
+    {
+      "type": "list",
+      "text": "İpotekler, şerhler ve kısıtlamalar"
+    },
+    {
+      "type": "list",
+      "text": "İlgili vatandaşlık belgeleri"
+    },
+    {
+      "type": "list",
+      "text": "Banka ve döviz işlem kayıtları"
+    },
+    {
+      "type": "list",
+      "text": "Üç yıllık elde tutma taahhüdü"
+    },
+    {
+      "type": "list",
+      "text": "Aile ve başvuru belgeleri"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bağımsız hukuki inceleme vatandaşlık onayını garanti edemez, tüm yatırım zararlarını önleyemez veya mali ve vergisel danışmanlığın yerini alamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA Law Firm, yatırım yoluyla Türk vatandaşlığı ve şartları sağlayan gayrimenkul işlemleri konusunda hukuki danışmanlık sunar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temsilin kapsamını Yatırım Yoluyla Türk Vatandaşlığı Avukatı hizmet sayfasından öğrenebilirsiniz.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Temsilin kapsamını "
+        },
+        {
+          "type": "link",
+          "text": "Yatırım Yoluyla Türk Vatandaşlığı Avukatı",
+          "page": "igaturkishcitizenshipbyinvestment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " hizmet sayfasından öğrenebilirsiniz."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sıkça Sorulan Sorular"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vanuatu vatandaşlığı Türk vatandaşlığından daha mı ucuzdur?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu DSP kapsamındaki başlangıç devlet katkısı genel olarak Türkiye’nin 400.000 ABD dolarlık gayrimenkul yatırım eşiğinden önemli ölçüde düşüktür. Ancak yapılar farklıdır: İade edilmeyen katkı, varlık satın almakla eşdeğer değildir. Karşılaştırmadan önce güncel resmî ücretler doğrulanmalıdır."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vanuatu pasaportu sahibi Avrupa’ya vizesiz seyahat edebilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "AB’nin Vanuatu vize muafiyetini kaldırmasının ardından Vanuatu pasaportu sahipleri ilgili Schengen vizesi şartlarına tabidir."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yatırım yoluyla Türk vatandaşlığı için ödenen tutar iade edilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığı iade edilebilir bir ürün değildir. Gayrimenkul yolunda yatırımcı, ilgili elde tutma şartları sağlandıktan sonra satılabilecek uygun taşınmazın sahibidir. Satış bedeli ve yatırılan sermayenin geri kazanılması garanti edilmez."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Uzun vadeli yatırım için Türkiye Vanuatu’dan daha mı iyidir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Varlığa dayalı yatırım yapısı isteyenler için Türkiye daha uygun olabilir. Daha düşük başlangıç katkısına öncelik verenler Vanuatu’yu değerlendirebilir. Doğru tercih kişisel hedeflere, uygunluğa ve risk toleransına bağlıdır."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Türk vatandaşlığı ABD E-2 vizesine erişim sağlayabilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türk vatandaşlığı anlaşma ülkesi uyruğu şartını sağlayabilir; ancak E-2 başvurusu tüm ilgili koşulları karşılamalıdır. Mali yatırımla kazanılan vatandaşlık için özel yerleşim yeri şartları uygulanabilir."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "400.000 ABD dolarlık taşınmaz satın almak Türk vatandaşlığını garanti eder mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayır. Taşınmaz ve işlem ilgili yatırım şartlarını sağlamalı; başvuru resmî inceleme ve karara tabi olmalıdır."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Eşim ve çocuklarım benimle başvurabilir mi?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin yatırım yoluyla vatandaşlık sistemi, kişisel koşullarına bağlı olarak eş ve uygun çocukların dahil edilmesine imkan verebilir. Vanuatu’da bakmakla yükümlü olunan kişilerin uygunluğu ilgili program kapsamında doğrulanmalıdır."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Son Değerlendirmeler"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu ve Türkiye farklı vatandaşlık yatırımı yapıları sunar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu’nun katkı esaslı yaklaşımı daha düşük başlangıç mali yükü içerebilir; ancak katkı genel olarak iade edilmez ve pasaport Avrupa ile Birleşik Krallık’a seyahat bakımından önemli kısıtlamalarla karşılaşmıştır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye’nin gayrimenkul yolu çok daha yüksek yatırım gerektirir; ancak hukuki kısıtlamalara ve piyasa koşullarına tabi olarak daha sonra satılabilecek bir varlığın mülkiyetini sağlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hiçbir program yalnızca ilan edilen hız, pasaport sıralamaları veya tanıtım iddialarına dayanarak seçilmemelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yatırımcılar fonlarını bağlamadan önce ilgili hukuki şartları, toplam maliyetleri, aile uygunluğunu, mali riskleri ve uzun vadeli hedeflerini değerlendirmelidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye yolunu değerlendiren yatırımcılara IGA Law Firm, uygun yatırım işlemleri ve vatandaşlık başvuru usulleri konusunda hukuki danışmanlık sunar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Yatırım Yoluyla Türk Vatandaşlığını mı Değerlendiriyorsunuz?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Planlanan Türk vatandaşlığı yatırımının hukuki şartlarını görüşmek için IGA Law Firm ile iletişime geçin.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Planlanan Türk vatandaşlığı yatırımının hukuki şartlarını görüşmek için "
+        },
+        {
+          "type": "link",
+          "text": "IGA Law Firm ile iletişime geçin",
+          "page": "contact",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ek Resmî Kaynaklar"
+    },
+    {
+      "type": "source",
+      "text": "(AB) 2025/11 sayılı Tüzük — Resmî Gazete",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/11/oj/eng/pdf"
+    },
+    {
+      "type": "source",
+      "text": "Birleşik Krallık Göçmenlik Kuralları — Ziyaretçi Vizesine Tabi Ülkeler Listesi",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "ABD Dışişleri Bakanlığı — Anlaşmaya Taraf Ülkeler",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    }
+  ]
+};
+window.blogPostTranslations["zh"]["vanuatu-vs-turkey-citizenship-by-investment"] = {
+  "title": "瓦努阿图与土耳其投资入籍比较：费用、风险与长期价值（2026）",
+  "seoTitle": "瓦努阿图与土耳其投资入籍比较（2026）",
+  "metaDescription": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "比较瓦努阿图与土耳其投资入籍计划的投资者，往往先问两个问题：取得国籍需要多少费用，办理速度有多快？"
+    },
+    {
+      "type": "paragraph",
+      "text": "然而，初始投资只是决策的一部分。"
+    },
+    {
+      "type": "paragraph",
+      "text": "评估一项入籍计划，还应考虑法律要求、旅行权利、长期稳定性、家庭成员资格以及财务后果。"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图与土耳其采取不同的方式。瓦努阿图的发展支持计划（DSP）涉及不予退还的捐款，而土耳其提供包括房地产在内的多种合资格投资途径。"
+    },
+    {
+      "type": "paragraph",
+      "text": "本指南从投资者角度比较两国，重点讨论投资本金回收、护照认可情况和法律风险。"
+    },
+    {
+      "type": "paragraph",
+      "text": "本文所引官方资料于2026年11月核查；计划要求、费用及移民政策可能发生变化。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "简要回答：投资入籍选择瓦努阿图还是土耳其？"
+    },
+    {
+      "type": "paragraph",
+      "text": "没有一种计划适合所有人。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于重视较低初始捐款以及可能较短申请流程的投资者，瓦努阿图或许具有吸引力。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于希望取得合资格资产、持有一定期限，并有机会通过日后出售回收本金的投资者，土耳其可能更有吸引力。"
+    },
+    {
+      "type": "paragraph",
+      "text": "不过，土耳其房产投资存在市场、汇率、流动性及交易风险。投资40万美元既不保证入籍获批，也不保证房产保值。"
+    },
+    {
+      "type": "paragraph",
+      "text": "最合适的选择取决于投资者的国籍、可用资金、家庭情况、旅行需求和长期目标。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "瓦努阿图与土耳其：投资入籍比较"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "本文讨论的主要途径"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：发展支持计划（DSP）",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "发展支持计划（DSP）"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：符合资格的房地产投资",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "符合资格的房地产投资"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "投资结构"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：通常为不予退还的捐款",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "通常为不予退还的捐款"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：购买符合资格的房地产",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "购买符合资格的房地产"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "起始金额"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：须确认最新官方计划费用",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "须确认最新官方计划费用"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：房地产投资至少40万美元",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "房地产投资至少40万美元"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "本金回收"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：DSP捐款不予退还",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "DSP捐款不予退还"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：满足适用持有期限限制后，可根据市场情况出售房产",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "满足适用持有期限限制后，可根据市场情况出售房产"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "办理时间"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：取决于计划和具体申请",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "取决于计划和具体申请"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：取决于投资、文件及行政审核",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "取决于投资、文件及行政审核"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "申根地区免签旅行"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：现行欧盟签证规则下不享有该免签待遇",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "现行欧盟签证规则下不享有该免签待遇"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：普通土耳其护照持有人通常不享有该免签待遇",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "普通土耳其护照持有人通常不享有该免签待遇"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "英国免签旅行"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：现行英国规则下不享有该免签待遇",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "现行英国规则下不享有该免签待遇"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：普通土耳其护照持有人通常不享有该免签待遇",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "普通土耳其护照持有人通常不享有该免签待遇"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "美国E-2条约资格"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：未查明符合E-2要求的条约",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "未查明符合E-2要求的条约"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：土耳其是E-2条约国，但仍须满足全部适用条件",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "土耳其是E-2条约国，但仍须满足全部适用条件"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "家庭成员资格"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：取决于计划规则和受扶养人定义",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "取决于计划规则和受扶养人定义"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：依据适用规则，配偶及符合条件的子女可纳入申请",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "依据适用规则，配偶及符合条件的子女可纳入申请"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "主要考量"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图：不可退还的捐款与护照认可情况",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "瓦努阿图："
+        },
+        {
+          "type": "text",
+          "text": "不可退还的捐款与护照认可情况"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其：投资合规性、资产价值和行政资格要求",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "土耳其："
+        },
+        {
+          "type": "text",
+          "text": "投资合规性、资产价值和行政资格要求"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "本概览仅作一般比较，不构成对个人资格的判断。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "瓦努阿图投资入籍如何运作？"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图实施包括发展支持计划在内的入籍计划。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在DSP结构下，符合条件的申请人通常向政府作出捐款，而不是购买日后可出售的资产。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该计划涉及国籍、身份、背景审查及文件要求。申请须按适用的官方程序办理。"
+    },
+    {
+      "type": "paragraph",
+      "text": "有意申请者应直接向瓦努阿图公民事务办公室独立核实计划目前是否接受申请、授权中介、捐款标准、生物识别要求及申请程序。"
+    },
+    {
+      "type": "source",
+      "text": "官方来源：瓦努阿图公民事务办公室",
+      "url": "https://vancitizenship.gov.vu/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2026年瓦努阿图入籍费用是多少？"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图公民事务办公室公布的费用页面列示，单人申请为13万美元，另有5,000美元的金融情报部门（FIU）审查费。这并非保证涵盖全部费用的报价；适用计划和最新总额必须直接向公民事务办公室确认。"
+    },
+    {
+      "type": "paragraph",
+      "text": "商业机构公布的报价不应被视为权威的官方收费表。"
+    },
+    {
+      "type": "source",
+      "text": "官方来源：瓦努阿图公民事务办公室——费用与收费",
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+    },
+    {
+      "type": "paragraph",
+      "text": "确切金额取决于适用计划、家庭构成、官方费用以及获准收取的专业服务费。"
+    },
+    {
+      "type": "paragraph",
+      "text": "在推进申请前，投资者应就以下事项取得最新书面确认："
+    },
+    {
+      "type": "list",
+      "text": "适用的政府捐款金额"
+    },
+    {
+      "type": "list",
+      "text": "尽职调查和处理费用"
+    },
+    {
+      "type": "list",
+      "text": "家庭成员费用"
+    },
+    {
+      "type": "list",
+      "text": "授权中介费用"
+    },
+    {
+      "type": "list",
+      "text": "退款条件（如有）"
+    },
+    {
+      "type": "list",
+      "text": "计划是否接受申请及程序要求"
+    },
+    {
+      "type": "paragraph",
+      "text": "一个重要的财务区别是：DSP捐款依法完成后，一般无法收回。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "瓦努阿图入籍需要多久？"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图的投资入籍计划常被宣传为办理速度相对较快。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但所称办理周期不应被理解为保证作出决定的日期。"
+    },
+    {
+      "type": "paragraph",
+      "text": "时间可能取决于文件准备、背景调查、生物识别手续、官方审核及行政要求的变化。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者应向瓦努阿图主管机关确认当前预计办理时间，而不应仅依赖营销估计。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "瓦努阿图为何失去欧盟免签待遇？"
+    },
+    {
+      "type": "paragraph",
+      "text": "比较入籍计划时，护照认可情况是重要因素。"
+    },
+    {
+      "type": "paragraph",
+      "text": "由于对瓦努阿图投资入籍计划的担忧，欧盟逐步限制了其免签待遇。"
+    },
+    {
+      "type": "paragraph",
+      "text": "2024年12月，欧盟理事会决定将瓦努阿图从享有短期免签旅行待遇的国家名单中移除。"
+    },
+    {
+      "type": "paragraph",
+      "text": "随后，《欧盟条例（EU）2025/11》正式确立该变化，并于2025年2月3日生效。"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，瓦努阿图护照持有人须遵守适用的申根签证要求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "英国另于2023年7月对瓦努阿图国民实施签证要求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "这些变化说明一种重要风险：取得第二国籍，并不保证其国际旅行便利始终不变。"
+    },
+    {
+      "type": "paragraph",
+      "text": "官方来源：",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "官方来源："
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "欧盟理事会——瓦努阿图签证豁免",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/"
+    },
+    {
+      "type": "source",
+      "text": "欧洲议会——《欧盟条例（EU）2025/11》",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1802174"
+    },
+    {
+      "type": "source",
+      "text": "英国政府——瓦努阿图国民签证要求",
+      "url": "https://www.gov.uk/government/news/visa-requirement-for-ni-vanuatu-nationals-visiting-uk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "土耳其投资入籍如何运作？"
+    },
+    {
+      "type": "paragraph",
+      "text": "依据适用法律框架，土耳其提供多种通过投资申请特殊入籍的途径。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于有意投资房地产的人士，公布的最低合资格投资金额为40万美元。"
+    },
+    {
+      "type": "paragraph",
+      "text": "房产必须满足适用法律和行政要求，并须登记三年内不得出售的限制。"
+    },
+    {
+      "type": "paragraph",
+      "text": "其他已公布的投资途径包括符合条件的银行存款、固定资本投资、投资基金及私人养老金制度，各自适用相应金额门槛和条件。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资须经主管机关评估。"
+    },
+    {
+      "type": "paragraph",
+      "text": "达到投资门槛并不自动授予土耳其国籍。申请仍须经过官方程序，并取决于有关机关的决定。"
+    },
+    {
+      "type": "paragraph",
+      "text": "有关各投资途径的完整说明，请参阅IGA Law Firm的土耳其投资入籍指南。",
+      "inline": [
+        {
+          "type": "text",
+          "text": "有关各投资途径的完整说明，请参阅IGA Law Firm的"
+        },
+        {
+          "type": "link",
+          "text": "土耳其投资入籍指南",
+          "page": "investment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "考虑房地产以外选择的投资者，也可阅读我们的土耳其入籍投资途径比较。",
+      "inline": [
+        {
+          "type": "text",
+          "text": "考虑房地产以外选择的投资者，也可阅读我们的"
+        },
+        {
+          "type": "link",
+          "text": "土耳其入籍投资途径比较",
+          "page": "journal",
+          "slug": "real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026"
+        },
+        {
+          "type": "text",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "官方来源：Invest in Türkiye——购置房产与取得国籍",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "投资者能否收回土耳其入籍投资？"
+    },
+    {
+      "type": "paragraph",
+      "text": "两项计划的主要区别之一在于财务结构。"
+    },
+    {
+      "type": "paragraph",
+      "text": "符合要求的土耳其房地产投资使投资者取得资产所有权。"
+    },
+    {
+      "type": "paragraph",
+      "text": "履行适用的三年持有期限限制，并核查相关法律要求后，投资者可能可以出售房产。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但不能保证收回最初支付的购房价款。"
+    },
+    {
+      "type": "paragraph",
+      "text": "最终结果取决于以下因素："
+    },
+    {
+      "type": "list",
+      "text": "购买时的实际市场价值"
+    },
+    {
+      "type": "list",
+      "text": "本地及国际买家的需求"
+    },
+    {
+      "type": "list",
+      "text": "房产的位置和状况"
+    },
+    {
+      "type": "list",
+      "text": "汇率波动"
+    },
+    {
+      "type": "list",
+      "text": "交易税费和支出"
+    },
+    {
+      "type": "list",
+      "text": "租金收入及运营成本"
+    },
+    {
+      "type": "list",
+      "text": "投资者希望出售时的市场流动性"
+    },
+    {
+      "type": "paragraph",
+      "text": "标价40万美元的房产，转售时的市场价值不一定也是40万美元。"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，在作出有约束力的承诺前，应考虑独立估值及法律尽职调查。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "房产资格为何对土耳其入籍重要？"
+    },
+    {
+      "type": "paragraph",
+      "text": "房产广告价格本身并不能决定其是否符合入籍条件。"
+    },
+    {
+      "type": "paragraph",
+      "text": "相关考量包括所有权及转让历史、产权登记限制、交易文件、估值要求、银行凭证以及适用的持有承诺。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者即使满足公开的购买金额门槛，仍可能遇到影响入籍申请的文件或法律问题。"
+    },
+    {
+      "type": "paragraph",
+      "text": "这使购房前审查尤为重要。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者应区分三个不同问题："
+    },
+    {
+      "type": "list",
+      "text": "该房产能否依法购买并转让？"
+    },
+    {
+      "type": "list",
+      "text": "交易是否满足适用的入籍投资要求？"
+    },
+    {
+      "type": "list",
+      "text": "从商业角度看，该房产是否适合投资者的财务目标？"
+    },
+    {
+      "type": "paragraph",
+      "text": "其中一个问题得到肯定回答，并不自动回答其他问题。"
+    },
+    {
+      "type": "paragraph",
+      "text": "已选定房产的投资者可阅读IGA Law Firm关于购房前核查房产是否符合土耳其入籍条件的文章。",
+      "inline": [
+        {
+          "type": "text",
+          "text": "已选定房产的投资者可阅读IGA Law Firm关于"
+        },
+        {
+          "type": "link",
+          "text": "购房前核查房产是否符合土耳其入籍条件",
+          "page": "journal",
+          "slug": "how-to-check-property-eligibility-turkish-citizenship"
+        },
+        {
+          "type": "text",
+          "text": "的文章。"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "土耳其国籍能否帮助申请美国E-2投资者签证？"
+    },
+    {
+      "type": "paragraph",
+      "text": "在美国条约投资者制度下，土耳其是E-2条约国。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但仅拥有土耳其国籍并不保证取得E-2签证。"
+    },
+    {
+      "type": "paragraph",
+      "text": "申请人必须满足有关国籍、投资、企业经营及其他移民标准的适用要求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "通过金融投资获得条约国国籍的人士还须考虑一项额外要求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "根据《美国法典》第8编第1101(a)(15)(E)条，通过金融投资取得相关国籍且此前未曾获授E身份的申请人，须在申请前某一时期于该国连续具有至少三年的住所（domicile）。该要求的具体适用须逐案评估。"
+    },
+    {
+      "type": "source",
+      "text": "官方来源：《美国法典》第8编第1101(a)(15)(E)条",
+      "url": "https://uscode.house.gov/us/usc/119-118/t8/s1101/"
+    },
+    {
+      "type": "paragraph",
+      "text": "因此，投资者不应认为通过投资取得土耳其国籍，就会立即获得E-2签证申请资格。"
+    },
+    {
+      "type": "paragraph",
+      "text": "相关规则和个人情况应由具备资格的美国移民律师审查。"
+    },
+    {
+      "type": "source",
+      "text": "美国国务院——E类签证指南",
+      "url": "https://fam.state.gov/FAM/09FAM/09FAM040209.html"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "瓦努阿图与土耳其：三种投资者情景"
+    },
+    {
+      "type": "paragraph",
+      "text": "以下例子均为假设，并非真实客户案例，也不构成资格保证。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "情景一：预算15万美元的投资者"
+    },
+    {
+      "type": "paragraph",
+      "text": "一名投资者希望取得第二国籍，但不愿投入40万美元购买房产。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该投资者最关心初始成本，以及能否不购置房地产而完成流程。"
+    },
+    {
+      "type": "paragraph",
+      "text": "如果瓦努阿图的捐款型计划目前接受申请，且投资者符合要求，那么该计划可能值得研究。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但投资者必须理解，捐款一般不予退还，而且该护照不提供申根地区或英国的免签待遇。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其40万美元的房地产途径不符合上述预算。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "情景二：拥有45万美元并寻求长期资产的投资者"
+    },
+    {
+      "type": "paragraph",
+      "text": "一名投资者希望取得第二国籍，同时保留投资房产的所有权。"
+    },
+    {
+      "type": "paragraph",
+      "text": "该投资者正在考虑土耳其的一套公寓，并计划评估其出租潜力和转售需求。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其房地产途径可能更符合这些目标。"
+    },
+    {
+      "type": "paragraph",
+      "text": "但在投入资金前，投资者应独立评估房产的实际市场价值、交易成本、所有权历史以及入籍资格。"
+    },
+    {
+      "type": "paragraph",
+      "text": "将来能够转售的可能性，并不会消除财务损失风险。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "情景三：计划未来在美国开展业务的投资者"
+    },
+    {
+      "type": "paragraph",
+      "text": "一名投资者比较第二国籍方案，部分原因是其未来在美国开展业务的计划。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其的E-2条约关系可能与此有关。"
+    },
+    {
+      "type": "paragraph",
+      "text": "不过，仍须考虑通过投资取得国籍的情况、住所要求及E-2签证的其他条件。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者在因潜在E-2申请而选择入籍计划前，应寻求美国移民法律意见。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "独立法律审查的重要性"
+    },
+    {
+      "type": "paragraph",
+      "text": "入籍投资决定可能涉及移民法、银行文件、房地产法、国际税务以及重大财务承诺。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者应将计划营销与独立法律评估区分开来。"
+    },
+    {
+      "type": "paragraph",
+      "text": "针对土耳其房地产交易，法律审查可能包括："
+    },
+    {
+      "type": "list",
+      "text": "核实产权登记与所有权"
+    },
+    {
+      "type": "list",
+      "text": "审查卖方及转让历史"
+    },
+    {
+      "type": "list",
+      "text": "合同义务"
+    },
+    {
+      "type": "list",
+      "text": "抵押、登记注记及限制"
+    },
+    {
+      "type": "list",
+      "text": "适用的入籍文件"
+    },
+    {
+      "type": "list",
+      "text": "银行及外汇交易记录"
+    },
+    {
+      "type": "list",
+      "text": "三年持有承诺"
+    },
+    {
+      "type": "list",
+      "text": "家庭及申请文件"
+    },
+    {
+      "type": "paragraph",
+      "text": "独立法律审查不能保证入籍获批、避免全部投资损失，也不能取代财务及税务意见。"
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA Law Firm就土耳其投资入籍及符合要求的房地产交易提供法律指导。"
+    },
+    {
+      "type": "paragraph",
+      "text": "有关代理服务范围，请参阅土耳其投资入籍律师服务页面。",
+      "inline": [
+        {
+          "type": "text",
+          "text": "有关代理服务范围，请参阅"
+        },
+        {
+          "type": "link",
+          "text": "土耳其投资入籍律师",
+          "page": "igaturkishcitizenshipbyinvestment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "服务页面。"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "常见问题"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "瓦努阿图入籍是否比土耳其入籍便宜？"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图DSP的初始政府捐款通常明显低于土耳其40万美元的房地产投资门槛。但两种结构不同：不可退还的捐款并不等于购买资产。比较前必须核实最新官方费用。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "瓦努阿图护照持有人能否免签前往欧洲？"
+    },
+    {
+      "type": "paragraph",
+      "text": "欧盟取消瓦努阿图签证豁免后，瓦努阿图护照持有人须遵守适用的申根签证要求。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "土耳其投资入籍可以退款吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其国籍本身不是可退款的产品。在房地产途径下，投资者拥有符合资格的房产，履行适用持有要求后可能可以出售。售价及投资本金回收均不受保证。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "长期投资而言，土耳其是否优于瓦努阿图？"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于希望以资产为基础进行投资的人士，土耳其可能更合适。重视较低初始捐款的人士可能考虑瓦努阿图。适当选择取决于个人目标、资格及风险承受能力。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "土耳其国籍能否帮助申请美国E-2签证？"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其国籍可能满足条约国国籍这一要件，但E-2申请仍须满足全部适用要求。通过金融投资取得国籍的人士可能适用特殊住所条件。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "购买40万美元房产能保证取得土耳其国籍吗？"
+    },
+    {
+      "type": "paragraph",
+      "text": "不能。房产和交易必须满足适用投资要求，申请仍须经过官方审查并由主管机关作出决定。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "配偶和子女能否与我一同申请？"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其投资入籍制度可能允许配偶及符合条件的子女一并申请，具体取决于个人情况。瓦努阿图受扶养人的资格则须依据相关计划核实。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "最后需要考虑的事项"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图和土耳其提供不同形式的入籍投资。"
+    },
+    {
+      "type": "paragraph",
+      "text": "瓦努阿图的捐款方式可能需要较低的初始资金投入，但捐款通常不予退还，而且该护照前往欧洲和英国的旅行便利已受到重大限制。"
+    },
+    {
+      "type": "paragraph",
+      "text": "土耳其房地产途径需要显著更高的投资，却能取得一项资产的所有权；日后可在法律限制及市场条件允许的情况下出售。"
+    },
+    {
+      "type": "paragraph",
+      "text": "不应仅根据宣传的办理速度、护照排名或营销承诺选择任何计划。"
+    },
+    {
+      "type": "paragraph",
+      "text": "投资者在投入资金前，应评估适用法律要求、总成本、家庭成员资格、财务风险和长期目标。"
+    },
+    {
+      "type": "paragraph",
+      "text": "对于考虑土耳其途径的投资者，IGA Law Firm就符合要求的投资交易和入籍申请程序提供法律意见。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "正在考虑通过投资取得土耳其国籍？"
+    },
+    {
+      "type": "paragraph",
+      "text": "请联系IGA Law Firm，讨论拟议土耳其入籍投资的法律要求。",
+      "inline": [
+        {
+          "type": "text",
+          "text": "请"
+        },
+        {
+          "type": "link",
+          "text": "联系IGA Law Firm",
+          "page": "contact",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "，讨论拟议土耳其入籍投资的法律要求。"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "其他官方参考资料"
+    },
+    {
+      "type": "source",
+      "text": "《欧盟条例（EU）2025/11》——官方公报",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/11/oj/eng/pdf"
+    },
+    {
+      "type": "source",
+      "text": "英国移民规则——访客签证国籍名单",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "美国国务院——条约国名单",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    }
+  ]
+};
+window.blogPostTranslations["ar"]["vanuatu-vs-turkey-citizenship-by-investment"] = {
+  "title": "الجنسية بالاستثمار في فانواتو وتركيا: التكاليف والمخاطر والقيمة طويلة الأجل (2026)",
+  "seoTitle": "فانواتو أم تركيا: الجنسية عن طريق الاستثمار (2026)",
+  "metaDescription": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل.",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "غالبًا ما يبدأ المستثمرون الذين يقارنون بين برامج الجنسية عن طريق الاستثمار في فانواتو وتركيا بسؤالين: ما التكلفة اللازمة للحصول على الجنسية، وما المدة التي يستغرقها ذلك؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن الاستثمار الأولي ليس سوى جزء من القرار."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي أيضًا تقييم برنامج الجنسية من حيث المتطلبات القانونية وحقوق السفر والاستقرار على المدى الطويل وأهلية أفراد الأسرة والآثار المالية."
+    },
+    {
+      "type": "paragraph",
+      "text": "تقدم فانواتو وتركيا نهجين مختلفين. يرتبط برنامج دعم التنمية في فانواتو (DSP) بمساهمة غير قابلة للاسترداد، بينما تتيح تركيا عدة مسارات استثمار مؤهلة، من بينها العقارات."
+    },
+    {
+      "type": "paragraph",
+      "text": "يقارن هذا الدليل بين البلدين من منظور المستثمر، مع التركيز على استرداد رأس المال المستثمر والاعتراف بجواز السفر والمخاطر القانونية."
+    },
+    {
+      "type": "paragraph",
+      "text": "جرى التحقق من المصادر الرسمية في نوفمبر 2026؛ وقد تتغير متطلبات البرامج والرسوم وسياسات الهجرة."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "إجابة موجزة: هل فانواتو أم تركيا أفضل للجنسية عن طريق الاستثمار؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا يوجد برنامج أفضل لجميع المستثمرين."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تجذب فانواتو المستثمرين الذين يعطون الأولوية لمساهمة أولية أقل وإجراءات تقديم قد تكون أقصر."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تكون تركيا أكثر ملاءمة للمستثمرين الراغبين في اقتناء أصل مؤهل والاحتفاظ باستثمارهم لمدة محددة وإمكانية استعادة رأس المال من خلال بيع لاحق."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن الاستثمار العقاري في تركيا ينطوي على مخاطر السوق والعملات والسيولة والمعاملة. ولا يضمن استثمار بقيمة 400,000 دولار أمريكي الموافقة على الجنسية أو الحفاظ على قيمة العقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "يعتمد الخيار الأنسب على جنسية المستثمر ورأس المال المتاح وظروف أسرته واحتياجاته للسفر وأهدافه الطويلة الأجل."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "فانواتو وتركيا: مقارنة الجنسية عن طريق الاستثمار"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "المسار الرئيسي محل النقاش"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: برنامج دعم التنمية (DSP)",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " برنامج دعم التنمية (DSP)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: استثمار عقاري مستوفٍ للشروط",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " استثمار عقاري مستوفٍ للشروط"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هيكل الاستثمار"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: مساهمة غير قابلة للاسترداد عمومًا",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " مساهمة غير قابلة للاسترداد عمومًا"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: شراء عقار مستوفٍ للشروط",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " شراء عقار مستوفٍ للشروط"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "المبلغ الابتدائي"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: يجب تأكيد الرسوم الرسمية الحالية للبرنامج",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " يجب تأكيد الرسوم الرسمية الحالية للبرنامج"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: ما لا يقل عن 400,000 دولار أمريكي للعقار",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " ما لا يقل عن 400,000 دولار أمريكي للعقار"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "استرداد رأس المال"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: مساهمة برنامج DSP غير قابلة للاسترداد",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " مساهمة برنامج DSP غير قابلة للاسترداد"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: قد يمكن بيع العقار بعد استيفاء قيد الاحتفاظ المطبق، وفقًا لظروف السوق",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " قد يمكن بيع العقار بعد استيفاء قيد الاحتفاظ المطبق، وفقًا لظروف السوق"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "مدة المعالجة"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: تعتمد على البرنامج والطلب",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " تعتمد على البرنامج والطلب"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: تعتمد على الاستثمار والمستندات والمراجعة الإدارية",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " تعتمد على الاستثمار والمستندات والمراجعة الإدارية"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "السفر إلى منطقة شنغن دون تأشيرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: غير متاح بموجب قواعد التأشيرات الحالية للاتحاد الأوروبي",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " غير متاح بموجب قواعد التأشيرات الحالية للاتحاد الأوروبي"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: غير متاح عمومًا لحاملي جوازات السفر التركية العادية",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " غير متاح عمومًا لحاملي جوازات السفر التركية العادية"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "السفر إلى المملكة المتحدة دون تأشيرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: غير متاح بموجب قواعد المملكة المتحدة الحالية",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " غير متاح بموجب قواعد المملكة المتحدة الحالية"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: غير متاح عمومًا لحاملي جوازات السفر التركية العادية",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " غير متاح عمومًا لحاملي جوازات السفر التركية العادية"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "معاهدة تأشيرة E-2 الأمريكية"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: لم تُحدد معاهدة مؤهلة لتأشيرة E-2",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " لم تُحدد معاهدة مؤهلة لتأشيرة E-2"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: تركيا دولة طرف في معاهدة E-2، مع مراعاة جميع الشروط المطبقة",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " تركيا دولة طرف في معاهدة E-2، مع مراعاة جميع الشروط المطبقة"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "أهلية أفراد الأسرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: تعتمد على قواعد البرنامج وتعريفات المُعالين",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " تعتمد على قواعد البرنامج وتعريفات المُعالين"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: يمكن إدراج الزوج أو الزوجة والأطفال المؤهلين وفقًا للقواعد المطبقة",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " يمكن إدراج الزوج أو الزوجة والأطفال المؤهلين وفقًا للقواعد المطبقة"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "الاعتبار الرئيسي"
+    },
+    {
+      "type": "paragraph",
+      "text": "فانواتو: المساهمة غير القابلة للاسترداد والاعتراف بجواز السفر",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "فانواتو:"
+        },
+        {
+          "type": "text",
+          "text": " المساهمة غير القابلة للاسترداد والاعتراف بجواز السفر"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا: امتثال الاستثمار وقيمة الأصل والأهلية الإدارية",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "تركيا:"
+        },
+        {
+          "type": "text",
+          "text": " امتثال الاستثمار وقيمة الأصل والأهلية الإدارية"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "هذا العرض مقارنة عامة، وليس تحديدًا لأهلية شخص بعينه."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "كيف تعمل الجنسية عن طريق الاستثمار في فانواتو؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تدير فانواتو برامج للجنسية تشمل برنامج دعم التنمية."
+    },
+    {
+      "type": "paragraph",
+      "text": "في إطار برنامج DSP، يقدم المؤهلون عادةً مساهمة حكومية بدلًا من شراء أصل يمكن بيعه لاحقًا."
+    },
+    {
+      "type": "paragraph",
+      "text": "يتضمن البرنامج متطلبات تتعلق بالجنسية والهوية والتحقق من الخلفية والمستندات. وتُعالج الطلبات وفقًا للإجراءات الرسمية المطبقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للراغبين في التقديم التحقق بصورة مستقلة لدى مكتب الجنسية في فانواتو من إتاحة البرنامج حاليًا والوسطاء المعتمدين وجداول المساهمات ومتطلبات البيانات البيومترية وإجراءات التقديم."
+    },
+    {
+      "type": "source",
+      "text": "المصدر الرسمي: مكتب الجنسية في فانواتو",
+      "url": "https://vancitizenship.gov.vu/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ما تكلفة الجنسية في فانواتو في عام 2026؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تدرج صفحة الرسوم المنشورة لدى مكتب الجنسية في فانواتو مبلغ 130,000 دولار أمريكي لمقدم طلب واحد، إضافةً إلى رسم مستقل قدره 5,000 دولار أمريكي لفحص وحدة الاستخبارات المالية (FIU). وهذه ليست تسعيرة مضمونة شاملة لجميع التكاليف؛ إذ يجب تأكيد البرنامج المطبق والإجمالي الحالي مباشرةً مع مكتب الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "لا ينبغي التعامل مع عروض الأسعار التجارية المنشورة باعتبارها جدول رسوم رسميًا معتمدًا."
+    },
+    {
+      "type": "source",
+      "text": "المصدر الرسمي: مكتب الجنسية في فانواتو — الرسوم والتكاليف",
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+    },
+    {
+      "type": "paragraph",
+      "text": "يعتمد المبلغ الدقيق على البرنامج المطبق وتكوين الأسرة والرسوم الرسمية وأي أتعاب مهنية مسموح بها."
+    },
+    {
+      "type": "paragraph",
+      "text": "قبل المضي قدمًا، ينبغي للمستثمرين الحصول على تأكيد كتابي حديث بشأن:"
+    },
+    {
+      "type": "list",
+      "text": "المساهمة الحكومية المطبقة"
+    },
+    {
+      "type": "list",
+      "text": "رسوم العناية الواجبة والمعالجة"
+    },
+    {
+      "type": "list",
+      "text": "رسوم أفراد الأسرة"
+    },
+    {
+      "type": "list",
+      "text": "أتعاب الوسيط المعتمد"
+    },
+    {
+      "type": "list",
+      "text": "شروط الاسترداد، إن وجدت"
+    },
+    {
+      "type": "list",
+      "text": "إتاحة البرنامج والمتطلبات الإجرائية"
+    },
+    {
+      "type": "paragraph",
+      "text": "من الفروق المالية الأساسية أن التبرع في إطار DSP لا يمكن عمومًا استرداده بعد إتمامه بصورة صحيحة."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "كم تستغرق الجنسية في فانواتو؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "كثيرًا ما تُسوّق برامج الجنسية الاستثمارية في فانواتو على أنها سريعة نسبيًا."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن لا ينبغي الخلط بين مدة معالجة معلنة وتاريخ قرار مضمون."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يعتمد الجدول الزمني على إعداد المستندات والتحقق من الخلفية والإجراءات البيومترية والمراجعة الرسمية وأي تغييرات في المتطلبات الإدارية."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للمستثمرين تأكيد المدد المتوقعة حاليًا مع الجهة المختصة في فانواتو، بدلًا من الاعتماد حصريًا على التقديرات التسويقية."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "لماذا فقدت فانواتو الإعفاء من تأشيرة الدخول إلى الاتحاد الأوروبي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمثل الاعتراف بجواز السفر عاملًا مهمًا عند مقارنة برامج الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "قيّد الاتحاد الأوروبي تدريجيًا الإعفاء من التأشيرة لفانواتو بسبب مخاوف مرتبطة ببرامج منح الجنسية للمستثمرين فيها."
+    },
+    {
+      "type": "paragraph",
+      "text": "في ديسمبر 2024، قرر مجلس الاتحاد الأوروبي حذف فانواتو من قائمة الدول المستفيدة من السفر القصير الأجل دون تأشيرة."
+    },
+    {
+      "type": "paragraph",
+      "text": "ثم أضفت اللائحة (EU) 2025/11 الصفة القانونية على التغيير، ودخلت حيز النفاذ في 3 فبراير 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "ونتيجةً لذلك، يخضع حاملو جوازات سفر فانواتو لمتطلبات تأشيرة شنغن المطبقة."
+    },
+    {
+      "type": "paragraph",
+      "text": "وفرضت المملكة المتحدة بصورة منفصلة متطلب التأشيرة على مواطني فانواتو في يوليو 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "تبرز هذه التغييرات خطرًا مهمًا: الحصول على جنسية ثانية لا يضمن بقاء امتيازات السفر الدولية المرتبطة بها دون تغيير."
+    },
+    {
+      "type": "paragraph",
+      "text": "المصادر الرسمية:",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "المصادر الرسمية:"
+        },
+        {
+          "type": "text",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "مجلس الاتحاد الأوروبي — إعفاء فانواتو من التأشيرة",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/"
+    },
+    {
+      "type": "source",
+      "text": "البرلمان الأوروبي — اللائحة (EU) 2025/11",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1802174"
+    },
+    {
+      "type": "source",
+      "text": "حكومة المملكة المتحدة — متطلب التأشيرة لمواطني فانواتو",
+      "url": "https://www.gov.uk/government/news/visa-requirement-for-ni-vanuatu-nationals-visiting-uk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "كيف تعمل الجنسية التركية عن طريق الاستثمار؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تتيح تركيا عدة مسارات قائمة على الاستثمار لاكتساب الجنسية استثنائيًا بموجب الإطار القانوني المطبق."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للمستثمرين المهتمين بالعقارات، يبلغ الحد الأدنى المعلن للاستثمار المؤهل 400,000 دولار أمريكي."
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب أن يستوفي العقار المتطلبات القانونية والإدارية المطبقة، وأن يُسجل قيد يمنع إعادة بيعه لمدة ثلاث سنوات."
+    },
+    {
+      "type": "paragraph",
+      "text": "تشمل المسارات الاستثمارية الأخرى المعلنة الودائع المصرفية المؤهلة والاستثمار في رأس المال الثابت وصناديق الاستثمار ونظام التقاعد الخاص، وفقًا للحدود والشروط الخاصة بكل منها."
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب تقييم الاستثمار من قبل الجهة المختصة."
+    },
+    {
+      "type": "paragraph",
+      "text": "استيفاء الحد الأدنى للاستثمار لا يمنح الجنسية التركية تلقائيًا. ويظل الطلب خاضعًا للإجراءات الرسمية وقرارات الجهات المعنية."
+    },
+    {
+      "type": "paragraph",
+      "text": "للاطلاع على شرح شامل لمسارات الاستثمار المتاحة، راجع دليل الجنسية التركية عن طريق الاستثمار لدى IGA Law Firm.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "للاطلاع على شرح شامل لمسارات الاستثمار المتاحة، راجع "
+        },
+        {
+          "type": "link",
+          "text": "دليل الجنسية التركية عن طريق الاستثمار",
+          "page": "investment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " لدى IGA Law Firm."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن للمستثمرين الذين يدرسون بدائل للعقارات أيضًا الاطلاع على مقارنتنا لمسارات الاستثمار للحصول على الجنسية التركية.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "يمكن للمستثمرين الذين يدرسون بدائل للعقارات أيضًا الاطلاع على "
+        },
+        {
+          "type": "link",
+          "text": "مقارنتنا لمسارات الاستثمار للحصول على الجنسية التركية",
+          "page": "journal",
+          "slug": "real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "المصدر الرسمي: Invest in Türkiye — تملك العقارات واكتساب الجنسية",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل يستطيع المستثمرون استرداد استثمارهم المرتبط بالجنسية التركية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يمثل الهيكل المالي أحد الفروق الرئيسية بين البرنامجين."
+    },
+    {
+      "type": "paragraph",
+      "text": "يمنح الاستثمار العقاري المؤهل في تركيا المستثمر ملكية أصل."
+    },
+    {
+      "type": "paragraph",
+      "text": "بعد استيفاء قيد الاحتفاظ المطبق لمدة ثلاث سنوات والتحقق من المتطلبات القانونية ذات الصلة، قد يتمكن المستثمر من بيع العقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن استرداد ثمن الشراء الأصلي غير مضمون."
+    },
+    {
+      "type": "paragraph",
+      "text": "تعتمد النتيجة النهائية على عوامل مثل:"
+    },
+    {
+      "type": "list",
+      "text": "القيمة السوقية الفعلية عند الشراء"
+    },
+    {
+      "type": "list",
+      "text": "الطلب من المشترين المحليين والدوليين"
+    },
+    {
+      "type": "list",
+      "text": "موقع العقار وحالته"
+    },
+    {
+      "type": "list",
+      "text": "تحركات أسعار الصرف"
+    },
+    {
+      "type": "list",
+      "text": "ضرائب المعاملة ومصاريفها"
+    },
+    {
+      "type": "list",
+      "text": "دخل الإيجار وتكاليف التشغيل"
+    },
+    {
+      "type": "list",
+      "text": "سيولة السوق حين يرغب المستثمر في البيع"
+    },
+    {
+      "type": "paragraph",
+      "text": "العقار المعلن بسعر 400,000 دولار أمريكي قد لا تبلغ قيمته السوقية عند إعادة البيع 400,000 دولار أمريكي بالضرورة."
+    },
+    {
+      "type": "paragraph",
+      "text": "لذلك ينبغي النظر في التقييم المستقل والعناية الواجبة القانونية قبل الدخول في التزام ملزم."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "لماذا تهم أهلية العقار للحصول على الجنسية التركية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "السعر المعلن للعقار وحده لا يحدد أهليته للجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "تشمل الاعتبارات ذات الصلة تاريخ الملكية والانتقال وقيود سند الملكية ومستندات المعاملة ومتطلبات التقييم والأدلة المصرفية والتعهد المطبق بالاحتفاظ بالعقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يستوفي المستثمر الحد المعلن لسعر الشراء، ومع ذلك يواجه مشكلات مستندية أو قانونية تؤثر في طلب الجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "وهذا يجعل المراجعة السابقة للشراء مهمة على نحو خاص."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للمستثمرين التمييز بين ثلاثة أسئلة مستقلة:"
+    },
+    {
+      "type": "list",
+      "text": "هل يمكن شراء العقار ونقل ملكيته قانونًا؟"
+    },
+    {
+      "type": "list",
+      "text": "هل تستوفي المعاملة متطلبات الاستثمار المطبقة للحصول على الجنسية؟"
+    },
+    {
+      "type": "list",
+      "text": "هل يناسب العقار الأهداف المالية للمستثمر من الناحية التجارية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "الإجابة الإيجابية عن أحد هذه الأسئلة لا تجيب تلقائيًا عن السؤالين الآخرين."
+    },
+    {
+      "type": "paragraph",
+      "text": "يمكن للمستثمرين الذين اختاروا عقارًا مراجعة مقال IGA Law Firm بشأن التحقق من أهلية العقار للجنسية التركية قبل الشراء.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "يمكن للمستثمرين الذين اختاروا عقارًا مراجعة مقال IGA Law Firm بشأن "
+        },
+        {
+          "type": "link",
+          "text": "التحقق من أهلية العقار للجنسية التركية قبل الشراء",
+          "page": "journal",
+          "slug": "how-to-check-property-eligibility-turkish-citizenship"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "هل تتيح الجنسية التركية الوصول إلى تأشيرة المستثمر الأمريكية E-2؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تركيا دولة طرف في معاهدة E-2 ضمن إطار المستثمر بموجب معاهدة في الولايات المتحدة."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن الجنسية التركية وحدها لا تضمن تأشيرة E-2."
+    },
+    {
+      "type": "paragraph",
+      "text": "يجب على المتقدمين استيفاء الشروط المطبقة المتعلقة بالجنسية والاستثمار وتشغيل المشروع ومعايير الهجرة الأخرى."
+    },
+    {
+      "type": "paragraph",
+      "text": "هناك اعتبار إضافي للأشخاص الذين يكتسبون جنسية دولة طرف في معاهدة من خلال استثمار مالي."
+    },
+    {
+      "type": "paragraph",
+      "text": "بموجب 8 U.S.C. § 1101(a)(15)(E)، يجب على المتقدمين الذين اكتسبوا الجنسية المعنية باستثمار مالي ولم يُمنحوا سابقًا وضع E أن يكون موطنهم (domicile) قد استقر في تلك الدولة لمدة متصلة لا تقل عن ثلاث سنوات في فترة ما قبل التقديم. ويجب تقييم انطباق هذا الشرط بصورة فردية."
+    },
+    {
+      "type": "source",
+      "text": "المصدر الرسمي: 8 U.S.C. § 1101(a)(15)(E)",
+      "url": "https://uscode.house.gov/us/usc/119-118/t8/s1101/"
+    },
+    {
+      "type": "paragraph",
+      "text": "لذلك لا ينبغي للمستثمرين افتراض أن اكتساب الجنسية التركية عن طريق الاستثمار يمنحهم فورًا أهلية الحصول على تأشيرة E-2."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي مراجعة القواعد ذات الصلة والظروف الفردية مع محامٍ مؤهل في قانون الهجرة الأمريكي."
+    },
+    {
+      "type": "source",
+      "text": "وزارة الخارجية الأمريكية — إرشادات تأشيرات E",
+      "url": "https://fam.state.gov/FAM/09FAM/09FAM040209.html"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "فانواتو وتركيا: ثلاثة سيناريوهات للمستثمرين"
+    },
+    {
+      "type": "paragraph",
+      "text": "الأمثلة التالية افتراضية؛ وهي لا تصف عملاء حقيقيين ولا تضمن الأهلية."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "السيناريو الأول: مستثمر بميزانية 150,000 دولار أمريكي"
+    },
+    {
+      "type": "paragraph",
+      "text": "يرغب مستثمر في جنسية ثانية، لكنه لا يريد تخصيص 400,000 دولار أمريكي لشراء عقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "تتمثل أولوياته الأساسية في التكلفة الأولية وإمكانية إتمام الإجراءات دون تملك عقار."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يستحق برنامج فانواتو القائم على المساهمة الدراسة إذا كان متاحًا حاليًا وكان المستثمر مستوفيًا للشروط."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن يجب أن يفهم المستثمر أن المساهمة غير قابلة للاسترداد عمومًا، وأن جواز السفر لا يتيح دخول منطقة شنغن أو المملكة المتحدة دون تأشيرة."
+    },
+    {
+      "type": "paragraph",
+      "text": "لن يتناسب المسار العقاري التركي البالغ 400,000 دولار أمريكي مع الميزانية المذكورة."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "السيناريو الثاني: مستثمر يملك 450,000 دولار أمريكي ويبحث عن أصل طويل الأجل"
+    },
+    {
+      "type": "paragraph",
+      "text": "يرغب مستثمر في جنسية ثانية، ويريد أيضًا الاحتفاظ بملكية عقار استثماري."
+    },
+    {
+      "type": "paragraph",
+      "text": "يدرس المستثمر شراء شقة في تركيا، ويخطط لتقييم إمكانات تأجيرها والطلب عليها عند إعادة البيع."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يكون المسار العقاري في تركيا أكثر توافقًا مع هذه الأهداف."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن ينبغي للمستثمر تقييم القيمة السوقية الحقيقية للعقار وتكاليف المعاملة وتاريخ الملكية وأهلية الجنسية بصورة مستقلة قبل الالتزام بالأموال."
+    },
+    {
+      "type": "paragraph",
+      "text": "إمكانية إعادة البيع مستقبلًا لا تلغي خطر الخسارة المالية."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "السيناريو الثالث: مستثمر يخطط لأنشطة تجارية مستقبلية في الولايات المتحدة"
+    },
+    {
+      "type": "paragraph",
+      "text": "يقارن مستثمر بين خيارات الجنسية الثانية، ويرجع ذلك جزئيًا إلى خططه التجارية المستقبلية في الولايات المتحدة."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تكون علاقة تركيا بمعاهدة E-2 ذات صلة."
+    },
+    {
+      "type": "paragraph",
+      "text": "لكن يجب مراعاة اكتساب الجنسية بالاستثمار وشروط الموطن والمتطلبات الأخرى لتأشيرة E-2."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للمستثمر طلب مشورة في قانون الهجرة الأمريكي قبل اختيار برنامج للجنسية استنادًا إلى طلب محتمل لتأشيرة E-2."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "أهمية المراجعة القانونية المستقلة"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تشمل قرارات الاستثمار المرتبط بالجنسية قانون الهجرة والمستندات المصرفية وقانون العقارات والضرائب الدولية والتزامات مالية كبيرة."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للمستثمرين التمييز بين تسويق البرامج والتقييم القانوني المستقل."
+    },
+    {
+      "type": "paragraph",
+      "text": "بالنسبة للمعاملات العقارية في تركيا، قد تشمل المراجعة القانونية:"
+    },
+    {
+      "type": "list",
+      "text": "التحقق من سند الملكية والمالك"
+    },
+    {
+      "type": "list",
+      "text": "فحص البائع وتاريخ انتقال الملكية"
+    },
+    {
+      "type": "list",
+      "text": "الالتزامات التعاقدية"
+    },
+    {
+      "type": "list",
+      "text": "الرهون والإشارات والقيود"
+    },
+    {
+      "type": "list",
+      "text": "مستندات الجنسية المطبقة"
+    },
+    {
+      "type": "list",
+      "text": "السجلات المصرفية وسجلات صرف العملات"
+    },
+    {
+      "type": "list",
+      "text": "التعهد بالاحتفاظ لمدة ثلاث سنوات"
+    },
+    {
+      "type": "list",
+      "text": "مستندات الأسرة والطلب"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا تضمن المراجعة القانونية المستقلة الموافقة على الجنسية، ولا تمنع جميع خسائر الاستثمار، ولا تحل محل المشورة المالية والضريبية."
+    },
+    {
+      "type": "paragraph",
+      "text": "يقدم IGA Law Firm إرشادات قانونية بشأن الجنسية التركية عن طريق الاستثمار والمعاملات العقارية المؤهلة."
+    },
+    {
+      "type": "paragraph",
+      "text": "تعرّف إلى نطاق التمثيل القانوني في صفحة خدمة محامي الجنسية التركية عن طريق الاستثمار.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "تعرّف إلى نطاق التمثيل القانوني في صفحة خدمة "
+        },
+        {
+          "type": "link",
+          "text": "محامي الجنسية التركية عن طريق الاستثمار",
+          "page": "igaturkishcitizenshipbyinvestment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "الأسئلة الشائعة"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل جنسية فانواتو أقل تكلفة من الجنسية التركية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "كانت المساهمة الحكومية الأولية المرتبطة ببرنامج DSP في فانواتو عمومًا أقل بكثير من الحد العقاري التركي البالغ 400,000 دولار أمريكي. لكن الهيكلين مختلفان: فالمساهمة غير القابلة للاسترداد ليست مساوية لشراء أصل. ويجب التحقق من الرسوم الرسمية الحالية قبل المقارنة."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل يستطيع حامل جواز فانواتو السفر إلى أوروبا دون تأشيرة؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "يخضع حاملو جوازات سفر فانواتو لمتطلبات تأشيرة شنغن المطبقة بعد إلغاء الاتحاد الأوروبي إعفاء فانواتو من التأشيرة."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل الاستثمار المرتبط بالجنسية التركية قابل للاسترداد؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "الجنسية التركية نفسها ليست منتجًا قابلًا للاسترداد. في المسار العقاري يمتلك المستثمر عقارًا مؤهلًا قد يمكن بيعه بعد استيفاء شروط الاحتفاظ المطبقة. ولا يُضمن سعر البيع أو استعادة رأس المال المستثمر."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل تركيا أفضل من فانواتو للاستثمار الطويل الأجل؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تكون تركيا أنسب للمستثمرين الراغبين في هيكل استثماري قائم على أصل. وقد تهم فانواتو من يعطون الأولوية لمساهمة أولية أقل. ويعتمد الخيار الملائم على الأهداف الفردية والأهلية والقدرة على تحمل المخاطر."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل يمكن للجنسية التركية أن تتيح الوصول إلى تأشيرة E-2 الأمريكية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد تستوفي الجنسية التركية عنصر جنسية دولة المعاهدة، لكن يجب أن يستوفي طلب E-2 جميع الشروط المطبقة. وقد تنطبق شروط خاصة للموطن على الجنسية المكتسبة باستثمار مالي."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل يضمن شراء عقار بقيمة 400,000 دولار أمريكي الجنسية التركية؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "لا. يجب أن يستوفي العقار والمعاملة متطلبات الاستثمار المطبقة، ويظل الطلب خاضعًا للمراجعة والقرار الرسميين."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل يمكن لزوجي أو زوجتي وأطفالي التقديم معي؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "قد يتيح إطار الجنسية الاستثمارية التركي إدراج الزوج أو الزوجة والأطفال المؤهلين وفقًا لظروفهم الفردية. أما قواعد أهلية المُعالين في فانواتو فيجب التحقق منها ضمن البرنامج المعني."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "اعتبارات أخيرة"
+    },
+    {
+      "type": "paragraph",
+      "text": "تقدم فانواتو وتركيا شكلين مختلفين من الاستثمار المرتبط بالجنسية."
+    },
+    {
+      "type": "paragraph",
+      "text": "قد ينطوي نهج فانواتو القائم على المساهمة على التزام مالي أولي أقل، لكن المساهمة غير قابلة للاسترداد عمومًا، وقد تعرض جواز السفر لقيود كبيرة على السفر إلى أوروبا والمملكة المتحدة."
+    },
+    {
+      "type": "paragraph",
+      "text": "يتطلب المسار العقاري التركي استثمارًا أكبر بكثير، لكنه يمنح ملكية أصل قد يمكن بيعه لاحقًا، وفقًا للقيود القانونية وظروف السوق."
+    },
+    {
+      "type": "paragraph",
+      "text": "لا ينبغي اختيار أي من البرنامجين بناءً فقط على السرعة المعلنة أو تصنيفات جوازات السفر أو الادعاءات الترويجية."
+    },
+    {
+      "type": "paragraph",
+      "text": "ينبغي للمستثمرين تقييم المتطلبات القانونية المطبقة والتكاليف الإجمالية وأهلية الأسرة والمخاطر المالية والأهداف الطويلة الأجل قبل الالتزام بالأموال."
+    },
+    {
+      "type": "paragraph",
+      "text": "للمستثمرين الذين يدرسون المسار التركي، يقدم IGA Law Firm مشورة قانونية بشأن معاملات الاستثمار المؤهلة وإجراءات طلب الجنسية."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "هل تفكر في الجنسية التركية عن طريق الاستثمار؟"
+    },
+    {
+      "type": "paragraph",
+      "text": "تواصل مع IGA Law Firm لمناقشة المتطلبات القانونية لاستثمار مقترح للحصول على الجنسية التركية.",
+      "inline": [
+        {
+          "type": "link",
+          "text": "تواصل مع IGA Law Firm",
+          "page": "contact",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " لمناقشة المتطلبات القانونية لاستثمار مقترح للحصول على الجنسية التركية."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "مراجع رسمية إضافية"
+    },
+    {
+      "type": "source",
+      "text": "اللائحة (EU) 2025/11 — الجريدة الرسمية",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/11/oj/eng/pdf"
+    },
+    {
+      "type": "source",
+      "text": "قواعد الهجرة البريطانية — قائمة الجنسيات التي تحتاج إلى تأشيرة زيارة",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "وزارة الخارجية الأمريكية — الدول الأطراف في المعاهدات",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    }
+  ]
+};

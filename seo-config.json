@@ -10264,6 +10264,18 @@
         "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
       },
       {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
         "hreflang": "x-default",
         "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
       }
@@ -10389,6 +10401,474 @@
               "position": 3,
               "name": "Vanuatu vs Turkey Citizenship by Investment: Costs, Risks & Long-Term Value (2026)",
               "item": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/": {
+    "path": "/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık (2026)",
+    "description": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın.",
+    "canonical": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+      "title": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık (2026)",
+      "description": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "name": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık (2026)",
+          "description": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/#article",
+          "url": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "headline": "Vanuatu ve Türkiye’de Yatırım Yoluyla Vatandaşlık: Maliyetler, Riskler ve Uzun Vadeli Değer (2026)",
+          "description": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-16T09:00:00+03:00",
+          "dateModified": "2026-11-16T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Vanuatu ve Türkiye’de Yatırım Yoluyla Vatandaşlık: Maliyetler, Riskler ve Uzun Vadeli Değer (2026)",
+              "item": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/": {
+    "path": "/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "瓦努阿图与土耳其投资入籍比较（2026）",
+    "description": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。",
+    "canonical": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+      "title": "瓦努阿图与土耳其投资入籍比较（2026）",
+      "description": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "name": "瓦努阿图与土耳其投资入籍比较（2026）",
+          "description": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/#article",
+          "url": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "headline": "瓦努阿图与土耳其投资入籍比较：费用、风险与长期价值（2026）",
+          "description": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-16T09:00:00+03:00",
+          "dateModified": "2026-11-16T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "瓦努阿图与土耳其投资入籍比较：费用、风险与长期价值（2026）",
+              "item": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/": {
+    "path": "/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "فانواتو أم تركيا: الجنسية عن طريق الاستثمار (2026)",
+    "description": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل.",
+    "canonical": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+      "title": "فانواتو أم تركيا: الجنسية عن طريق الاستثمار (2026)",
+      "description": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "name": "فانواتو أم تركيا: الجنسية عن طريق الاستثمار (2026)",
+          "description": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/#article",
+          "url": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+          "headline": "الجنسية بالاستثمار في فانواتو وتركيا: التكاليف والمخاطر والقيمة طويلة الأجل (2026)",
+          "description": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-16T09:00:00+03:00",
+          "dateModified": "2026-11-16T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "الجنسية بالاستثمار في فانواتو وتركيا: التكاليف والمخاطر والقيمة طويلة الأجل (2026)",
+              "item": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
             }
           ]
         }

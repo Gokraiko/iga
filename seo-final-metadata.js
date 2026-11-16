@@ -358,3 +358,8 @@ Object.assign(window.finalSeoMetadata, {
   }
 });
 window.articleContentUpdates = {"citizenship-by-investment-programs": "2026-10-21", "crs-reporting-in-turkey-turkish-citizenship-by-investment-what-investors-should-know": "2026-10-21", "turkish-citizenship-by-investment-and-turkish-name-selection-an-overlooked-advantage-for-internatio": "2026-10-21", "step-by-step-guide-turkish-id-card-passport-appointment-after-citizenship-approval": "2026-10-21", "turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey": "2026-10-21", "turkish-citizenship-by-bank-deposit-real-case-study-after-3-years-500-000-usd-600-000-usd": "2026-10-21", "turkish-citizenship-through-bes-a-secure-path-for-foreign-investors": "2026-10-21"};
+
+// Metadata for the three translated comparison articles only.
+window.finalSeoMetadata["/tr/blog/vanuatu-vs-turkey-citizenship-by-investment/"] = {"title": "Vanuatu ve Türkiye: Yatırım Yoluyla Vatandaşlık (2026)", "description": "2026’da Vanuatu ve Türkiye yatırım yoluyla vatandaşlık seçeneklerini maliyetler, vize erişimi, sermayenin geri kazanılması ve hukuki riskler açısından karşılaştırın."};
+window.finalSeoMetadata["/zh/blog/vanuatu-vs-turkey-citizenship-by-investment/"] = {"title": "瓦努阿图与土耳其投资入籍比较（2026）", "description": "比较2026年瓦努阿图与土耳其投资入籍的费用、签证便利、投资本金回收、法律风险与长期价值，了解捐款和房地产投资的区别。"};
+window.finalSeoMetadata["/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"] = {"title": "فانواتو أم تركيا: الجنسية عن طريق الاستثمار (2026)", "description": "قارن الجنسية عن طريق الاستثمار في فانواتو وتركيا في 2026 من حيث التكاليف والتأشيرات واسترداد رأس المال والمخاطر القانونية والقيمة طويلة الأجل."};
