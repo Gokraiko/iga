@@ -65,7 +65,7 @@ window.igaSchemaContent = (() => {
     const person=member=>({'@type':'Person','@id':personId(member),name:member.name,jobTitle:t[member.role],worksFor:{'@id':org['@id']},url:origin+pathFor(route.lang,'team')+'#'+anchors[member.name]});
     const founder=team.find(m=>m.name==='Irmak Gürer Aksöz');
     org.image=org.logo;org.areaServed={'@type':'Country',name:'Türkiye',identifier:'TR'};
-    org.knowsLanguage=['tr','en','zh','ar'];org.founder={'@id':personId(founder)};
+    org.foundingDate='2022';org.knowsLanguage=['tr','en','zh','ar'];org.founder={'@id':personId(founder)};
     const people=route.page==='team'?team:[founder];
     if(post){const a=author(post,team,anchors,route.lang,pathFor);if(a.member&&!people.includes(a.member))people.push(a.member);}
     people.forEach(member=>graph.push(person(member)));

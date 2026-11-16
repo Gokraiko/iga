@@ -10,7 +10,7 @@
 
 [vc_row el_class="iga-stats"]
 [vc_column width="1/3"][vc_column_text]<strong>600+</strong><span>Families assisted</span>[/vc_column_text][/vc_column]
-[vc_column width="1/3"][vc_column_text]<strong>2018</strong><span>Established</span>[/vc_column_text][/vc_column]
+[vc_column width="1/3"][vc_column_text]<strong>2022</strong><span>Established</span>[/vc_column_text][/vc_column]
 [vc_column width="1/3"][vc_column_text]<strong>TR · EN · 中文</strong><span>Languages</span>[/vc_column_text][/vc_column]
 [/vc_row]
 
@@ -44,7 +44,7 @@
 
 [vc_row el_class="iga-section iga-about"]
 [vc_column width="1/3"][vc_column_text el_class="iga-eyebrow"]A FIRM BUILT AROUND PEOPLE[/vc_column_text][/vc_column]
-[vc_column width="2/3"][vc_custom_heading text="Local understanding. International perspective." font_container="tag:h2|text_align:left" use_theme_fonts="yes"][vc_column_text]<p>Founded in 2018, IGA Law Firm focuses on investment immigration and foreign legal advisory. We represent clients at every stage, from initial eligibility assessment to final approval and post-investment compliance.</p><p>Our dedicated team combines legal experience with Chinese and English language support. We serve international investors and foreign nationals with clarity, integrity and professional care.</p>[/vc_column_text][/vc_column]
+[vc_column width="2/3"][vc_custom_heading text="Local understanding. International perspective." font_container="tag:h2|text_align:left" use_theme_fonts="yes"][vc_column_text]<p>Founded in 2022, IGA Law Firm focuses on investment immigration and foreign legal advisory. We represent clients at every stage, from initial eligibility assessment to final approval and post-investment compliance.</p><p>Our dedicated team combines legal experience with Chinese and English language support. We serve international investors and foreign nationals with clarity, integrity and professional care.</p>[/vc_column_text][/vc_column]
 [/vc_row]
 
 [vc_row full_width="stretch_row" el_class="iga-cta" el_id="contact"]

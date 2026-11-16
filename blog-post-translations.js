@@ -336,7 +336,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "İGA Hukuk Bürosu, yabancı yatırımcılara Türk vatandaşlığı ve ikamet prosedürleri konusunda yardımcı olan geniş deneyime sahip, İstanbul merkezli bir Türk hukuk bürosudur. 2018'den bu yana ekibimiz, yatırım yoluyla vatandaşlık uygulamamızın önemli bir bölümünü temsil eden Çinli müşterilerle birlikte 600'den fazla aileye yardım etti."
+          "text": "IGA Law Firm, 2022 yılında kurulmuştur. Kurucusu Irmak Gürer Aksöz, 2018’den bu yana yatırım yoluyla Türk vatandaşlığı alanında çalışmaktadır. İGA Hukuk Bürosu, yabancı yatırımcılara Türk vatandaşlığı ve ikamet prosedürleri konusunda yardımcı olan geniş deneyime sahip, İstanbul merkezli bir Türk hukuk bürosudur. Ekibimiz, yatırım yoluyla vatandaşlık uygulamamızın önemli bir bölümünü temsil eden Çinli müşterilerle birlikte 600'den fazla aileye yardım etti."
         },
         {
           "type": "paragraph",
@@ -631,7 +631,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "2018 yılından bu yana, Türkiye'de yatırım yapmak, ikamet etmek ve vatandaşlık almak isteyen Türk ve uluslararası müvekkillerimize hukuki danışmanlık ve temsil sağlıyoruz. Bugüne kadar başta Çin olmak üzere dünyanın dört bir yanından 600'den fazla aileye yatırım ve Türk vatandaşlığı süreçlerinde yardımcı olduk."
+          "text": "Büromuz 2022 yılında kurulmuştur. Kurucu avukatımız Irmak Gürer Aksöz, 2018’den bu yana yatırım göçmenliği alanında çalışmaktadır. Türkiye'de yatırım yapmak, ikamet etmek ve vatandaşlık almak isteyen Türk ve uluslararası müvekkillerimize hukuki danışmanlık ve temsil sağlıyoruz. Bugüne kadar başta Çin olmak üzere dünyanın dört bir yanından 600'den fazla aileye yatırım ve Türk vatandaşlığı süreçlerinde yardımcı olduk."
         },
         {
           "type": "paragraph",
@@ -3321,7 +3321,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "İGA Hukuk Bürosu, 2018 yılından bu yana Yatırım Yoluyla Türk Vatandaşlığı konusunda uzmanlaşmış, İstanbul merkezli butik bir hukuk bürosudur."
+          "text": "2022 yılında kurulan İGA Hukuk Bürosu, İstanbul merkezli ve yatırım yoluyla Türk vatandaşlığı alanında çalışan butik bir hukuk bürosudur. Kurucusu Irmak Gürer Aksöz’ün bu alandaki mesleki deneyimi 2018 yılına uzanır."
         },
         {
           "type": "paragraph",
@@ -3916,7 +3916,7 @@ window.blogPostTranslations = {
     },
     {
       "type": "paragraph",
-      "text": "Merkezi İstanbul, Türkiye'de bulunan İGA Hukuk Bürosu, 2018 yılından bu yana Yatırım Yoluyla Türk Vatandaşlığı programında yüzlerce uluslararası yatırımcıya yardımcı olmuştur."
+      "text": "İGA Hukuk Bürosu, 2022 yılında İstanbul’da kurulmuş ve yatırım yoluyla Türk vatandaşlığı kapsamında yüzlerce uluslararası yatırımcıya yardımcı olmuştur. Kurucusu Irmak Gürer Aksöz’ün bu alandaki mesleki çalışmaları ise 2018 yılında başlamıştır."
     },
     {
       "type": "paragraph",
@@ -7639,7 +7639,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "IGA 律师事务所是一家总部位于伊斯坦布尔的土耳其律师事务所，在协助外国投资者办理土耳其公民身份和居留手续方面拥有丰富的经验。自 2018 年以来，我们的团队已为 600 多个家庭提供了帮助，其中中国客户是我们投资入籍实践的重要组成部分。"
+          "text": "IGA Law Firm 成立于2022年。创始律师Irmak Gürer Aksöz自2018年起从事土耳其投资入籍相关专业工作。IGA 律师事务所是一家总部位于伊斯坦布尔的土耳其律师事务所，在协助外国投资者办理土耳其公民身份和居留手续方面拥有丰富的经验。我们的团队已为 600 多个家庭提供了帮助，其中中国客户是我们投资入籍实践的重要组成部分。"
         },
         {
           "type": "paragraph",
@@ -7934,7 +7934,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "自 2018 年以来，我们为寻求在土耳其投资、居住和获得公民身份的土耳其和国际客户提供法律咨询和代理。迄今为止，我们已帮助来自世界各地（尤其是中国）的 600 多个家庭完成投资和土耳其公民身份流程。"
+          "text": "本所于2022年成立。创始律师Irmak Gürer Aksöz自2018年起从事投资移民相关专业工作。我们为寻求在土耳其投资、居住和获得公民身份的土耳其和国际客户提供法律咨询和代理。迄今为止，我们已帮助来自世界各地（尤其是中国）的 600 多个家庭完成投资和土耳其公民身份流程。"
         },
         {
           "type": "paragraph",
@@ -10624,7 +10624,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "IGA 律师事务所是一家总部位于伊斯坦布尔的精品律师事务所，自 2018 年起专门从事土耳其投资公民业务。"
+          "text": "IGA律师事务所于2022年成立，是一家位于伊斯坦布尔、从事土耳其投资入籍法律业务的精品律师事务所。创始律师Irmak Gürer Aksöz自2018年起在该领域开展专业工作。"
         },
         {
           "type": "paragraph",
@@ -11219,7 +11219,7 @@ window.blogPostTranslations = {
     },
     {
       "type": "paragraph",
-      "text": "IGA 律师事务所总部位于土耳其伊斯坦布尔，自 2018 年以来已在土耳其投资入籍计划中为数百名国际投资者提供了帮助。"
+      "text": "IGA律师事务所于2022年在伊斯坦布尔成立，已协助数百名国际投资者办理土耳其投资入籍相关事务。创始律师Irmak Gürer Aksöz在该领域的专业经验始于2018年。"
     },
     {
       "type": "paragraph",
@@ -14942,7 +14942,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "IGA Law Firm هي شركة محاماة تركية مقرها إسطنبول وتتمتع بخبرة واسعة في مساعدة المستثمرين الأجانب في إجراءات الجنسية والإقامة التركية. منذ عام 2018، ساعد فريقنا أكثر من 600 عائلة، ويمثل العملاء الصينيون جزءًا كبيرًا من ممارساتنا في مجال المواطنة عن طريق الاستثمار."
+          "text": "تأسس مكتب IGA Law Firm للمحاماة في عام 2022. وتعمل مؤسسته Irmak Gürer Aksöz في مجال الجنسية التركية عن طريق الاستثمار منذ عام 2018. IGA Law Firm هي شركة محاماة تركية مقرها إسطنبول وتتمتع بخبرة واسعة في مساعدة المستثمرين الأجانب في إجراءات الجنسية والإقامة التركية. ساعد فريقنا أكثر من 600 عائلة، ويمثل العملاء الصينيون جزءًا كبيرًا من ممارساتنا في مجال المواطنة عن طريق الاستثمار."
         },
         {
           "type": "paragraph",
@@ -15237,7 +15237,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "منذ عام 2018، قمنا بتقديم الاستشارات القانونية والتمثيل للعملاء الأتراك والدوليين الراغبين في الاستثمار والإقامة والحصول على الجنسية في تركيا. حتى الآن، قمنا بمساعدة أكثر من 600 عائلة من جميع أنحاء العالم، وخاصة من الصين، في عمليات الاستثمار والجنسية التركية."
+          "text": "تأسس مكتبنا عام 2022. وتعمل المحامية المؤسسة Irmak Gürer Aksöz في مجال الهجرة عن طريق الاستثمار منذ عام 2018. قمنا بتقديم الاستشارات القانونية والتمثيل للعملاء الأتراك والدوليين الراغبين في الاستثمار والإقامة والحصول على الجنسية في تركيا. حتى الآن، قمنا بمساعدة أكثر من 600 عائلة من جميع أنحاء العالم، وخاصة من الصين، في عمليات الاستثمار والجنسية التركية."
         },
         {
           "type": "paragraph",
@@ -17927,7 +17927,7 @@ window.blogPostTranslations = {
         },
         {
           "type": "paragraph",
-          "text": "IGA Law Firm هي شركة محاماة مقرها في إسطنبول، متخصصة في الجنسية التركية عن طريق الاستثمار منذ عام 2018."
+          "text": "تأسس مكتب IGA Law Firm للمحاماة عام 2022 في إسطنبول، ويتخصص في الجنسية التركية عن طريق الاستثمار. وتعود الخبرة المهنية لمؤسسته Irmak Gürer Aksöz في هذا المجال إلى عام 2018."
         },
         {
           "type": "paragraph",
@@ -18522,7 +18522,7 @@ window.blogPostTranslations = {
     },
     {
       "type": "paragraph",
-      "text": "مقرها في إسطنبول، تركيا، ساعدت شركة IGA للمحاماة مئات المستثمرين الدوليين منذ عام 2018 في برنامج الجنسية التركية عن طريق الاستثمار."
+      "text": "تأسس مكتب IGA للمحاماة في إسطنبول عام 2022، وقد ساعد مئات المستثمرين الدوليين في إجراءات الجنسية التركية عن طريق الاستثمار. أما الخبرة المهنية لمؤسسته Irmak Gürer Aksöz في هذا المجال فتعود إلى عام 2018."
     },
     {
       "type": "paragraph",

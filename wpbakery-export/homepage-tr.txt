@@ -10,7 +10,7 @@
 
 [vc_row el_class="iga-stats"]
 [vc_column width="1/3"][vc_column_text]<strong>600+</strong><span>Desteklenen aile</span>[/vc_column_text][/vc_column]
-[vc_column width="1/3"][vc_column_text]<strong>2018</strong><span>Kuruluş</span>[/vc_column_text][/vc_column]
+[vc_column width="1/3"][vc_column_text]<strong>2022</strong><span>Kuruluş</span>[/vc_column_text][/vc_column]
 [vc_column width="1/3"][vc_column_text]<strong>TR · EN · 中文</strong><span>Diller</span>[/vc_column_text][/vc_column]
 [/vc_row]
 
@@ -44,7 +44,7 @@
 
 [vc_row el_class="iga-section iga-about"]
 [vc_column width="1/3"][vc_column_text el_class="iga-eyebrow"]İNSAN ODAKLI BİR HUKUK BÜROSU[/vc_column_text][/vc_column]
-[vc_column width="2/3"][vc_custom_heading text="Yerel bilgi. Uluslararası bakış." font_container="tag:h2|text_align:left" use_theme_fonts="yes"][vc_column_text]<p>2018 yılında kurulan IGA Hukuk Bürosu, yatırım göçmenliği ve yabancılara hukuki danışmanlık alanlarına odaklanır. İlk uygunluk değerlendirmesinden nihai onay ve yatırım sonrası uyum süreçlerine kadar müvekkillerimizi temsil ediyoruz.</p><p>Ekibimizin hukuki deneyimini İngilizce ve Çince dil desteği tamamlıyor. Uluslararası yatırımcılara ve yabancı uyruklu kişilere şeffaflık, dürüstlük ve özenle hizmet veriyoruz.</p>[/vc_column_text][/vc_column]
+[vc_column width="2/3"][vc_custom_heading text="Yerel bilgi. Uluslararası bakış." font_container="tag:h2|text_align:left" use_theme_fonts="yes"][vc_column_text]<p>2022 yılında kurulan IGA Hukuk Bürosu, yatırım göçmenliği ve yabancılara hukuki danışmanlık alanlarına odaklanır. İlk uygunluk değerlendirmesinden nihai onay ve yatırım sonrası uyum süreçlerine kadar müvekkillerimizi temsil ediyoruz.</p><p>Ekibimizin hukuki deneyimini İngilizce ve Çince dil desteği tamamlıyor. Uluslararası yatırımcılara ve yabancı uyruklu kişilere şeffaflık, dürüstlük ve özenle hizmet veriyoruz.</p>[/vc_column_text][/vc_column]
 [/vc_row]
 
 [vc_row full_width="stretch_row" el_class="iga-cta" el_id="iletisim"]

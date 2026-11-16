@@ -796,7 +796,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Since 2018, our team has supported more than 600 families, with Chinese investors representing an important part of our citizenship-by-investment practice."
+        "text": "Our firm's establishment in 2022 is separate from the professional experience of our founder, Irmak Gürer Aksöz, who has worked in Turkish citizenship by investment since 2018. Our team has supported more than 600 families, with Chinese investors representing an important part of our citizenship-by-investment practice."
       },
       {
         "type": "paragraph",
@@ -1749,7 +1749,7 @@
       },
       {
         "type": "paragraph",
-        "text": "Ekibimiz 2018’den bu yana 600’den fazla aileye destek vermiştir. Çinli yatırımcılar, yatırım yoluyla vatandaşlık çalışmalarımızın önemli bir bölümünü oluşturur."
+        "text": "Büromuzun kuruluş yılı 2022’dir; kurucumuz Irmak Gürer Aksöz’ün yatırım yoluyla Türk vatandaşlığı alanındaki mesleki deneyimi ise 2018 yılına uzanır. Ekibimiz 600’den fazla aileye destek vermiştir. Çinli yatırımcılar, yatırım yoluyla vatandaşlık çalışmalarımızın önemli bir bölümünü oluşturur."
       },
       {
         "type": "paragraph",
@@ -2698,7 +2698,7 @@
       },
       {
         "type": "paragraph",
-        "text": "自2018年以来，我们的团队已协助超过600个家庭，中国投资者是本所投资入籍业务的重要客户群体。"
+        "text": "本所成立于2022年，而创始律师Irmak Gürer Aksöz从事土耳其投资入籍相关专业工作的经历始于2018年，两者应予区分。我们的团队已协助超过600个家庭，中国投资者是本所投资入籍业务的重要客户群体。"
       },
       {
         "type": "paragraph",
@@ -3651,7 +3651,7 @@
       },
       {
         "type": "paragraph",
-        "text": "منذ 2018، دعم فريقنا أكثر من 600 أسرة، ويمثل المستثمرون الصينيون جزءاً مهماً من ممارستنا في الجنسية عن طريق الاستثمار."
+        "text": "تأسس مكتبنا عام 2022، وهو تاريخ منفصل عن بداية الخبرة المهنية لمؤسسته Irmak Gürer Aksöz في مجال الجنسية التركية عن طريق الاستثمار عام 2018. دعم فريقنا أكثر من 600 أسرة، ويمثل المستثمرون الصينيون جزءاً مهماً من ممارستنا في الجنسية عن طريق الاستثمار."
       },
       {
         "type": "paragraph",
