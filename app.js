@@ -40,6 +40,7 @@ const team=[
  {"name": "Melih Şeref", "role": "financeDirector", "img": "/public/assets/melih-seref-iga-law-firm.png", "imagePosition": "center top", "realPortrait": true, "bio": {"en": "Coordinates financial planning, budgeting and day-to-day financial operations.", "tr": "Finansal planlama, bütçeleme ve günlük finans işlerini koordine eder.", "zh": "负责协调财务规划、预算及日常财务工作。", "ar": "ينسق التخطيط المالي وإعداد الميزانيات والأعمال المالية اليومية."}}
 ];
 const articles=[
+ {"slug": "vanuatu-vs-turkey-citizenship-by-investment", "title": "Vanuatu vs Turkey Citizenship by Investment: Costs, Risks & Long-Term Value (2026)", "seoTitle": "Vanuatu vs Turkey Citizenship by Investment (2026)", "metaDescription": "Compare Vanuatu and Turkey citizenship by investment in 2026, including costs, visa access, investment recovery, legal risks and long-term value.", "date": "2026", "publicationStatus": "published", "publishedAt": "2026-11-16", "updatedAt": "2026-11-16", "availableLanguages": ["en"], "category": "Investment", "author": "Irmak Gürer Aksöz", "authorPresentation": "profile-card", "faqSchema": false},
  ...(window.chinaSeminarArticle?[window.chinaSeminarArticle]:[]),
  ...(window.tenantedApartmentArticle?[window.tenantedApartmentArticle]:[]),
  window.bankDepositClientArticle,

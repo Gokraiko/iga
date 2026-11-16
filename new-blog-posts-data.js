@@ -1107,3 +1107,1092 @@ window.blogPostContent = Object.assign(window.blogPostContent || {}, {
   ]
 }
 });
+
+// English-only comparison article; publication and attorney review pending.
+window.blogPostContent["vanuatu-vs-turkey-citizenship-by-investment"] = {
+  "title": "Vanuatu vs Turkey Citizenship by Investment: Costs, Risks & Long-Term Value (2026)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Investors comparing Vanuatu and Türkiye's citizenship by investment programmes often begin with two questions: How much does citizenship cost, and how quickly can it be obtained?"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the initial investment is only part of the decision."
+    },
+    {
+      "type": "paragraph",
+      "text": "A citizenship programme should also be evaluated for its legal requirements, travel rights, long-term stability, family eligibility and financial consequences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu and Türkiye offer different approaches. Vanuatu's Development Support Program (DSP) is associated with a non-refundable contribution, while Türkiye offers several qualifying investment routes, including real estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "This guide compares the two countries from an investor's perspective, with particular attention to investment recovery, passport recognition and legal risks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official sources were checked in November 2026; programme requirements, fees and immigration policies can change."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quick Answer: Is Vanuatu or Turkey Better for Citizenship by Investment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither programme is universally better."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu may appeal to investors whose priorities include a lower initial contribution and a potentially shorter application process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye may be more attractive to investors who want to acquire a qualifying asset, maintain an investment over a defined period and potentially recover capital through a later sale."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, a Turkish property investment carries market, currency, liquidity and transaction risks. An investment of USD 400,000 does not guarantee either citizenship approval or preservation of the property's value."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most suitable option depends on the investor's nationality, available capital, family circumstances, travel requirements and long-term objectives."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu vs Turkey: Citizenship by Investment Comparison"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Main route discussed"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Development Support Program",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Development Support Program"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Qualifying real estate investment",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Qualifying real estate investment"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Investment structure"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Generally a non-refundable contribution",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Generally a non-refundable contribution"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Acquisition of qualifying real estate",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Acquisition of qualifying real estate"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Starting amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Confirm current official programme fees",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Confirm current official programme fees"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: At least USD 400,000 for real estate",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " At least USD 400,000 for real estate"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital recovery"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: DSP contribution is non-refundable",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " DSP contribution is non-refundable"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Property may be sold after the applicable holding restriction, subject to market conditions",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Property may be sold after the applicable holding restriction, subject to market conditions"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Processing time"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Depends on the programme and application",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Depends on the programme and application"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Depends on investment, documentation and administrative review",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Depends on investment, documentation and administrative review"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Schengen visa-free travel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Not available under the current EU visa rules",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Not available under the current EU visa rules"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Not generally available to ordinary Turkish passport holders",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Not generally available to ordinary Turkish passport holders"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "UK visa-free travel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Not available under the current UK rules",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Not available under the current UK rules"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Not generally available to ordinary Turkish passport holders",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Not generally available to ordinary Turkish passport holders"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "US E-2 treaty"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: No qualifying E-2 treaty identified",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " No qualifying E-2 treaty identified"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Türkiye is an E-2 treaty country, subject to all applicable conditions",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Türkiye is an E-2 treaty country, subject to all applicable conditions"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Family eligibility"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Depends on programme rules and dependent definitions",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Depends on programme rules and dependent definitions"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Spouse and eligible children may be included under applicable rules",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Spouse and eligible children may be included under applicable rules"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Main consideration"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu: Non-refundable contribution and passport recognition",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Vanuatu:"
+        },
+        {
+          "type": "text",
+          "text": " Non-refundable contribution and passport recognition"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye: Investment compliance, asset value and administrative eligibility",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Türkiye:"
+        },
+        {
+          "type": "text",
+          "text": " Investment compliance, asset value and administrative eligibility"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "This overview is a general comparison, not a determination of individual eligibility."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How Vanuatu Citizenship by Investment Works"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu operates citizenship programmes that include the Development Support Program."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under the DSP structure, qualifying applicants generally make a government contribution rather than purchasing an asset that can later be sold."
+    },
+    {
+      "type": "paragraph",
+      "text": "The programme involves nationality, identity, background and documentation requirements. Applications are handled through the applicable official process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prospective applicants should independently verify current programme availability, authorised intermediaries, contribution schedules, biometric requirements and application procedures with Vanuatu's Citizenship Office."
+    },
+    {
+      "type": "source",
+      "text": "Official source: Vanuatu Citizenship Office",
+      "url": "https://vancitizenship.gov.vu/"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How Much Does Vanuatu Citizenship Cost in 2026?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Vanuatu Citizenship Office’s published Fees and Charges page lists USD 130,000 for a single applicant and a separate USD 5,000 FIU diligence fee. This is not a guaranteed all-inclusive quotation; the applicable programme and current total must be confirmed directly with the Citizenship Office."
+    },
+    {
+      "type": "paragraph",
+      "text": "Published commercial quotations should not be treated as an authoritative fee schedule."
+    },
+    {
+      "type": "source",
+      "text": "Official source: Vanuatu Citizenship Office — Fees and Charges",
+      "url": "https://vancitizenship.gov.vu/index.php/citizenship/fees-and-charges"
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact amount depends on the applicable programme, family composition, official fees and any permitted professional charges."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before proceeding, investors should obtain current written confirmation of:"
+    },
+    {
+      "type": "list",
+      "text": "The applicable government contribution"
+    },
+    {
+      "type": "list",
+      "text": "Due diligence and processing charges"
+    },
+    {
+      "type": "list",
+      "text": "Family-member fees"
+    },
+    {
+      "type": "list",
+      "text": "Authorised intermediary fees"
+    },
+    {
+      "type": "list",
+      "text": "Refund conditions, if any"
+    },
+    {
+      "type": "list",
+      "text": "Programme availability and procedural requirements"
+    },
+    {
+      "type": "paragraph",
+      "text": "A key financial distinction is that a DSP donation is generally not recoverable after it has been validly completed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How Long Does Vanuatu Citizenship Take?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu's investment citizenship programmes are frequently marketed as relatively fast."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, a quoted processing period should not be confused with a guaranteed decision date."
+    },
+    {
+      "type": "paragraph",
+      "text": "The timeline may depend on document preparation, background checks, biometrics, official review and any changes in administrative requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors should confirm current processing expectations with the competent Vanuatu authority rather than rely exclusively on marketing estimates."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Did Vanuatu Lose Visa-Free Access to the European Union?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Passport recognition is a major consideration when comparing citizenship programmes."
+    },
+    {
+      "type": "paragraph",
+      "text": "The European Union progressively restricted Vanuatu's visa-free access because of concerns associated with its investor citizenship schemes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In December 2024, the Council of the European Union decided to remove Vanuatu from the list of countries benefiting from visa-free short-stay travel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Regulation (EU) 2025/11 subsequently formalised the change and entered into force on 3 February 2025."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, Vanuatu passport holders are subject to the applicable Schengen visa requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The United Kingdom separately introduced a visa requirement for Vanuatu nationals in July 2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "These changes demonstrate an important risk: obtaining a second nationality does not guarantee that its international travel privileges will remain unchanged."
+    },
+    {
+      "type": "paragraph",
+      "text": "Official sources:",
+      "inline": [
+        {
+          "type": "strong",
+          "text": "Official sources:"
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "Council of the European Union — Vanuatu visa exemption",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/12/12/vanuatu-council-ends-visa-exemption/"
+    },
+    {
+      "type": "source",
+      "text": "European Parliament — Regulation (EU) 2025/11",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1802174"
+    },
+    {
+      "type": "source",
+      "text": "UK Government — Visa requirement for Vanuatu nationals",
+      "url": "https://www.gov.uk/government/news/visa-requirement-for-ni-vanuatu-nationals-visiting-uk"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "How Turkish Citizenship by Investment Works"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye provides several investment-based routes to exceptional citizenship under its applicable legal framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "For investors interested in real estate, the published minimum qualifying investment is USD 400,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "The property must satisfy the applicable legal and administrative requirements, and a three-year restriction on resale must be registered."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other published investment routes include qualifying bank deposits, fixed capital investment, investment funds and the private pension system, subject to their respective thresholds and conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investment must be assessed by the competent authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "Satisfying the investment threshold does not automatically grant Turkish citizenship. The application remains subject to the official process and the relevant authorities' decisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a complete explanation of the available investment routes, see IGA Law Firm's Turkish Citizenship by Investment guide.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "For a complete explanation of the available investment routes, see IGA Law Firm's "
+        },
+        {
+          "type": "link",
+          "text": "Turkish Citizenship by Investment guide",
+          "page": "investment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors considering alternatives to real estate can also review our comparison of Turkish citizenship investment routes.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Investors considering alternatives to real estate can also review our "
+        },
+        {
+          "type": "link",
+          "text": "comparison of Turkish citizenship investment routes",
+          "page": "journal",
+          "slug": "real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "text": "Official source: Invest in Türkiye — Acquiring Property and Citizenship",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can Investors Recover Their Turkish Citizenship Investment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A major distinction between the two programmes is the financial structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "A qualifying Turkish real estate investment gives the investor ownership of an asset."
+    },
+    {
+      "type": "paragraph",
+      "text": "After the applicable three-year holding restriction has been satisfied and the relevant legal requirements have been checked, the investor may be able to sell the property."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, recovering the original purchase price is not guaranteed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The eventual result depends on factors such as:"
+    },
+    {
+      "type": "list",
+      "text": "The actual market value at purchase"
+    },
+    {
+      "type": "list",
+      "text": "Demand from local and international buyers"
+    },
+    {
+      "type": "list",
+      "text": "Property location and condition"
+    },
+    {
+      "type": "list",
+      "text": "Currency movements"
+    },
+    {
+      "type": "list",
+      "text": "Transaction taxes and expenses"
+    },
+    {
+      "type": "list",
+      "text": "Rental income and operating costs"
+    },
+    {
+      "type": "list",
+      "text": "Market liquidity when the investor wishes to sell"
+    },
+    {
+      "type": "paragraph",
+      "text": "A property advertised for USD 400,000 may not necessarily have a resale market value of USD 400,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Independent valuation and legal due diligence should therefore be considered before a binding commitment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Why Property Eligibility Matters for Turkish Citizenship"
+    },
+    {
+      "type": "paragraph",
+      "text": "The property's advertised price alone does not determine whether it qualifies for citizenship."
+    },
+    {
+      "type": "paragraph",
+      "text": "Relevant considerations include ownership and transfer history, title deed restrictions, transaction documentation, valuation requirements, banking evidence and the applicable holding commitment."
+    },
+    {
+      "type": "paragraph",
+      "text": "An investor may satisfy the headline purchase-price threshold but still encounter documentary or legal issues that affect the citizenship application."
+    },
+    {
+      "type": "paragraph",
+      "text": "This makes the pre-purchase review particularly important."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors should distinguish three separate questions:"
+    },
+    {
+      "type": "list",
+      "text": "Can the property legally be purchased and transferred?"
+    },
+    {
+      "type": "list",
+      "text": "Does the transaction satisfy the applicable citizenship investment requirements?"
+    },
+    {
+      "type": "list",
+      "text": "Is the property commercially suitable for the investor's financial objectives?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A positive answer to one question does not automatically answer the others."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors who have already selected a property can review IGA Law Firm's existing article on checking property eligibility for Turkish citizenship before buying.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Investors who have already selected a property can review IGA Law Firm's existing article on "
+        },
+        {
+          "type": "link",
+          "text": "checking property eligibility for Turkish citizenship before buying",
+          "page": "journal",
+          "slug": "how-to-check-property-eligibility-turkish-citizenship"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Does Turkish Citizenship Provide Access to the US E-2 Investor Visa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye is an E-2 treaty country under the United States' treaty investor framework."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, Turkish citizenship alone does not guarantee an E-2 visa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Applicants must satisfy the applicable requirements concerning nationality, investment, business operations and other immigration criteria."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is an additional consideration for individuals who acquire the nationality of a treaty country through a financial investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under 8 U.S.C. § 1101(a)(15)(E), applicants who acquired the relevant nationality through a financial investment and have not previously been granted E status must have been domiciled in that country for at least three continuous years at some point before applying. The application of this requirement must be assessed individually."
+    },
+    {
+      "type": "source",
+      "text": "Official source: 8 U.S.C. § 1101(a)(15)(E)",
+      "url": "https://uscode.house.gov/us/usc/119-118/t8/s1101/"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors should therefore not assume that purchasing Turkish citizenship through an investment immediately provides eligibility for an E-2 visa."
+    },
+    {
+      "type": "paragraph",
+      "text": "The relevant rules and individual circumstances should be reviewed with qualified US immigration counsel."
+    },
+    {
+      "type": "source",
+      "text": "US Department of State — E Visa Guidance",
+      "url": "https://fam.state.gov/FAM/09FAM/09FAM040209.html"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vanuatu vs Turkey: Three Investor Scenarios"
+    },
+    {
+      "type": "paragraph",
+      "text": "The following examples are hypothetical. They are not descriptions of actual clients or guarantees of eligibility."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scenario 1: An Investor With a Budget of USD 150,000"
+    },
+    {
+      "type": "paragraph",
+      "text": "An investor wants a second nationality but does not wish to commit USD 400,000 to a property purchase."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investor's main priorities are the initial cost and the ability to complete the process without acquiring real estate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu's contribution-based programme may be worth investigating if it is currently available and the investor meets the requirements."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the investor must understand that the contribution is generally non-refundable and that the passport does not provide visa-free access to the Schengen area or the United Kingdom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye's USD 400,000 real estate route would not fit the stated budget."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scenario 2: An Investor With USD 450,000 Seeking a Long-Term Asset"
+    },
+    {
+      "type": "paragraph",
+      "text": "An investor wants a second nationality but also wishes to retain ownership of an investment property."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investor is considering a Turkish apartment and plans to assess its rental potential and resale demand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye's real estate route may better match these objectives."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the investor should independently assess the property's actual market value, transaction costs, ownership history and citizenship eligibility before committing funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "The possibility of future resale does not eliminate the risk of financial loss."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Scenario 3: An Investor Planning Future Business Activities in the United States"
+    },
+    {
+      "type": "paragraph",
+      "text": "An investor is comparing second citizenship options partly because of future US business plans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye's E-2 treaty relationship may be relevant."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, investment-acquired citizenship, domicile requirements and the other conditions of the E-2 visa must be considered."
+    },
+    {
+      "type": "paragraph",
+      "text": "The investor should seek US immigration advice before selecting a citizenship programme based on a potential E-2 application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Importance of Independent Legal Review"
+    },
+    {
+      "type": "paragraph",
+      "text": "Citizenship investment decisions may involve immigration law, banking documentation, property law, international taxation and significant financial commitments."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors should distinguish between programme marketing and independent legal assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "For Turkish real estate transactions, a legal review may include:"
+    },
+    {
+      "type": "list",
+      "text": "Title deed and ownership verification"
+    },
+    {
+      "type": "list",
+      "text": "Seller and transfer-history checks"
+    },
+    {
+      "type": "list",
+      "text": "Contractual obligations"
+    },
+    {
+      "type": "list",
+      "text": "Mortgages, annotations and restrictions"
+    },
+    {
+      "type": "list",
+      "text": "Applicable citizenship documentation"
+    },
+    {
+      "type": "list",
+      "text": "Banking and foreign-exchange records"
+    },
+    {
+      "type": "list",
+      "text": "The three-year holding commitment"
+    },
+    {
+      "type": "list",
+      "text": "Family and application documentation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Independent legal review cannot guarantee citizenship approval, prevent all investment losses or replace financial and tax advice."
+    },
+    {
+      "type": "paragraph",
+      "text": "IGA Law Firm provides legal guidance concerning Turkish citizenship by investment and qualifying property transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Learn more about the scope of representation on the Turkish Citizenship by Investment Lawyer service page.",
+      "inline": [
+        {
+          "type": "text",
+          "text": "Learn more about the scope of representation on the "
+        },
+        {
+          "type": "link",
+          "text": "Turkish Citizenship by Investment Lawyer",
+          "page": "igaturkishcitizenshipbyinvestment",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " service page."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Is Vanuatu citizenship cheaper than Turkish citizenship?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The initial government contribution associated with Vanuatu's DSP has generally been substantially lower than Türkiye's USD 400,000 real estate investment threshold. However, the two structures are different: a non-refundable contribution is not equivalent to purchasing an asset. Current official fees must be verified before comparison."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can a Vanuatu passport holder travel to Europe without a visa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu passport holders are subject to the applicable Schengen visa requirements following the EU's removal of Vanuatu's visa exemption."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Is Turkish citizenship by investment refundable?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turkish citizenship itself is not a refundable product. Under the real estate route, the investor owns qualifying property that may be sold after satisfying the applicable holding requirements. The sale price and recovery of invested capital are not guaranteed."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Is Türkiye better than Vanuatu for long-term investment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye may be more suitable for investors who want an asset-backed investment structure. Vanuatu may be relevant to those prioritising a lower initial contribution. The appropriate choice depends on individual objectives, eligibility and risk tolerance."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can Turkish citizenship provide access to the US E-2 visa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Turkish nationality may satisfy the treaty-country nationality element, but an E-2 application must meet all applicable requirements. Special domicile conditions may apply to nationality acquired through financial investment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Does buying a USD 400,000 property guarantee Turkish citizenship?"
+    },
+    {
+      "type": "paragraph",
+      "text": "No. The property and transaction must satisfy the applicable investment requirements, and the application remains subject to official review and decision."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Can my spouse and children apply with me?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye's investment citizenship framework may allow a spouse and eligible children to be included, depending on their individual circumstances. Vanuatu's dependent eligibility rules must be verified under the relevant programme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Final Considerations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu and Türkiye offer different forms of citizenship investment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vanuatu's contribution-based approach may involve a lower initial financial commitment, but the contribution is generally non-refundable and the passport has experienced significant restrictions on European and UK travel access."
+    },
+    {
+      "type": "paragraph",
+      "text": "Türkiye's real estate route requires a substantially larger investment, but provides ownership of an asset that may later be sold, subject to legal restrictions and market conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Neither programme should be selected solely on the basis of advertised speed, passport rankings or promotional claims."
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors should evaluate the applicable legal requirements, total costs, family eligibility, financial risks and long-term objectives before committing funds."
+    },
+    {
+      "type": "paragraph",
+      "text": "For investors considering the Turkish route, IGA Law Firm provides legal advice on qualifying investment transactions and citizenship application procedures."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Considering Turkish Citizenship Through Investment?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contact IGA Law Firm to discuss the legal requirements of a proposed Turkish citizenship investment.",
+      "inline": [
+        {
+          "type": "link",
+          "text": "Contact IGA Law Firm",
+          "page": "contact",
+          "slug": ""
+        },
+        {
+          "type": "text",
+          "text": " to discuss the legal requirements of a proposed Turkish citizenship investment."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Additional Official References"
+    },
+    {
+      "type": "source",
+      "text": "Regulation (EU) 2025/11 — Official Journal",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/11/oj/eng/pdf"
+    },
+    {
+      "type": "source",
+      "text": "UK Immigration Rules — Visitor Visa National List",
+      "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-visitor-visa-national-list"
+    },
+    {
+      "type": "source",
+      "text": "US Department of State — Treaty Countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    }
+  ],
+  "images": []
+};

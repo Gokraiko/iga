@@ -1,5 +1,9 @@
 // Explicit, reviewed metadata overrides. Existing valid values remain in their source files.
 window.finalSeoMetadata = {
+  "/en/blog/vanuatu-vs-turkey-citizenship-by-investment/": {
+    "title": "Vanuatu vs Turkey Citizenship by Investment (2026)",
+    "description": "Compare Vanuatu and Turkey citizenship by investment in 2026, including costs, visa access, investment recovery, legal risks and long-term value."
+  },
   "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/": {
   "title": "Gayrimenkul Yatırımıyla Türk Vatandaşlığı | Hukuki Rehber",
   "description": "400.000 ABD doları tutarında gayrimenkul yatırımıyla Türk vatandaşlığı: uygunluk, hukuki kontroller, maliyetler, başvuru adımları ve yaygın riskler."
