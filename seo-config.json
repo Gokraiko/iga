@@ -10875,6 +10875,630 @@
       ]
     }
   },
+  "/en/blog/turkey-residence-permit-investment-150000-2026/": {
+    "path": "/en/blog/turkey-residence-permit-investment-150000-2026/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkey Residence Permit by Investment 2026 | IGA",
+    "description": "Explore Turkey's new $150,000 and $200,000 residence permit investment options, bank deposits, family eligibility, holding periods and legal requirements.",
+    "canonical": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/",
+      "title": "Turkey Residence Permit by Investment 2026 | IGA",
+      "description": "Explore Turkey's new $150,000 and $200,000 residence permit investment options, bank deposits, family eligibility, holding periods and legal requirements.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/#webpage",
+          "url": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/",
+          "name": "Turkey Residence Permit by Investment 2026 | IGA",
+          "description": "Explore Turkey's new $150,000 and $200,000 residence permit investment options, bank deposits, family eligibility, holding periods and legal requirements.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/#article",
+          "url": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/",
+          "headline": "Turkey Residence Permit by Investment: New $150,000 and $200,000 Rules in 2026",
+          "description": "Explore Turkey's new $150,000 and $200,000 residence permit investment options, bank deposits, family eligibility, holding periods and legal requirements.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-18T09:00:00+03:00",
+          "dateModified": "2026-11-18T09:10:34.789Z",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Turkey Residence Permit by Investment: New $150,000 and $200,000 Rules in 2026",
+              "item": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/turkey-residence-permit-investment-150000-2026/": {
+    "path": "/tr/blog/turkey-residence-permit-investment-150000-2026/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Yatırım Yoluyla Türkiye İkamet İzni 2026 | IGA",
+    "description": "Türkiye’nin yeni 150.000 ve 200.000 dolarlık yatırım ikamet seçeneklerini; mevduat, aile uygunluğu, yatırım süreleri ve hukuki şartlar bakımından inceleyin.",
+    "canonical": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/",
+      "title": "Yatırım Yoluyla Türkiye İkamet İzni 2026 | IGA",
+      "description": "Türkiye’nin yeni 150.000 ve 200.000 dolarlık yatırım ikamet seçeneklerini; mevduat, aile uygunluğu, yatırım süreleri ve hukuki şartlar bakımından inceleyin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/",
+          "name": "Yatırım Yoluyla Türkiye İkamet İzni 2026 | IGA",
+          "description": "Türkiye’nin yeni 150.000 ve 200.000 dolarlık yatırım ikamet seçeneklerini; mevduat, aile uygunluğu, yatırım süreleri ve hukuki şartlar bakımından inceleyin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/#article",
+          "url": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/",
+          "headline": "Türkiye’de Yatırım Yoluyla İkamet İzni: 2026’da Yeni 150.000 ve 200.000 Dolar Kuralları",
+          "description": "Türkiye’nin yeni 150.000 ve 200.000 dolarlık yatırım ikamet seçeneklerini; mevduat, aile uygunluğu, yatırım süreleri ve hukuki şartlar bakımından inceleyin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-18T09:00:00+03:00",
+          "dateModified": "2026-11-18T09:10:34.792Z",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkiye’de Yatırım Yoluyla İkamet İzni: 2026’da Yeni 150.000 ve 200.000 Dolar Kuralları",
+              "item": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/turkey-residence-permit-investment-150000-2026/": {
+    "path": "/zh/blog/turkey-residence-permit-investment-150000-2026/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "2026年土耳其投资居留许可 | IGA",
+    "description": "了解土耳其15万美元和20万美元投资居留新方案，包括银行存款、家庭成员资格、投资持有期限及法律要求。",
+    "canonical": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/",
+      "title": "2026年土耳其投资居留许可 | IGA",
+      "description": "了解土耳其15万美元和20万美元投资居留新方案，包括银行存款、家庭成员资格、投资持有期限及法律要求。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/",
+          "name": "2026年土耳其投资居留许可 | IGA",
+          "description": "了解土耳其15万美元和20万美元投资居留新方案，包括银行存款、家庭成员资格、投资持有期限及法律要求。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/#article",
+          "url": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/",
+          "headline": "土耳其投资居留许可：2026年15万美元和20万美元新规",
+          "description": "了解土耳其15万美元和20万美元投资居留新方案，包括银行存款、家庭成员资格、投资持有期限及法律要求。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-18T09:00:00+03:00",
+          "dateModified": "2026-11-18T09:10:34.793Z",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "土耳其投资居留许可：2026年15万美元和20万美元新规",
+              "item": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/turkey-residence-permit-investment-150000-2026/": {
+    "path": "/ar/blog/turkey-residence-permit-investment-150000-2026/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "الإقامة في تركيا بالاستثمار 2026 | IGA",
+    "description": "تعرّف على خيارات الإقامة الاستثمارية الجديدة في تركيا بمبلغ 150,000 و200,000 دولار، والودائع المصرفية، وأهلية الأسرة، ومدد الاحتفاظ بالاستثمار والشروط القانونية.",
+    "canonical": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/",
+      "title": "الإقامة في تركيا بالاستثمار 2026 | IGA",
+      "description": "تعرّف على خيارات الإقامة الاستثمارية الجديدة في تركيا بمبلغ 150,000 و200,000 دولار، والودائع المصرفية، وأهلية الأسرة، ومدد الاحتفاظ بالاستثمار والشروط القانونية.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/",
+          "name": "الإقامة في تركيا بالاستثمار 2026 | IGA",
+          "description": "تعرّف على خيارات الإقامة الاستثمارية الجديدة في تركيا بمبلغ 150,000 و200,000 دولار، والودائع المصرفية، وأهلية الأسرة، ومدد الاحتفاظ بالاستثمار والشروط القانونية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/#article",
+          "url": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/",
+          "headline": "تصريح الإقامة في تركيا بالاستثمار: قواعد 150,000 و200,000 دولار الجديدة في 2026",
+          "description": "تعرّف على خيارات الإقامة الاستثمارية الجديدة في تركيا بمبلغ 150,000 و200,000 دولار، والودائع المصرفية، وأهلية الأسرة، ومدد الاحتفاظ بالاستثمار والشروط القانونية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-18T09:00:00+03:00",
+          "dateModified": "2026-11-18T09:10:34.793Z",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "تصريح الإقامة في تركيا بالاستثمار: قواعد 150,000 و200,000 دولار الجديدة في 2026",
+              "item": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/": {
     "path": "/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
     "language": "en",

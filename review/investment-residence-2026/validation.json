@@ -1,0 +1,58 @@
+{
+  "baseline_pages": 245,
+  "new_pages": 4,
+  "total_pages": 249,
+  "existing_metadata_identical": 245,
+  "existing_html_identical": 240,
+  "existing_html_changed": [
+    "/en/blog/",
+    "/tr/blog/",
+    "/zh/blog/",
+    "/ar/blog/",
+    "/en/turkey-residence-permit/"
+  ],
+  "existing_history_unchanged": true,
+  "existing_sitemap_entries_unchanged": true,
+  "articles": {
+    "en": {
+      "blocks": 238,
+      "tables": 2,
+      "canonical": "https://igalawfirm.com/en/blog/turkey-residence-permit-investment-150000-2026/",
+      "author": {
+        "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+      },
+      "datePublished": "2026-11-18T09:00:00+03:00",
+      "alternates": 5
+    },
+    "tr": {
+      "blocks": 238,
+      "tables": 2,
+      "canonical": "https://igalawfirm.com/tr/blog/turkey-residence-permit-investment-150000-2026/",
+      "author": {
+        "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+      },
+      "datePublished": "2026-11-18T09:00:00+03:00",
+      "alternates": 5
+    },
+    "zh": {
+      "blocks": 238,
+      "tables": 2,
+      "canonical": "https://igalawfirm.com/zh/blog/turkey-residence-permit-investment-150000-2026/",
+      "author": {
+        "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+      },
+      "datePublished": "2026-11-18T09:00:00+03:00",
+      "alternates": 5
+    },
+    "ar": {
+      "blocks": 238,
+      "tables": 2,
+      "canonical": "https://igalawfirm.com/ar/blog/turkey-residence-permit-investment-150000-2026/",
+      "author": {
+        "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+      },
+      "datePublished": "2026-11-18T09:00:00+03:00",
+      "alternates": 5
+    }
+  }
+}
