@@ -1,0 +1,85 @@
+{
+  "pages": 253,
+  "unchangedExistingHtml": 250,
+  "changedExistingHtml": [
+    "zh/blog/index.html",
+    "ar/blog/index.html",
+    "en/blog/turkish-citizenship-e2-visa/index.html",
+    "tr/blog/index.html"
+  ],
+  "newPages": [
+    "/tr/blog/turkish-citizenship-e2-visa/",
+    "/zh/blog/turkish-citizenship-e2-visa/",
+    "/ar/blog/turkish-citizenship-e2-visa/"
+  ],
+  "existingMetadataChanged": [
+    "/en/blog/turkish-citizenship-e2-visa/"
+  ],
+  "englishArticleBodyUnchanged": true,
+  "existingArticleDatesUnchanged": true,
+  "sitemapExistingUnrelatedEntriesUnchanged": true,
+  "articleChecks": [
+    {
+      "language": "en",
+      "canonical": "/en/blog/turkish-citizenship-e2-visa/",
+      "tables": 2,
+      "links": 16,
+      "hreflang": 5,
+      "author": "Irmak Gürer Aksöz"
+    },
+    {
+      "language": "tr",
+      "canonical": "/tr/blog/turkish-citizenship-e2-visa/",
+      "tables": 2,
+      "links": 16,
+      "hreflang": 5,
+      "author": "Irmak Gürer Aksöz"
+    },
+    {
+      "language": "zh",
+      "canonical": "/zh/blog/turkish-citizenship-e2-visa/",
+      "tables": 2,
+      "links": 16,
+      "hreflang": 5,
+      "author": "Irmak Gürer Aksöz"
+    },
+    {
+      "language": "ar",
+      "canonical": "/ar/blog/turkish-citizenship-e2-visa/",
+      "tables": 2,
+      "links": 16,
+      "hreflang": 5,
+      "author": "Irmak Gürer Aksöz"
+    }
+  ],
+  "internalLinks": [
+    "/en/turkish-citizenship-by-investment-lawyer/",
+    "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "/en/contact/",
+    "/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+    "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/tr/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "/tr/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "/tr/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "/tr/contact/",
+    "/zh/tuerqi-touzi-ruji-lushi/",
+    "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/zh/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "/zh/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "/zh/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "/zh/contact/",
+    "/ar/turkish-citizenship-by-investment-lawyer/",
+    "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/ar/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/",
+    "/ar/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/",
+    "/ar/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/",
+    "/ar/contact/"
+  ]
+}

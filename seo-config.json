@@ -10888,6 +10888,18 @@
         "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
       },
       {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/"
+      },
+      {
         "hreflang": "x-default",
         "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
       }
@@ -11013,6 +11025,474 @@
               "position": 3,
               "name": "Turkish Citizenship to US E-2 Visa: The 3-Year Rule, Eligibility & Timeline (2026)",
               "item": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/turkish-citizenship-e2-visa/": {
+    "path": "/tr/blog/turkish-citizenship-e2-visa/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türk Vatandaşlığı ve E-2 Vizesi: 3 Yıl Kuralı (2026)",
+    "description": "Türk pasaportu ABD E-2 vizesi için yeterli mi? Üç yıllık yerleşim yeri şartını, yatırım koşullarını, süreçleri ve hukuki riskleri öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/",
+      "title": "Türk Vatandaşlığı ve E-2 Vizesi: 3 Yıl Kuralı (2026)",
+      "description": "Türk pasaportu ABD E-2 vizesi için yeterli mi? Üç yıllık yerleşim yeri şartını, yatırım koşullarını, süreçleri ve hukuki riskleri öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/",
+          "name": "Türk Vatandaşlığı ve E-2 Vizesi: 3 Yıl Kuralı (2026)",
+          "description": "Türk pasaportu ABD E-2 vizesi için yeterli mi? Üç yıllık yerleşim yeri şartını, yatırım koşullarını, süreçleri ve hukuki riskleri öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/#article",
+          "url": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/",
+          "headline": "Türk Vatandaşlığından ABD E-2 Vizesine: 3 Yıl Kuralı, Uygunluk ve Süreç (2026)",
+          "description": "Türk pasaportu ABD E-2 vizesi için yeterli mi? Üç yıllık yerleşim yeri şartını, yatırım koşullarını, süreçleri ve hukuki riskleri öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-19T09:00:00+03:00",
+          "dateModified": "2026-11-19T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türk Vatandaşlığından ABD E-2 Vizesine: 3 Yıl Kuralı, Uygunluk ve Süreç (2026)",
+              "item": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/turkish-citizenship-e2-visa/": {
+    "path": "/zh/blog/turkish-citizenship-e2-visa/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "土耳其国籍与美国E-2签证：三年规则（2026）",
+    "description": "土耳其护照能否满足美国E-2签证资格？了解三年住所要求、投资条件、时间规划及法律风险。",
+    "canonical": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/",
+      "title": "土耳其国籍与美国E-2签证：三年规则（2026）",
+      "description": "土耳其护照能否满足美国E-2签证资格？了解三年住所要求、投资条件、时间规划及法律风险。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/",
+          "name": "土耳其国籍与美国E-2签证：三年规则（2026）",
+          "description": "土耳其护照能否满足美国E-2签证资格？了解三年住所要求、投资条件、时间规划及法律风险。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/#article",
+          "url": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/",
+          "headline": "从土耳其国籍到美国E-2签证：三年规则、申请资格与时间规划（2026）",
+          "description": "土耳其护照能否满足美国E-2签证资格？了解三年住所要求、投资条件、时间规划及法律风险。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-19T09:00:00+03:00",
+          "dateModified": "2026-11-19T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "从土耳其国籍到美国E-2签证：三年规则、申请资格与时间规划（2026）",
+              "item": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/turkish-citizenship-e2-visa/": {
+    "path": "/ar/blog/turkish-citizenship-e2-visa/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "الجنسية التركية وتأشيرة E-2: قاعدة السنوات الثلاث (2026)",
+    "description": "هل يؤهلك جواز السفر التركي لتأشيرة E-2 الأمريكية؟ تعرّف على شرط الموطن لثلاث سنوات ومتطلبات الاستثمار والجدول الزمني والمخاطر القانونية.",
+    "canonical": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/",
+      "title": "الجنسية التركية وتأشيرة E-2: قاعدة السنوات الثلاث (2026)",
+      "description": "هل يؤهلك جواز السفر التركي لتأشيرة E-2 الأمريكية؟ تعرّف على شرط الموطن لثلاث سنوات ومتطلبات الاستثمار والجدول الزمني والمخاطر القانونية.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/",
+          "name": "الجنسية التركية وتأشيرة E-2: قاعدة السنوات الثلاث (2026)",
+          "description": "هل يؤهلك جواز السفر التركي لتأشيرة E-2 الأمريكية؟ تعرّف على شرط الموطن لثلاث سنوات ومتطلبات الاستثمار والجدول الزمني والمخاطر القانونية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/#article",
+          "url": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/",
+          "headline": "من الجنسية التركية إلى تأشيرة E-2 الأمريكية: قاعدة السنوات الثلاث والأهلية والجدول الزمني (2026)",
+          "description": "هل يؤهلك جواز السفر التركي لتأشيرة E-2 الأمريكية؟ تعرّف على شرط الموطن لثلاث سنوات ومتطلبات الاستثمار والجدول الزمني والمخاطر القانونية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-19T09:00:00+03:00",
+          "dateModified": "2026-11-19T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "من الجنسية التركية إلى تأشيرة E-2 الأمريكية: قاعدة السنوات الثلاث والأهلية والجدول الزمني (2026)",
+              "item": "https://igalawfirm.com/ar/blog/turkish-citizenship-e2-visa/"
             }
           ]
         }

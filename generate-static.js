@@ -108,7 +108,7 @@ for (const route of routes) {
     <meta name="twitter:image" content="${escapeHtml(pageConfig.openGraph.image)}" />
     <script type="application/ld+json" id="iga-structured-data">${JSON.stringify(pageConfig.structuredData).replace(/<\//g, '<\\/')}</script>`;
     const html = template
-      .replace('    <script src="/e2-visa-post.js" defer></script>\n', () => lang==='en' && route.page==='journal' && (!route.sub || route.sub===window.e2VisaArticle.slug || window.e2BacklinkChanges.some(b=>b.source===route.sub)) ? '    <script src="/e2-visa-post.js" defer></script>\n' : '')
+      .replace('    <script src="/e2-visa-post.js" defer></script>\n', () => route.page==='journal' && (!route.sub || route.sub===window.e2VisaArticle.slug || (lang==='en' && window.e2BacklinkChanges.some(b=>b.source===route.sub))) ? '    <script src="/e2-visa-post.js" defer></script>\n' : '')
       .replace('    <script src="/investment-residence-post.js" defer></script>\n', () => (route.page === 'journal' && (!route.sub || route.sub === window.investmentResidenceArticle.slug)) || (lang === 'en' && route.page === 'igalawresidencepermit') ? '    <script src="/investment-residence-post.js" defer></script>\n' : '')
       .replace('    <script src="/china-seminars-post.js" defer></script>\n', () => route.page === 'journal' && ['en','zh'].includes(lang) && (!route.sub || route.sub === window.chinaSeminarArticle.slug) ? '    <script src="/china-seminars-post.js" defer></script>\n' : '')
       .replace('    <script src="/tenanted-apartment-post.js" defer></script>\n', () => route.page === 'journal' && ['en','zh'].includes(lang) && (!route.sub || route.sub === window.tenantedApartmentArticle.slug) ? '    <script src="/tenanted-apartment-post.js" defer></script>\n' : '')
