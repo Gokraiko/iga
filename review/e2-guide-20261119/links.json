@@ -1,0 +1,110 @@
+{
+  "outbound": [
+    {
+      "anchor": "Turkish citizenship by investment legal services",
+      "url": "/en/turkish-citizenship-by-investment-lawyer/"
+    },
+    {
+      "anchor": "Turkish citizenship investment requirements",
+      "url": "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/"
+    },
+    {
+      "anchor": "verify property eligibility before buying",
+      "url": "/en/blog/how-to-check-property-eligibility-turkish-citizenship/"
+    },
+    {
+      "anchor": "Turkish citizenship investment options",
+      "url": "/en/blog/real-estate-vs-bank-deposit-vs-bes-for-turkish-citizenship-a-legal-and-strategic-comparison-2026/"
+    },
+    {
+      "anchor": "selling citizenship investment property after three years",
+      "url": "/en/blog/turkish-citizenship-property-sale-after-3-years-how-to-sell-your-property-investment-in-turkey/"
+    },
+    {
+      "anchor": "Turkish citizenship for Chinese investors",
+      "url": "/en/blog/turkish-citizenship-for-chinese-citizens-in-2026-documents-hukou-apostille-family-guide/"
+    },
+    {
+      "anchor": "**Request a Turkish Citizenship Eligibility Assessment**",
+      "url": "/en/contact/"
+    },
+    {
+      "anchor": "US Code — 8 U.S.C. § 1101(a)(15)(E)",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapI-sec1101.htm"
+    },
+    {
+      "anchor": "Public Law 117-263 — section 5902(b), printed page 3440",
+      "url": "https://www.congress.gov/117/plaws/publ263/PLAW-117publ263.pdf#page=1046"
+    },
+    {
+      "anchor": "US Department of State — 9 FAM 402.9",
+      "url": "https://fam.state.gov/FAM/09FAM/09FAM040209.html"
+    },
+    {
+      "anchor": "USCIS — E-2 Treaty Investors",
+      "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/e-2-treaty-investors"
+    },
+    {
+      "anchor": "US Department of State — Treaty Countries",
+      "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html"
+    },
+    {
+      "anchor": "Invest in Türkiye — Acquiring Property and Citizenship",
+      "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+    },
+    {
+      "anchor": "TKGM — Citizenship property investment guide",
+      "url": "https://www.tkgm.gov.tr/sites/default/files/2024-12/Kilavuz-2_1.pdf"
+    },
+    {
+      "anchor": "China National Immigration Administration — Nationality Law, Articles 3 and 9",
+      "url": "https://en.nia.gov.cn/n147418/n147458/c155976/content.html"
+    },
+    {
+      "anchor": "High Commission of India — Citizenship Act section 9 and acquisition of foreign nationality",
+      "url": "https://www.hcigaborone.gov.in/page/renunciation-of-indian-nationality-and-surrender-of-indian-passport/"
+    }
+  ],
+  "inbound": [
+    {
+      "source": "/en/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "three continuous years"
+    },
+    {
+      "source": "/en/blog/dubai-golden-visa/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "three continuous years of domicile"
+    },
+    {
+      "source": "/en/blog/the-strongest-passports-in-the-world/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "US E-2 application"
+    },
+    {
+      "source": "/en/blog/is-turkey-a-european-or-asian-country/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "three-continuous-year domicile requirement"
+    },
+    {
+      "source": "/en/blog/triple-citizenship/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "three years of continuous domicile"
+    },
+    {
+      "source": "/en/blog/dual-citizenship-for-americans/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "three continuous years of domicile"
+    },
+    {
+      "source": "/en/blog/easiest-country-to-get-citizenship/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "E-2 treaty with the United States"
+    },
+    {
+      "source": "/en/blog/citizenship-by-investment-programs/",
+      "target": "/en/blog/turkish-citizenship-e2-visa/",
+      "anchor": "continuous three-year domicile requirement"
+    }
+  ]
+}

@@ -10364,7 +10364,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-11-16T09:00:00+03:00",
-          "dateModified": "2026-11-16T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.342Z",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }
@@ -10869,6 +10869,148 @@
               "position": 3,
               "name": "الجنسية بالاستثمار في فانواتو وتركيا: التكاليف والمخاطر والقيمة طويلة الأجل (2026)",
               "item": "https://igalawfirm.com/ar/blog/vanuatu-vs-turkey-citizenship-by-investment/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/blog/turkish-citizenship-e2-visa/": {
+    "path": "/en/blog/turkish-citizenship-e2-visa/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Turkish Citizenship E-2 Visa: 3-Year Rule (2026)",
+    "description": "Can a Turkish passport qualify you for a US E-2 visa? Understand the 3-year domicile rule, investment requirements, timelines and legal risks.",
+    "canonical": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
+      }
+    ],
+    "robots": "noindex,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/",
+      "title": "Turkish Citizenship E-2 Visa: 3-Year Rule (2026)",
+      "description": "Can a Turkish passport qualify you for a US E-2 visa? Understand the 3-year domicile rule, investment requirements, timelines and legal risks.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/#webpage",
+          "url": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/",
+          "name": "Turkish Citizenship E-2 Visa: 3-Year Rule (2026)",
+          "description": "Can a Turkish passport qualify you for a US E-2 visa? Understand the 3-year domicile rule, investment requirements, timelines and legal risks.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/#article",
+          "url": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/",
+          "headline": "Turkish Citizenship to US E-2 Visa: The 3-Year Rule, Eligibility & Timeline (2026)",
+          "description": "Can a Turkish passport qualify you for a US E-2 visa? Understand the 3-year domicile rule, investment requirements, timelines and legal risks.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Turkish Citizenship to US E-2 Visa: The 3-Year Rule, Eligibility & Timeline (2026)",
+              "item": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
             }
           ]
         }
@@ -14831,7 +14973,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-10-26T09:00:00+03:00",
-          "dateModified": "2026-10-26T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.371Z",
           "image": {
             "@type": "ImageObject",
             "@id": "https://igalawfirm.com/en/blog/dubai-golden-visa/#primaryimage",
@@ -15720,7 +15862,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-10-25T09:00:00+03:00",
-          "dateModified": "2026-10-25T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.375Z",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }
@@ -16556,7 +16698,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-10-24T09:00:00+03:00",
-          "dateModified": "2026-10-24T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.378Z",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }
@@ -17392,7 +17534,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-10-23T09:00:00+03:00",
-          "dateModified": "2026-10-23T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.380Z",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }
@@ -19471,7 +19613,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2026-10-13T09:00:00+03:00"
+          "dateModified": "2026-11-19T10:14:21.386Z"
         },
         {
           "@type": "Person",
@@ -21143,7 +21285,7 @@
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           },
-          "dateModified": "2026-10-13T09:00:00+03:00"
+          "dateModified": "2026-11-19T10:14:21.392Z"
         },
         {
           "@type": "Person",
@@ -22812,7 +22954,7 @@
             "@id": "https://igalawfirm.com/#organization"
           },
           "datePublished": "2026-10-13T09:00:00+03:00",
-          "dateModified": "2026-10-21T09:00:00+03:00",
+          "dateModified": "2026-11-19T10:14:21.397Z",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }

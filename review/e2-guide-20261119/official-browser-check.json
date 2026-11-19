@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf",
+    "responses": [],
+    "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf\nCall log:\n\u001b[2m  - navigating to \"https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/treaty.html",
+    "responses": [
+      403
+    ],
+    "title": "Attention Required! | Cloudflare"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "baseline": 249,
+  "previewPages": 250,
+  "changedExisting": [
+    "/en/blog/",
+    "/en/blog/vanuatu-vs-turkey-citizenship-by-investment/",
+    "/en/blog/dubai-golden-visa/",
+    "/en/blog/the-strongest-passports-in-the-world/",
+    "/en/blog/is-turkey-a-european-or-asian-country/",
+    "/en/blog/triple-citizenship/",
+    "/en/blog/dual-citizenship-for-americans/",
+    "/en/blog/easiest-country-to-get-citizenship/",
+    "/en/blog/citizenship-by-investment-programs/"
+  ],
+  "visibleTextChanged": [
+    "/en/blog/",
+    "/en/blog/dual-citizenship-for-americans/"
+  ],
+  "existingLinksRemoved": [],
+  "unchangedExistingHtml": 240,
+  "newInternalLinks": 7,
+  "backlinks": 8,
+  "tables": 2,
+  "existingTitlesH1MetaCanonicalHreflangPreserved": true,
+  "existingSchemaPreservedExceptRelatedDateModified": true,
+  "sitemapAndRobotsUnchanged": true,
+  "draftNoindex": true,
+  "publicationDate": null,
+  "legalReviewDate": null
+}
