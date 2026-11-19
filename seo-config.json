@@ -10892,7 +10892,7 @@
         "href": "https://igalawfirm.com/en/blog/turkish-citizenship-e2-visa/"
       }
     ],
-    "robots": "noindex,follow",
+    "robots": "index,follow",
     "openGraph": {
       "type": "article",
       "locale": "en_US",
@@ -10975,6 +10975,8 @@
           "publisher": {
             "@id": "https://igalawfirm.com/#organization"
           },
+          "datePublished": "2026-11-19T09:00:00+03:00",
+          "dateModified": "2026-11-19T09:00:00+03:00",
           "author": {
             "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
           }

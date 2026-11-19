@@ -851,7 +851,7 @@
     }
   ]
 }};
- window.e2VisaArticle={slug,title:copy.en.title,seoTitle:copy.en.seoTitle,metaDescription:copy.en.metaDescription,date:'2026',publicationStatus:'draft',legalApproval:false,availableLanguages:['en'],category:'Citizenship',author:'Irmak Gürer Aksöz',authorPresentation:'profile-card',faqSchema:false};
+ window.e2VisaArticle={slug,title:copy.en.title,seoTitle:copy.en.seoTitle,metaDescription:copy.en.metaDescription,date:'2026',publicationStatus:'published',legalApproval:true,publishedAt:'2026-11-19',updatedAt:'2026-11-19',availableLanguages:['en'],category:'Citizenship',author:'Irmak Gürer Aksöz',authorPresentation:'profile-card',faqSchema:false};
  window.blogPostContent[slug]=copy.en;
  window.finalSeoMetadata['/en/blog/'+slug+'/']={title:copy.en.seoTitle,description:copy.en.metaDescription};
  // Only the English data is changed; translated articles retain their own blocks.
