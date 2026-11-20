@@ -1,6 +1,6 @@
 import pathlib,json,subprocess,copy,collections
 from lxml import html,etree
-r=pathlib.Path(__file__).resolve().parents[2];base=pathlib.Path('/private/tmp/iga-profile-baseline');seo=json.loads((r/'seo-config.json').read_text());old=json.loads(subprocess.check_output(['git','show','HEAD:seo-config.json'],cwd=r));person='https://igalawfirm.com/#irmak-gurer-aksoz';li='https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/';checks=[]
+r=pathlib.Path(__file__).resolve().parents[2];base=pathlib.Path('/private/tmp/iga-profile-baseline');seo=json.loads((r/'seo-config.json').read_text());old=json.loads(subprocess.check_output(['git','show','ae19bcb32bf91b9a171256bab846d68f11126d7a:seo-config.json'],cwd=r));person='https://igalawfirm.com/#irmak-gurer-aksoz';li='https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/';checks=[]
 assert len(seo)==257 and len(old)==253
 for url,previous in old.items():
  current=copy.deepcopy(seo[url]);previous=copy.deepcopy(previous)
@@ -13,9 +13,9 @@ for url,previous in old.items():
  for aa,bb in zip(a.xpath('//article[contains(@class,"article-full")]'),b.xpath('//article[contains(@class,"article-full")]')):assert etree.tostring(aa)==etree.tostring(bb),('Article changed',url)
  for author in b.xpath('//a[@rel="author"]'):
   if 'Irmak' in author.text_content():assert author.get('href')=='/'+url.split('/')[1]+'/team/irmak-gurer-aksoz/'
-assert (r/'article-content-history.json').read_bytes()==subprocess.check_output(['git','show','HEAD:article-content-history.json'],cwd=r)
+assert (r/'article-content-history.json').read_bytes()==subprocess.check_output(['git','show','ae19bcb32bf91b9a171256bab846d68f11126d7a:article-content-history.json'],cwd=r)
 for file in ['vercel.json','blog-slugs.json','styles.css','china-seminars-post.js']:
- assert (r/file).read_bytes()==subprocess.check_output(['git','show','HEAD:'+file],cwd=r),file
+ assert (r/file).read_bytes()==subprocess.check_output(['git','show','ae19bcb32bf91b9a171256bab846d68f11126d7a:'+file],cwd=r),file
 profiles=[];internal=set()
 for lang in ['en','tr','zh','ar']:
  path='/'+lang+'/team/irmak-gurer-aksoz/';d=html.parse(str(r/'dist'/path.strip('/')/'index.html'));c=seo[path];g=c['structuredData']['@graph'];p=next(n for n in g if n['@type']=='ProfilePage');entity=next(n for n in g if n['@id']==person)
