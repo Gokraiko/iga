@@ -344,6 +344,7 @@ function homeAuthorityMarkup(lang,section){
  return '';
 }
 function homeTeamFocus(member,lang,page){
+ if(page==='team'&&member.name==='Irmak Gürer Aksöz')return `<a class="team-profile-link" href="${pathFor(lang,'team','irmak-gurer-aksoz')}">${esc({en:'View profile',tr:'Profili görüntüle',zh:'查看个人简介',ar:'عرض الملف المهني'}[lang])} ↗</a>`;
  if(page!=='home')return '';
  const d=window.homeAuthorityContent?.[lang];const focus=d?.teamFocus?.[member.name];
  return `${focus?`<p class="team-focus"><span>${esc(d.focusLabel)}:</span> ${esc(focus)}</p>`:''}<a class="team-profile-link" href="${member.name==='Irmak Gürer Aksöz'?pathFor(lang,'team','irmak-gurer-aksoz'):pathFor(lang,'team')+'#'+homeTeamAnchors[member.name]}">${esc(d?.teamLink||copy[lang].nav[3])} ↗</a>`;
