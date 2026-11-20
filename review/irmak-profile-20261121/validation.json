@@ -1,0 +1,156 @@
+{
+  "profiles": [
+    {
+      "path": "/en/team/irmak-gurer-aksoz/",
+      "title": "Irmak Gürer Aksöz | Turkish Citizenship Lawyer | IGA",
+      "description": "Meet Irmak Gürer Aksöz, founder of IGA Law Firm. Izmir Bar-registered attorney working in Turkish citizenship by investment and foreign nationals law since 2018.",
+      "canonical": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "tr",
+          "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "zh-CN",
+          "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "ar",
+          "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        }
+      ]
+    },
+    {
+      "path": "/tr/team/irmak-gurer-aksoz/",
+      "title": "Av. Irmak Gürer Aksöz | IGA Law Firm Kurucu Avukatı",
+      "description": "Av. Irmak Gürer Aksöz, İstanbul Üniversitesi mezunu ve İzmir Barosu'na kayıtlıdır. 2018'den beri yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
+      "canonical": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "tr",
+          "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "zh-CN",
+          "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "ar",
+          "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        }
+      ]
+    },
+    {
+      "path": "/zh/team/irmak-gurer-aksoz/",
+      "title": "Irmak Gürer Aksöz 律师 | 土耳其投资入籍 | IGA Law Firm",
+      "description": "了解 IGA Law Firm 创始律师 Irmak Gürer Aksöz。自2018年起从事外国人法律事务及土耳其投资入籍相关法律工作。",
+      "canonical": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "tr",
+          "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "zh-CN",
+          "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "ar",
+          "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        }
+      ]
+    },
+    {
+      "path": "/ar/team/irmak-gurer-aksoz/",
+      "title": "المحامية Irmak Gürer Aksöz | الجنسية التركية بالاستثمار",
+      "description": "تعرف على المحامية Irmak Gürer Aksöz، مؤسسة IGA Law Firm، والمسجلة في نقابة المحامين بإزمير، والتي تعمل في شؤون الأجانب والجنسية التركية عن طريق الاستثمار منذ عام 2018.",
+      "canonical": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
+      "hreflang": [
+        {
+          "hreflang": "en",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "tr",
+          "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "zh-CN",
+          "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "ar",
+          "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        }
+      ]
+    }
+  ],
+  "existingPagesChecked": 253,
+  "existingMetadataUnchangedExceptFounderProfileUrl": true,
+  "articleBodiesAndDatesUnchanged": true,
+  "existingSitemapEntriesAndRedirectsUnchanged": true,
+  "internalLinks": [
+    "/ar/",
+    "/ar/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/ar/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/ar/blog/turkish-citizenship-e2-visa/",
+    "/ar/contact/",
+    "/ar/igalawrealestateduediligence/",
+    "/ar/team/",
+    "/ar/turkish-citizenship-by-investment-lawyer/",
+    "/en/",
+    "/en/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/en/blog/iga-law-firm-china-turkish-citizenship-investment-seminars-2026/",
+    "/en/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/en/blog/turkish-citizenship-e2-visa/",
+    "/en/contact/",
+    "/en/igalawrealestateduediligence/",
+    "/en/team/",
+    "/en/turkish-citizenship-by-investment-lawyer/",
+    "/tr/",
+    "/tr/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/tr/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/tr/blog/turkish-citizenship-e2-visa/",
+    "/tr/contact/",
+    "/tr/igalawrealestateduediligence/",
+    "/tr/team/",
+    "/tr/yatirim-yoluyla-turk-vatandasligi-avukati/",
+    "/zh/",
+    "/zh/blog/how-to-check-property-eligibility-turkish-citizenship/",
+    "/zh/blog/iga-law-firm-china-turkey-property-citizenship-seminars-2026/",
+    "/zh/blog/turkish-citizenship-by-real-estate-investment-2025-complete-guide/",
+    "/zh/blog/turkish-citizenship-e2-visa/",
+    "/zh/contact/",
+    "/zh/igalawrealestateduediligence/",
+    "/zh/team/",
+    "/zh/tuerqi-touzi-ruji-lushi/"
+  ]
+}

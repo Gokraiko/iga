@@ -1,0 +1,28 @@
+{
+  "path": "/tr/team/irmak-gurer-aksoz/",
+  "title": "Av. Irmak Gürer Aksöz | IGA Law Firm Kurucu Avukatı",
+  "description": "Av. Irmak Gürer Aksöz, İstanbul Üniversitesi mezunu ve İzmir Barosu'na kayıtlıdır. 2018'den beri yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
+  "canonical": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+  "hreflang": [
+    {
+      "hreflang": "en",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "tr",
+      "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "zh-CN",
+      "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "ar",
+      "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "x-default",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    }
+  ]
+}

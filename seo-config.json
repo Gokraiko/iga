@@ -113,7 +113,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         }
       ]
     }
@@ -232,7 +232,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         }
       ]
     }
@@ -351,7 +351,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         }
       ]
     }
@@ -470,7 +470,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         }
       ]
     }
@@ -585,7 +585,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -788,7 +788,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -991,7 +991,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -1194,7 +1194,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -1394,7 +1394,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -1554,7 +1554,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -1714,7 +1714,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -1874,7 +1874,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -2066,7 +2066,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "Person",
@@ -2318,7 +2318,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "Person",
@@ -2570,7 +2570,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "Person",
@@ -2822,7 +2822,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "Person",
@@ -3045,7 +3045,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3178,7 +3178,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3311,7 +3311,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3444,7 +3444,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3574,7 +3574,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3704,7 +3704,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3834,7 +3834,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -3964,7 +3964,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4094,7 +4094,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4224,7 +4224,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4354,7 +4354,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4484,7 +4484,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4627,7 +4627,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -4862,7 +4862,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -5089,7 +5089,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -5316,7 +5316,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -5543,7 +5543,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -5714,7 +5714,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -5885,7 +5885,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6056,7 +6056,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6227,7 +6227,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6398,7 +6398,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6569,7 +6569,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6740,7 +6740,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -6911,7 +6911,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7082,7 +7082,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7253,7 +7253,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7424,7 +7424,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7595,7 +7595,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7766,7 +7766,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -7937,7 +7937,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8108,7 +8108,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8279,7 +8279,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8450,7 +8450,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8621,7 +8621,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8792,7 +8792,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -8963,7 +8963,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -9174,7 +9174,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -9345,7 +9345,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -9516,7 +9516,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -9687,7 +9687,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -9858,7 +9858,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -10029,7 +10029,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -10200,7 +10200,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -10377,7 +10377,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -10533,7 +10533,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -10689,7 +10689,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -10845,7 +10845,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11001,7 +11001,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11157,7 +11157,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11313,7 +11313,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11469,7 +11469,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11625,7 +11625,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11781,7 +11781,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -11937,7 +11937,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -12093,7 +12093,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -12260,7 +12260,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -12426,7 +12426,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -12573,7 +12573,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -12720,7 +12720,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -12873,7 +12873,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13043,7 +13043,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13213,7 +13213,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13383,7 +13383,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13553,7 +13553,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13723,7 +13723,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -13939,7 +13939,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -14155,7 +14155,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -14371,7 +14371,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
           "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
         },
         {
@@ -14587,7 +14587,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -14810,7 +14810,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -15033,7 +15033,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -15256,7 +15256,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -15479,7 +15479,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -15702,7 +15702,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -15925,7 +15925,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -16148,7 +16148,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -16357,7 +16357,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -16566,7 +16566,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -16775,7 +16775,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -16984,7 +16984,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -17193,7 +17193,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -17402,7 +17402,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -17611,7 +17611,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -17820,7 +17820,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -18029,7 +18029,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -18238,7 +18238,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -18447,7 +18447,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -18656,7 +18656,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -18865,7 +18865,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19020,7 +19020,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19175,7 +19175,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19330,7 +19330,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19485,7 +19485,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19640,7 +19640,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19795,7 +19795,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -19950,7 +19950,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -20105,7 +20105,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -20314,7 +20314,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -20523,7 +20523,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -20732,7 +20732,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -20941,7 +20941,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -21150,7 +21150,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -21359,7 +21359,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -21568,7 +21568,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -21777,7 +21777,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -21986,7 +21986,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -22195,7 +22195,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -22404,7 +22404,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -22613,7 +22613,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -22822,7 +22822,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -23031,7 +23031,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -23240,7 +23240,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -23449,7 +23449,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -23650,7 +23650,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -23851,7 +23851,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -24052,7 +24052,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -24263,7 +24263,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -24506,7 +24506,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -24749,7 +24749,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -24992,7 +24992,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -25235,7 +25235,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -25400,7 +25400,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -25565,7 +25565,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -25730,7 +25730,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -25900,7 +25900,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26070,7 +26070,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26240,7 +26240,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26410,7 +26410,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26575,7 +26575,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26770,7 +26770,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -26965,7 +26965,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -27160,7 +27160,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -27355,7 +27355,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -27520,7 +27520,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -27685,7 +27685,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -27850,7 +27850,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28015,7 +28015,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28180,7 +28180,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28345,7 +28345,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28510,7 +28510,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28675,7 +28675,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -28840,7 +28840,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29005,7 +29005,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29170,7 +29170,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29335,7 +29335,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29500,7 +29500,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29665,7 +29665,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29830,7 +29830,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -29995,7 +29995,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30160,7 +30160,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30325,7 +30325,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30490,7 +30490,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30660,7 +30660,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30825,7 +30825,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -30990,7 +30990,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31155,7 +31155,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31320,7 +31320,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31485,7 +31485,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31650,7 +31650,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31815,7 +31815,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -31980,7 +31980,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32145,7 +32145,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32310,7 +32310,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32475,7 +32475,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32640,7 +32640,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32805,7 +32805,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -32970,7 +32970,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33135,7 +33135,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33300,7 +33300,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33465,7 +33465,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33630,7 +33630,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33795,7 +33795,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -33960,7 +33960,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -34155,7 +34155,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -34350,7 +34350,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -34545,7 +34545,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -34740,7 +34740,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -34905,7 +34905,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35070,7 +35070,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35235,7 +35235,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35400,7 +35400,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35565,7 +35565,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35730,7 +35730,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -35895,7 +35895,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36060,7 +36060,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36225,7 +36225,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36390,7 +36390,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36555,7 +36555,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36720,7 +36720,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -36885,7 +36885,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37050,7 +37050,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37215,7 +37215,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37380,7 +37380,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37545,7 +37545,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37710,7 +37710,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -37875,7 +37875,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38040,7 +38040,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38205,7 +38205,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38370,7 +38370,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38535,7 +38535,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38700,7 +38700,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -38865,7 +38865,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39030,7 +39030,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39195,7 +39195,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39360,7 +39360,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39525,7 +39525,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39690,7 +39690,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -39855,7 +39855,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40020,7 +40020,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40185,7 +40185,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40350,7 +40350,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40515,7 +40515,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40680,7 +40680,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -40845,7 +40845,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -41010,7 +41010,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -41175,7 +41175,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -41340,7 +41340,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -41583,7 +41583,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -41826,7 +41826,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42069,7 +42069,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42312,7 +42312,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42477,7 +42477,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42642,7 +42642,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42807,7 +42807,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -42972,7 +42972,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43137,7 +43137,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43302,7 +43302,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43467,7 +43467,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43632,7 +43632,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43797,7 +43797,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -43962,7 +43962,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44127,7 +44127,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44292,7 +44292,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44457,7 +44457,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44622,7 +44622,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44787,7 +44787,7 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#irmak-gurer-aksoz"
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
         },
         {
           "@type": "BreadcrumbList",
@@ -44810,6 +44810,698 @@
               "position": 3,
               "name": "تأجيل الخدمة العسكرية التركية والخدمة العسكرية مقابل النقد الأجنبي للمقيمين بالخارج",
               "item": "https://igalawfirm.com/ar/blog/turkish-military-service-deferral-paid-foreign-currency-abroad-guide/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/team/irmak-gurer-aksoz/": {
+    "path": "/en/team/irmak-gurer-aksoz/",
+    "language": "en",
+    "pageType": "ProfilePage",
+    "title": "Irmak Gürer Aksöz | Turkish Citizenship Lawyer | IGA",
+    "description": "Meet Irmak Gürer Aksöz, founder of IGA Law Firm. Izmir Bar-registered attorney working in Turkish citizenship by investment and foreign nationals law since 2018.",
+    "canonical": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+      "title": "Irmak Gürer Aksöz | Turkish Citizenship Lawyer | IGA",
+      "description": "Meet Irmak Gürer Aksöz, founder of IGA Law Firm. Izmir Bar-registered attorney working in Turkish citizenship by investment and foreign nationals law since 2018.",
+      "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/#webpage",
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+          "name": "Irmak Gürer Aksöz | Turkish Citizenship Lawyer | IGA",
+          "description": "Meet Irmak Gürer Aksöz, founder of IGA Law Firm. Izmir Bar-registered attorney working in Turkish citizenship by investment and foreign nationals law since 2018.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+            "width": 386,
+            "height": 440
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Attorney at Law",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+          "description": "Irmak Gürer Aksöz is a Turkish attorney and the founder of IGA Law Firm, established in 2022.",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Istanbul University"
+          },
+          "memberOf": {
+            "@type": "Organization",
+            "name": "Izmir Bar Association"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Izmir Bar Association registration number",
+            "value": "14900"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Turkish Citizenship by Investment",
+            "Turkish Citizenship Law",
+            "Foreign Nationals Law",
+            "Legal Procedures Related to Investment-Based Citizenship Applications"
+          ],
+          "sameAs": [
+            "https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Our team",
+              "item": "https://igalawfirm.com/en/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Irmak Gürer Aksöz",
+              "item": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/team/irmak-gurer-aksoz/": {
+    "path": "/tr/team/irmak-gurer-aksoz/",
+    "language": "tr",
+    "pageType": "ProfilePage",
+    "title": "Av. Irmak Gürer Aksöz | IGA Law Firm Kurucu Avukatı",
+    "description": "Av. Irmak Gürer Aksöz, İstanbul Üniversitesi mezunu ve İzmir Barosu'na kayıtlıdır. 2018'den beri yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
+    "canonical": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+      "title": "Av. Irmak Gürer Aksöz | IGA Law Firm Kurucu Avukatı",
+      "description": "Av. Irmak Gürer Aksöz, İstanbul Üniversitesi mezunu ve İzmir Barosu'na kayıtlıdır. 2018'den beri yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
+      "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/#webpage",
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+          "name": "Av. Irmak Gürer Aksöz | IGA Law Firm Kurucu Avukatı",
+          "description": "Av. Irmak Gürer Aksöz, İstanbul Üniversitesi mezunu ve İzmir Barosu'na kayıtlıdır. 2018'den beri yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+            "width": 386,
+            "height": 440
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/",
+          "description": "Av. Irmak Gürer Aksöz, 2022 yılında kurulan IGA Law Firm'in kurucusu ve İzmir Barosu'na kayıtlı bir avukattır.",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "İstanbul Üniversitesi"
+          },
+          "memberOf": {
+            "@type": "Organization",
+            "name": "İzmir Barosu"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Izmir Bar Association registration number",
+            "value": "14900"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Yatırım Yoluyla Türk Vatandaşlığının Kazanılması",
+            "Türk Vatandaşlık Hukuku",
+            "Yabancılar Hukuku",
+            "Yatırım Yoluyla Vatandaşlık Başvurularına İlişkin Hukuki İşlemler"
+          ],
+          "sameAs": [
+            "https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ekibimiz",
+              "item": "https://igalawfirm.com/tr/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Av. Irmak Gürer Aksöz",
+              "item": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/team/irmak-gurer-aksoz/": {
+    "path": "/zh/team/irmak-gurer-aksoz/",
+    "language": "zh-CN",
+    "pageType": "ProfilePage",
+    "title": "Irmak Gürer Aksöz 律师 | 土耳其投资入籍 | IGA Law Firm",
+    "description": "了解 IGA Law Firm 创始律师 Irmak Gürer Aksöz。自2018年起从事外国人法律事务及土耳其投资入籍相关法律工作。",
+    "canonical": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+      "title": "Irmak Gürer Aksöz 律师 | 土耳其投资入籍 | IGA Law Firm",
+      "description": "了解 IGA Law Firm 创始律师 Irmak Gürer Aksöz。自2018年起从事外国人法律事务及土耳其投资入籍相关法律工作。",
+      "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/#webpage",
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+          "name": "Irmak Gürer Aksöz 律师 | 土耳其投资入籍 | IGA Law Firm",
+          "description": "了解 IGA Law Firm 创始律师 Irmak Gürer Aksöz。自2018年起从事外国人法律事务及土耳其投资入籍相关法律工作。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+            "width": 386,
+            "height": 440
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+          "description": "Irmak Gürer Aksöz是一位土耳其律师，也是2022年成立的IGA Law Firm的创始人。",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "伊斯坦布尔大学"
+          },
+          "memberOf": {
+            "@type": "Organization",
+            "name": "伊兹密尔律师协会"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Izmir Bar Association registration number",
+            "value": "14900"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "土耳其投资入籍",
+            "土耳其国籍法",
+            "外国人法",
+            "投资入籍申请相关法律程序"
+          ],
+          "sameAs": [
+            "https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "团队",
+              "item": "https://igalawfirm.com/zh/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Irmak Gürer Aksöz 律师",
+              "item": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/team/irmak-gurer-aksoz/": {
+    "path": "/ar/team/irmak-gurer-aksoz/",
+    "language": "ar",
+    "pageType": "ProfilePage",
+    "title": "المحامية Irmak Gürer Aksöz | الجنسية التركية بالاستثمار",
+    "description": "تعرف على المحامية Irmak Gürer Aksöz، مؤسسة IGA Law Firm، والمسجلة في نقابة المحامين بإزمير، والتي تعمل في شؤون الأجانب والجنسية التركية عن طريق الاستثمار منذ عام 2018.",
+    "canonical": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
+      "title": "المحامية Irmak Gürer Aksöz | الجنسية التركية بالاستثمار",
+      "description": "تعرف على المحامية Irmak Gürer Aksöz، مؤسسة IGA Law Firm، والمسجلة في نقابة المحامين بإزمير، والتي تعمل في شؤون الأجانب والجنسية التركية عن طريق الاستثمار منذ عام 2018.",
+      "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/#webpage",
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
+          "name": "المحامية Irmak Gürer Aksöz | الجنسية التركية بالاستثمار",
+          "description": "تعرف على المحامية Irmak Gürer Aksöz، مؤسسة IGA Law Firm، والمسجلة في نقابة المحامين بإزمير، والتي تعمل في شؤون الأجانب والجنسية التركية عن طريق الاستثمار منذ عام 2018.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+            "width": 386,
+            "height": 440
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "محامية",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/",
+          "description": "Irmak Gürer Aksöz محامية تركية ومؤسسة مكتب IGA Law Firm الذي تأسس عام 2022.",
+          "image": "https://igalawfirm.com/public/assets/media/b7935952b6d8df3c.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "جامعة إسطنبول"
+          },
+          "memberOf": {
+            "@type": "Organization",
+            "name": "نقابة المحامين بإزمير"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Izmir Bar Association registration number",
+            "value": "14900"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "الجنسية التركية عن طريق الاستثمار",
+            "قانون الجنسية التركية",
+            "قانون الأجانب",
+            "الإجراءات القانونية المرتبطة بطلبات الجنسية عن طريق الاستثمار"
+          ],
+          "sameAs": [
+            "https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "فريقنا",
+              "item": "https://igalawfirm.com/ar/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "المحامية Irmak Gürer Aksöz",
+              "item": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
             }
           ]
         }

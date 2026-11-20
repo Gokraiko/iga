@@ -9,7 +9,8 @@ window.igaSchemaContent = (() => {
     const items = [{name:t.home,path:pathFor(route.lang,'home')}];
     if (isService) items.push({name:t.nav[1],path:pathFor(route.lang,'services')});
     else if (route.page === 'journal' && route.sub) items.push({name:t.nav[5],path:pathFor(route.lang,'journal')});
-    const label = {services:t.nav[1],team:t.nav[3],about:t.nav[4],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
+    if(route.page==='team'&&route.sub==='irmak-gurer-aksoz')items.push({name:t.nav[3],path:pathFor(route.lang,'team')});
+    const label = {services:t.nav[1],team:route.sub==='irmak-gurer-aksoz'?heading:t.nav[3],about:t.nav[4],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
     items.push({name:label,path:pathFor(route.lang,route.page,route.sub)});
     return items;
   }
@@ -26,7 +27,7 @@ window.igaSchemaContent = (() => {
     const founder=member.name==='Irmak Gürer Aksöz';
     const title=founder?{en:'Founding Attorney',tr:'Kurucu Avukat',zh:'创始律师',ar:'المحامية المؤسسة'}[lang]:'';
     const label=founder?{en:'Author: Irmak Gürer Aksöz, Founding Attorney',tr:'Yazar: Irmak Gürer Aksöz, Kurucu Avukat',zh:'作者：Irmak Gürer Aksöz 创始律师',ar:'الكاتبة: المحامية المؤسسة Irmak Gürer Aksöz'}[lang]:`${{en:'Author:',tr:'Yazar:',zh:'作者：',ar:'الكاتب:'}[lang]} ${member.name}`;
-    return {member,anchor:anchors[member.name],path:pathFor(lang,'team')+'#'+anchors[member.name],label,title};
+    return {member,anchor:anchors[member.name],path:founder?pathFor(lang,'team','irmak-gurer-aksoz'):pathFor(lang,'team')+'#'+anchors[member.name],label,title};
   }
   // Read the same rendered, visible details/summary source as visitors see.
   function detailFaqs(content) {
@@ -62,14 +63,20 @@ window.igaSchemaContent = (() => {
     const origin=originOf(canonical),org=graph.find(n=>Array.isArray(n['@type'])&&n['@type'].includes('Organization'));
     const page=graph.find(n=>n['@id']===canonical+'#webpage');
     const personId=member=>origin+'/#'+anchors[member.name];
-    const person=member=>({'@type':'Person','@id':personId(member),name:member.name,jobTitle:t[member.role],worksFor:{'@id':org['@id']},url:origin+pathFor(route.lang,'team')+'#'+anchors[member.name]});
+    const person=member=>({'@type':'Person','@id':personId(member),name:member.name,jobTitle:t[member.role],worksFor:{'@id':org['@id']},url:origin+(member.name==='Irmak Gürer Aksöz'?pathFor(route.lang,'team','irmak-gurer-aksoz'):pathFor(route.lang,'team')+'#'+anchors[member.name])});
     const founder=team.find(m=>m.name==='Irmak Gürer Aksöz');
     org.image=org.logo;org.areaServed={'@type':'Country',name:'Türkiye',identifier:'TR'};
     org.foundingDate='2022';org.knowsLanguage=['tr','en','zh','ar'];org.founder={'@id':personId(founder)};
-    const people=route.page==='team'?team:[founder];
+    const isProfile=route.page==='team'&&route.sub==='irmak-gurer-aksoz';
+    const people=route.page==='team'&&!isProfile?team:[founder];
     if(post){const a=author(post,team,anchors,route.lang,pathFor);if(a.member&&!people.includes(a.member))people.push(a.member);}
     people.forEach(member=>graph.push(person(member)));
-    if(route.page==='team'){page['@type']='WebPage';page.mainEntity=team.map(member=>({'@id':personId(member)}));}
+    if(route.page==='team'&&!isProfile){page['@type']='WebPage';page.mainEntity=team.map(member=>({'@id':personId(member)}));}
+    if(isProfile){
+      const profile=window.irmakProfile,d=profile.copy[route.lang],entity=graph.find(n=>n['@id']===personId(founder));
+      page['@type']='ProfilePage';page.mainEntity={'@id':personId(founder)};page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:386,height:440};
+      Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:{'@type':'PropertyValue',propertyID:'Izmir Bar Association registration number',value:'14900'},knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
+    }
     if(route.page==='about'){page['@type']='AboutPage';page.about={'@id':org['@id']};}
     if(route.page==='contact')page['@type']='ContactPage';
     if(route.page==='journal'&&!post)page['@type']='CollectionPage';

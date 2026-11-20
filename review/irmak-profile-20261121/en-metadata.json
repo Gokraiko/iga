@@ -1,0 +1,28 @@
+{
+  "path": "/en/team/irmak-gurer-aksoz/",
+  "title": "Irmak Gürer Aksöz | Turkish Citizenship Lawyer | IGA",
+  "description": "Meet Irmak Gürer Aksöz, founder of IGA Law Firm. Izmir Bar-registered attorney working in Turkish citizenship by investment and foreign nationals law since 2018.",
+  "canonical": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/",
+  "hreflang": [
+    {
+      "hreflang": "en",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "tr",
+      "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "zh-CN",
+      "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "ar",
+      "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "x-default",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    }
+  ]
+}

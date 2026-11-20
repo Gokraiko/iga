@@ -1,0 +1,22 @@
+.irmak-profile .irmak-hero{padding-top:42px;padding-bottom:54px;background:var(--cream)}
+.irmak-profile .irmak-hero-grid{display:grid;grid-template-columns:minmax(220px,386px) minmax(0,1fr);gap:clamp(32px,5vw,76px);align-items:start;margin-top:32px}
+.irmak-profile .irmak-portrait{width:100%;height:auto;aspect-ratio:386/440;object-fit:contain}
+.irmak-profile h1{font-family:var(--serif);font-size:clamp(32px,3.6vw,54px);font-weight:400;line-height:1.2;margin:14px 0 16px;overflow-wrap:anywhere}
+.irmak-profile .irmak-role{font-weight:600;margin:0 0 12px}
+.irmak-profile .irmak-linkedin{display:inline-flex;align-items:center;gap:9px;margin:10px 0 20px;font-size:14px}
+.irmak-profile a{text-decoration:underline;text-underline-offset:4px}
+.irmak-profile a:focus-visible{outline:2px solid var(--ink);outline-offset:5px}
+.irmak-profile .irmak-facts{margin:0;display:grid;gap:10px}
+.irmak-profile .irmak-facts>div{display:grid;grid-template-columns:minmax(110px,1fr) 2fr;gap:16px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.irmak-profile dt{font-size:13px;color:var(--muted)}
+.irmak-profile dd{margin:0;font-size:14px}
+.irmak-profile .irmak-body{max-width:920px;padding-top:54px;padding-bottom:70px}
+.irmak-profile .irmak-section{margin-top:44px;padding-top:28px;border-top:1px solid var(--line)}
+.irmak-profile h2{font-family:var(--serif);font-weight:400;font-size:30px;line-height:1.3;margin:0 0 20px}
+.irmak-profile p{line-height:1.8}
+.irmak-profile li{margin-bottom:12px}
+.irmak-profile .irmak-timeline{list-style:none;padding:0;margin:0;border-inline-start:1px solid var(--line)}
+.irmak-profile .irmak-timeline li{display:grid;grid-template-columns:110px 1fr;gap:24px;padding:12px 24px;margin:0}
+.irmak-profile .irmak-timeline p{margin:0}
+html[dir="rtl"] .irmak-profile h1,html[dir="rtl"] .irmak-profile h2{font-family:inherit}
+@media(max-width:700px){.irmak-profile .irmak-hero-grid{grid-template-columns:1fr;gap:28px}.irmak-profile .irmak-portrait{max-width:310px}.irmak-profile .irmak-facts>div{grid-template-columns:1fr;gap:3px}.irmak-profile .irmak-timeline li{grid-template-columns:1fr;gap:6px;padding:16px}.irmak-profile h2{font-size:26px}.irmak-profile .irmak-body{padding-top:32px}}

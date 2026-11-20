@@ -1,0 +1,28 @@
+{
+  "path": "/zh/team/irmak-gurer-aksoz/",
+  "title": "Irmak Gürer Aksöz 律师 | 土耳其投资入籍 | IGA Law Firm",
+  "description": "了解 IGA Law Firm 创始律师 Irmak Gürer Aksöz。自2018年起从事外国人法律事务及土耳其投资入籍相关法律工作。",
+  "canonical": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/",
+  "hreflang": [
+    {
+      "hreflang": "en",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "tr",
+      "href": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "zh-CN",
+      "href": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "ar",
+      "href": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+    },
+    {
+      "hreflang": "x-default",
+      "href": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+    }
+  ]
+}
