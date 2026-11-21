@@ -2086,7 +2086,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#latife-kucukalpelli"
+          "url": "https://igalawfirm.com/en/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ]
         },
         {
           "@type": "Person",
@@ -2096,7 +2099,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#idil-dengiz-bucak"
+          "url": "https://igalawfirm.com/en/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ]
         },
         {
           "@type": "Person",
@@ -2106,7 +2112,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#eda-yavuz"
+          "url": "https://igalawfirm.com/en/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ]
         },
         {
           "@type": "Person",
@@ -2116,7 +2125,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/en/team/#turkan-kelogullari"
+          "url": "https://igalawfirm.com/en/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ]
         },
         {
           "@type": "Person",
@@ -2338,7 +2350,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#latife-kucukalpelli"
+          "url": "https://igalawfirm.com/tr/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ]
         },
         {
           "@type": "Person",
@@ -2348,7 +2363,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#idil-dengiz-bucak"
+          "url": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ]
         },
         {
           "@type": "Person",
@@ -2358,7 +2376,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#eda-yavuz"
+          "url": "https://igalawfirm.com/tr/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ]
         },
         {
           "@type": "Person",
@@ -2368,7 +2389,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/tr/team/#turkan-kelogullari"
+          "url": "https://igalawfirm.com/tr/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ]
         },
         {
           "@type": "Person",
@@ -2590,7 +2614,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#latife-kucukalpelli"
+          "url": "https://igalawfirm.com/zh/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ]
         },
         {
           "@type": "Person",
@@ -2600,7 +2627,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#idil-dengiz-bucak"
+          "url": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ]
         },
         {
           "@type": "Person",
@@ -2610,7 +2640,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#eda-yavuz"
+          "url": "https://igalawfirm.com/zh/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ]
         },
         {
           "@type": "Person",
@@ -2620,7 +2653,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/zh/team/#turkan-kelogullari"
+          "url": "https://igalawfirm.com/zh/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ]
         },
         {
           "@type": "Person",
@@ -2842,7 +2878,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#latife-kucukalpelli"
+          "url": "https://igalawfirm.com/ar/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ]
         },
         {
           "@type": "Person",
@@ -2852,7 +2891,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#idil-dengiz-bucak"
+          "url": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ]
         },
         {
           "@type": "Person",
@@ -2862,7 +2904,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#eda-yavuz"
+          "url": "https://igalawfirm.com/ar/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ]
         },
         {
           "@type": "Person",
@@ -2872,7 +2917,10 @@
           "worksFor": {
             "@id": "https://igalawfirm.com/#organization"
           },
-          "url": "https://igalawfirm.com/ar/team/#turkan-kelogullari"
+          "url": "https://igalawfirm.com/ar/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ]
         },
         {
           "@type": "Person",
@@ -45502,6 +45550,2838 @@
               "position": 3,
               "name": "المحامية Irmak Gürer Aksöz",
               "item": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/team/idil-dengiz-bucak/": {
+    "path": "/en/team/idil-dengiz-bucak/",
+    "language": "en",
+    "pageType": "ProfilePage",
+    "title": "İdil Dengiz Bucak | Attorney-at-Law | IGA Law Firm",
+    "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University.",
+    "canonical": "https://igalawfirm.com/en/team/idil-dengiz-bucak/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/team/idil-dengiz-bucak/",
+      "title": "İdil Dengiz Bucak | Attorney-at-Law | IGA Law Firm",
+      "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University.",
+      "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/en/team/idil-dengiz-bucak/#webpage",
+          "url": "https://igalawfirm.com/en/team/idil-dengiz-bucak/",
+          "name": "İdil Dengiz Bucak | Attorney-at-Law | IGA Law Firm",
+          "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#idil-dengiz-bucak"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+            "width": 1086,
+            "height": 1448
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/team/idil-dengiz-bucak/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#idil-dengiz-bucak",
+          "name": "İdil Dengiz Bucak",
+          "jobTitle": "Attorney-at-Law",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ],
+          "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University.",
+          "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Bahçeşehir University"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "de"
+          ],
+          "knowsAbout": [
+            "Litigation",
+            "Turkish Citizenship by Investment"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "Bursa Bar Association"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Bursa Bar Association registration number",
+            "value": "7922"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/team/idil-dengiz-bucak/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Our team",
+              "item": "https://igalawfirm.com/en/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "İdil Dengiz Bucak",
+              "item": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/team/idil-dengiz-bucak/": {
+    "path": "/tr/team/idil-dengiz-bucak/",
+    "language": "tr",
+    "pageType": "ProfilePage",
+    "title": "İdil Dengiz Bucak | Avukat | IGA Law Firm",
+    "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
+    "canonical": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/",
+      "title": "İdil Dengiz Bucak | Avukat | IGA Law Firm",
+      "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
+      "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/#webpage",
+          "url": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/",
+          "name": "İdil Dengiz Bucak | Avukat | IGA Law Firm",
+          "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#idil-dengiz-bucak"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+            "width": 1086,
+            "height": 1448
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#idil-dengiz-bucak",
+          "name": "İdil Dengiz Bucak",
+          "jobTitle": "Avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ],
+          "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
+          "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Bahçeşehir Üniversitesi"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "de"
+          ],
+          "knowsAbout": [
+            "Dava ve Uyuşmazlıklar",
+            "Yatırım Yoluyla Türk Vatandaşlığı"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "Bursa Barosu"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Bursa Bar Association registration number",
+            "value": "7922"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ekibimiz",
+              "item": "https://igalawfirm.com/tr/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "İdil Dengiz Bucak",
+              "item": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/team/idil-dengiz-bucak/": {
+    "path": "/zh/team/idil-dengiz-bucak/",
+    "language": "zh-CN",
+    "pageType": "ProfilePage",
+    "title": "İdil Dengiz Bucak | 律师 | IGA Law Firm",
+    "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
+    "canonical": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/",
+      "title": "İdil Dengiz Bucak | 律师 | IGA Law Firm",
+      "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
+      "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/#webpage",
+          "url": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/",
+          "name": "İdil Dengiz Bucak | 律师 | IGA Law Firm",
+          "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#idil-dengiz-bucak"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+            "width": 1086,
+            "height": 1448
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#idil-dengiz-bucak",
+          "name": "İdil Dengiz Bucak",
+          "jobTitle": "律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ],
+          "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
+          "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "巴赫切谢希尔大学（Bahçeşehir University）"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "de"
+          ],
+          "knowsAbout": [
+            "诉讼",
+            "土耳其投资入籍"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "布尔萨律师协会"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Bursa Bar Association registration number",
+            "value": "7922"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "团队",
+              "item": "https://igalawfirm.com/zh/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "İdil Dengiz Bucak",
+              "item": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/team/idil-dengiz-bucak/": {
+    "path": "/ar/team/idil-dengiz-bucak/",
+    "language": "ar",
+    "pageType": "ProfilePage",
+    "title": "İdil Dengiz Bucak | محامية | IGA Law Firm",
+    "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير.",
+    "canonical": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/idil-dengiz-bucak/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/",
+      "title": "İdil Dengiz Bucak | محامية | IGA Law Firm",
+      "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير.",
+      "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/#webpage",
+          "url": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/",
+          "name": "İdil Dengiz Bucak | محامية | IGA Law Firm",
+          "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#idil-dengiz-bucak"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+            "width": 1086,
+            "height": 1448
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#idil-dengiz-bucak",
+          "name": "İdil Dengiz Bucak",
+          "jobTitle": "محامية",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/",
+          "sameAs": [
+            "https://www.linkedin.com/in/idil-dengiz-bucak-1718281b9/"
+          ],
+          "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير.",
+          "image": "https://igalawfirm.com/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "جامعة بهتشه شهير (Bahçeşehir University)"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "de"
+          ],
+          "knowsAbout": [
+            "التقاضي",
+            "الجنسية التركية عن طريق الاستثمار"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "نقابة المحامين في بورصة"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Bursa Bar Association registration number",
+            "value": "7922"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "فريقنا",
+              "item": "https://igalawfirm.com/ar/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "İdil Dengiz Bucak",
+              "item": "https://igalawfirm.com/ar/team/idil-dengiz-bucak/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/team/latife-kucukalpelli/": {
+    "path": "/en/team/latife-kucukalpelli/",
+    "language": "en",
+    "pageType": "ProfilePage",
+    "title": "Latife Küçükalpelli | Attorney-at-Law | IGA Law Firm",
+    "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University.",
+    "canonical": "https://igalawfirm.com/en/team/latife-kucukalpelli/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/team/latife-kucukalpelli/",
+      "title": "Latife Küçükalpelli | Attorney-at-Law | IGA Law Firm",
+      "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University.",
+      "image": "https://igalawfirm.com/public/assets/team-latife-office.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/en/team/latife-kucukalpelli/#webpage",
+          "url": "https://igalawfirm.com/en/team/latife-kucukalpelli/",
+          "name": "Latife Küçükalpelli | Attorney-at-Law | IGA Law Firm",
+          "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#latife-kucukalpelli"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+            "width": 887,
+            "height": 887
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/team/latife-kucukalpelli/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#latife-kucukalpelli",
+          "name": "Latife Küçükalpelli",
+          "jobTitle": "Attorney-at-Law",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ],
+          "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University.",
+          "image": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Istanbul University"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Legal Due Diligence",
+            "Litigation",
+            "Turkish Citizenship by Investment",
+            "Real Estate Law",
+            "Inheritance Law"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "Istanbul Bar Association"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Istanbul Bar Association registration number",
+            "value": "84410"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/team/latife-kucukalpelli/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Our team",
+              "item": "https://igalawfirm.com/en/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Latife Küçükalpelli",
+              "item": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/team/latife-kucukalpelli/": {
+    "path": "/tr/team/latife-kucukalpelli/",
+    "language": "tr",
+    "pageType": "ProfilePage",
+    "title": "Latife Küçükalpelli | Avukat | IGA Law Firm",
+    "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
+    "canonical": "https://igalawfirm.com/tr/team/latife-kucukalpelli/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/team/latife-kucukalpelli/",
+      "title": "Latife Küçükalpelli | Avukat | IGA Law Firm",
+      "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
+      "image": "https://igalawfirm.com/public/assets/team-latife-office.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/tr/team/latife-kucukalpelli/#webpage",
+          "url": "https://igalawfirm.com/tr/team/latife-kucukalpelli/",
+          "name": "Latife Küçükalpelli | Avukat | IGA Law Firm",
+          "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#latife-kucukalpelli"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+            "width": 887,
+            "height": 887
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/team/latife-kucukalpelli/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#latife-kucukalpelli",
+          "name": "Latife Küçükalpelli",
+          "jobTitle": "Avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ],
+          "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
+          "image": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "İstanbul Üniversitesi"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Hukuki İnceleme",
+            "Dava ve Uyuşmazlıklar",
+            "Yatırım Yoluyla Türk Vatandaşlığı",
+            "Gayrimenkul Hukuku",
+            "Miras Hukuku"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "İstanbul Barosu"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Istanbul Bar Association registration number",
+            "value": "84410"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/team/latife-kucukalpelli/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ekibimiz",
+              "item": "https://igalawfirm.com/tr/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Latife Küçükalpelli",
+              "item": "https://igalawfirm.com/tr/team/latife-kucukalpelli/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/team/latife-kucukalpelli/": {
+    "path": "/zh/team/latife-kucukalpelli/",
+    "language": "zh-CN",
+    "pageType": "ProfilePage",
+    "title": "Latife Küçükalpelli | 律师 | IGA Law Firm",
+    "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。",
+    "canonical": "https://igalawfirm.com/zh/team/latife-kucukalpelli/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/team/latife-kucukalpelli/",
+      "title": "Latife Küçükalpelli | 律师 | IGA Law Firm",
+      "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。",
+      "image": "https://igalawfirm.com/public/assets/team-latife-office.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/zh/team/latife-kucukalpelli/#webpage",
+          "url": "https://igalawfirm.com/zh/team/latife-kucukalpelli/",
+          "name": "Latife Küçükalpelli | 律师 | IGA Law Firm",
+          "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#latife-kucukalpelli"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+            "width": 887,
+            "height": 887
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/team/latife-kucukalpelli/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#latife-kucukalpelli",
+          "name": "Latife Küçükalpelli",
+          "jobTitle": "律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ],
+          "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。",
+          "image": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "伊斯坦布尔大学"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "法律尽职调查",
+            "诉讼",
+            "土耳其投资入籍",
+            "房地产法",
+            "继承法"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "伊斯坦布尔律师协会"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Istanbul Bar Association registration number",
+            "value": "84410"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/team/latife-kucukalpelli/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "团队",
+              "item": "https://igalawfirm.com/zh/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Latife Küçükalpelli",
+              "item": "https://igalawfirm.com/zh/team/latife-kucukalpelli/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/team/latife-kucukalpelli/": {
+    "path": "/ar/team/latife-kucukalpelli/",
+    "language": "ar",
+    "pageType": "ProfilePage",
+    "title": "Latife Küçükalpelli | محامية | IGA Law Firm",
+    "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول.",
+    "canonical": "https://igalawfirm.com/ar/team/latife-kucukalpelli/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/latife-kucukalpelli/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/latife-kucukalpelli/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/team/latife-kucukalpelli/",
+      "title": "Latife Küçükalpelli | محامية | IGA Law Firm",
+      "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول.",
+      "image": "https://igalawfirm.com/public/assets/team-latife-office.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/ar/team/latife-kucukalpelli/#webpage",
+          "url": "https://igalawfirm.com/ar/team/latife-kucukalpelli/",
+          "name": "Latife Küçükalpelli | محامية | IGA Law Firm",
+          "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#latife-kucukalpelli"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+            "width": 887,
+            "height": 887
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/team/latife-kucukalpelli/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#latife-kucukalpelli",
+          "name": "Latife Küçükalpelli",
+          "jobTitle": "محامية",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/latife-kucukalpelli/",
+          "sameAs": [
+            "https://www.linkedin.com/in/latife-k%C3%BC%C3%A7%C3%BCkalpelli-274707122/"
+          ],
+          "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول.",
+          "image": "https://igalawfirm.com/public/assets/team-latife-office.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "جامعة إسطنبول"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "الفحص القانوني النافي للجهالة",
+            "التقاضي",
+            "الجنسية التركية عن طريق الاستثمار",
+            "القانون العقاري",
+            "قانون الميراث"
+          ],
+          "memberOf": {
+            "@type": "Organization",
+            "name": "نقابة المحامين في إسطنبول"
+          },
+          "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "Istanbul Bar Association registration number",
+            "value": "84410"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/team/latife-kucukalpelli/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "فريقنا",
+              "item": "https://igalawfirm.com/ar/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Latife Küçükalpelli",
+              "item": "https://igalawfirm.com/ar/team/latife-kucukalpelli/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/team/eda-yavuz/": {
+    "path": "/en/team/eda-yavuz/",
+    "language": "en",
+    "pageType": "ProfilePage",
+    "title": "Eda Yavuz | Trainee Lawyer | IGA Law Firm",
+    "description": "Eda Yavuz is a trainee lawyer at IGA Law Firm. She studied at Istanbul University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+    "canonical": "https://igalawfirm.com/en/team/eda-yavuz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/team/eda-yavuz/",
+      "title": "Eda Yavuz | Trainee Lawyer | IGA Law Firm",
+      "description": "Eda Yavuz is a trainee lawyer at IGA Law Firm. She studied at Istanbul University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+      "image": "https://igalawfirm.com/public/assets/team-eda-office.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/en/team/eda-yavuz/#webpage",
+          "url": "https://igalawfirm.com/en/team/eda-yavuz/",
+          "name": "Eda Yavuz | Trainee Lawyer | IGA Law Firm",
+          "description": "Eda Yavuz is a trainee lawyer at IGA Law Firm. She studied at Istanbul University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#eda-yavuz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-eda-office.png",
+            "width": 1254,
+            "height": 1254
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/team/eda-yavuz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#eda-yavuz",
+          "name": "Eda Yavuz",
+          "jobTitle": "Trainee Lawyer",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ],
+          "description": "Eda Yavuz is a trainee lawyer at IGA Law Firm. She studied at Istanbul University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+          "image": "https://igalawfirm.com/public/assets/team-eda-office.png",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Istanbul University"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Turkish Citizenship by Investment"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/team/eda-yavuz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Our team",
+              "item": "https://igalawfirm.com/en/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Eda Yavuz",
+              "item": "https://igalawfirm.com/en/team/eda-yavuz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/team/eda-yavuz/": {
+    "path": "/tr/team/eda-yavuz/",
+    "language": "tr",
+    "pageType": "ProfilePage",
+    "title": "Eda Yavuz | Stajyer Avukat | IGA Law Firm",
+    "description": "Eda Yavuz, IGA Law Firm bünyesinde stajyer avukattır. İstanbul Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+    "canonical": "https://igalawfirm.com/tr/team/eda-yavuz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/team/eda-yavuz/",
+      "title": "Eda Yavuz | Stajyer Avukat | IGA Law Firm",
+      "description": "Eda Yavuz, IGA Law Firm bünyesinde stajyer avukattır. İstanbul Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+      "image": "https://igalawfirm.com/public/assets/team-eda-office.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/tr/team/eda-yavuz/#webpage",
+          "url": "https://igalawfirm.com/tr/team/eda-yavuz/",
+          "name": "Eda Yavuz | Stajyer Avukat | IGA Law Firm",
+          "description": "Eda Yavuz, IGA Law Firm bünyesinde stajyer avukattır. İstanbul Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#eda-yavuz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-eda-office.png",
+            "width": 1254,
+            "height": 1254
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/team/eda-yavuz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#eda-yavuz",
+          "name": "Eda Yavuz",
+          "jobTitle": "Stajyer Avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ],
+          "description": "Eda Yavuz, IGA Law Firm bünyesinde stajyer avukattır. İstanbul Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+          "image": "https://igalawfirm.com/public/assets/team-eda-office.png",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "İstanbul Üniversitesi"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Yatırım Yoluyla Türk Vatandaşlığı"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/team/eda-yavuz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ekibimiz",
+              "item": "https://igalawfirm.com/tr/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Eda Yavuz",
+              "item": "https://igalawfirm.com/tr/team/eda-yavuz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/team/eda-yavuz/": {
+    "path": "/zh/team/eda-yavuz/",
+    "language": "zh-CN",
+    "pageType": "ProfilePage",
+    "title": "Eda Yavuz | 实习律师 | IGA Law Firm",
+    "description": "Eda Yavuz是IGA Law Firm的实习律师。她曾就读于伊斯坦布尔大学，作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+    "canonical": "https://igalawfirm.com/zh/team/eda-yavuz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/team/eda-yavuz/",
+      "title": "Eda Yavuz | 实习律师 | IGA Law Firm",
+      "description": "Eda Yavuz是IGA Law Firm的实习律师。她曾就读于伊斯坦布尔大学，作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+      "image": "https://igalawfirm.com/public/assets/team-eda-office.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/zh/team/eda-yavuz/#webpage",
+          "url": "https://igalawfirm.com/zh/team/eda-yavuz/",
+          "name": "Eda Yavuz | 实习律师 | IGA Law Firm",
+          "description": "Eda Yavuz是IGA Law Firm的实习律师。她曾就读于伊斯坦布尔大学，作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#eda-yavuz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-eda-office.png",
+            "width": 1254,
+            "height": 1254
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/team/eda-yavuz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#eda-yavuz",
+          "name": "Eda Yavuz",
+          "jobTitle": "实习律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ],
+          "description": "Eda Yavuz是IGA Law Firm的实习律师。她曾就读于伊斯坦布尔大学，作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+          "image": "https://igalawfirm.com/public/assets/team-eda-office.png",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "伊斯坦布尔大学"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "土耳其投资入籍"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/team/eda-yavuz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "团队",
+              "item": "https://igalawfirm.com/zh/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Eda Yavuz",
+              "item": "https://igalawfirm.com/zh/team/eda-yavuz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/team/eda-yavuz/": {
+    "path": "/ar/team/eda-yavuz/",
+    "language": "ar",
+    "pageType": "ProfilePage",
+    "title": "Eda Yavuz | محامية متدربة | IGA Law Firm",
+    "description": "Eda Yavuz محامية متدربة في IGA Law Firm. درست في جامعة إسطنبول وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+    "canonical": "https://igalawfirm.com/ar/team/eda-yavuz/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/eda-yavuz/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/eda-yavuz/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/team/eda-yavuz/",
+      "title": "Eda Yavuz | محامية متدربة | IGA Law Firm",
+      "description": "Eda Yavuz محامية متدربة في IGA Law Firm. درست في جامعة إسطنبول وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+      "image": "https://igalawfirm.com/public/assets/team-eda-office.png"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/ar/team/eda-yavuz/#webpage",
+          "url": "https://igalawfirm.com/ar/team/eda-yavuz/",
+          "name": "Eda Yavuz | محامية متدربة | IGA Law Firm",
+          "description": "Eda Yavuz محامية متدربة في IGA Law Firm. درست في جامعة إسطنبول وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#eda-yavuz"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-eda-office.png",
+            "width": 1254,
+            "height": 1254
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/team/eda-yavuz/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#eda-yavuz",
+          "name": "Eda Yavuz",
+          "jobTitle": "محامية متدربة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/eda-yavuz/",
+          "sameAs": [
+            "https://www.linkedin.com/in/eda-yavuz-6b1737446/"
+          ],
+          "description": "Eda Yavuz محامية متدربة في IGA Law Firm. درست في جامعة إسطنبول وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+          "image": "https://igalawfirm.com/public/assets/team-eda-office.png",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "جامعة إسطنبول"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "الجنسية التركية عن طريق الاستثمار"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/team/eda-yavuz/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "فريقنا",
+              "item": "https://igalawfirm.com/ar/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Eda Yavuz",
+              "item": "https://igalawfirm.com/ar/team/eda-yavuz/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/en/team/turkan-kelogullari/": {
+    "path": "/en/team/turkan-kelogullari/",
+    "language": "en",
+    "pageType": "ProfilePage",
+    "title": "Türkan Keloğulları | Trainee Lawyer | IGA Law Firm",
+    "description": "Türkan Keloğulları is a trainee lawyer at IGA Law Firm. She studied at Koç University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+    "canonical": "https://igalawfirm.com/en/team/turkan-kelogullari/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/team/turkan-kelogullari/",
+      "title": "Türkan Keloğulları | Trainee Lawyer | IGA Law Firm",
+      "description": "Türkan Keloğulları is a trainee lawyer at IGA Law Firm. She studied at Koç University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+      "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/en/team/turkan-kelogullari/#webpage",
+          "url": "https://igalawfirm.com/en/team/turkan-kelogullari/",
+          "name": "Türkan Keloğulları | Trainee Lawyer | IGA Law Firm",
+          "description": "Türkan Keloğulları is a trainee lawyer at IGA Law Firm. She studied at Koç University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#turkan-kelogullari"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+            "width": 900,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/team/turkan-kelogullari/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#turkan-kelogullari",
+          "name": "Türkan Keloğulları",
+          "jobTitle": "Trainee Lawyer",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ],
+          "description": "Türkan Keloğulları is a trainee lawyer at IGA Law Firm. She studied at Koç University and focuses on legal work related to Turkish citizenship by investment as part of the firm's team.",
+          "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Koç University"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Turkish Citizenship by Investment"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/team/turkan-kelogullari/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Our team",
+              "item": "https://igalawfirm.com/en/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkan Keloğulları",
+              "item": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/team/turkan-kelogullari/": {
+    "path": "/tr/team/turkan-kelogullari/",
+    "language": "tr",
+    "pageType": "ProfilePage",
+    "title": "Türkan Keloğulları | Stajyer Avukat | IGA Law Firm",
+    "description": "Türkan Keloğulları, IGA Law Firm bünyesinde stajyer avukattır. Koç Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+    "canonical": "https://igalawfirm.com/tr/team/turkan-kelogullari/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/team/turkan-kelogullari/",
+      "title": "Türkan Keloğulları | Stajyer Avukat | IGA Law Firm",
+      "description": "Türkan Keloğulları, IGA Law Firm bünyesinde stajyer avukattır. Koç Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+      "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/tr/team/turkan-kelogullari/#webpage",
+          "url": "https://igalawfirm.com/tr/team/turkan-kelogullari/",
+          "name": "Türkan Keloğulları | Stajyer Avukat | IGA Law Firm",
+          "description": "Türkan Keloğulları, IGA Law Firm bünyesinde stajyer avukattır. Koç Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#turkan-kelogullari"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+            "width": 900,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/team/turkan-kelogullari/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#turkan-kelogullari",
+          "name": "Türkan Keloğulları",
+          "jobTitle": "Stajyer Avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ],
+          "description": "Türkan Keloğulları, IGA Law Firm bünyesinde stajyer avukattır. Koç Üniversitesi’nde eğitim almıştır ve büronun ekibinin bir parçası olarak yatırım yoluyla Türk vatandaşlığına ilişkin hukuki çalışmalara odaklanmaktadır.",
+          "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "Koç Üniversitesi"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "Yatırım Yoluyla Türk Vatandaşlığı"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/team/turkan-kelogullari/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Ekibimiz",
+              "item": "https://igalawfirm.com/tr/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkan Keloğulları",
+              "item": "https://igalawfirm.com/tr/team/turkan-kelogullari/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/team/turkan-kelogullari/": {
+    "path": "/zh/team/turkan-kelogullari/",
+    "language": "zh-CN",
+    "pageType": "ProfilePage",
+    "title": "Türkan Keloğulları | 实习律师 | IGA Law Firm",
+    "description": "Türkan Keloğulları是IGA Law Firm的实习律师。她曾就读于科奇大学（Koç University），作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+    "canonical": "https://igalawfirm.com/zh/team/turkan-kelogullari/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/team/turkan-kelogullari/",
+      "title": "Türkan Keloğulları | 实习律师 | IGA Law Firm",
+      "description": "Türkan Keloğulları是IGA Law Firm的实习律师。她曾就读于科奇大学（Koç University），作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+      "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/zh/team/turkan-kelogullari/#webpage",
+          "url": "https://igalawfirm.com/zh/team/turkan-kelogullari/",
+          "name": "Türkan Keloğulları | 实习律师 | IGA Law Firm",
+          "description": "Türkan Keloğulları是IGA Law Firm的实习律师。她曾就读于科奇大学（Koç University），作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#turkan-kelogullari"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+            "width": 900,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/team/turkan-kelogullari/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#turkan-kelogullari",
+          "name": "Türkan Keloğulları",
+          "jobTitle": "实习律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ],
+          "description": "Türkan Keloğulları是IGA Law Firm的实习律师。她曾就读于科奇大学（Koç University），作为事务所团队的一员，主要参与土耳其投资入籍相关法律工作。",
+          "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "科奇大学（Koç University）"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "土耳其投资入籍"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/team/turkan-kelogullari/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "团队",
+              "item": "https://igalawfirm.com/zh/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkan Keloğulları",
+              "item": "https://igalawfirm.com/zh/team/turkan-kelogullari/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/team/turkan-kelogullari/": {
+    "path": "/ar/team/turkan-kelogullari/",
+    "language": "ar",
+    "pageType": "ProfilePage",
+    "title": "Türkan Keloğulları | محامية متدربة | IGA Law Firm",
+    "description": "Türkan Keloğulları محامية متدربة في IGA Law Firm. درست في جامعة كوتش (Koç University) وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+    "canonical": "https://igalawfirm.com/ar/team/turkan-kelogullari/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/team/turkan-kelogullari/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/team/turkan-kelogullari/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "profile",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/team/turkan-kelogullari/",
+      "title": "Türkan Keloğulları | محامية متدربة | IGA Law Firm",
+      "description": "Türkan Keloğulları محامية متدربة في IGA Law Firm. درست في جامعة كوتش (Koç University) وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+      "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "ProfilePage",
+          "@id": "https://igalawfirm.com/ar/team/turkan-kelogullari/#webpage",
+          "url": "https://igalawfirm.com/ar/team/turkan-kelogullari/",
+          "name": "Türkan Keloğulları | محامية متدربة | IGA Law Firm",
+          "description": "Türkan Keloğulları محامية متدربة في IGA Law Firm. درست في جامعة كوتش (Koç University) وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "mainEntity": {
+            "@id": "https://igalawfirm.com/#turkan-kelogullari"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+            "width": 900,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/team/turkan-kelogullari/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#turkan-kelogullari",
+          "name": "Türkan Keloğulları",
+          "jobTitle": "محامية متدربة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/turkan-kelogullari/",
+          "sameAs": [
+            "https://www.linkedin.com/in/t%C3%BCrkan-kelo%C4%9Fullar%C4%B1-b669a1231/"
+          ],
+          "description": "Türkan Keloğulları محامية متدربة في IGA Law Firm. درست في جامعة كوتش (Koç University) وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب.",
+          "image": "https://igalawfirm.com/public/assets/team-turkan-professional.webp",
+          "alumniOf": {
+            "@type": "CollegeOrUniversity",
+            "name": "جامعة كوتش (Koç University)"
+          },
+          "knowsLanguage": [
+            "tr",
+            "en"
+          ],
+          "knowsAbout": [
+            "الجنسية التركية عن طريق الاستثمار"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/team/turkan-kelogullari/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "فريقنا",
+              "item": "https://igalawfirm.com/ar/team/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Türkan Keloğulları",
+              "item": "https://igalawfirm.com/ar/team/turkan-kelogullari/"
             }
           ]
         }

@@ -9,8 +9,8 @@ window.igaSchemaContent = (() => {
     const items = [{name:t.home,path:pathFor(route.lang,'home')}];
     if (isService) items.push({name:t.nav[1],path:pathFor(route.lang,'services')});
     else if (route.page === 'journal' && route.sub) items.push({name:t.nav[5],path:pathFor(route.lang,'journal')});
-    if(route.page==='team'&&route.sub==='irmak-gurer-aksoz')items.push({name:t.nav[3],path:pathFor(route.lang,'team')});
-    const label = {services:t.nav[1],team:route.sub==='irmak-gurer-aksoz'?heading:t.nav[3],about:t.nav[4],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
+    if(route.page==='team'&&(route.sub==='irmak-gurer-aksoz'||window.teamProfiles?.get(route.sub)))items.push({name:t.nav[3],path:pathFor(route.lang,'team')});
+    const label = {services:t.nav[1],team:(route.sub==='irmak-gurer-aksoz'||window.teamProfiles?.get(route.sub))?heading:t.nav[3],about:t.nav[4],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
     items.push({name:label,path:pathFor(route.lang,route.page,route.sub)});
     return items;
   }
@@ -67,15 +67,30 @@ window.igaSchemaContent = (() => {
     const founder=team.find(m=>m.name==='Irmak Gürer Aksöz');
     org.image=org.logo;org.areaServed={'@type':'Country',name:'Türkiye',identifier:'TR'};
     org.foundingDate='2022';org.knowsLanguage=['tr','en','zh','ar'];org.founder={'@id':personId(founder)};
-    const isProfile=route.page==='team'&&route.sub==='irmak-gurer-aksoz';
+    const teamProfile=route.page==='team'?window.teamProfiles?.get(route.sub):null;
+    const isProfile=route.page==='team'&&(route.sub==='irmak-gurer-aksoz'||!!teamProfile);
     const people=route.page==='team'&&!isProfile?team:[founder];
+    if(teamProfile)people.push(team.find(m=>m.name===teamProfile.name));
     if(post){const a=author(post,team,anchors,route.lang,pathFor);if(a.member&&!people.includes(a.member))people.push(a.member);}
     people.forEach(member=>graph.push(person(member)));
     if(route.page==='team'&&!isProfile){page['@type']='WebPage';page.mainEntity=team.map(member=>({'@id':personId(member)}));}
-    if(isProfile){
+    if(isProfile&&!teamProfile){
       const profile=window.irmakProfile,d=profile.copy[route.lang],entity=graph.find(n=>n['@id']===personId(founder));
       page['@type']='ProfilePage';page.mainEntity={'@id':personId(founder)};page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:386,height:440};
       Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:{'@type':'PropertyValue',propertyID:'Izmir Bar Association registration number',value:'14900'},knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
+    }
+    if(route.page==='team')for(const member of people){
+      const profile=window.teamProfiles?.forName(member.name);
+      if(!profile)continue;
+      const entity=graph.find(n=>n['@id']===personId(member));
+      entity.url=origin+pathFor(route.lang,'team',profile.slug);
+      entity.sameAs=[...new Set([...(entity.sameAs||[]),profile.linkedIn])];
+      if(profile!==teamProfile)continue;
+      const d=profile.copy[route.lang];
+      page['@type']='ProfilePage';page.mainEntity={'@id':entity['@id']};
+      page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:profile.width,height:profile.height};
+      Object.assign(entity,{jobTitle:window.teamProfiles.labels[route.lang][profile.role],description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.education},knowsLanguage:profile.languages,knowsAbout:d.areas});
+      if(profile.number)Object.assign(entity,{memberOf:{'@type':'Organization',name:d.bar},identifier:{'@type':'PropertyValue',propertyID:profile.copy.en.bar+' registration number',value:profile.number}});
     }
     if(route.page==='about'){page['@type']='AboutPage';page.about={'@id':org['@id']};}
     if(route.page==='contact')page['@type']='ContactPage';
