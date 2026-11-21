@@ -365,6 +365,85 @@ window.teamProfiles = (() => {
         "description": "Türkan Keloğulları محامية متدربة في IGA Law Firm. درست في جامعة كوتش (Koç University) وتركز على العمل القانوني المتعلق بالجنسية التركية عن طريق الاستثمار ضمن فريق المكتب."
       }
     }
+  },
+  {
+    "slug": "dilan-caman",
+    "name": "Dilan Caman",
+    "role": "lawyer",
+    "image": "/public/assets/dilan-caman-iga-law-firm.png",
+    "width": 1145,
+    "height": 1374,
+    "number": "66974",
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "copy": {
+      "en": {
+        "education": "Marmara University Faculty of Law",
+        "bar": "Istanbul Bar Association",
+        "areas": [
+          "Real Estate Law",
+          "Criminal Law",
+          "Turkish Citizenship by Investment"
+        ],
+        "intro": [
+          "Dilan Caman is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 66974. She graduated from Marmara University Faculty of Law.",
+          "Her practice focuses on real estate law, criminal law and Turkish citizenship by investment.",
+          "She speaks Turkish and English."
+        ],
+        "title": "Dilan Caman | Attorney | IGA Law Firm",
+        "description": "Dilan Caman, Istanbul Bar attorney no. 66974 and Marmara Law graduate. Practice areas: real estate law, criminal law and Turkish citizenship by investment."
+      },
+      "tr": {
+        "education": "Marmara Üniversitesi Hukuk Fakültesi",
+        "bar": "İstanbul Barosu",
+        "areas": [
+          "Gayrimenkul Hukuku",
+          "Ceza Hukuku",
+          "Yatırım Yoluyla Türk Vatandaşlığı"
+        ],
+        "intro": [
+          "Dilan Caman, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 66974 sicil numarasıyla kayıtlı bir avukattır. Marmara Üniversitesi Hukuk Fakültesi mezunudur.",
+          "Çalışmaları gayrimenkul hukuku, ceza hukuku ve yatırım yoluyla Türk vatandaşlığı alanlarına odaklanmaktadır.",
+          "Türkçe ve İngilizce konuşmaktadır."
+        ],
+        "title": "Av. Dilan Caman | IGA Law Firm",
+        "description": "İstanbul Barosu 66974 sicil numaralı Av. Dilan Caman, Marmara Hukuk mezunudur. Gayrimenkul, ceza ve yatırım yoluyla vatandaşlık alanlarında çalışır."
+      },
+      "zh": {
+        "education": "马尔马拉大学法学院",
+        "bar": "伊斯坦布尔律师协会",
+        "areas": [
+          "房地产法",
+          "刑法",
+          "土耳其投资入籍"
+        ],
+        "intro": [
+          "Dilan Caman是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为66974。她毕业于马尔马拉大学法学院。",
+          "她的执业工作主要涉及房地产法、刑法和土耳其投资入籍。",
+          "她使用土耳其语和英语。"
+        ],
+        "title": "Dilan Caman 律师 | IGA Law Firm",
+        "description": "Dilan Caman律师毕业于马尔马拉大学法学院，在伊斯坦布尔律师协会注册，执业登记号66974。工作领域包括房地产法、刑法和土耳其投资入籍。"
+      },
+      "ar": {
+        "education": "كلية الحقوق بجامعة مرمرة",
+        "bar": "نقابة المحامين في إسطنبول",
+        "areas": [
+          "القانون العقاري",
+          "القانون الجنائي",
+          "الجنسية التركية عن طريق الاستثمار"
+        ],
+        "intro": [
+          "Dilan Caman محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 66974. تخرجت في كلية الحقوق بجامعة مرمرة.",
+          "تركز ممارستها على القانون العقاري والقانون الجنائي والجنسية التركية عن طريق الاستثمار.",
+          "تتحدث التركية والإنجليزية."
+        ],
+        "title": "المحامية Dilan Caman | IGA Law Firm",
+        "description": "Dilan Caman محامية مسجلة في نقابة إسطنبول برقم 66974 وخريجة حقوق مرمرة. تعمل في القانون العقاري والجنائي والجنسية التركية عن طريق الاستثمار."
+      }
+    }
   }
 ];
  const get=slug=>profiles.find(p=>p.slug===slug);
@@ -374,7 +453,7 @@ window.teamProfiles = (() => {
  function render(slug,lang,{esc,pathFor}){
   const p=get(slug),d=p.copy[lang],l=labels[lang];
   const facts=[[l.education,d.education],...(p.number?[[l.bar,d.bar],[l.number,p.number]]:[]),[l.languages,l.languageNames.slice(0,p.languages.length).join(' · ')]];
-  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" style="aspect-ratio:${p.width}/${p.height}" src="${esc(p.image)}" width="${p.width}" height="${p.height}" fetchpriority="high" decoding="async" alt="${esc(p.name+', '+l[p.role]+' — IGA Law Firm')}"><div><span class="eyebrow">IGA Law Firm</span><h1><bdi>${esc(p.name)}</bdi></h1><p class="irmak-role">${esc(l[p.role])} | IGA Law Firm</p><a class="irmak-linkedin" href="${esc(p.linkedIn)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(p.name+' '+l.linkedin)}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>LinkedIn</span></a><dl class="irmak-facts">${facts.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl></div></div></div></section><div class="shell irmak-body"><section><h2>${esc(l.bio)}</h2>${d.intro.map(s=>`<p>${esc(s)}</p>`).join('')}</section><section class="irmak-section"><h2>${esc(l[p.role==='trainee'?'focus':'areas'])}</h2><ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul></section><p><a href="${pathFor(lang,'team')}">${esc(l.back)}</a></p></div></main>`;
+  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" style="aspect-ratio:${p.width}/${p.height}" src="${esc(p.image)}" width="${p.width}" height="${p.height}" fetchpriority="high" decoding="async" alt="${esc(p.name+', '+l[p.role]+' — IGA Law Firm')}"><div><span class="eyebrow">IGA Law Firm</span><h1><bdi>${esc(p.name)}</bdi></h1><p class="irmak-role">${esc(l[p.role])} | IGA Law Firm</p>${p.linkedIn?`<a class="irmak-linkedin" href="${esc(p.linkedIn)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(p.name+' '+l.linkedin)}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>LinkedIn</span></a>`:''}<dl class="irmak-facts">${facts.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl></div></div></div></section><div class="shell irmak-body"><section><h2>${esc(l.bio)}</h2>${d.intro.map(s=>`<p>${esc(s)}</p>`).join('')}</section><section class="irmak-section"><h2>${esc(l[p.role==='trainee'?'focus':'areas'])}</h2><ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul></section><p><a href="${pathFor(lang,'team')}">${esc(l.back)}</a></p></div></main>`;
  }
  return {profiles,get,forName,path,labels,render};
 })();

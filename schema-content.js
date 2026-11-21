@@ -84,7 +84,7 @@ window.igaSchemaContent = (() => {
       if(!profile)continue;
       const entity=graph.find(n=>n['@id']===personId(member));
       entity.url=origin+pathFor(route.lang,'team',profile.slug);
-      entity.sameAs=[...new Set([...(entity.sameAs||[]),profile.linkedIn])];
+      if(profile.linkedIn)entity.sameAs=[...new Set([...(entity.sameAs||[]),profile.linkedIn])];
       if(profile!==teamProfile)continue;
       const d=profile.copy[route.lang];
       page['@type']='ProfilePage';page.mainEntity={'@id':entity['@id']};
