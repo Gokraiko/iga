@@ -99,7 +99,7 @@ window.irmakProfile = (() => {
     "profileLabel": "Professional profile",
     "timelineTitle": "Professional Timeline",
     "timeline": [
-      "European Court of Human Rights (ECtHR), Strasbourg, France — Study visit",
+      "European Court of Human Rights (ECtHR) — Study Visit",
       "Beginning of professional work in foreign nationals law and Turkish citizenship by investment",
       "Founded IGA Law Firm",
       "Professional seminars and presentations in Beijing, Hangzhou, Shanghai and Shenzhen"
@@ -211,7 +211,7 @@ window.irmakProfile = (() => {
     "profileLabel": "Mesleki profil",
     "timelineTitle": "Mesleki Zaman Çizelgesi",
     "timeline": [
-      "Avrupa İnsan Hakları Mahkemesi (AİHM), Strazburg, Fransa — Çalışma ziyareti",
+      "Avrupa İnsan Hakları Mahkemesi (AİHM) — Çalışma Ziyareti",
       "Yabancılar hukuku ve yatırım yoluyla Türk vatandaşlığı alanında mesleki çalışmaların başlangıcı",
       "IGA Law Firm'in kuruluşu",
       "Pekin, Hangzhou, Şanghay ve Shenzhen şehirlerinde mesleki seminerler ve sunumlar"
@@ -311,7 +311,7 @@ window.irmakProfile = (() => {
     "profileLabel": "律师个人简介",
     "timelineTitle": "专业经历时间线",
     "timeline": [
-      "欧洲人权法院（ECtHR），法国斯特拉斯堡——学习访问",
+      "欧洲人权法院（ECtHR）——学习访问",
       "开始从事外国人法律事务及土耳其投资入籍工作",
       "创立IGA Law Firm",
       "在北京、杭州、上海和深圳参加专业研讨会并发表演讲"
@@ -411,7 +411,7 @@ window.irmakProfile = (() => {
     "profileLabel": "الملف المهني",
     "timelineTitle": "المسار المهني",
     "timeline": [
-      "المحكمة الأوروبية لحقوق الإنسان، ستراسبورغ، فرنسا — زيارة دراسية",
+      "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — زيارة دراسية",
       "بداية العمل المهني في قانون الأجانب والجنسية التركية عن طريق الاستثمار",
       "تأسيس IGA Law Firm",
       "ندوات وعروض مهنية في بكين وهانغتشو وشنغهاي وشنتشن"
