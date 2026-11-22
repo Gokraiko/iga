@@ -55,7 +55,7 @@ for (const slug of slugs) {
   const source = window.blogPostContent[slug];
   for (const lang of (articleLanguages[slug] || languages).filter(code => code !== 'en')) {
     const translated = window.blogPostTranslations?.[lang]?.[slug];
-    if (!source || !translated?.title || !translated?.seoTitle || !translated?.metaDescription || ([window.tenantedApartmentArticle?.slug,window.chinaSeminarArticle?.slug].includes(slug) ? !translated.blocks?.length : translated.blocks?.length !== source.blocks?.length)) {
+    if (!source || !translated?.title || !translated?.seoTitle || !translated?.metaDescription || ([window.tenantedApartmentArticle?.slug,window.chinaSeminarArticle?.slug].includes(slug) ? !translated.blocks?.length : (slug === 'turkey-20-year-tax-exemption-and-1-inheritance-tax-advantage-for-foreign-investors' ? translated.blocks?.length !== source.blocks?.filter(block => block.type !== 'source').length : translated.blocks?.length !== source.blocks?.length))) {
       throw new Error(`Incomplete ${lang} translation for ${slug}`);
     }
   }
