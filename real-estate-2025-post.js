@@ -128,33 +128,7 @@
   const revisedEnglish = [
   {
     "type": "paragraph",
-    "text": "A practical guide for international investors considering Turkish citizenship through a qualifying property investment of at least USD 400,000.",
-    "inline": [
-      {
-        "type": "strong",
-        "text": "A practical guide for international investors considering Turkish citizenship through a qualifying property investment of at least USD 400,000."
-      }
-    ]
-  },
-  {
-    "type": "paragraph",
-    "text": "Turkish citizenship by real estate investment offers eligible foreign nationals a route to apply for citizenship through a qualifying property acquisition in Türkiye.",
-    "inline": [
-      {
-        "type": "text",
-        "text": "Turkish citizenship by real estate investment offers eligible foreign nationals a route to apply for citizenship through a qualifying property acquisition in Türkiye."
-      }
-    ]
-  },
-  {
-    "type": "paragraph",
-    "text": "However, purchasing an apartment for USD 400,000 does not automatically entitle the buyer to a Turkish passport.",
-    "inline": [
-      {
-        "type": "text",
-        "text": "However, purchasing an apartment for USD 400,000 does not automatically entitle the buyer to a Turkish passport."
-      }
-    ]
+    "text": "Foreign investors may apply for exceptional Turkish citizenship by purchasing qualifying real estate worth at least USD 400,000, subject to the applicable legal requirements. The qualifying investment must generally be maintained for at least three years. However, purchasing property at this price does not automatically establish eligibility or guarantee citizenship. The property's legal status, ownership history, official investment assessment and payment documentation must also comply with the relevant rules."
   },
   {
     "type": "paragraph",
@@ -163,30 +137,6 @@
       {
         "type": "text",
         "text": "The transaction must satisfy the applicable investment requirements, including the qualifying property type, official investment documentation, ownership and seller restrictions, payment procedures and a three-year commitment not to sell the property."
-      }
-    ]
-  },
-  {
-    "type": "paragraph",
-    "text": "The competent Turkish authorities must confirm the qualifying investment, and citizenship remains subject to the relevant governmental decision.",
-    "inline": [
-      {
-        "type": "text",
-        "text": "The competent Turkish authorities must confirm the qualifying investment, and citizenship remains subject to the relevant governmental decision."
-      }
-    ]
-  },
-  {
-    "type": "paragraph",
-    "text": "Quick answer: Under the applicable Turkish citizenship by investment framework, an eligible foreign national may apply for exceptional Turkish citizenship after making a qualifying real estate investment of at least USD 400,000 or its equivalent in foreign currency, subject to the required three-year restriction and official procedures.",
-    "inline": [
-      {
-        "type": "strong",
-        "text": "Quick answer:"
-      },
-      {
-        "type": "text",
-        "text": " Under the applicable Turkish citizenship by investment framework, an eligible foreign national may apply for exceptional Turkish citizenship after making a qualifying real estate investment of at least USD 400,000 or its equivalent in foreign currency, subject to the required three-year restriction and official procedures."
       }
     ]
   },
@@ -212,8 +162,92 @@
   },
   {
     "type": "heading",
+    "text": "Turkish Citizenship by Property Investment in 2026 — Key Requirements",
+    "level": 2
+  },
+  {
+    "type": "table",
+    "text": "Turkish Citizenship by Property Investment in 2026 — Key Requirements",
+    "columns": [
+      "Requirement",
+      "General rule"
+    ],
+    "rows": [
+      [
+        "Minimum qualifying investment",
+        "USD 400,000"
+      ],
+      [
+        "Holding requirement",
+        "At least three years"
+      ],
+      [
+        "Eligible investment",
+        "Qualifying real estate"
+      ],
+      [
+        "Multiple properties",
+        "Possible under applicable conditions"
+      ],
+      [
+        "Investment assessment",
+        "Official transaction and investment documentation"
+      ],
+      [
+        "Family eligibility",
+        "Subject to applicable spouse and child requirements"
+      ],
+      [
+        "Approval",
+        "Subject to competent authorities’ decision"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "text": "The purchase price alone does not establish citizenship eligibility. The entire transaction must comply with the applicable investment and documentation requirements."
+  },
+  {
+    "type": "source",
+    "text": "Official source — Invest in Türkiye",
+    "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+  },
+  {
+    "type": "heading",
+    "text": "What Changed in 2026?",
+    "level": 2
+  },
+  {
+    "type": "paragraph",
+    "text": "The USD 400,000 threshold, three-year holding commitment and Tutar Tespit Belgesi (TTB, investment amount confirmation document) were not introduced in 2026. The September 2026 amendment to TKGM Circular 2024/4 changes aspects of valuation and investment documentation; it does not make citizenship automatic."
+  },
+  {
+    "type": "paragraph",
+    "text": "The amended text linked in TKGM’s 29 September 2026 announcement allows the underlying valuation report to be prepared by a valuation company authorised by the Capital Markets Board. It also sets a maximum twelve-month interval between the TTB and the citizenship-related transaction application, requiring renewal of the underlying valuation report if that interval is exceeded. This is a specific TTB/application timing rule, not a universal validity period for every valuation report. Real estate investment trusts also have a separate reporting procedure under the amended text."
+  },
+  {
+    "type": "source",
+    "text": "Official source — TKGM 2026",
+    "url": "https://www.tkgm.gov.tr/duyurular/20244-sayili-genelge-degisikligi-hakkinda-duyuru"
+  },
+  {
+    "type": "source",
+    "text": "TKGM 2024/4 — amended text",
+    "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+  },
+  {
+    "type": "paragraph",
+    "text": "The amended Circular 2024/2 separately provides a twelve-month use period for valuation reports used in land registry transactions. A new report is required after that period and, regardless of elapsed time, where relevant changes in the property register affect its value. This rule should be read alongside the specific TTB procedure, rather than treated as a guarantee that every report remains usable for twelve months."
+  },
+  {
+    "type": "source",
+    "text": "TKGM Circular 2024/2 — amended text",
+    "url": "https://cms-api.tkgm.gov.tr/media/101813/view"
+  },
+  {
+    "type": "heading",
     "level": 2,
-    "text": "1. Who Can Apply for Turkish Citizenship Through Property Investment?"
+    "text": "Who Can Apply for Turkish Citizenship Through Property Investment?"
   },
   {
     "type": "paragraph",
@@ -338,7 +372,7 @@
   {
     "type": "heading",
     "level": 2,
-    "text": "2. What Is the Minimum Real Estate Investment for Turkish Citizenship?"
+    "text": "What Is the Minimum Real Estate Investment for Turkish Citizenship?"
   },
   {
     "type": "paragraph",
@@ -453,8 +487,8 @@
   },
   {
     "type": "heading",
-    "level": 2,
-    "text": "3. What Types of Property Can Qualify?"
+    "text": "Which Properties Qualify for Turkish Citizenship?",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -495,6 +529,15 @@
         "text": "The property's registered classification, ownership details, applicable construction status and transaction structure must be examined."
       }
     ]
+  },
+  {
+    "type": "paragraph",
+    "text": "Acquisition rights and citizenship eligibility are separate questions. Check nationality-based acquisition restrictions, the registered property category, construction status, seller and prior ownership restrictions, and mortgages, liens or other encumbrances. A developer’s marketing claim does not replace an examination of the official records."
+  },
+  {
+    "type": "source",
+    "text": "Property legal due diligence and eligibility review",
+    "url": "https://igalawfirm.com/en/igalawrealestateduediligence/"
   },
   {
     "type": "heading",
@@ -578,8 +621,68 @@
   },
   {
     "type": "heading",
+    "text": "How Is the USD 400,000 Investment Verified?",
+    "level": 2
+  },
+  {
+    "type": "heading",
+    "text": "Official Purchase Price",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "The amount recorded in the official sale deed or qualifying promise-of-sale contract must meet the applicable investment rules alongside payment evidence and official investment confirmation. An advertised or privately agreed price is not a substitute for the required official amounts."
+  },
+  {
+    "type": "heading",
+    "text": "Tutar Tespit Belgesi (TTB)",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "The Taşınmaz Edinim Sureti ile Vatandaşlık Kazanımına Esas Tutar Tespit Belgesi records the property investment amount acceptable for citizenship purposes. It is derived from the relevant valuation report and transmitted through TADEBİS to TAKBİS/WebTapu under the current TKGM procedure. A privately supplied paper copy is not a substitute for that electronic transmission; specific transaction exceptions must be checked."
+  },
+  {
+    "type": "source",
+    "text": "Official source — TTB",
+    "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+  },
+  {
+    "type": "heading",
+    "text": "Döviz Alım Belgesi (DAB)",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "The Döviz Alım Belgesi is the foreign-exchange purchase certificate issued by the bank for the required currency conversion. Banking arrangements, identification and transaction references must be planned before payment and registration. A DAB records the currency transaction; it does not independently prove citizenship eligibility."
+  },
+  {
+    "type": "heading",
+    "text": "Bank Transfer Receipts",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Bank evidence must document the qualifying payment to the seller and correspond to the buyer, property and transaction. The DAB and payment receipt serve different purposes; a conversion certificate alone does not prove that the seller received the purchase price."
+  },
+  {
+    "type": "source",
+    "text": "Official source — DAB",
+    "url": "https://www.tkgm.gov.tr/duyurular/yabanci-gercek-kisi-edinimlerinde-doviz-alim-belgesi-hakkinda-duyuru"
+  },
+  {
+    "type": "heading",
+    "text": "Valuation and Investment Assessment",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Advertised price, negotiated price, the official transaction amount and the amount accepted for citizenship are different concepts. A high appraisal alone does not guarantee eligibility. Check the current TTB procedure and any applicable exception rather than assuming that every valuation report follows the same validity rule."
+  },
+  {
+    "type": "heading",
     "level": 2,
-    "text": "4. Can You Buy More Than One Property to Reach USD 400,000?"
+    "text": "Can You Buy More Than One Property to Reach USD 400,000?"
   },
   {
     "type": "paragraph",
@@ -623,8 +726,8 @@
   },
   {
     "type": "heading",
-    "level": 3,
-    "text": "What if you already own an apartment in Türkiye?"
+    "text": "Can Previously Purchased Property Count?",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -677,9 +780,13 @@
     ]
   },
   {
+    "type": "paragraph",
+    "text": "The applicable threshold at the relevant acquisition date, previous ownership, investment assessment and transaction restrictions must also be checked. A later increase in market value does not automatically qualify an earlier purchase."
+  },
+  {
     "type": "heading",
-    "level": 2,
-    "text": "5. Step-by-Step: How Does the Turkish Citizenship Property Investment Process Work?"
+    "text": "Step-by-Step Turkish Citizenship Application Process",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -977,6 +1084,11 @@
     ]
   },
   {
+    "type": "heading",
+    "text": "Step 8 — Identity and passport procedures after approval",
+    "level": 3
+  },
+  {
     "type": "paragraph",
     "text": "If citizenship is granted, the applicant can complete the relevant civil registration and identity document procedures.",
     "inline": [
@@ -988,8 +1100,8 @@
   },
   {
     "type": "heading",
-    "level": 2,
-    "text": "6. What Are the Additional Costs Beyond USD 400,000?"
+    "text": "Costs, Taxes and Government Fees",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -1040,6 +1152,10 @@
     "text": "Property ownership expenses: Insurance, maintenance, building charges and ongoing taxes"
   },
   {
+    "type": "list",
+    "text": "Government application and document fees: Budget separately for applicable residence, citizenship and identity-document procedures."
+  },
+  {
     "type": "paragraph",
     "text": "The precise amounts depend on the transaction and current rules.",
     "inline": [
@@ -1070,9 +1186,13 @@
     ]
   },
   {
+    "type": "paragraph",
+    "text": "Use the legally required transaction value and accurate payment records. Do not understate the price to reduce charges."
+  },
+  {
     "type": "heading",
     "level": 2,
-    "text": "7. How Long Does Turkish Citizenship by Property Investment Take?"
+    "text": "How Long Does Turkish Citizenship by Property Investment Take?"
   },
   {
     "type": "paragraph",
@@ -1151,7 +1271,7 @@
   {
     "type": "heading",
     "level": 2,
-    "text": "8. Can You Buy Property and Apply Without Visiting Turkey?"
+    "text": "Can You Buy Property and Apply Without Visiting Turkey?"
   },
   {
     "type": "paragraph",
@@ -1206,7 +1326,7 @@
   {
     "type": "heading",
     "level": 2,
-    "text": "9. Can You Rent Out or Sell the Property After Obtaining Citizenship?"
+    "text": "Can You Rent Out or Sell the Property After Obtaining Citizenship?"
   },
   {
     "type": "heading",
@@ -1315,8 +1435,8 @@
   },
   {
     "type": "heading",
-    "level": 2,
-    "text": "10. Common Mistakes That Can Delay or Complicate a Citizenship Application"
+    "text": "Common Reasons a Property May Not Qualify",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -1327,6 +1447,10 @@
         "text": "Several recurring issues deserve attention."
       }
     ]
+  },
+  {
+    "type": "paragraph",
+    "text": "An ineligible property category, restricted seller or ownership history, insufficient qualifying amount, incorrect banking documents, title defects, missing official records, an incompatible transaction structure or failure to meet the holding commitment may prevent qualification. Completing a purchase is not the same as obtaining investment conformity approval."
   },
   {
     "type": "heading",
@@ -1446,7 +1570,7 @@
   {
     "type": "heading",
     "level": 2,
-    "text": "11. Should You Have a Lawyer Review the Property Before Paying a Deposit?"
+    "text": "Should You Have a Lawyer Review the Property Before Paying a Deposit?"
   },
   {
     "type": "paragraph",
@@ -1550,8 +1674,8 @@
   },
   {
     "type": "heading",
-    "level": 2,
-    "text": "12. How IGA Law Firm Assists International Investors"
+    "text": "How IGA Law Firm Can Assist",
+    "level": 2
   },
   {
     "type": "paragraph",
@@ -1599,6 +1723,10 @@
   },
   {
     "type": "paragraph",
+    "text": "Depending on the agreed engagement, this can include banking documentation coordination and legal representation during the acquisition and citizenship process."
+  },
+  {
+    "type": "paragraph",
     "text": "Legal advice should be tailored to the individual investor, property and transaction.",
     "inline": [
       {
@@ -1616,6 +1744,16 @@
         "text": "The firm does not guarantee citizenship approval, investment returns or a particular administrative timeline."
       }
     ]
+  },
+  {
+    "type": "source",
+    "text": "Request a Property Legal Review Before Buying",
+    "url": "https://igalawfirm.com/en/igalawrealestateduediligence/"
+  },
+  {
+    "type": "source",
+    "text": "Speak With Our Legal Team",
+    "url": "https://igalawfirm.com/en/contact/"
   },
   {
     "type": "heading",
@@ -1669,6 +1807,15 @@
   },
   {
     "type": "heading",
+    "text": "Does the property valuation have to equal USD 400,000?",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "The qualifying investment must satisfy the applicable USD 400,000 threshold; an appraisal figure alone is not enough. The official transaction amount, payment evidence and investment assessment must comply with the relevant TKGM rules."
+  },
+  {
+    "type": "heading",
     "level": 3,
     "text": "Can I use a property I already own?"
   },
@@ -1696,6 +1843,15 @@
         "text": "Certain transaction steps may be handled through legally authorised representation. Personal attendance requirements for other procedures must be confirmed separately."
       }
     ]
+  },
+  {
+    "type": "heading",
+    "text": "Can I buy property through a power of attorney?",
+    "level": 3
+  },
+  {
+    "type": "paragraph",
+    "text": "Yes, specified purchase procedures may be handled through a properly authorised representative. The power of attorney must meet the applicable formal requirements and cover the relevant actions; personal attendance requirements for citizenship must be checked separately."
   },
   {
     "type": "heading",
@@ -1778,9 +1934,23 @@
     "url": "https://igalawfirm.com/en/turkish-citizenship-by-investment/"
   },
   {
+    "type": "paragraph",
+    "text": "Last updated: 22 November 2026. This is an editorial update, not a claim that a new legal review has been completed."
+  },
+  {
     "type": "heading",
-    "level": 2,
-    "text": "Official Sources"
+    "text": "Official Legal Sources and Last Updated",
+    "level": 2
+  },
+  {
+    "type": "source",
+    "text": "Law No. 5901",
+    "url": "https://mevzuat.adalet.gov.tr/mevzuat/104076"
+  },
+  {
+    "type": "source",
+    "text": "Citizenship Regulation — Article 20",
+    "url": "https://mevzuat.adalet.gov.tr/mevzuat/116845"
   },
   {
     "type": "source",
@@ -1833,42 +2003,11 @@
     "blocks": [
       {
         "type": "paragraph",
-        "text": "En az 400.000 ABD doları tutarında uygun bir gayrimenkul yatırımıyla Türk vatandaşlığına başvurmayı düşünen uluslararası yatırımcılar için uygulamaya yönelik bir rehber.",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "En az 400.000 ABD doları tutarında uygun bir gayrimenkul yatırımıyla Türk vatandaşlığına başvurmayı düşünen uluslararası yatırımcılar için uygulamaya yönelik bir rehber."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "text": "Gayrimenkul yatırımı yoluyla Türk vatandaşlığı, gerekli koşulları taşıyan yabancıların Türkiye’de uygun bir taşınmaz edinimi üzerinden vatandaşlığa başvurmasına imkân tanır."
-      },
-      {
-        "type": "paragraph",
-        "text": "Ancak 400.000 ABD dolarına bir daire satın almak, alıcıya kendiliğinden Türk pasaportu alma hakkı vermez."
+        "text": "Yabancı yatırımcılar, ilgili yasal şartlara uymak kaydıyla en az 400.000 ABD doları değerinde uygun gayrimenkul satın alarak istisnai Türk vatandaşlığına başvurabilir. Uygun yatırımın kural olarak en az üç yıl korunması gerekir. Ancak bu bedelle taşınmaz almak tek başına uygunluk sağlamaz veya vatandaşlığı garanti etmez. Taşınmazın hukuki durumu, mülkiyet geçmişi, resmî yatırım değerlendirmesi ve ödeme belgeleri de ilgili kurallara uygun olmalıdır."
       },
       {
         "type": "paragraph",
         "text": "İşlem; uygun taşınmaz türü, resmi yatırım belgeleri, mülkiyet ve satıcıya ilişkin sınırlamalar, ödeme usulleri ve taşınmazı üç yıl satmama taahhüdü dahil olmak üzere geçerli yatırım koşullarını karşılamalıdır."
-      },
-      {
-        "type": "paragraph",
-        "text": "Yatırımın uygunluğu yetkili Türk makamlarınca doğrulanmalı; vatandaşlığın kazanılması ise ilgili yetkili makamın kararına bağlıdır."
-      },
-      {
-        "type": "paragraph",
-        "text": "Kısa yanıt: Yatırım yoluyla Türk vatandaşlığına ilişkin düzenlemeler kapsamında, gerekli koşulları taşıyan bir yabancı, en az 400.000 ABD doları veya karşılığı döviz tutarında uygun bir gayrimenkul yatırımı yaptıktan sonra, üç yıllık sınırlamaya ve resmi usullere uyarak istisnai yoldan Türk vatandaşlığına başvurabilir.",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "Kısa yanıt:"
-          },
-          {
-            "text": " Yatırım yoluyla Türk vatandaşlığına ilişkin düzenlemeler kapsamında, gerekli koşulları taşıyan bir yabancı, en az 400.000 ABD doları veya karşılığı döviz tutarında uygun bir gayrimenkul yatırımı yaptıktan sonra, üç yıllık sınırlamaya ve resmi usullere uyarak istisnai yoldan Türk vatandaşlığına başvurabilir."
-          }
-        ]
       },
       {
         "type": "paragraph",
@@ -1880,8 +2019,92 @@
       },
       {
         "type": "heading",
+        "text": "2026’da Gayrimenkul Yatırımıyla Türk Vatandaşlığı — Temel Şartlar",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "text": "2026’da Gayrimenkul Yatırımıyla Türk Vatandaşlığı — Temel Şartlar",
+        "columns": [
+          "Şart",
+          "Genel kural"
+        ],
+        "rows": [
+          [
+            "Asgari uygun yatırım",
+            "400.000 ABD doları"
+          ],
+          [
+            "Yatırımı koruma şartı",
+            "En az üç yıl"
+          ],
+          [
+            "Uygun yatırım",
+            "Şartları karşılayan gayrimenkul"
+          ],
+          [
+            "Birden fazla taşınmaz",
+            "İlgili şartlar altında mümkün"
+          ],
+          [
+            "Yatırım değerlendirmesi",
+            "Resmî işlem ve yatırım belgeleri"
+          ],
+          [
+            "Aile üyelerinin uygunluğu",
+            "Eş ve çocuklara ilişkin kurallara bağlı"
+          ],
+          [
+            "Onay",
+            "Yetkili makamların kararına bağlı"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Satın alma bedeli tek başına vatandaşlık uygunluğunu belirlemez. İşlemin tamamı ilgili yatırım ve belgelendirme şartlarına uygun olmalıdır."
+      },
+      {
+        "type": "source",
+        "text": "Resmî kaynak — Invest in Türkiye",
+        "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+      },
+      {
+        "type": "heading",
+        "text": "2026’da Ne Değişti?",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "400.000 ABD doları eşiği, üç yıllık satmama taahhüdü ve Tutar Tespit Belgesi (TTB) 2026’da getirilmedi. TKGM’nin 2024/4 sayılı Genelgesinin Eylül 2026 değişikliği değerleme ve yatırım belgelerinin bazı yönlerini düzenlemektedir; vatandaşlığı otomatik hâle getirmez."
+      },
+      {
+        "type": "paragraph",
+        "text": "TKGM’nin 29 Eylül 2026 duyurusunda bağlantısı verilen değişik metin, TTB’ye esas değerleme raporunun Sermaye Piyasası Kurulunca yetkilendirilmiş bir değerleme kuruluşunca hazırlanmasını öngörmektedir. TTB ile vatandaşlık kazanımı içeren işlem başvurusu arasındaki süre en fazla on iki aydır; bu süre aşılırsa esas değerleme raporu yenilenir. Bu, her değerleme raporu için genel bir geçerlilik süresi değil, belirli TTB ve başvuru işleminin süre kuralıdır. Değişik metinde gayrimenkul yatırım ortaklıkları için ayrıca rapor ibraz usulü bulunur."
+      },
+      {
+        "type": "source",
+        "text": "Resmî kaynak — TKGM 2026",
+        "url": "https://www.tkgm.gov.tr/duyurular/20244-sayili-genelge-degisikligi-hakkinda-duyuru"
+      },
+      {
+        "type": "source",
+        "text": "TKGM 2024/4 — 2026",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "paragraph",
+        "text": "Değiştirilen 2024/2 sayılı Genelge, tapu işlemlerinde kullanılacak değerleme raporları için ayrıca on iki aylık kullanım süresi öngörmektedir. Süre dolduğunda ve süreye bakılmaksızın taşınmazın değerini etkileyen ilgili sicil değişikliklerinde yeni rapor gerekir. Bu kural, her raporun on iki ay boyunca mutlaka kullanılabileceği şeklinde değil, özel TTB prosedürüyle birlikte değerlendirilmelidir."
+      },
+      {
+        "type": "source",
+        "text": "TKGM 2024/2 sayılı Genelge — değişik metin",
+        "url": "https://cms-api.tkgm.gov.tr/media/101813/view"
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "1. Gayrimenkul Yatırımıyla Türk Vatandaşlığına Kimler Başvurabilir?"
+        "text": "Gayrimenkul Yatırımıyla Türk Vatandaşlığına Kimler Başvurabilir?"
       },
       {
         "type": "paragraph",
@@ -1940,7 +2163,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "2. Türk Vatandaşlığı İçin Asgari Gayrimenkul Yatırımı Ne Kadardır?"
+        "text": "Türk Vatandaşlığı İçin Asgari Gayrimenkul Yatırımı Ne Kadardır?"
       },
       {
         "type": "paragraph",
@@ -2003,8 +2226,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "3. Hangi Taşınmaz Türleri Uygun Olabilir?"
+        "text": "Hangi Taşınmazlar Türk Vatandaşlığına Uygundur?",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2021,6 +2244,15 @@
       {
         "type": "paragraph",
         "text": "Taşınmazın sicildeki niteliği, mülkiyet bilgileri, inşaatın hukuki durumu ve işlemin yapısı incelenmelidir."
+      },
+      {
+        "type": "paragraph",
+        "text": "Taşınmaz edinme hakkı ve vatandaşlığa uygunluk ayrı konulardır. Uyruğa bağlı edinim kısıtları, tapudaki taşınmaz niteliği, inşaat durumu, satıcı ve önceki mülkiyet kısıtları ile ipotek, haciz ve diğer takyidatlar incelenmelidir. Proje geliştiricisinin pazarlama beyanı, resmî kayıt incelemesinin yerini tutmaz."
+      },
+      {
+        "type": "source",
+        "text": "Gayrimenkul hukuki incelemesi ve uygunluk değerlendirmesi",
+        "url": "https://igalawfirm.com/tr/igalawrealestateduediligence/"
       },
       {
         "type": "heading",
@@ -2062,8 +2294,68 @@
       },
       {
         "type": "heading",
+        "text": "400.000 ABD Dolarlık Yatırım Nasıl Doğrulanır?",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "text": "Resmî Satın Alma Bedeli",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Resmî satış senedindeki veya uygun satış vaadi sözleşmesindeki bedel, ödeme kanıtları ve resmî yatırım teyidiyle birlikte ilgili yatırım şartlarını sağlamalıdır. İlan fiyatı veya taraflar arasında kararlaştırılan bedel, gerekli resmî tutarların yerine geçmez."
+      },
+      {
+        "type": "heading",
+        "text": "Tutar Tespit Belgesi (TTB)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Taşınmaz Edinim Sureti ile Vatandaşlık Kazanımına Esas Tutar Tespit Belgesi, vatandaşlık bakımından kabul edilebilecek taşınmaz yatırım tutarını gösterir. İlgili değerleme raporundan elde edilir ve güncel TKGM usulüne göre TADEBİS üzerinden TAKBİS/WebTapu’ya gönderilir. Elden sunulan kâğıt belge bu elektronik iletimin yerine geçmez; işleme özgü istisnalar kontrol edilmelidir."
+      },
+      {
+        "type": "source",
+        "text": "Resmî kaynak — TTB",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "heading",
+        "text": "Döviz Alım Belgesi (DAB)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Döviz Alım Belgesi, gerekli döviz dönüşümü için bankanın düzenlediği belgedir. Bankacılık işlemleri, kimlik ve işlem bilgileri ödeme ve tescilden önce planlanmalıdır. DAB döviz işlemini belgeler; tek başına vatandaşlığa uygunluğu kanıtlamaz."
+      },
+      {
+        "type": "heading",
+        "text": "Banka Transfer Dekontları",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Banka belgeleri satıcıya yapılan uygun ödemeyi göstermeli; alıcı, taşınmaz ve işlemle örtüşmelidir. DAB ve ödeme dekontu farklı amaçlara hizmet eder; döviz alım belgesi tek başına satıcının satış bedelini aldığını göstermez."
+      },
+      {
+        "type": "source",
+        "text": "Resmî kaynak — DAB",
+        "url": "https://www.tkgm.gov.tr/duyurular/yabanci-gercek-kisi-edinimlerinde-doviz-alim-belgesi-hakkinda-duyuru"
+      },
+      {
+        "type": "heading",
+        "text": "Değerleme ve Yatırım Tutarı Değerlendirmesi",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "İlan bedeli, kararlaştırılan bedel, resmî işlem tutarı ve vatandaşlık için kabul edilen tutar farklı kavramlardır. Yüksek değerleme tek başına uygunluk garantisi değildir. Her raporun aynı süre kuralına tabi olduğunu varsaymak yerine güncel TTB usulü ve istisnalar incelenmelidir."
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "4. 400.000 ABD Dolarına Ulaşmak İçin Birden Fazla Taşınmaz Alınabilir mi?"
+        "text": "400.000 ABD Dolarına Ulaşmak İçin Birden Fazla Taşınmaz Alınabilir mi?"
       },
       {
         "type": "paragraph",
@@ -2083,8 +2375,8 @@
       },
       {
         "type": "heading",
-        "level": 3,
-        "text": "Türkiye’de zaten bir daireniz varsa ne olur?"
+        "text": "Daha Önce Satın Alınan Taşınmaz Hesaba Katılabilir mi?",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2113,9 +2405,13 @@
         ]
       },
       {
+        "type": "paragraph",
+        "text": "Edinim tarihinde geçerli eşik, önceki mülkiyet, yatırım değerlendirmesi ve işlem kısıtları da incelenmelidir. Piyasa değerinin sonradan artması, eski bir satın almayı kendiliğinden uygun hâle getirmez."
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "5. Adım Adım: Gayrimenkul Yatırımıyla Türk Vatandaşlığı Süreci Nasıl İşler?"
+        "text": "Adım Adım Türk Vatandaşlığı Başvuru Süreci",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2263,13 +2559,18 @@
         "text": "Yatırım koşullarının karşılanması, devletin vatandaşlık başvurusunu değerlendirme yetkisini ortadan kaldırmaz."
       },
       {
+        "type": "heading",
+        "text": "Adım 8 — Onaydan sonra kimlik ve pasaport işlemleri",
+        "level": 3
+      },
+      {
         "type": "paragraph",
         "text": "Vatandaşlık verilirse başvuru sahibi ilgili nüfus tescili ve kimlik belgesi işlemlerini tamamlayabilir."
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "6. 400.000 ABD Dolarının Dışında Hangi Ek Maliyetler Vardır?"
+        "text": "Maliyetler, Vergiler ve Resmî Harçlar",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2308,6 +2609,10 @@
         "text": "Taşınmaz sahipliği giderleri: Sigorta, bakım, aidatlar ve devam eden vergi yükümlülükleri"
       },
       {
+        "type": "list",
+        "text": "Resmî başvuru ve belge ücretleri: İlgili ikamet, vatandaşlık ve kimlik belgesi işlemleri için ayrıca bütçe ayırın."
+      },
+      {
         "type": "paragraph",
         "text": "Kesin tutarlar işleme ve güncel kurallara bağlıdır."
       },
@@ -2326,9 +2631,13 @@
         "text": "Yatırımcı satın alma sözleşmesi imzalamadan önce kalemler halinde maliyet tahmini almalıdır."
       },
       {
+        "type": "paragraph",
+        "text": "Yasal olarak gerekli işlem tutarını ve doğru ödeme kayıtlarını kullanın. Harçları azaltmak için bedeli düşük göstermeyin."
+      },
+      {
         "type": "heading",
         "level": 2,
-        "text": "7. Gayrimenkul Yatırımıyla Türk Vatandaşlığı Ne Kadar Sürer?"
+        "text": "Gayrimenkul Yatırımıyla Türk Vatandaşlığı Ne Kadar Sürer?"
       },
       {
         "type": "paragraph",
@@ -2377,7 +2686,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "8. Türkiye’ye Gelmeden Taşınmaz Alıp Başvuru Yapılabilir mi?"
+        "text": "Türkiye’ye Gelmeden Taşınmaz Alıp Başvuru Yapılabilir mi?"
       },
       {
         "type": "paragraph",
@@ -2402,7 +2711,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "9. Vatandaşlık Alındıktan Sonra Taşınmaz Kiraya Verilebilir veya Satılabilir mi?"
+        "text": "Vatandaşlık Alındıktan Sonra Taşınmaz Kiraya Verilebilir veya Satılabilir mi?"
       },
       {
         "type": "heading",
@@ -2457,12 +2766,16 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "10. Vatandaşlık Başvurusunu Geciktirebilen veya Zorlaştırabilen Yaygın Hatalar"
+        "text": "Bir Taşınmazın Uygun Olmamasının Yaygın Nedenleri",
+        "level": 2
       },
       {
         "type": "paragraph",
         "text": "Tekrarlanan bazı sorunlar özellikle dikkate alınmalıdır."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uygun olmayan taşınmaz türü, satıcı veya mülkiyet geçmişi kısıtları, yetersiz uygun yatırım tutarı, hatalı banka belgeleri, tapu sorunları, eksik resmî kayıtlar, uyumsuz işlem yapısı veya satmama şartının karşılanmaması uygunluğu engelleyebilir. Satın almanın tamamlanması, yatırım uygunluğunun onaylanmasıyla aynı değildir."
       },
       {
         "type": "heading",
@@ -2534,7 +2847,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "11. Kapora Ödemeden Önce Taşınmazı Bir Avukata İnceletmeli misiniz?"
+        "text": "Kapora Ödemeden Önce Taşınmazı Bir Avukata İnceletmeli misiniz?"
       },
       {
         "type": "paragraph",
@@ -2596,8 +2909,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "12. IGA Hukuk Bürosu Uluslararası Yatırımcılara Nasıl Yardımcı Olur?"
+        "text": "IGA Law Firm Nasıl Yardımcı Olabilir?",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2633,11 +2946,25 @@
       },
       {
         "type": "paragraph",
+        "text": "Kararlaştırılan hizmet kapsamına göre bankacılık belgelerinin koordinasyonu ile edinim ve vatandaşlık sürecinde hukuki temsil de sağlanabilir."
+      },
+      {
+        "type": "paragraph",
         "text": "Hukuki danışmanlık, yatırımcıya, taşınmaza ve işleme özgü olmalıdır."
       },
       {
         "type": "paragraph",
         "text": "Büro vatandaşlık onayını, yatırım getirisini veya belirli bir idari işlem süresini garanti etmez."
+      },
+      {
+        "type": "source",
+        "text": "Satın Almadan Önce Gayrimenkul Hukuki İncelemesi Talep Edin",
+        "url": "https://igalawfirm.com/tr/igalawrealestateduediligence/"
+      },
+      {
+        "type": "source",
+        "text": "Hukuk Ekibimizle Görüşün",
+        "url": "https://igalawfirm.com/tr/contact/"
       },
       {
         "type": "heading",
@@ -2673,6 +3000,15 @@
       },
       {
         "type": "heading",
+        "text": "Taşınmaz değerlemesinin 400.000 ABD dolarına eşit olması gerekir mi?",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Uygun yatırım ilgili 400.000 ABD doları eşiğini karşılamalıdır; tek başına değerleme tutarı yeterli değildir. Resmî işlem tutarı, ödeme belgeleri ve yatırım değerlendirmesi ilgili TKGM kurallarına uygun olmalıdır."
+      },
+      {
+        "type": "heading",
         "level": 3,
         "text": "Zaten sahip olduğum bir taşınmazı kullanabilir miyim?"
       },
@@ -2688,6 +3024,15 @@
       {
         "type": "paragraph",
         "text": "Bazı işlem aşamaları hukuken yetkilendirilmiş temsilci aracılığıyla yürütülebilir. Diğer işlemlerde şahsen bulunma koşulları ayrıca teyit edilmelidir."
+      },
+      {
+        "type": "heading",
+        "text": "Vekâletnameyle taşınmaz satın alabilir miyim?",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Evet, belirli satın alma işlemleri usulüne uygun yetkilendirilmiş temsilciyle yapılabilir. Vekâletname gerekli şekil şartlarını sağlamalı ve ilgili işlemleri kapsamalıdır; vatandaşlık sürecindeki şahsen katılım şartları ayrıca kontrol edilmelidir."
       },
       {
         "type": "heading",
@@ -2740,9 +3085,23 @@
         "url": "https://igalawfirm.com/tr/yatirim-yoluyla-turk-vatandasligi/"
       },
       {
+        "type": "paragraph",
+        "text": "Son güncelleme: 22 Kasım 2026. Bu tarih editoryal güncellemeyi gösterir; yeni bir hukuki incelemenin tamamlandığı anlamına gelmez."
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "Resmi Kaynaklar"
+        "text": "Resmî Hukuki Kaynaklar ve Son Güncelleme",
+        "level": 2
+      },
+      {
+        "type": "source",
+        "text": "5901 sayılı Türk Vatandaşlığı Kanunu",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/104076"
+      },
+      {
+        "type": "source",
+        "text": "Vatandaşlık Yönetmeliği — Madde 20",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/116845"
       },
       {
         "type": "source",
@@ -2792,42 +3151,11 @@
     "blocks": [
       {
         "type": "paragraph",
-        "text": "为考虑通过至少40万美元合格房地产投资申请土耳其国籍的国际投资者提供实用指南。",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "为考虑通过至少40万美元合格房地产投资申请土耳其国籍的国际投资者提供实用指南。"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "text": "通过房地产投资取得土耳其国籍，是符合条件的外国公民在土耳其完成合格房产交易后申请入籍的一种途径。"
-      },
-      {
-        "type": "paragraph",
-        "text": "然而，购买一套价值40万美元的公寓，并不意味着买方自动有权获得土耳其护照。"
+        "text": "外国投资者在满足适用法律要求的前提下，可通过购买价值至少40万美元的合格房地产申请特殊程序土耳其国籍。合格投资通常须维持至少三年。然而，以该价格购房并不自动确立申请资格，也不保证取得国籍。房产法律状态、所有权历史、官方投资审核及付款文件均须符合相关规定。"
       },
       {
         "type": "paragraph",
         "text": "交易必须符合适用的投资要求，包括合格房产类型、官方投资文件、所有权及卖方限制、付款程序，以及三年内不出售房产的承诺。"
-      },
-      {
-        "type": "paragraph",
-        "text": "合格投资须经土耳其主管机关确认，是否授予国籍仍取决于有关政府决定。"
-      },
-      {
-        "type": "paragraph",
-        "text": "简要回答：根据适用的土耳其投资入籍制度，符合条件的外国公民在完成至少40万美元或等值外币的合格房地产投资后，可申请例外取得土耳其国籍，但须遵守规定的三年限制及官方程序。",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "简要回答："
-          },
-          {
-            "text": "根据适用的土耳其投资入籍制度，符合条件的外国公民在完成至少40万美元或等值外币的合格房地产投资后，可申请例外取得土耳其国籍，但须遵守规定的三年限制及官方程序。"
-          }
-        ]
       },
       {
         "type": "paragraph",
@@ -2839,8 +3167,92 @@
       },
       {
         "type": "heading",
+        "text": "2026年土耳其购房投资入籍——主要要求",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "text": "2026年土耳其购房投资入籍——主要要求",
+        "columns": [
+          "要求",
+          "一般规则"
+        ],
+        "rows": [
+          [
+            "最低合格投资额",
+            "40万美元"
+          ],
+          [
+            "持有要求",
+            "至少三年"
+          ],
+          [
+            "合格投资",
+            "符合条件的房地产"
+          ],
+          [
+            "多套房产",
+            "在适用条件下可以合并考虑"
+          ],
+          [
+            "投资审核",
+            "官方交易及投资文件"
+          ],
+          [
+            "家庭成员资格",
+            "适用配偶和子女条件"
+          ],
+          [
+            "批准",
+            "取决于主管机关决定"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "购房价格本身不能证明入籍资格。整项交易必须符合适用的投资及文件要求。"
+      },
+      {
+        "type": "source",
+        "text": "官方来源 — Invest in Türkiye",
+        "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+      },
+      {
+        "type": "heading",
+        "text": "2026年有哪些变化？",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "40万美元门槛、三年不得出售承诺及Tutar Tespit Belgesi（TTB，投资金额确认文件）并非2026年新设。TKGM第2024/4号通函的2026年9月修订涉及估值和投资文件的部分程序，并不使入籍自动获批。"
+      },
+      {
+        "type": "paragraph",
+        "text": "TKGM于2026年9月29日公告链接的修订文本允许由土耳其资本市场委员会授权的估值机构编制TTB所依据的估值报告。TTB与涉及入籍的交易申请之间的间隔不得超过十二个月；超过该期限须更新基础估值报告。这是特定TTB与申请之间的时间规则，并非所有估值报告通用的有效期。修订文本亦为房地产投资信托公司规定了单独的报告提交程序。"
+      },
+      {
+        "type": "source",
+        "text": "官方来源 — TKGM 2026",
+        "url": "https://www.tkgm.gov.tr/duyurular/20244-sayili-genelge-degisikligi-hakkinda-duyuru"
+      },
+      {
+        "type": "source",
+        "text": "TKGM 2024/4 — 2026",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "paragraph",
+        "text": "修订后的2024/2号通函另行规定，用于土地登记交易的估价报告使用期限为十二个月。超过该期限须重新出具报告；即使期限尚未届满，登记簿中影响房产价值的相关变更也可能要求重新出具报告。此规则应与TTB的具体程序一并理解，不能视为所有报告均保证可使用十二个月。"
+      },
+      {
+        "type": "source",
+        "text": "TKGM 2024/2号通函——修订文本",
+        "url": "https://cms-api.tkgm.gov.tr/media/101813/view"
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "1. 谁可以通过房地产投资申请土耳其国籍？"
+        "text": "谁可以通过房地产投资申请土耳其国籍？"
       },
       {
         "type": "paragraph",
@@ -2899,7 +3311,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "2. 申请土耳其国籍的最低房地产投资金额是多少？"
+        "text": "申请土耳其国籍的最低房地产投资金额是多少？"
       },
       {
         "type": "paragraph",
@@ -2962,8 +3374,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "3. 哪些类型的房产可能符合条件？"
+        "text": "哪些房产符合土耳其入籍条件？",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -2980,6 +3392,15 @@
       {
         "type": "paragraph",
         "text": "必须审查房产登记类别、所有权信息、适用的建设状态及交易结构。"
+      },
+      {
+        "type": "paragraph",
+        "text": "购买资格与入籍资格是不同问题。应核查基于国籍的购房限制、登记房产类别、建设状态、卖方及先前所有权限制，以及抵押、查封或其他权利负担。开发商的营销承诺不能替代官方记录核查。"
+      },
+      {
+        "type": "source",
+        "text": "房地产法律尽职调查及资格审查",
+        "url": "https://igalawfirm.com/zh/igalawrealestateduediligence/"
       },
       {
         "type": "heading",
@@ -3021,8 +3442,68 @@
       },
       {
         "type": "heading",
+        "text": "如何核实40万美元投资？",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "text": "官方购房价格",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "正式买卖契据或合格预售承诺合同记载的金额，必须与付款证据及官方投资确认一起满足适用要求。广告报价或私下约定价格不能替代所需的官方金额。"
+      },
+      {
+        "type": "heading",
+        "text": "Tutar Tespit Belgesi（TTB）",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Taşınmaz Edinim Sureti ile Vatandaşlık Kazanımına Esas Tutar Tespit Belgesi用于确认入籍目的可接受的房地产投资金额。它依据相关估值报告生成，并按现行TKGM程序经TADEBİS传送至TAKBİS/WebTapu。自行提交的纸质文件不能替代系统传送；须核查特定交易例外。"
+      },
+      {
+        "type": "source",
+        "text": "官方来源 — TTB",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "heading",
+        "text": "Döviz Alım Belgesi（DAB）",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Döviz Alım Belgesi是银行就所需外汇兑换签发的外汇购买证明。付款和登记前应安排银行手续、身份信息及交易标识。DAB证明外汇交易，不能独立证明入籍资格。"
+      },
+      {
+        "type": "heading",
+        "text": "银行转账凭证",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "银行证据必须证明向卖方支付的合格款项，并与买方、房产和交易对应。DAB和付款凭证用途不同；兑换证明本身不能证明卖方已收到购房款。"
+      },
+      {
+        "type": "source",
+        "text": "官方来源 — DAB",
+        "url": "https://www.tkgm.gov.tr/duyurular/yabanci-gercek-kisi-edinimlerinde-doviz-alim-belgesi-hakkinda-duyuru"
+      },
+      {
+        "type": "heading",
+        "text": "估值与投资审核",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "广告价格、议定价格、官方交易金额与入籍审核接受的金额是不同概念。较高估值并不保证资格。应核查现行TTB程序及适用例外，不应假定所有估值报告遵循同一有效期规则。"
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "4. 可以购买多套房产以达到40万美元门槛吗？"
+        "text": "可以购买多套房产以达到40万美元门槛吗？"
       },
       {
         "type": "paragraph",
@@ -3042,8 +3523,8 @@
       },
       {
         "type": "heading",
-        "level": 3,
-        "text": "如果您已在土耳其拥有一套公寓呢？"
+        "text": "以前购买的房产能否计入？",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -3072,9 +3553,13 @@
         ]
       },
       {
+        "type": "paragraph",
+        "text": "还须核查购入时适用的门槛、先前所有权、投资审核及交易限制。之后的市场升值不会自动使原有购房符合条件。"
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "5. 分步说明：通过房产投资申请土耳其国籍的流程是什么？"
+        "text": "土耳其入籍申请逐步流程",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -3222,13 +3707,18 @@
         "text": "满足投资条件并不排除政府对入籍申请进行评估的权力。"
       },
       {
+        "type": "heading",
+        "text": "步骤8——获批后办理身份证及护照",
+        "level": 3
+      },
+      {
         "type": "paragraph",
         "text": "如获授国籍，申请人可以完成相关民事登记和身份证件办理程序。"
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "6. 除40万美元外，还有哪些额外费用？"
+        "text": "费用、税款及政府收费",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -3267,6 +3757,10 @@
         "text": "房产持有费用：保险、维护、物业费用及持续发生的税费。"
       },
       {
+        "type": "list",
+        "text": "政府申请和文件费用：应为适用的居留、国籍及身份证件手续单独安排预算。"
+      },
+      {
         "type": "paragraph",
         "text": "具体金额取决于交易及现行规则。"
       },
@@ -3285,9 +3779,13 @@
         "text": "投资者应在签署购房协议前取得逐项费用估算。"
       },
       {
+        "type": "paragraph",
+        "text": "使用法律要求的交易金额及真实付款记录。不要为减少收费而低报价格。"
+      },
+      {
         "type": "heading",
         "level": 2,
-        "text": "7. 通过房产投资申请土耳其国籍需要多久？"
+        "text": "通过房产投资申请土耳其国籍需要多久？"
       },
       {
         "type": "paragraph",
@@ -3336,7 +3834,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "8. 不前往土耳其，可以购房并申请吗？"
+        "text": "不前往土耳其，可以购房并申请吗？"
       },
       {
         "type": "paragraph",
@@ -3361,7 +3859,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "9. 获得国籍后，可以出租或出售房产吗？"
+        "text": "获得国籍后，可以出租或出售房产吗？"
       },
       {
         "type": "heading",
@@ -3416,12 +3914,16 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "10. 可能延误或复杂化入籍申请的常见错误"
+        "text": "房产可能不符合条件的常见原因",
+        "level": 2
       },
       {
         "type": "paragraph",
         "text": "以下几类反复出现的问题值得关注。"
+      },
+      {
+        "type": "paragraph",
+        "text": "不合格房产类别、卖方或所有权历史限制、合格金额不足、银行文件错误、产权问题、官方记录缺失、不相容的交易结构或未满足持有承诺，均可能阻碍资格。完成购房并不等于投资合规已获批准。"
       },
       {
         "type": "heading",
@@ -3493,7 +3995,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "11. 支付定金前，是否应请律师审查房产？"
+        "text": "支付定金前，是否应请律师审查房产？"
       },
       {
         "type": "paragraph",
@@ -3555,8 +4057,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "12. IGA律师事务所如何协助国际投资者"
+        "text": "IGA Law Firm如何提供协助",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -3592,11 +4094,25 @@
       },
       {
         "type": "paragraph",
+        "text": "根据约定的委托范围，服务亦可包括银行文件协调，以及购房和入籍过程中的法律代理。"
+      },
+      {
+        "type": "paragraph",
         "text": "法律意见应针对具体投资者、房产及交易作出。"
       },
       {
         "type": "paragraph",
         "text": "本所不保证入籍获批、投资回报或特定行政办理时限。"
+      },
+      {
+        "type": "source",
+        "text": "购房前申请房地产法律审查",
+        "url": "https://igalawfirm.com/zh/igalawrealestateduediligence/"
+      },
+      {
+        "type": "source",
+        "text": "联系法律团队",
+        "url": "https://igalawfirm.com/zh/contact/"
       },
       {
         "type": "heading",
@@ -3632,6 +4148,15 @@
       },
       {
         "type": "heading",
+        "text": "房产估值必须等于40万美元吗？",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "合格投资须达到适用的40万美元门槛；估值数字本身并不足够。官方交易金额、付款证据和投资审核须符合相关TKGM规则。"
+      },
+      {
+        "type": "heading",
         "level": 3,
         "text": "我可以使用已经拥有的房产吗？"
       },
@@ -3647,6 +4172,15 @@
       {
         "type": "paragraph",
         "text": "部分交易步骤可以由依法获授权的代表办理。其他程序是否要求本人到场，须另行确认。"
+      },
+      {
+        "type": "heading",
+        "text": "可以通过授权委托书购房吗？",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "可以，特定购房手续可由依法授权的代表办理。委托书必须符合适用形式要求并涵盖有关行为；入籍手续中的本人到场要求须另行确认。"
       },
       {
         "type": "heading",
@@ -3699,9 +4233,23 @@
         "url": "https://igalawfirm.com/zh/tuerqi-touzi-ruji/"
       },
       {
+        "type": "paragraph",
+        "text": "最后更新：2026年11月22日。此日期为编辑更新日期，并不表示已完成新的法律复核。"
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "官方资料"
+        "text": "官方法律资料及最后更新",
+        "level": 2
+      },
+      {
+        "type": "source",
+        "text": "第5901号土耳其国籍法",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/104076"
+      },
+      {
+        "type": "source",
+        "text": "国籍法实施条例——第20条",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/116845"
       },
       {
         "type": "source",
@@ -3751,42 +4299,11 @@
     "blocks": [
       {
         "type": "paragraph",
-        "text": "دليل عملي للمستثمرين الدوليين الذين يفكرون في الحصول على الجنسية التركية من خلال استثمار عقاري مؤهل لا تقل قيمته عن 400,000 دولار أمريكي.",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "دليل عملي للمستثمرين الدوليين الذين يفكرون في الحصول على الجنسية التركية من خلال استثمار عقاري مؤهل لا تقل قيمته عن 400,000 دولار أمريكي."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "text": "تتيح الجنسية التركية عن طريق الاستثمار العقاري للأجانب المؤهلين مساراً للتقدم بطلب الجنسية من خلال اقتناء عقار مستوفٍ للشروط في تركيا."
-      },
-      {
-        "type": "paragraph",
-        "text": "لكن شراء شقة بمبلغ 400,000 دولار أمريكي لا يمنح المشتري تلقائياً الحق في الحصول على جواز سفر تركي."
+        "text": "يجوز للمستثمرين الأجانب التقدم للجنسية التركية الاستثنائية بشراء عقار مؤهل بقيمة لا تقل عن 400,000 دولار أمريكي، مع استيفاء المتطلبات القانونية المطبقة. ويجب عموماً الاحتفاظ بالاستثمار المؤهل لمدة ثلاث سنوات على الأقل. لكن شراء عقار بهذا السعر لا يثبت الأهلية تلقائياً ولا يضمن الجنسية. ويجب أيضاً أن تتوافق الحالة القانونية للعقار وتاريخ ملكيته والتقييم الرسمي للاستثمار ومستندات الدفع مع القواعد ذات الصلة."
       },
       {
         "type": "paragraph",
         "text": "يجب أن تستوفي المعاملة متطلبات الاستثمار المعمول بها، بما فيها نوع العقار المؤهل، ومستندات الاستثمار الرسمية، والقيود المتعلقة بالملكية والبائع، وإجراءات الدفع، والتعهد بعدم بيع العقار لمدة ثلاث سنوات."
-      },
-      {
-        "type": "paragraph",
-        "text": "يجب أن تؤكد السلطات التركية المختصة استيفاء الاستثمار للشروط، ويظل منح الجنسية خاضعاً للقرار الحكومي المعني."
-      },
-      {
-        "type": "paragraph",
-        "text": "إجابة مختصرة: بموجب إطار الجنسية التركية عن طريق الاستثمار المعمول به، يجوز للأجنبي المؤهل التقدم بطلب اكتساب الجنسية التركية استثنائياً بعد إجراء استثمار عقاري مؤهل بقيمة لا تقل عن 400,000 دولار أمريكي أو ما يعادلها بالعملة الأجنبية، مع الالتزام بالقيد المطلوب لمدة ثلاث سنوات والإجراءات الرسمية.",
-        "inline": [
-          {
-            "type": "strong",
-            "text": "إجابة مختصرة:"
-          },
-          {
-            "text": " بموجب إطار الجنسية التركية عن طريق الاستثمار المعمول به، يجوز للأجنبي المؤهل التقدم بطلب اكتساب الجنسية التركية استثنائياً بعد إجراء استثمار عقاري مؤهل بقيمة لا تقل عن 400,000 دولار أمريكي أو ما يعادلها بالعملة الأجنبية، مع الالتزام بالقيد المطلوب لمدة ثلاث سنوات والإجراءات الرسمية."
-          }
-        ]
       },
       {
         "type": "paragraph",
@@ -3798,8 +4315,92 @@
       },
       {
         "type": "heading",
+        "text": "الجنسية التركية بالاستثمار العقاري في 2026 — المتطلبات الرئيسية",
+        "level": 2
+      },
+      {
+        "type": "table",
+        "text": "الجنسية التركية بالاستثمار العقاري في 2026 — المتطلبات الرئيسية",
+        "columns": [
+          "المتطلب",
+          "القاعدة العامة"
+        ],
+        "rows": [
+          [
+            "الحد الأدنى للاستثمار المؤهل",
+            "400,000 دولار أمريكي"
+          ],
+          [
+            "شرط الاحتفاظ",
+            "ثلاث سنوات على الأقل"
+          ],
+          [
+            "الاستثمار المؤهل",
+            "عقار مستوفٍ للشروط"
+          ],
+          [
+            "عقارات متعددة",
+            "ممكن وفق الشروط المطبقة"
+          ],
+          [
+            "تقييم الاستثمار",
+            "مستندات المعاملة والاستثمار الرسمية"
+          ],
+          [
+            "أهلية الأسرة",
+            "تخضع لشروط الزوج أو الزوجة والأطفال"
+          ],
+          [
+            "الموافقة",
+            "تخضع لقرار السلطات المختصة"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "سعر الشراء وحده لا يثبت أهلية الجنسية. يجب أن تستوفي المعاملة بكاملها متطلبات الاستثمار والتوثيق المطبقة."
+      },
+      {
+        "type": "source",
+        "text": "المصدر الرسمي — Invest in Türkiye",
+        "url": "https://www.invest.gov.tr/en/investmentguide/pages/acquiring-property-and-citizenship.aspx"
+      },
+      {
+        "type": "heading",
+        "text": "ما الذي تغير في 2026؟",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "لم يُستحدث حد 400,000 دولار أو تعهد عدم البيع لثلاث سنوات أو وثيقة تحديد مبلغ الاستثمار Tutar Tespit Belgesi (TTB) في عام 2026. يتعلق تعديل سبتمبر 2026 للتعميم 2024/4 الصادر عن TKGM بجوانب من التقييم ومستندات الاستثمار، ولا يجعل الجنسية تلقائية."
+      },
+      {
+        "type": "paragraph",
+        "text": "يسمح النص المعدل المرتبط بإعلان TKGM المؤرخ 29 سبتمبر 2026 بإعداد تقرير التقييم الذي تستند إليه TTB بواسطة شركة تقييم مرخصة من هيئة أسواق المال التركية. كما يحدد فترة لا تتجاوز اثني عشر شهراً بين TTB وطلب المعاملة المتعلقة بالجنسية، مع تجديد تقرير التقييم الأساسي إذا تجاوزت المدة ذلك. هذه قاعدة زمنية خاصة بالوثيقة والطلب وليست مدة صلاحية عامة لكل تقرير تقييم. وينظم النص المعدل أيضاً إجراءات مستقلة لتقديم التقارير من شركات الاستثمار العقاري."
+      },
+      {
+        "type": "source",
+        "text": "المصدر الرسمي — TKGM 2026",
+        "url": "https://www.tkgm.gov.tr/duyurular/20244-sayili-genelge-degisikligi-hakkinda-duyuru"
+      },
+      {
+        "type": "source",
+        "text": "TKGM 2024/4 — 2026",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "paragraph",
+        "text": "ينص التعميم 2024/2 المعدل بصورة مستقلة على مدة استخدام قدرها اثنا عشر شهراً لتقارير التقييم المستخدمة في معاملات السجل العقاري. يلزم تقرير جديد بعد انقضاء المدة، وكذلك عند حدوث تغييرات ذات صلة في السجل تؤثر في قيمة العقار بصرف النظر عن المدة المنقضية. يجب قراءة هذه القاعدة مع إجراءات TTB الخاصة، لا باعتبارها ضماناً لإمكان استخدام كل تقرير طوال اثني عشر شهراً."
+      },
+      {
+        "type": "source",
+        "text": "تعميم TKGM 2024/2 — النص المعدل",
+        "url": "https://cms-api.tkgm.gov.tr/media/101813/view"
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "1. من يستطيع التقدم بطلب الجنسية التركية عن طريق الاستثمار العقاري؟"
+        "text": "من يستطيع التقدم بطلب الجنسية التركية عن طريق الاستثمار العقاري؟"
       },
       {
         "type": "paragraph",
@@ -3858,7 +4459,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "2. ما الحد الأدنى للاستثمار العقاري للحصول على الجنسية التركية؟"
+        "text": "ما الحد الأدنى للاستثمار العقاري للحصول على الجنسية التركية؟"
       },
       {
         "type": "paragraph",
@@ -3921,8 +4522,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "3. ما أنواع العقارات التي يمكن أن تكون مؤهلة؟"
+        "text": "ما العقارات المؤهلة للجنسية التركية؟",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -3939,6 +4540,15 @@
       {
         "type": "paragraph",
         "text": "يجب فحص التصنيف المسجل للعقار وتفاصيل الملكية وحالة البناء المعنية وهيكل المعاملة."
+      },
+      {
+        "type": "paragraph",
+        "text": "حق التملك وأهلية الجنسية مسألتان منفصلتان. يجب فحص قيود التملك المرتبطة بالجنسية وتصنيف العقار المسجل وحالة البناء والقيود المتعلقة بالبائع والملكية السابقة والرهون والحجوزات وغيرها من الأعباء. لا يحل الإعلان التسويقي للمطور محل مراجعة السجلات الرسمية."
+      },
+      {
+        "type": "source",
+        "text": "الفحص القانوني للعقار وتقييم الأهلية",
+        "url": "https://igalawfirm.com/ar/igalawrealestateduediligence/"
       },
       {
         "type": "heading",
@@ -3980,8 +4590,68 @@
       },
       {
         "type": "heading",
+        "text": "كيف يُتحقق من استثمار 400,000 دولار؟",
+        "level": 2
+      },
+      {
+        "type": "heading",
+        "text": "سعر الشراء الرسمي",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "يجب أن يستوفي المبلغ المسجل في سند البيع الرسمي أو عقد الوعد بالبيع المؤهل قواعد الاستثمار، مع أدلة الدفع والتأكيد الرسمي للاستثمار. ولا يحل السعر المعلن أو المتفق عليه بصورة خاصة محل المبالغ الرسمية المطلوبة."
+      },
+      {
+        "type": "heading",
+        "text": "وثيقة تحديد المبلغ (TTB)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "تحدد وثيقة Taşınmaz Edinim Sureti ile Vatandaşlık Kazanımına Esas Tutar Tespit Belgesi مبلغ الاستثمار العقاري المقبول لأغراض الجنسية. وتُستخرج من تقرير التقييم المعني وتُنقل عبر TADEBİS إلى TAKBİS/WebTapu وفق إجراءات TKGM الحالية. لا تحل نسخة ورقية يقدمها الشخص محل الإرسال الإلكتروني؛ ويجب فحص الاستثناءات الخاصة بالمعاملة."
+      },
+      {
+        "type": "source",
+        "text": "المصدر الرسمي — TTB",
+        "url": "https://cms-api.tkgm.gov.tr/media/101815/view"
+      },
+      {
+        "type": "heading",
+        "text": "وثيقة شراء النقد الأجنبي (DAB)",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "Döviz Alım Belgesi هي الوثيقة المصرفية الصادرة عن تحويل العملة المطلوب. ينبغي ترتيب الإجراءات المصرفية وبيانات الهوية ومراجع المعاملة قبل الدفع والتسجيل. تثبت DAB عملية الصرف ولا تثبت وحدها أهلية الجنسية."
+      },
+      {
+        "type": "heading",
+        "text": "إيصالات التحويل المصرفي",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "يجب أن تثبت المستندات المصرفية الدفع المؤهل إلى البائع وأن تتطابق مع المشتري والعقار والمعاملة. تؤدي DAB وإيصالات الدفع وظيفتين مختلفتين؛ فوثيقة الصرف وحدها لا تثبت تسلم البائع ثمن الشراء."
+      },
+      {
+        "type": "source",
+        "text": "المصدر الرسمي — DAB",
+        "url": "https://www.tkgm.gov.tr/duyurular/yabanci-gercek-kisi-edinimlerinde-doviz-alim-belgesi-hakkinda-duyuru"
+      },
+      {
+        "type": "heading",
+        "text": "التقييم وتحديد مبلغ الاستثمار",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "السعر المعلن والسعر المتفق عليه ومبلغ المعاملة الرسمي والمبلغ المقبول للجنسية مفاهيم مختلفة. لا يضمن التقييم المرتفع وحده الأهلية. يجب مراجعة إجراءات TTB الحالية والاستثناءات المطبقة بدلاً من افتراض خضوع جميع تقارير التقييم لقاعدة صلاحية واحدة."
+      },
+      {
+        "type": "heading",
         "level": 2,
-        "text": "4. هل يمكن شراء أكثر من عقار للوصول إلى 400,000 دولار أمريكي؟"
+        "text": "هل يمكن شراء أكثر من عقار للوصول إلى 400,000 دولار أمريكي؟"
       },
       {
         "type": "paragraph",
@@ -4001,8 +4671,8 @@
       },
       {
         "type": "heading",
-        "level": 3,
-        "text": "ماذا لو كنت تملك شقة بالفعل في تركيا؟"
+        "text": "هل يمكن احتساب عقار سبق شراؤه؟",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -4031,9 +4701,13 @@
         ]
       },
       {
+        "type": "paragraph",
+        "text": "يجب أيضاً فحص الحد المالي المطبق وقت الشراء والملكية السابقة وتقييم الاستثمار والقيود على المعاملة. لا تجعل الزيادة اللاحقة في القيمة السوقية شراءً سابقاً مؤهلاً تلقائياً."
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "5. خطوة بخطوة: كيف تسير إجراءات الاستثمار العقاري للحصول على الجنسية التركية؟"
+        "text": "خطوات طلب الجنسية التركية",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -4181,13 +4855,18 @@
         "text": "لا يلغي استيفاء شروط الاستثمار سلطة الحكومة في تقييم طلب الجنسية."
       },
       {
+        "type": "heading",
+        "text": "الخطوة 8 — إجراءات الهوية وجواز السفر بعد الموافقة",
+        "level": 3
+      },
+      {
         "type": "paragraph",
         "text": "إذا مُنحت الجنسية، يستطيع مقدم الطلب إتمام إجراءات القيد المدني ووثائق الهوية ذات الصلة."
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "6. ما التكاليف الإضافية فوق مبلغ 400,000 دولار أمريكي؟"
+        "text": "التكاليف والضرائب والرسوم الحكومية",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -4226,6 +4905,10 @@
         "text": "مصروفات تملك العقار: التأمين والصيانة ورسوم المبنى والضرائب المستمرة."
       },
       {
+        "type": "list",
+        "text": "رسوم الطلبات والوثائق الحكومية: خصص ميزانية مستقلة لإجراءات الإقامة والجنسية ووثائق الهوية المطبقة."
+      },
+      {
         "type": "paragraph",
         "text": "تعتمد المبالغ الدقيقة على المعاملة والقواعد الحالية."
       },
@@ -4244,9 +4927,13 @@
         "text": "ينبغي للمستثمر الحصول على تقدير مفصل للمصروفات قبل توقيع اتفاق الشراء."
       },
       {
+        "type": "paragraph",
+        "text": "استخدم قيمة المعاملة المطلوبة قانوناً وسجلات دفع صحيحة. لا تخفض القيمة المصرح بها لتقليل الرسوم."
+      },
+      {
         "type": "heading",
         "level": 2,
-        "text": "7. كم تستغرق الجنسية التركية عن طريق الاستثمار العقاري؟"
+        "text": "كم تستغرق الجنسية التركية عن طريق الاستثمار العقاري؟"
       },
       {
         "type": "paragraph",
@@ -4295,7 +4982,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "8. هل يمكن شراء عقار والتقدم دون زيارة تركيا؟"
+        "text": "هل يمكن شراء عقار والتقدم دون زيارة تركيا؟"
       },
       {
         "type": "paragraph",
@@ -4320,7 +5007,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "9. هل يمكن تأجير العقار أو بيعه بعد الحصول على الجنسية؟"
+        "text": "هل يمكن تأجير العقار أو بيعه بعد الحصول على الجنسية؟"
       },
       {
         "type": "heading",
@@ -4375,12 +5062,16 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "10. أخطاء شائعة قد تؤخر طلب الجنسية أو تعقده"
+        "text": "أسباب شائعة لعدم أهلية العقار",
+        "level": 2
       },
       {
         "type": "paragraph",
         "text": "تستحق عدة مسائل متكررة الانتباه."
+      },
+      {
+        "type": "paragraph",
+        "text": "قد تمنع الأهليةَ فئةُ عقارية غير مؤهلة أو قيود البائع والملكية السابقة أو نقص مبلغ الاستثمار المؤهل أو أخطاء المستندات المصرفية أو مشكلات سند الملكية أو غياب السجلات الرسمية أو هيكل معاملة غير متوافق أو عدم استيفاء تعهد الاحتفاظ. إتمام الشراء لا يعادل الموافقة على مطابقة الاستثمار."
       },
       {
         "type": "heading",
@@ -4452,7 +5143,7 @@
       {
         "type": "heading",
         "level": 2,
-        "text": "11. هل ينبغي أن يراجع محامٍ العقار قبل دفع العربون؟"
+        "text": "هل ينبغي أن يراجع محامٍ العقار قبل دفع العربون؟"
       },
       {
         "type": "paragraph",
@@ -4514,8 +5205,8 @@
       },
       {
         "type": "heading",
-        "level": 2,
-        "text": "12. كيف يساعد مكتب IGA للمحاماة المستثمرين الدوليين؟"
+        "text": "كيف يمكن لمكتب IGA Law Firm المساعدة؟",
+        "level": 2
       },
       {
         "type": "paragraph",
@@ -4551,11 +5242,25 @@
       },
       {
         "type": "paragraph",
+        "text": "بحسب نطاق التكليف المتفق عليه، قد تشمل المساعدة تنسيق المستندات المصرفية والتمثيل القانوني أثناء التملك وإجراءات الجنسية."
+      },
+      {
+        "type": "paragraph",
         "text": "ينبغي تخصيص المشورة القانونية للمستثمر والعقار والمعاملة المعنية."
       },
       {
         "type": "paragraph",
         "text": "لا يضمن المكتب الموافقة على الجنسية أو عوائد الاستثمار أو مدة إدارية محددة."
+      },
+      {
+        "type": "source",
+        "text": "اطلب مراجعة قانونية للعقار قبل الشراء",
+        "url": "https://igalawfirm.com/ar/igalawrealestateduediligence/"
+      },
+      {
+        "type": "source",
+        "text": "تحدث مع فريقنا القانوني",
+        "url": "https://igalawfirm.com/ar/contact/"
       },
       {
         "type": "heading",
@@ -4591,6 +5296,15 @@
       },
       {
         "type": "heading",
+        "text": "هل يجب أن يساوي تقييم العقار 400,000 دولار؟",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "يجب أن يستوفي الاستثمار المؤهل حد 400,000 دولار المطبق؛ ولا يكفي رقم التقييم وحده. يجب توافق مبلغ المعاملة الرسمي وأدلة الدفع وتقييم الاستثمار مع قواعد TKGM ذات الصلة."
+      },
+      {
+        "type": "heading",
         "level": 3,
         "text": "هل يمكنني استخدام عقار أملكه بالفعل؟"
       },
@@ -4606,6 +5320,15 @@
       {
         "type": "paragraph",
         "text": "يمكن تنفيذ بعض خطوات المعاملة بواسطة ممثل مفوض قانوناً. ويجب التأكد بصورة مستقلة من متطلبات الحضور الشخصي للإجراءات الأخرى."
+      },
+      {
+        "type": "heading",
+        "text": "هل يمكن شراء العقار بواسطة وكالة؟",
+        "level": 3
+      },
+      {
+        "type": "paragraph",
+        "text": "نعم، يمكن إنجاز إجراءات شراء محددة بواسطة ممثل مفوض قانوناً. يجب أن تستوفي الوكالة الشروط الشكلية المطبقة وأن تشمل التصرفات المعنية؛ وتُراجع متطلبات الحضور الشخصي للجنسية بشكل منفصل."
       },
       {
         "type": "heading",
@@ -4658,9 +5381,23 @@
         "url": "https://igalawfirm.com/ar/turkish-citizenship-by-investment/"
       },
       {
+        "type": "paragraph",
+        "text": "آخر تحديث: 22 نوفمبر 2026. هذا تحديث تحريري وليس ادعاءً بإتمام مراجعة قانونية جديدة."
+      },
+      {
         "type": "heading",
-        "level": 2,
-        "text": "المصادر الرسمية"
+        "text": "المصادر القانونية الرسمية وآخر تحديث",
+        "level": 2
+      },
+      {
+        "type": "source",
+        "text": "قانون الجنسية التركية رقم 5901",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/104076"
+      },
+      {
+        "type": "source",
+        "text": "اللائحة التنفيذية للجنسية — المادة 20",
+        "url": "https://mevzuat.adalet.gov.tr/mevzuat/116845"
       },
       {
         "type": "source",
@@ -4711,9 +5448,14 @@
       imageAlts: {[heroImage]: heroAlt}
     };
   }
+  const detailTitles={"en": "Turkish Citizenship by Real Estate Investment: 2026 Complete Guide", "tr": "Gayrimenkul Yatırımıyla Türk Vatandaşlığı: 2026 Kapsamlı Rehber", "zh": "土耳其房地产投资入籍：2026年完整指南", "ar": "الجنسية التركية بالاستثمار العقاري: الدليل الشامل لعام 2026"};
+  if(window.blogPostTranslations)for(const lang of ['tr','zh','ar']){
+    const translated=window.blogPostTranslations[lang][slug],archiveTitle=translated.title;
+    Object.defineProperty(translated,'title',{enumerable:true,get:()=>location.pathname==='/'+lang+'/blog/'+slug+'/'?detailTitles[lang]:archiveTitle});
+  }
   window.realEstate2025Article = {
     slug, date:'2025', category:'Investment',
-    get title(){return isEnglishDetail() ? 'Turkish Citizenship by Real Estate Investment: Complete Legal Guide' : 'Turkish Citizenship by Real Estate Investment: 2025 Complete Guide';},
+    get title(){return isEnglishDetail() ? "Turkish Citizenship by Real Estate Investment: 2026 Complete Guide" : 'Turkish Citizenship by Real Estate Investment: 2025 Complete Guide';},
     seoTitle:'Turkish Citizenship by Real Estate 2025 | Legal Guide',
     metaDescription:'Explore the USD 400,000 Turkish citizenship property route, title deed checks, three-year resale restriction, conformity certificate and family application.',
     author:'Irmak Gürer Aksöz'
