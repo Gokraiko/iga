@@ -1328,5 +1328,37 @@
     "status": 301,
     "reason": "Approved conservative service migration",
     "evidence": "Same search intent; destination unoccupied; audited 2026-10-30"
+  },
+  {
+    "old": "/en/about/",
+    "new": "/en/team/",
+    "status": 301,
+    "reason": "Approved removal of standalone About / Our Vision page",
+    "evidence": "Owner authorized removal; same-language Team page retained and HTTP 200 verified",
+    "includeIndex": true
+  },
+  {
+    "old": "/tr/about/",
+    "new": "/tr/team/",
+    "status": 301,
+    "reason": "Approved removal of standalone About / Our Vision page",
+    "evidence": "Owner authorized removal; same-language Team page retained and HTTP 200 verified",
+    "includeIndex": true
+  },
+  {
+    "old": "/zh/about/",
+    "new": "/zh/team/",
+    "status": 301,
+    "reason": "Approved removal of standalone About / Our Vision page",
+    "evidence": "Owner authorized removal; same-language Team page retained and HTTP 200 verified",
+    "includeIndex": true
+  },
+  {
+    "old": "/ar/about/",
+    "new": "/ar/team/",
+    "status": 301,
+    "reason": "Approved removal of standalone About / Our Vision page",
+    "evidence": "Owner authorized removal; same-language Team page retained and HTTP 200 verified",
+    "includeIndex": true
   }
 ]

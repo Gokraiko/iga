@@ -10,7 +10,7 @@ window.igaSchemaContent = (() => {
     if (isService) items.push({name:t.nav[1],path:pathFor(route.lang,'services')});
     else if (route.page === 'journal' && route.sub) items.push({name:t.nav[5],path:pathFor(route.lang,'journal')});
     if(route.page==='team'&&(route.sub==='irmak-gurer-aksoz'||window.teamProfiles?.get(route.sub)))items.push({name:t.nav[3],path:pathFor(route.lang,'team')});
-    const label = {services:t.nav[1],team:(route.sub==='irmak-gurer-aksoz'||window.teamProfiles?.get(route.sub))?heading:t.nav[3],about:t.nav[4],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
+    const label = {services:t.nav[1],team:(route.sub==='irmak-gurer-aksoz'||window.teamProfiles?.get(route.sub))?heading:t.nav[3],contact:t.nav[6],journal:route.sub?heading:t.nav[5]}[route.page] || heading;
     items.push({name:label,path:pathFor(route.lang,route.page,route.sub)});
     return items;
   }
@@ -19,7 +19,7 @@ window.igaSchemaContent = (() => {
     return `<nav class="crumb site-breadcrumb" aria-label="${breadcrumbLabels[lang]}"><ol>${items.map((item,i)=>`<li>${i?'<span class="breadcrumb-separator" aria-hidden="true">›</span>':''}${i===items.length-1?`<span aria-current="page">${escape(item.name)}</span>`:`<a href="${escape(item.path)}">${escape(item.name)}</a>`}</li>`).join('')}</ol></nav>`;
   }
   function author(post,team,anchors,lang,pathFor) {
-    if(post.author?.type==='Organization') return {member:null,organization:true,label:{en:'Author: IGA Law Firm Editorial Team',tr:'Yazar: IGA Hukuk Bürosu Editör Ekibi',zh:'作者：IGA律师事务所编辑团队',ar:'الكاتب: فريق تحرير IGA Law Firm'}[lang],path:pathFor(lang,'about')};
+    if(post.author?.type==='Organization') return {member:null,organization:true,label:{en:'Author: IGA Law Firm Editorial Team',tr:'Yazar: IGA Hukuk Bürosu Editör Ekibi',zh:'作者：IGA律师事务所编辑团队',ar:'الكاتب: فريق تحرير IGA Law Firm'}[lang],path:pathFor(lang,'team')};
     const value=post.author;
     const name=typeof value==='object'?value.name:value;
     const member=team.find(m=>m.name===name || anchors[m.name]===name);
@@ -92,7 +92,6 @@ window.igaSchemaContent = (() => {
       Object.assign(entity,{jobTitle:window.teamProfiles.labels[route.lang][profile.role],description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.education},knowsLanguage:profile.languages,knowsAbout:d.areas});
       if(profile.number)Object.assign(entity,{memberOf:{'@type':'Organization',name:d.bar},identifier:{'@type':'PropertyValue',propertyID:profile.copy.en.bar+' registration number',value:profile.number}});
     }
-    if(route.page==='about'){page['@type']='AboutPage';page.about={'@id':org['@id']};}
     if(route.page==='contact')page['@type']='ContactPage';
     if(route.page==='journal'&&!post)page['@type']='CollectionPage';
     for(let i=graph.length-1;i>=0;i--)if(['BreadcrumbList','FAQPage'].includes(graph[i]['@type']))graph.splice(i,1);
@@ -112,7 +111,7 @@ window.igaSchemaContent = (() => {
     if(article){
       const authorInfo=author(post,team,anchors,route.lang,pathFor);
       const writer=authorInfo.member;
-      article.author=authorInfo.organization?{'@type':'Organization',name:'IGA Law Firm Editorial Team',url:origin+pathFor(route.lang,'about'),parentOrganization:{'@id':org['@id']}}:{'@id':personId(writer)};
+      article.author=authorInfo.organization?{'@type':'Organization',name:'IGA Law Firm Editorial Team',url:origin+pathFor(route.lang,'team'),parentOrganization:{'@id':org['@id']}}:{'@id':personId(writer)};
       if(post.authorPresentation==='profile-card')graph.find(n=>n['@id']===personId(writer)).image=origin+writer.img;
     }
     return graph;

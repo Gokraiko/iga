@@ -2983,538 +2983,6 @@
       ]
     }
   },
-  "/en/about/": {
-    "path": "/en/about/",
-    "language": "en",
-    "pageType": "about",
-    "title": "About IGA Law Firm | Istanbul Legal Counsel",
-    "description": "Learn about IGA Law Firm, an Istanbul-based practice advising international investors, families and businesses on Turkish law.",
-    "canonical": "https://igalawfirm.com/en/about/",
-    "alternates": [
-      {
-        "hreflang": "en",
-        "href": "https://igalawfirm.com/en/about/"
-      },
-      {
-        "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/about/"
-      },
-      {
-        "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/about/"
-      },
-      {
-        "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/about/"
-      },
-      {
-        "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/about/"
-      }
-    ],
-    "robots": "index,follow",
-    "openGraph": {
-      "type": "website",
-      "locale": "en_US",
-      "url": "https://igalawfirm.com/en/about/",
-      "title": "About IGA Law Firm | Istanbul Legal Counsel",
-      "description": "Learn about IGA Law Firm, an Istanbul-based practice advising international investors, families and businesses on Turkish law.",
-      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
-    },
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": [
-            "Organization",
-            "LegalService"
-          ],
-          "@id": "https://igalawfirm.com/#organization",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "email": "info@igalawfirm.com",
-          "telephone": "+90 530 426 46 12",
-          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
-            "addressLocality": "Beşiktaş",
-            "addressRegion": "Istanbul",
-            "addressCountry": "TR"
-          },
-          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "areaServed": {
-            "@type": "Country",
-            "name": "Türkiye",
-            "identifier": "TR"
-          },
-          "foundingDate": "2022",
-          "knowsLanguage": [
-            "tr",
-            "en",
-            "zh",
-            "ar"
-          ],
-          "founder": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
-          }
-        },
-        {
-          "@type": "WebSite",
-          "@id": "https://igalawfirm.com/#website",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "publisher": {
-            "@id": "https://igalawfirm.com/#organization"
-          }
-        },
-        {
-          "@type": "AboutPage",
-          "@id": "https://igalawfirm.com/en/about/#webpage",
-          "url": "https://igalawfirm.com/en/about/",
-          "name": "About IGA Law Firm | Istanbul Legal Counsel",
-          "description": "Learn about IGA Law Firm, an Istanbul-based practice advising international investors, families and businesses on Turkish law.",
-          "inLanguage": "en",
-          "isPartOf": {
-            "@id": "https://igalawfirm.com/#website"
-          },
-          "about": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "breadcrumb": {
-            "@id": "https://igalawfirm.com/en/about/#breadcrumb"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
-          "name": "Irmak Gürer Aksöz",
-          "jobTitle": "Partner · Founding attorney",
-          "worksFor": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
-        },
-        {
-          "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/en/about/#breadcrumb",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://igalawfirm.com/en/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Our vision",
-              "item": "https://igalawfirm.com/en/about/"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "/tr/about/": {
-    "path": "/tr/about/",
-    "language": "tr",
-    "pageType": "about",
-    "title": "IGA Hukuk Bürosu Hakkında | İstanbul",
-    "description": "Uluslararası yatırımcı ve ailelere Türk hukuku alanında danışmanlık sunan İstanbul merkezli IGA Hukuk Bürosu’nu tanıyın.",
-    "canonical": "https://igalawfirm.com/tr/about/",
-    "alternates": [
-      {
-        "hreflang": "en",
-        "href": "https://igalawfirm.com/en/about/"
-      },
-      {
-        "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/about/"
-      },
-      {
-        "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/about/"
-      },
-      {
-        "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/about/"
-      },
-      {
-        "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/about/"
-      }
-    ],
-    "robots": "index,follow",
-    "openGraph": {
-      "type": "website",
-      "locale": "tr_TR",
-      "url": "https://igalawfirm.com/tr/about/",
-      "title": "IGA Hukuk Bürosu Hakkında | İstanbul",
-      "description": "Uluslararası yatırımcı ve ailelere Türk hukuku alanında danışmanlık sunan İstanbul merkezli IGA Hukuk Bürosu’nu tanıyın.",
-      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
-    },
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": [
-            "Organization",
-            "LegalService"
-          ],
-          "@id": "https://igalawfirm.com/#organization",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "email": "info@igalawfirm.com",
-          "telephone": "+90 530 426 46 12",
-          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
-            "addressLocality": "Beşiktaş",
-            "addressRegion": "Istanbul",
-            "addressCountry": "TR"
-          },
-          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "areaServed": {
-            "@type": "Country",
-            "name": "Türkiye",
-            "identifier": "TR"
-          },
-          "foundingDate": "2022",
-          "knowsLanguage": [
-            "tr",
-            "en",
-            "zh",
-            "ar"
-          ],
-          "founder": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
-          }
-        },
-        {
-          "@type": "WebSite",
-          "@id": "https://igalawfirm.com/#website",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "publisher": {
-            "@id": "https://igalawfirm.com/#organization"
-          }
-        },
-        {
-          "@type": "AboutPage",
-          "@id": "https://igalawfirm.com/tr/about/#webpage",
-          "url": "https://igalawfirm.com/tr/about/",
-          "name": "IGA Hukuk Bürosu Hakkında | İstanbul",
-          "description": "Uluslararası yatırımcı ve ailelere Türk hukuku alanında danışmanlık sunan İstanbul merkezli IGA Hukuk Bürosu’nu tanıyın.",
-          "inLanguage": "tr",
-          "isPartOf": {
-            "@id": "https://igalawfirm.com/#website"
-          },
-          "about": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "breadcrumb": {
-            "@id": "https://igalawfirm.com/tr/about/#breadcrumb"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
-          "name": "Irmak Gürer Aksöz",
-          "jobTitle": "Ortak · Kurucu avukat",
-          "worksFor": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
-        },
-        {
-          "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/tr/about/#breadcrumb",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Ana sayfa",
-              "item": "https://igalawfirm.com/tr/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Hakkımızda",
-              "item": "https://igalawfirm.com/tr/about/"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "/zh/about/": {
-    "path": "/zh/about/",
-    "language": "zh-CN",
-    "pageType": "about",
-    "title": "关于IGA律师事务所 | 伊斯坦布尔",
-    "description": "了解这家位于伊斯坦布尔的律师事务所，以及我们为国际投资者、家庭和企业提供的土耳其法律服务。",
-    "canonical": "https://igalawfirm.com/zh/about/",
-    "alternates": [
-      {
-        "hreflang": "en",
-        "href": "https://igalawfirm.com/en/about/"
-      },
-      {
-        "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/about/"
-      },
-      {
-        "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/about/"
-      },
-      {
-        "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/about/"
-      },
-      {
-        "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/about/"
-      }
-    ],
-    "robots": "index,follow",
-    "openGraph": {
-      "type": "website",
-      "locale": "zh_CN",
-      "url": "https://igalawfirm.com/zh/about/",
-      "title": "关于IGA律师事务所 | 伊斯坦布尔",
-      "description": "了解这家位于伊斯坦布尔的律师事务所，以及我们为国际投资者、家庭和企业提供的土耳其法律服务。",
-      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
-    },
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": [
-            "Organization",
-            "LegalService"
-          ],
-          "@id": "https://igalawfirm.com/#organization",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "email": "info@igalawfirm.com",
-          "telephone": "+90 530 426 46 12",
-          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
-            "addressLocality": "Beşiktaş",
-            "addressRegion": "Istanbul",
-            "addressCountry": "TR"
-          },
-          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "areaServed": {
-            "@type": "Country",
-            "name": "Türkiye",
-            "identifier": "TR"
-          },
-          "foundingDate": "2022",
-          "knowsLanguage": [
-            "tr",
-            "en",
-            "zh",
-            "ar"
-          ],
-          "founder": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
-          }
-        },
-        {
-          "@type": "WebSite",
-          "@id": "https://igalawfirm.com/#website",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "publisher": {
-            "@id": "https://igalawfirm.com/#organization"
-          }
-        },
-        {
-          "@type": "AboutPage",
-          "@id": "https://igalawfirm.com/zh/about/#webpage",
-          "url": "https://igalawfirm.com/zh/about/",
-          "name": "关于IGA律师事务所 | 伊斯坦布尔",
-          "description": "了解这家位于伊斯坦布尔的律师事务所，以及我们为国际投资者、家庭和企业提供的土耳其法律服务。",
-          "inLanguage": "zh-CN",
-          "isPartOf": {
-            "@id": "https://igalawfirm.com/#website"
-          },
-          "about": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "breadcrumb": {
-            "@id": "https://igalawfirm.com/zh/about/#breadcrumb"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
-          "name": "Irmak Gürer Aksöz",
-          "jobTitle": "合伙人 · 创始律师",
-          "worksFor": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
-        },
-        {
-          "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/zh/about/#breadcrumb",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "首页",
-              "item": "https://igalawfirm.com/zh/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "关于我们",
-              "item": "https://igalawfirm.com/zh/about/"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  "/ar/about/": {
-    "path": "/ar/about/",
-    "language": "ar",
-    "pageType": "about",
-    "title": "عن مكتب IGA للمحاماة في إسطنبول",
-    "description": "تعرّف إلى مكتب IGA للمحاماة في إسطنبول وخبرته في تقديم المشورة للمستثمرين والأسر والشركات بشأن القانون التركي.",
-    "canonical": "https://igalawfirm.com/ar/about/",
-    "alternates": [
-      {
-        "hreflang": "en",
-        "href": "https://igalawfirm.com/en/about/"
-      },
-      {
-        "hreflang": "tr",
-        "href": "https://igalawfirm.com/tr/about/"
-      },
-      {
-        "hreflang": "zh-CN",
-        "href": "https://igalawfirm.com/zh/about/"
-      },
-      {
-        "hreflang": "ar",
-        "href": "https://igalawfirm.com/ar/about/"
-      },
-      {
-        "hreflang": "x-default",
-        "href": "https://igalawfirm.com/en/about/"
-      }
-    ],
-    "robots": "index,follow",
-    "openGraph": {
-      "type": "website",
-      "locale": "ar_AR",
-      "url": "https://igalawfirm.com/ar/about/",
-      "title": "عن مكتب IGA للمحاماة في إسطنبول",
-      "description": "تعرّف إلى مكتب IGA للمحاماة في إسطنبول وخبرته في تقديم المشورة للمستثمرين والأسر والشركات بشأن القانون التركي.",
-      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
-    },
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": [
-            "Organization",
-            "LegalService"
-          ],
-          "@id": "https://igalawfirm.com/#organization",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "email": "info@igalawfirm.com",
-          "telephone": "+90 530 426 46 12",
-          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
-            "addressLocality": "Beşiktaş",
-            "addressRegion": "Istanbul",
-            "addressCountry": "TR"
-          },
-          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
-          "areaServed": {
-            "@type": "Country",
-            "name": "Türkiye",
-            "identifier": "TR"
-          },
-          "foundingDate": "2022",
-          "knowsLanguage": [
-            "tr",
-            "en",
-            "zh",
-            "ar"
-          ],
-          "founder": {
-            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
-          }
-        },
-        {
-          "@type": "WebSite",
-          "@id": "https://igalawfirm.com/#website",
-          "name": "IGA Law Firm",
-          "url": "https://igalawfirm.com",
-          "publisher": {
-            "@id": "https://igalawfirm.com/#organization"
-          }
-        },
-        {
-          "@type": "AboutPage",
-          "@id": "https://igalawfirm.com/ar/about/#webpage",
-          "url": "https://igalawfirm.com/ar/about/",
-          "name": "عن مكتب IGA للمحاماة في إسطنبول",
-          "description": "تعرّف إلى مكتب IGA للمحاماة في إسطنبول وخبرته في تقديم المشورة للمستثمرين والأسر والشركات بشأن القانون التركي.",
-          "inLanguage": "ar",
-          "isPartOf": {
-            "@id": "https://igalawfirm.com/#website"
-          },
-          "about": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "breadcrumb": {
-            "@id": "https://igalawfirm.com/ar/about/#breadcrumb"
-          }
-        },
-        {
-          "@type": "Person",
-          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
-          "name": "Irmak Gürer Aksöz",
-          "jobTitle": "شريكة · المحامية المؤسسة",
-          "worksFor": {
-            "@id": "https://igalawfirm.com/#organization"
-          },
-          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
-        },
-        {
-          "@type": "BreadcrumbList",
-          "@id": "https://igalawfirm.com/ar/about/#breadcrumb",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "الرئيسية",
-              "item": "https://igalawfirm.com/ar/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "من نحن",
-              "item": "https://igalawfirm.com/ar/about/"
-            }
-          ]
-        }
-      ]
-    }
-  },
   "/en/blog/": {
     "path": "/en/blog/",
     "language": "en",
@@ -12294,7 +11762,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/en/about/",
+            "url": "https://igalawfirm.com/en/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -12460,7 +11928,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/zh/about/",
+            "url": "https://igalawfirm.com/zh/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -25933,7 +25401,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/en/about/",
+            "url": "https://igalawfirm.com/en/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -26103,7 +25571,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/tr/about/",
+            "url": "https://igalawfirm.com/tr/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -26273,7 +25741,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/zh/about/",
+            "url": "https://igalawfirm.com/zh/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -26443,7 +25911,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/ar/about/",
+            "url": "https://igalawfirm.com/ar/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }
@@ -30693,7 +30161,7 @@
           "author": {
             "@type": "Organization",
             "name": "IGA Law Firm Editorial Team",
-            "url": "https://igalawfirm.com/en/about/",
+            "url": "https://igalawfirm.com/en/team/",
             "parentOrganization": {
               "@id": "https://igalawfirm.com/#organization"
             }

@@ -46,7 +46,7 @@ if(process.env.VERCEL_ENV==='production' && (!window.propertyEligibilityArticle.
 const articleLanguages = vm.runInContext('Object.fromEntries(articles.map(a=>[a.slug,a.availableLanguages]))', context);
 const slugs = vm.runInContext('articles.map(article => article.slug)', context);
 fs.writeFileSync('blog-slugs.json', JSON.stringify(slugs, null, 2) + '\n');
-const pages = ['home', 'services', 'investment', 'team', 'about', 'journal', 'contact',
+const pages = ['home', 'services', 'investment', 'team', 'journal', 'contact',
   'igaturkishcitizenshipbyinvestment', 'igalawworkpermit', 'igalawcorporatelaw',
   'igalawlegalconsultancy', 'igalawlitigation', 'igalawresidencepermit',
   'igalawrealestateduediligence', 'igalawdocumentation'];

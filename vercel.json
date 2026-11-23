@@ -2111,42 +2111,42 @@
     },
     {
       "source": "/en/about",
-      "destination": "https://igalawfirm.com/en/about/",
+      "destination": "https://igalawfirm.com/en/team/",
       "statusCode": 301
     },
     {
       "source": "/en/about/index.html",
-      "destination": "https://igalawfirm.com/en/about/",
+      "destination": "https://igalawfirm.com/en/team/",
       "statusCode": 301
     },
     {
       "source": "/tr/about",
-      "destination": "https://igalawfirm.com/tr/about/",
+      "destination": "https://igalawfirm.com/tr/team/",
       "statusCode": 301
     },
     {
       "source": "/tr/about/index.html",
-      "destination": "https://igalawfirm.com/tr/about/",
+      "destination": "https://igalawfirm.com/tr/team/",
       "statusCode": 301
     },
     {
       "source": "/zh/about",
-      "destination": "https://igalawfirm.com/zh/about/",
+      "destination": "https://igalawfirm.com/zh/team/",
       "statusCode": 301
     },
     {
       "source": "/zh/about/index.html",
-      "destination": "https://igalawfirm.com/zh/about/",
+      "destination": "https://igalawfirm.com/zh/team/",
       "statusCode": 301
     },
     {
       "source": "/ar/about",
-      "destination": "https://igalawfirm.com/ar/about/",
+      "destination": "https://igalawfirm.com/ar/team/",
       "statusCode": 301
     },
     {
       "source": "/ar/about/index.html",
-      "destination": "https://igalawfirm.com/ar/about/",
+      "destination": "https://igalawfirm.com/ar/team/",
       "statusCode": 301
     },
     {
@@ -4322,6 +4322,26 @@
     {
       "source": "/index.html",
       "destination": "https://igalawfirm.com/en/",
+      "statusCode": 301
+    },
+    {
+      "source": "/en/about/",
+      "destination": "https://igalawfirm.com/en/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/tr/about/",
+      "destination": "https://igalawfirm.com/tr/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/zh/about/",
+      "destination": "https://igalawfirm.com/zh/team/",
+      "statusCode": 301
+    },
+    {
+      "source": "/ar/about/",
+      "destination": "https://igalawfirm.com/ar/team/",
       "statusCode": 301
     },
     {
