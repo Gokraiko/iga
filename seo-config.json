@@ -9767,6 +9767,626 @@
       ]
     }
   },
+  "/en/blog/buy-property-in-turkey-remotely/": {
+    "path": "/en/blog/buy-property-in-turkey-remotely/",
+    "language": "en",
+    "pageType": "BlogPosting",
+    "title": "Buying Property in Turkey Remotely: Legal Guide 2026 | IGA Law Firm",
+    "description": "Learn how foreigners can buy property in Turkey without visiting, using a power of attorney, independent legal checks and authorised title deed procedures.",
+    "canonical": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "en_US",
+      "url": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/",
+      "title": "Buying Property in Turkey Remotely: Legal Guide 2026 | IGA Law Firm",
+      "description": "Learn how foreigners can buy property in Turkey without visiting, using a power of attorney, independent legal checks and authorised title deed procedures.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/#webpage",
+          "url": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/",
+          "name": "Buying Property in Turkey Remotely: Legal Guide 2026 | IGA Law Firm",
+          "description": "Learn how foreigners can buy property in Turkey without visiting, using a power of attorney, independent legal checks and authorised title deed procedures.",
+          "inLanguage": "en",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/#article",
+          "url": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/",
+          "headline": "Can Foreigners Buy Property in Turkey Without Visiting the Country?",
+          "description": "Learn how foreigners can buy property in Turkey without visiting, using a power of attorney, independent legal checks and authorised title deed procedures.",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-24T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "dateModified": "2026-11-24T09:00:00+03:00"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Partner · Founding attorney",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/en/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://igalawfirm.com/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/en/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Can Foreigners Buy Property in Turkey Without Visiting the Country?",
+              "item": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/tr/blog/buy-property-in-turkey-remotely/": {
+    "path": "/tr/blog/buy-property-in-turkey-remotely/",
+    "language": "tr",
+    "pageType": "BlogPosting",
+    "title": "Türkiye'ye Gelmeden Gayrimenkul Satın Alma Rehberi 2026 | IGA Law Firm",
+    "description": "Yabancıların Türkiye'ye gelmeden vekâletname, hukuki inceleme ve tapu işlemleriyle nasıl gayrimenkul satın alabileceğini öğrenin.",
+    "canonical": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "tr_TR",
+      "url": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/",
+      "title": "Türkiye'ye Gelmeden Gayrimenkul Satın Alma Rehberi 2026 | IGA Law Firm",
+      "description": "Yabancıların Türkiye'ye gelmeden vekâletname, hukuki inceleme ve tapu işlemleriyle nasıl gayrimenkul satın alabileceğini öğrenin.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/#webpage",
+          "url": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/",
+          "name": "Türkiye'ye Gelmeden Gayrimenkul Satın Alma Rehberi 2026 | IGA Law Firm",
+          "description": "Yabancıların Türkiye'ye gelmeden vekâletname, hukuki inceleme ve tapu işlemleriyle nasıl gayrimenkul satın alabileceğini öğrenin.",
+          "inLanguage": "tr",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/#article",
+          "url": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/",
+          "headline": "Yabancılar Türkiye'ye Gelmeden Gayrimenkul Satın Alabilir mi?",
+          "description": "Yabancıların Türkiye'ye gelmeden vekâletname, hukuki inceleme ve tapu işlemleriyle nasıl gayrimenkul satın alabileceğini öğrenin.",
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-24T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "dateModified": "2026-11-24T09:00:00+03:00"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "Ortak · Kurucu avukat",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/tr/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Ana sayfa",
+              "item": "https://igalawfirm.com/tr/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://igalawfirm.com/tr/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yabancılar Türkiye'ye Gelmeden Gayrimenkul Satın Alabilir mi?",
+              "item": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/zh/blog/buy-property-in-turkey-remotely/": {
+    "path": "/zh/blog/buy-property-in-turkey-remotely/",
+    "language": "zh-CN",
+    "pageType": "BlogPosting",
+    "title": "无需前往土耳其即可购房：2026年法律指南 | IGA Law Firm",
+    "description": "了解外国人如何通过授权委托书、独立法律审查及产权登记程序，在无需亲自前往土耳其的情况下购买房产。",
+    "canonical": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "zh_CN",
+      "url": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/",
+      "title": "无需前往土耳其即可购房：2026年法律指南 | IGA Law Firm",
+      "description": "了解外国人如何通过授权委托书、独立法律审查及产权登记程序，在无需亲自前往土耳其的情况下购买房产。",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/#webpage",
+          "url": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/",
+          "name": "无需前往土耳其即可购房：2026年法律指南 | IGA Law Firm",
+          "description": "了解外国人如何通过授权委托书、独立法律审查及产权登记程序，在无需亲自前往土耳其的情况下购买房产。",
+          "inLanguage": "zh-CN",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/#article",
+          "url": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/",
+          "headline": "外国人无需亲自前往土耳其就能购买房产吗？",
+          "description": "了解外国人如何通过授权委托书、独立法律审查及产权登记程序，在无需亲自前往土耳其的情况下购买房产。",
+          "inLanguage": "zh-CN",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-24T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "dateModified": "2026-11-24T09:00:00+03:00"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "合伙人 · 创始律师",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/zh/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "首页",
+              "item": "https://igalawfirm.com/zh/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "博客",
+              "item": "https://igalawfirm.com/zh/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "外国人无需亲自前往土耳其就能购买房产吗？",
+              "item": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "/ar/blog/buy-property-in-turkey-remotely/": {
+    "path": "/ar/blog/buy-property-in-turkey-remotely/",
+    "language": "ar",
+    "pageType": "BlogPosting",
+    "title": "شراء عقار في تركيا دون السفر إليها: دليل قانوني 2026 | IGA Law Firm",
+    "description": "تعرف على كيفية شراء الأجانب للعقارات في تركيا عن بُعد باستخدام التوكيل القانوني والتحقق القانوني وإجراءات تسجيل سند الملكية.",
+    "canonical": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/",
+    "alternates": [
+      {
+        "hreflang": "en",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "tr",
+        "href": "https://igalawfirm.com/tr/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "zh-CN",
+        "href": "https://igalawfirm.com/zh/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "ar",
+        "href": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://igalawfirm.com/en/blog/buy-property-in-turkey-remotely/"
+      }
+    ],
+    "robots": "index,follow",
+    "openGraph": {
+      "type": "article",
+      "locale": "ar_AR",
+      "url": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/",
+      "title": "شراء عقار في تركيا دون السفر إليها: دليل قانوني 2026 | IGA Law Firm",
+      "description": "تعرف على كيفية شراء الأجانب للعقارات في تركيا عن بُعد باستخدام التوكيل القانوني والتحقق القانوني وإجراءات تسجيل سند الملكية.",
+      "image": "https://igalawfirm.com/public/assets/bosphorus-editorial.jpg"
+    },
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Organization",
+            "LegalService"
+          ],
+          "@id": "https://igalawfirm.com/#organization",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "email": "info@igalawfirm.com",
+          "telephone": "+90 530 426 46 12",
+          "logo": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Bebek Mahallesi, Cevdetpaşa Caddesi, Eczane Çıkmazı Sokak No:4/1",
+            "addressLocality": "Beşiktaş",
+            "addressRegion": "Istanbul",
+            "addressCountry": "TR"
+          },
+          "image": "https://igalawfirm.com/public/assets/iga-logo.png",
+          "areaServed": {
+            "@type": "Country",
+            "name": "Türkiye",
+            "identifier": "TR"
+          },
+          "foundingDate": "2022",
+          "knowsLanguage": [
+            "tr",
+            "en",
+            "zh",
+            "ar"
+          ],
+          "founder": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://igalawfirm.com/#website",
+          "name": "IGA Law Firm",
+          "url": "https://igalawfirm.com",
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/#webpage",
+          "url": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/",
+          "name": "شراء عقار في تركيا دون السفر إليها: دليل قانوني 2026 | IGA Law Firm",
+          "description": "تعرف على كيفية شراء الأجانب للعقارات في تركيا عن بُعد باستخدام التوكيل القانوني والتحقق القانوني وإجراءات تسجيل سند الملكية.",
+          "inLanguage": "ar",
+          "isPartOf": {
+            "@id": "https://igalawfirm.com/#website"
+          },
+          "breadcrumb": {
+            "@id": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "@id": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/#article",
+          "url": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/",
+          "headline": "هل يمكن للأجانب شراء عقار في تركيا دون السفر إليها؟",
+          "description": "تعرف على كيفية شراء الأجانب للعقارات في تركيا عن بُعد باستخدام التوكيل القانوني والتحقق القانوني وإجراءات تسجيل سند الملكية.",
+          "inLanguage": "ar",
+          "mainEntityOfPage": {
+            "@id": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/#webpage"
+          },
+          "publisher": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "datePublished": "2026-11-24T09:00:00+03:00",
+          "author": {
+            "@id": "https://igalawfirm.com/#irmak-gurer-aksoz"
+          },
+          "dateModified": "2026-11-24T09:00:00+03:00"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://igalawfirm.com/#irmak-gurer-aksoz",
+          "name": "Irmak Gürer Aksöz",
+          "jobTitle": "شريكة · المحامية المؤسسة",
+          "worksFor": {
+            "@id": "https://igalawfirm.com/#organization"
+          },
+          "url": "https://igalawfirm.com/ar/team/irmak-gurer-aksoz/"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "الرئيسية",
+              "item": "https://igalawfirm.com/ar/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "المدونة",
+              "item": "https://igalawfirm.com/ar/blog/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "هل يمكن للأجانب شراء عقار في تركيا دون السفر إليها؟",
+              "item": "https://igalawfirm.com/ar/blog/buy-property-in-turkey-remotely/"
+            }
+          ]
+        }
+      ]
+    }
+  },
   "/en/blog/vanuatu-vs-turkey-citizenship-by-investment/": {
     "path": "/en/blog/vanuatu-vs-turkey-citizenship-by-investment/",
     "language": "en",
