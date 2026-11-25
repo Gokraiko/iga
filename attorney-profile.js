@@ -96,7 +96,7 @@ window.irmakProfile = (() => {
     "intro": [
       "Irmak Gürer Aksöz is a Turkish attorney and the founder of IGA Law Firm, established in 2022.",
       "A graduate of Istanbul University, she is registered with the Izmir Bar Association under registration number {barRegistrationNumber}.",
-      "Completed a study visit at the European Court of Human Rights (ECtHR) in Strasbourg, France, in 2017.",
+      "European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017).",
       "Since 2018, she has worked in legal matters concerning foreign nationals, with a particular focus on Turkish citizenship by investment.",
       "Her professional practice involves advising foreign individuals and international investors on the legal requirements, documentation and procedures associated with acquiring Turkish citizenship through investment.",
       "In 2022, she founded IGA Law Firm, where she continues her work in citizenship law and legal matters concerning foreign nationals."
@@ -106,7 +106,7 @@ window.irmakProfile = (() => {
         "title": "Professional Background",
         "paragraphs": [
           "Irmak Gürer Aksöz began working in foreign nationals law and investment-based citizenship matters in 2018.",
-          "Completed a study visit at the European Court of Human Rights (ECtHR) in Strasbourg, France, in 2017.",
+          "European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017).",
           "Her legal practice focuses on assisting international clients with the legal requirements and procedures involved in Turkish citizenship by investment."
         ]
       },
@@ -130,7 +130,7 @@ window.irmakProfile = (() => {
           "**Education:** Istanbul University",
           "**Bar Association:** Izmir Bar Association",
           "**Registration Number:** {barRegistrationNumber}",
-          "**International Legal Experience:** European Court of Human Rights (ECtHR), Strasbourg, France — Study visit (2017)",
+          "**International Legal Experience:** European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017).",
           "**Professional Practice:** Foreign nationals law and citizenship by investment since 2018",
           "**Founder:** IGA Law Firm (2022)",
           "**Languages:** Turkish and English"
@@ -165,7 +165,7 @@ window.irmakProfile = (() => {
       ],
       [
         "International Legal Experience",
-        "European Court of Human Rights (ECtHR), Strasbourg, France — Study visit (2017)"
+        "European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017)."
       ],
       [
         "Professional Practice",
@@ -187,7 +187,7 @@ window.irmakProfile = (() => {
     "profileLabel": "Professional profile",
     "timelineTitle": "Professional Timeline",
     "timeline": [
-      "European Court of Human Rights (ECtHR) — Study Visit",
+      "European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France",
       "Beginning of professional work in foreign nationals law and Turkish citizenship by investment",
       "Founded IGA Law Firm",
       "Professional seminars and presentations in Beijing, Hangzhou, Shanghai and Shenzhen"
@@ -200,7 +200,7 @@ window.irmakProfile = (() => {
       "Real estate legal due diligence"
     ],
     "reverseLabel": "Learn more about Irmak Gürer Aksöz and her professional background.",
-    "jobTitle": "Attorney at Law"
+    "jobTitle": "Founding Attorney"
   },
   "tr": {
     "h1": "Av. Irmak Gürer Aksöz",
@@ -208,7 +208,7 @@ window.irmakProfile = (() => {
     "intro": [
       "Av. Irmak Gürer Aksöz, 2022 yılında kurulan IGA Law Firm'in kurucusu ve İzmir Barosu'na kayıtlı bir avukattır.",
       "İstanbul Üniversitesi mezunu olan Aksöz, İzmir Barosu'nun {barRegistrationNumber} sicil numaralı üyesidir.",
-      "2017 yılında Fransa'nın Strazburg kentindeki Avrupa İnsan Hakları Mahkemesi'nde (AİHM) çalışma ziyareti programını tamamlamıştır.",
+      "Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017).",
       "2018 yılından bu yana yabancılar hukuku alanında çalışmakta olup mesleki faaliyetlerini özellikle yatırım yoluyla Türk vatandaşlığının kazanılması süreçleri üzerinde yoğunlaştırmaktadır.",
       "Yabancı gerçek kişilere ve uluslararası yatırımcılara, yatırım yoluyla Türk vatandaşlığının kazanılmasına ilişkin hukuki şartlar, başvuru prosedürleri ve ilgili yasal süreçler hakkında hukuki danışmanlık sunmaktadır.",
       "2022 yılında IGA Law Firm'i kurarak vatandaşlık hukuku ve yabancılar hukukuna ilişkin çalışmalarını kendi hukuk bürosu çatısı altında sürdürmeye başlamıştır."
@@ -218,7 +218,7 @@ window.irmakProfile = (() => {
         "title": "Mesleki Geçmiş",
         "paragraphs": [
           "Av. Irmak Gürer Aksöz, 2018 yılından itibaren yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
-          "2017 yılında Fransa'nın Strazburg kentindeki Avrupa İnsan Hakları Mahkemesi'nde (AİHM) çalışma ziyareti programını tamamlamıştır.",
+          "Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017).",
           "Çalışmaları, yabancı yatırımcıların Türk vatandaşlığına ilişkin yasal şartları, gerekli belgeleri ve başvuru süreçlerini değerlendirmelerine yönelik hukuki danışmanlığı kapsamaktadır."
         ]
       },
@@ -242,7 +242,7 @@ window.irmakProfile = (() => {
           "**Eğitim:** İstanbul Üniversitesi",
           "**Baro:** İzmir Barosu",
           "**Baro Sicil Numarası:** {barRegistrationNumber}",
-          "**Uluslararası Hukuk Deneyimi:** Avrupa İnsan Hakları Mahkemesi (AİHM), Strazburg, Fransa — Çalışma ziyareti (2017)",
+          "**Uluslararası Hukuk Deneyimi:** Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017).",
           "**Mesleki Çalışmalar:** 2018 yılından bu yana yabancılar hukuku ve yatırım yoluyla vatandaşlık",
           "**IGA Law Firm Kuruluş Yılı:** 2022",
           "**Diller:** Türkçe ve İngilizce"
@@ -277,7 +277,7 @@ window.irmakProfile = (() => {
       ],
       [
         "Uluslararası Hukuk Deneyimi",
-        "Avrupa İnsan Hakları Mahkemesi (AİHM), Strazburg, Fransa — Çalışma ziyareti (2017)"
+        "Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017)."
       ],
       [
         "Mesleki Çalışmalar",
@@ -299,7 +299,7 @@ window.irmakProfile = (() => {
     "profileLabel": "Mesleki profil",
     "timelineTitle": "Mesleki Zaman Çizelgesi",
     "timeline": [
-      "Avrupa İnsan Hakları Mahkemesi (AİHM) — Çalışma Ziyareti",
+      "Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa",
       "Yabancılar hukuku ve yatırım yoluyla Türk vatandaşlığı alanında mesleki çalışmaların başlangıcı",
       "IGA Law Firm'in kuruluşu",
       "Pekin, Hangzhou, Şanghay ve Shenzhen şehirlerinde mesleki seminerler ve sunumlar"
@@ -312,7 +312,7 @@ window.irmakProfile = (() => {
       "Gayrimenkul hukuki incelemesi"
     ],
     "reverseLabel": "Irmak Gürer Aksöz’ün mesleki geçmişi hakkında daha fazla bilgi edinin.",
-    "jobTitle": "Avukat"
+    "jobTitle": "Kurucu Avukat"
   },
   "zh": {
     "h1": "Irmak Gürer Aksöz 律师",
@@ -320,7 +320,7 @@ window.irmakProfile = (() => {
     "intro": [
       "Irmak Gürer Aksöz是一位土耳其律师，也是2022年成立的IGA Law Firm的创始人。",
       "她毕业于伊斯坦布尔大学，在伊兹密尔律师协会注册，执业登记号为{barRegistrationNumber}。",
-      "2017年，她在法国斯特拉斯堡的欧洲人权法院（ECtHR）完成了学习访问项目。",
+      "欧洲人权法院（ECtHR）——研习（Study Work），法国斯特拉斯堡（2017年）。",
       "自2018年起，她从事涉及外国人的法律事务，尤其关注土耳其投资入籍。",
       "她的执业工作包括为外国个人和国际投资者提供有关通过投资取得土耳其国籍所需法律条件、文件及程序的咨询。",
       "2022年，她创立IGA Law Firm，并继续从事国籍法及外国人相关法律事务。"
@@ -330,7 +330,7 @@ window.irmakProfile = (() => {
         "title": "专业背景",
         "paragraphs": [
           "Irmak Gürer Aksöz自2018年起从事外国人法律事务和投资入籍相关工作。",
-          "2017年，她在法国斯特拉斯堡的欧洲人权法院（ECtHR）完成了学习访问项目。",
+          "欧洲人权法院（ECtHR）——研习（Study Work），法国斯特拉斯堡（2017年）。",
           "她的法律业务主要是协助国际客户了解土耳其投资入籍所涉及的法律要求和程序。"
         ]
       },
@@ -377,7 +377,7 @@ window.irmakProfile = (() => {
       ],
       [
         "国际法律经历",
-        "欧洲人权法院（ECtHR），法国斯特拉斯堡——学习访问（2017）"
+        "欧洲人权法院（ECtHR）——研习（Study Work），法国斯特拉斯堡（2017年）。"
       ],
       [
         "专业工作",
@@ -399,7 +399,7 @@ window.irmakProfile = (() => {
     "profileLabel": "律师个人简介",
     "timelineTitle": "专业经历时间线",
     "timeline": [
-      "欧洲人权法院（ECtHR）——学习访问",
+      "欧洲人权法院（ECtHR）——研习（Study Work），法国斯特拉斯堡",
       "开始从事外国人法律事务及土耳其投资入籍工作",
       "创立IGA Law Firm",
       "在北京、杭州、上海和深圳参加专业研讨会并发表演讲"
@@ -412,7 +412,7 @@ window.irmakProfile = (() => {
       "房地产法律尽职调查"
     ],
     "reverseLabel": "进一步了解Irmak Gürer Aksöz及其专业背景。",
-    "jobTitle": "律师"
+    "jobTitle": "创始律师"
   },
   "ar": {
     "h1": "المحامية Irmak Gürer Aksöz",
@@ -420,7 +420,7 @@ window.irmakProfile = (() => {
     "intro": [
       "Irmak Gürer Aksöz محامية تركية ومؤسسة مكتب IGA Law Firm الذي تأسس عام 2022.",
       "تخرجت في جامعة إسطنبول، وهي مسجلة في نقابة المحامين بإزمير برقم قيد {barRegistrationNumber}.",
-      "أكملت في عام 2017 زيارة دراسية لدى المحكمة الأوروبية لحقوق الإنسان في ستراسبورغ، فرنسا.",
+      "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — أعمال دراسية (Study Work)، ستراسبورغ، فرنسا (2017).",
       "تعمل منذ عام 2018 في المسائل القانونية المتعلقة بالأجانب، مع تركيز خاص على الجنسية التركية عن طريق الاستثمار.",
       "تشمل ممارستها المهنية تقديم المشورة للأفراد الأجانب والمستثمرين الدوليين بشأن المتطلبات القانونية والوثائق والإجراءات المرتبطة باكتساب الجنسية التركية من خلال الاستثمار.",
       "أسست مكتب IGA Law Firm عام 2022، حيث تواصل عملها في قانون الجنسية والمسائل القانونية المتعلقة بالأجانب."
@@ -430,7 +430,7 @@ window.irmakProfile = (() => {
         "title": "الخلفية المهنية",
         "paragraphs": [
           "بدأت Irmak Gürer Aksöz العمل في قانون الأجانب ومسائل الجنسية القائمة على الاستثمار عام 2018.",
-          "أكملت في عام 2017 زيارة دراسية لدى المحكمة الأوروبية لحقوق الإنسان في ستراسبورغ، فرنسا.",
+          "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — أعمال دراسية (Study Work)، ستراسبورغ، فرنسا (2017).",
           "تركز ممارستها القانونية على مساعدة العملاء الدوليين في المتطلبات والإجراءات القانونية المتعلقة بالجنسية التركية عن طريق الاستثمار."
         ]
       },
@@ -477,7 +477,7 @@ window.irmakProfile = (() => {
       ],
       [
         "الخبرة القانونية الدولية",
-        "زيارة دراسية لدى المحكمة الأوروبية لحقوق الإنسان في ستراسبورغ، فرنسا (2017)"
+        "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — أعمال دراسية (Study Work)، ستراسبورغ، فرنسا (2017)."
       ],
       [
         "الممارسة المهنية",
@@ -499,7 +499,7 @@ window.irmakProfile = (() => {
     "profileLabel": "الملف المهني",
     "timelineTitle": "المسار المهني",
     "timeline": [
-      "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — زيارة دراسية",
+      "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — أعمال دراسية (Study Work)، ستراسبورغ، فرنسا",
       "بداية العمل المهني في قانون الأجانب والجنسية التركية عن طريق الاستثمار",
       "تأسيس IGA Law Firm",
       "ندوات وعروض مهنية في بكين وهانغتشو وشنغهاي وشنتشن"
@@ -512,7 +512,7 @@ window.irmakProfile = (() => {
       "الفحص القانوني للعقارات"
     ],
     "reverseLabel": "تعرّف إلى Irmak Gürer Aksöz وخلفيتها المهنية.",
-    "jobTitle": "محامية"
+    "jobTitle": "المحامية المؤسسة"
   }
 };
  const registration=window.igaProfessionalRegistration.get(slug);

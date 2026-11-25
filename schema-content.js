@@ -77,7 +77,7 @@ window.igaSchemaContent = (() => {
     if(isProfile&&!teamProfile){
       const profile=window.irmakProfile,d=profile.copy[route.lang],entity=graph.find(n=>n['@id']===personId(founder));
       page['@type']='ProfilePage';page.mainEntity={'@id':personId(founder)};page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:386,height:440};
-      Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:window.igaProfessionalRegistration.identifiers(profile.slug,d.facts[1][1]),knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
+      Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0]+' '+d.facts[3][1],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:window.igaProfessionalRegistration.identifiers(profile.slug,d.facts[1][1]),knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
     }
     if(route.page==='team')for(const member of people){
       const profile=window.teamProfiles?.forName(member.name);

@@ -103,6 +103,8 @@
     return [{ type: 'heading', level: 2, text: heading }, { type: 'paragraph', text: paragraph }];
   }).flat();
   window.blogPostContent = window.blogPostContent || {};
+  // The static build preloads this registry; browser scripts must initialize it too.
+  window.blogPostTranslations = window.blogPostTranslations || {};
   window.blogPostContent[slug] = {
     title: copy.en.title,
     blocks: blocks(copy.en, 'en'),
