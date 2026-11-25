@@ -105,8 +105,6 @@ window.irmakProfile = (() => {
       {
         "title": "Professional Background",
         "paragraphs": [
-          "Irmak Gürer Aksöz began working in foreign nationals law and investment-based citizenship matters in 2018.",
-          "European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017).",
           "Her legal practice focuses on assisting international clients with the legal requirements and procedures involved in Turkish citizenship by investment."
         ]
       },
@@ -130,7 +128,6 @@ window.irmakProfile = (() => {
           "**Education:** Istanbul University",
           "**Bar Association:** Izmir Bar Association",
           "**Registration Number:** {barRegistrationNumber}",
-          "**International Legal Experience:** European Court of Human Rights (ECtHR) — Study Work, Strasbourg, France (2017).",
           "**Professional Practice:** Foreign nationals law and citizenship by investment since 2018",
           "**Founder:** IGA Law Firm (2022)",
           "**Languages:** Turkish and English"
@@ -217,8 +214,6 @@ window.irmakProfile = (() => {
       {
         "title": "Mesleki Geçmiş",
         "paragraphs": [
-          "Av. Irmak Gürer Aksöz, 2018 yılından itibaren yabancılar hukuku ve yatırım yoluyla vatandaşlık alanlarında çalışmaktadır.",
-          "Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017).",
           "Çalışmaları, yabancı yatırımcıların Türk vatandaşlığına ilişkin yasal şartları, gerekli belgeleri ve başvuru süreçlerini değerlendirmelerine yönelik hukuki danışmanlığı kapsamaktadır."
         ]
       },
@@ -242,7 +237,6 @@ window.irmakProfile = (() => {
           "**Eğitim:** İstanbul Üniversitesi",
           "**Baro:** İzmir Barosu",
           "**Baro Sicil Numarası:** {barRegistrationNumber}",
-          "**Uluslararası Hukuk Deneyimi:** Avrupa İnsan Hakları Mahkemesi (AİHM) — İnceleme çalışması (Study Work), Strazburg, Fransa (2017).",
           "**Mesleki Çalışmalar:** 2018 yılından bu yana yabancılar hukuku ve yatırım yoluyla vatandaşlık",
           "**IGA Law Firm Kuruluş Yılı:** 2022",
           "**Diller:** Türkçe ve İngilizce"
@@ -329,8 +323,6 @@ window.irmakProfile = (() => {
       {
         "title": "专业背景",
         "paragraphs": [
-          "Irmak Gürer Aksöz自2018年起从事外国人法律事务和投资入籍相关工作。",
-          "欧洲人权法院（ECtHR）——研习（Study Work），法国斯特拉斯堡（2017年）。",
           "她的法律业务主要是协助国际客户了解土耳其投资入籍所涉及的法律要求和程序。"
         ]
       },
@@ -429,8 +421,6 @@ window.irmakProfile = (() => {
       {
         "title": "الخلفية المهنية",
         "paragraphs": [
-          "بدأت Irmak Gürer Aksöz العمل في قانون الأجانب ومسائل الجنسية القائمة على الاستثمار عام 2018.",
-          "المحكمة الأوروبية لحقوق الإنسان (ECtHR) — أعمال دراسية (Study Work)، ستراسبورغ، فرنسا (2017).",
           "تركز ممارستها القانونية على مساعدة العملاء الدوليين في المتطلبات والإجراءات القانونية المتعلقة بالجنسية التركية عن طريق الاستثمار."
         ]
       },
@@ -533,7 +523,7 @@ window.irmakProfile = (() => {
   const chosen=['turkish-citizenship-e2-visa','turkish-citizenship-by-real-estate-investment-2025-complete-guide','how-to-check-property-eligibility-turkish-citizenship'];
   const published=chosen.map(slug=>articles.find(a=>a.slug===slug)).filter(a=>a&&a.author==='Irmak Gürer Aksöz'&&(!a.availableLanguages||a.availableLanguages.includes(lang)));
   const factList=rows=>`<dl class="irmak-facts">${rows.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl>`;
-  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" src="${esc(portrait)}" width="386" height="440" fetchpriority="high" decoding="async" alt="${esc(d.alt)}"><div><span class="eyebrow">IGA Law Firm</span><h1>${esc(d.h1)}</h1><p class="irmak-role">${esc(d.role)} | IGA Law Firm</p><p>${esc(d.areas[0])} | ${esc(d.areas[2])}</p><p>${esc(d.intro[0])}</p><a class="irmak-linkedin" href="${linkedIn}" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>${esc(d.linkedinLabel)}</span></a>${factList([d.facts[0],[d.facts[1][0],d.facts[1][1]+' — '+d.facts[2][1]],d.facts[4],d.facts[5],d.facts[6]])}</div></div></div></section><div class="shell irmak-body">${paragraphs(d.intro.slice(1))}${section(d.sections[0].title,paragraphs(d.sections[0].paragraphs))}${section(d.timelineTitle,`<ol class="irmak-timeline">${['2017','2018','2022','2026'].map((year,i)=>`<li><strong>${year}</strong><p>${esc(d.timeline[i])}</p></li>`).join('')}</ol>`)}${section(d.sections[1].title,paragraphs(d.sections[1].paragraphs)+`<p><a href="${seminar}">${esc(d.seminarLabel)} ↗</a></p>`)}${section(d.sections[2].title,`<ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul>`)}${section(d.sections[3].title,factList([d.facts[0],...window.igaProfessionalRegistration.rows(slug,lang,d.facts[1][1]),...d.facts.slice(3)])+window.igaProfessionalRegistration.verification(slug,lang,esc))}${section(d.articlesTitle,`<ul>${published.map(a=>`<li><a href="${pathFor(lang,'journal',a.slug)}">${esc(articleTitle(a,lang))}</a></li>`).join('')}</ul>`)}${section(d.servicesTitle,`<ul>${['igaturkishcitizenshipbyinvestment','igalawrealestateduediligence'].map((page,i)=>`<li><a href="${pathFor(lang,page)}">${esc(d.serviceLabels[i])}</a></li>`).join('')}</ul>`)}${section(d.sections[4].title,paragraphs(d.sections[4].paragraphs)+`<p><a class="text-link" href="${pathFor(lang,'contact')}">${esc(t.contact)} ↗</a></p>`)}</div></main>`;
+  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" src="${esc(portrait)}" width="386" height="440" fetchpriority="high" decoding="async" alt="${esc(d.alt)}"><div><span class="eyebrow">IGA Law Firm</span><h1>${esc(d.h1)}</h1><p class="irmak-role">${esc(d.role)} | IGA Law Firm</p><p>${esc(d.areas[0])} | ${esc(d.areas[2])}</p><p>${esc(d.intro[0])}</p><a class="irmak-linkedin" href="${linkedIn}" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>${esc(d.linkedinLabel)}</span></a>${factList([d.facts[0],[d.facts[1][0],d.facts[1][1]+' — '+d.facts[2][1]],d.facts[4],d.facts[5],d.facts[6]])}</div></div></div></section><div class="shell irmak-body">${paragraphs(d.intro.slice(1))}${section(d.sections[0].title,paragraphs(d.sections[0].paragraphs))}${section(d.timelineTitle,`<ol class="irmak-timeline">${['2017','2018','2022','2026'].map((year,i)=>`<li><strong>${year}</strong><p>${esc(d.timeline[i])}</p></li>`).join('')}</ol>`)}${section(d.sections[1].title,paragraphs(d.sections[1].paragraphs)+`<p><a href="${seminar}">${esc(d.seminarLabel)} ↗</a></p>`)}${section(d.sections[2].title,`<ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul>`)}${section(d.sections[3].title,factList([d.facts[0],...window.igaProfessionalRegistration.rows(slug,lang,d.facts[1][1]),...d.facts.slice(4)])+window.igaProfessionalRegistration.verification(slug,lang,esc))}${section(d.articlesTitle,`<ul>${published.map(a=>`<li><a href="${pathFor(lang,'journal',a.slug)}">${esc(articleTitle(a,lang))}</a></li>`).join('')}</ul>`)}${section(d.servicesTitle,`<ul>${['igaturkishcitizenshipbyinvestment','igalawrealestateduediligence'].map((page,i)=>`<li><a href="${pathFor(lang,page)}">${esc(d.serviceLabels[i])}</a></li>`).join('')}</ul>`)}${section(d.sections[4].title,paragraphs(d.sections[4].paragraphs)+`<p><a class="text-link" href="${pathFor(lang,'contact')}">${esc(t.contact)} ↗</a></p>`)}</div></main>`;
  }
  return {slug,copy,image,linkedIn,personId,path,render};
 })();
