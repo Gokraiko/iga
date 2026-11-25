@@ -45143,11 +45143,20 @@
             "@type": "Organization",
             "name": "Izmir Bar Association"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Izmir Bar Association registration number",
-            "value": "14900"
-          },
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "14900",
+              "description": "Izmir Bar Association registration number"
+            },
+            {
+              "@type": "PropertyValue",
+              "propertyID": "TBB Registration Number",
+              "value": "154273",
+              "description": "Union of Turkish Bar Associations registration number"
+            }
+          ],
           "knowsLanguage": [
             "tr",
             "en"
@@ -45316,11 +45325,20 @@
             "@type": "Organization",
             "name": "İzmir Barosu"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Izmir Bar Association registration number",
-            "value": "14900"
-          },
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "14900",
+              "description": "İzmir Barosu registration number"
+            },
+            {
+              "@type": "PropertyValue",
+              "propertyID": "TBB Registration Number",
+              "value": "154273",
+              "description": "Union of Turkish Bar Associations registration number"
+            }
+          ],
           "knowsLanguage": [
             "tr",
             "en"
@@ -45489,11 +45507,20 @@
             "@type": "Organization",
             "name": "伊兹密尔律师协会"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Izmir Bar Association registration number",
-            "value": "14900"
-          },
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "14900",
+              "description": "伊兹密尔律师协会 registration number"
+            },
+            {
+              "@type": "PropertyValue",
+              "propertyID": "TBB Registration Number",
+              "value": "154273",
+              "description": "Union of Turkish Bar Associations registration number"
+            }
+          ],
           "knowsLanguage": [
             "tr",
             "en"
@@ -45662,11 +45689,20 @@
             "@type": "Organization",
             "name": "نقابة المحامين بإزمير"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Izmir Bar Association registration number",
-            "value": "14900"
-          },
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "14900",
+              "description": "نقابة المحامين بإزمير registration number"
+            },
+            {
+              "@type": "PropertyValue",
+              "propertyID": "TBB Registration Number",
+              "value": "154273",
+              "description": "Union of Turkish Bar Associations registration number"
+            }
+          ],
           "knowsLanguage": [
             "tr",
             "en"
@@ -45857,11 +45893,14 @@
             "@type": "Organization",
             "name": "Bursa Bar Association"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Bursa Bar Association registration number",
-            "value": "7922"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "7922",
+              "description": "Bursa Bar Association registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46039,11 +46078,14 @@
             "@type": "Organization",
             "name": "Bursa Barosu"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Bursa Bar Association registration number",
-            "value": "7922"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "7922",
+              "description": "Bursa Barosu registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46221,11 +46263,14 @@
             "@type": "Organization",
             "name": "布尔萨律师协会"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Bursa Bar Association registration number",
-            "value": "7922"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "7922",
+              "description": "布尔萨律师协会 registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46403,11 +46448,14 @@
             "@type": "Organization",
             "name": "نقابة المحامين في بورصة"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Bursa Bar Association registration number",
-            "value": "7922"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "7922",
+              "description": "نقابة المحامين في بورصة registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46587,11 +46635,14 @@
             "@type": "Organization",
             "name": "Istanbul Bar Association"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "84410"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "84410",
+              "description": "Istanbul Bar Association registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46771,11 +46822,14 @@
             "@type": "Organization",
             "name": "İstanbul Barosu"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "84410"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "84410",
+              "description": "İstanbul Barosu registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -46955,11 +47009,14 @@
             "@type": "Organization",
             "name": "伊斯坦布尔律师协会"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "84410"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "84410",
+              "description": "伊斯坦布尔律师协会 registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -47139,11 +47196,14 @@
             "@type": "Organization",
             "name": "نقابة المحامين في إسطنبول"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "84410"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "84410",
+              "description": "نقابة المحامين في إسطنبول registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -48686,11 +48746,14 @@
             "@type": "Organization",
             "name": "Istanbul Bar Association"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "66974"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "66974",
+              "description": "Istanbul Bar Association registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -48865,11 +48928,14 @@
             "@type": "Organization",
             "name": "İstanbul Barosu"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "66974"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "66974",
+              "description": "İstanbul Barosu registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -49044,11 +49110,14 @@
             "@type": "Organization",
             "name": "伊斯坦布尔律师协会"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "66974"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "66974",
+              "description": "伊斯坦布尔律师协会 registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",
@@ -49223,11 +49292,14 @@
             "@type": "Organization",
             "name": "نقابة المحامين في إسطنبول"
           },
-          "identifier": {
-            "@type": "PropertyValue",
-            "propertyID": "Istanbul Bar Association registration number",
-            "value": "66974"
-          }
+          "identifier": [
+            {
+              "@type": "PropertyValue",
+              "propertyID": "Bar Registration Number",
+              "value": "66974",
+              "description": "نقابة المحامين في إسطنبول registration number"
+            }
+          ]
         },
         {
           "@type": "BreadcrumbList",

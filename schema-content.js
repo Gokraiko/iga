@@ -77,7 +77,7 @@ window.igaSchemaContent = (() => {
     if(isProfile&&!teamProfile){
       const profile=window.irmakProfile,d=profile.copy[route.lang],entity=graph.find(n=>n['@id']===personId(founder));
       page['@type']='ProfilePage';page.mainEntity={'@id':personId(founder)};page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:386,height:440};
-      Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:{'@type':'PropertyValue',propertyID:'Izmir Bar Association registration number',value:'14900'},knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
+      Object.assign(entity,{jobTitle:d.jobTitle,description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.facts[0][1]},memberOf:{'@type':'Organization',name:d.facts[1][1]},identifier:window.igaProfessionalRegistration.identifiers(profile.slug,d.facts[1][1]),knowsLanguage:['tr','en'],knowsAbout:d.areas,sameAs:[profile.linkedIn]});
     }
     if(route.page==='team')for(const member of people){
       const profile=window.teamProfiles?.forName(member.name);
@@ -90,7 +90,7 @@ window.igaSchemaContent = (() => {
       page['@type']='ProfilePage';page.mainEntity={'@id':entity['@id']};
       page.primaryImageOfPage={'@type':'ImageObject',url:origin+profile.image,width:profile.width,height:profile.height};
       Object.assign(entity,{jobTitle:window.teamProfiles.labels[route.lang][profile.role],description:d.intro[0],image:origin+profile.image,alumniOf:{'@type':'CollegeOrUniversity',name:d.education},knowsLanguage:profile.languages,knowsAbout:d.areas});
-      if(profile.number)Object.assign(entity,{memberOf:{'@type':'Organization',name:d.bar},identifier:{'@type':'PropertyValue',propertyID:profile.copy.en.bar+' registration number',value:profile.number}});
+      if(profile.number)Object.assign(entity,{memberOf:{'@type':'Organization',name:d.bar},identifier:window.igaProfessionalRegistration.identifiers(profile.slug,d.bar)});
     }
     if(route.page==='contact')page['@type']='ContactPage';
     if(route.page==='journal'&&!post)page['@type']='CollectionPage';

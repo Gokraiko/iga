@@ -1,3 +1,91 @@
+// Registration identifiers supplied by the firm. TBB public lookup checked 2026-11-25:
+// IRMAK GÜRER, Izmir 14900, TBB 154273. No admission date was displayed.
+window.igaProfessionalRegistration = (() => {
+ const lookupUrl='https://www.barobirlik.org.tr/AvukatArama/';
+ const records={
+  "irmak-gurer-aksoz": {
+    "barRegistrationNumber": "14900",
+    "tbbRegistrationNumber": "154273",
+    "jurisdiction": "TR"
+  },
+  "dilan-caman": {
+    "barRegistrationNumber": "66974",
+    "jurisdiction": "TR"
+  },
+  "latife-kucukalpelli": {
+    "barRegistrationNumber": "84410",
+    "jurisdiction": "TR"
+  },
+  "idil-dengiz-bucak": {
+    "barRegistrationNumber": "7922",
+    "jurisdiction": "TR"
+  }
+};
+ const labels={
+  "en": {
+    "bar": "Bar Association",
+    "number": "Bar Registration No.",
+    "tbb": "Union of Turkish Bar Associations (TBB) Registration No.",
+    "jurisdiction": "Jurisdiction",
+    "country": "Türkiye",
+    "admission": "Professional Admission Date",
+    "heading": "Attorney Registration Verification",
+    "explanation": "Professional registration can be checked through the official Union of Turkish Bar Associations attorney directory.",
+    "link": "Verify Attorney Registration via TBB",
+    "practice": "Advises international clients on Turkish citizenship by investment, foreign nationals law and real estate transactions."
+  },
+  "tr": {
+    "bar": "Kayıtlı Olduğu Baro",
+    "number": "Baro Sicil No",
+    "tbb": "Türkiye Barolar Birliği (TBB) Sicil No",
+    "jurisdiction": "Mesleki Yetki Alanı",
+    "country": "Türkiye",
+    "admission": "Mesleğe Başlama Tarihi",
+    "heading": "Avukat Sicil Kaydı Sorgulama",
+    "explanation": "Mesleki kayıt bilgileri Türkiye Barolar Birliğinin resmî avukat arama hizmetinden sorgulanabilir.",
+    "link": "TBB Üzerinden Avukat Sicil Kaydını Sorgula",
+    "practice": "Uluslararası müvekkillere yatırım yoluyla Türk vatandaşlığı, yabancılar hukuku ve gayrimenkul işlemleri hakkında danışmanlık verir."
+  },
+  "zh": {
+    "bar": "注册律师协会",
+    "number": "律师协会注册编号",
+    "tbb": "土耳其律师协会联盟（TBB）注册编号",
+    "jurisdiction": "执业司法辖区",
+    "country": "土耳其",
+    "admission": "取得律师执业资格日期",
+    "heading": "律师执业注册信息查询",
+    "explanation": "可通过土耳其律师协会联盟官方律师名录查询执业注册信息。",
+    "link": "通过 TBB 查询律师执业注册信息",
+    "practice": "为国际客户提供土耳其投资入籍、外国人法律事务及房地产交易方面的法律咨询。"
+  },
+  "ar": {
+    "bar": "نقابة المحامين",
+    "number": "رقم التسجيل في نقابة المحامين",
+    "tbb": "رقم التسجيل في اتحاد نقابات المحامين التركية (TBB)",
+    "jurisdiction": "نطاق الممارسة القضائي",
+    "country": "تركيا",
+    "admission": "تاريخ بدء ممارسة المحاماة",
+    "heading": "التحقق من تسجيل المحامي",
+    "explanation": "يمكن الاستعلام عن التسجيل المهني عبر دليل المحامين الرسمي لاتحاد نقابات المحامين التركية.",
+    "link": "الاستعلام عن تسجيل المحامي عبر TBB",
+    "practice": "تقدم المشورة للعملاء الدوليين بشأن الجنسية التركية عن طريق الاستثمار وقانون الأجانب والمعاملات العقارية."
+  }
+};
+ const get=slug=>records[slug];
+ function rows(slug,lang,bar){
+  const p=get(slug),l=labels[lang];if(!p)return [];
+  return [[l.bar,bar],[l.number,p.barRegistrationNumber],...(p.tbbRegistrationNumber?[[l.tbb,p.tbbRegistrationNumber]]:[]),...(p.jurisdiction?[[l.jurisdiction,l.country]]:[]),...(p.professionalAdmissionDate?[[l.admission,p.professionalAdmissionDate]]:[])];
+ }
+ function verification(slug,lang,esc){
+  if(!get(slug))return '';const l=labels[lang];
+  return `<div class="professional-verification"><h3>${esc(l.heading)}</h3><p>${esc(l.explanation)}</p><p><a href="${get(slug).officialVerificationUrl||lookupUrl}" target="_blank" rel="noopener noreferrer">${esc(l.link)}</a></p></div>`;
+ }
+ function identifiers(slug,bar){
+  const p=get(slug);if(!p)return [];
+  return [{'@type':'PropertyValue',propertyID:'Bar Registration Number',value:p.barRegistrationNumber,description:bar+' registration number'},...(p.tbbRegistrationNumber?[{'@type':'PropertyValue',propertyID:'TBB Registration Number',value:p.tbbRegistrationNumber,description:'Union of Turkish Bar Associations registration number'}]:[])];
+ }
+ return {get,labels,rows,verification,identifiers,lookupUrl};
+})();
 // Factual biography supplied by the firm; no additional credentials inferred.
 window.irmakProfile = (() => {
  const slug="irmak-gurer-aksoz";
@@ -7,7 +95,7 @@ window.irmakProfile = (() => {
     "role": "Founder & Attorney at Law",
     "intro": [
       "Irmak Gürer Aksöz is a Turkish attorney and the founder of IGA Law Firm, established in 2022.",
-      "A graduate of Istanbul University, she is registered with the Izmir Bar Association under registration number 14900.",
+      "A graduate of Istanbul University, she is registered with the Izmir Bar Association under registration number {barRegistrationNumber}.",
       "Completed a study visit at the European Court of Human Rights (ECtHR) in Strasbourg, France, in 2017.",
       "Since 2018, she has worked in legal matters concerning foreign nationals, with a particular focus on Turkish citizenship by investment.",
       "Her professional practice involves advising foreign individuals and international investors on the legal requirements, documentation and procedures associated with acquiring Turkish citizenship through investment.",
@@ -41,7 +129,7 @@ window.irmakProfile = (() => {
         "paragraphs": [
           "**Education:** Istanbul University",
           "**Bar Association:** Izmir Bar Association",
-          "**Registration Number:** 14900",
+          "**Registration Number:** {barRegistrationNumber}",
           "**International Legal Experience:** European Court of Human Rights (ECtHR), Strasbourg, France — Study visit (2017)",
           "**Professional Practice:** Foreign nationals law and citizenship by investment since 2018",
           "**Founder:** IGA Law Firm (2022)",
@@ -73,7 +161,7 @@ window.irmakProfile = (() => {
       ],
       [
         "Registration Number",
-        "14900"
+        "{barRegistrationNumber}"
       ],
       [
         "International Legal Experience",
@@ -119,7 +207,7 @@ window.irmakProfile = (() => {
     "role": "Kurucu Avukat",
     "intro": [
       "Av. Irmak Gürer Aksöz, 2022 yılında kurulan IGA Law Firm'in kurucusu ve İzmir Barosu'na kayıtlı bir avukattır.",
-      "İstanbul Üniversitesi mezunu olan Aksöz, İzmir Barosu'nun 14900 sicil numaralı üyesidir.",
+      "İstanbul Üniversitesi mezunu olan Aksöz, İzmir Barosu'nun {barRegistrationNumber} sicil numaralı üyesidir.",
       "2017 yılında Fransa'nın Strazburg kentindeki Avrupa İnsan Hakları Mahkemesi'nde (AİHM) çalışma ziyareti programını tamamlamıştır.",
       "2018 yılından bu yana yabancılar hukuku alanında çalışmakta olup mesleki faaliyetlerini özellikle yatırım yoluyla Türk vatandaşlığının kazanılması süreçleri üzerinde yoğunlaştırmaktadır.",
       "Yabancı gerçek kişilere ve uluslararası yatırımcılara, yatırım yoluyla Türk vatandaşlığının kazanılmasına ilişkin hukuki şartlar, başvuru prosedürleri ve ilgili yasal süreçler hakkında hukuki danışmanlık sunmaktadır.",
@@ -153,7 +241,7 @@ window.irmakProfile = (() => {
         "paragraphs": [
           "**Eğitim:** İstanbul Üniversitesi",
           "**Baro:** İzmir Barosu",
-          "**Baro Sicil Numarası:** 14900",
+          "**Baro Sicil Numarası:** {barRegistrationNumber}",
           "**Uluslararası Hukuk Deneyimi:** Avrupa İnsan Hakları Mahkemesi (AİHM), Strazburg, Fransa — Çalışma ziyareti (2017)",
           "**Mesleki Çalışmalar:** 2018 yılından bu yana yabancılar hukuku ve yatırım yoluyla vatandaşlık",
           "**IGA Law Firm Kuruluş Yılı:** 2022",
@@ -185,7 +273,7 @@ window.irmakProfile = (() => {
       ],
       [
         "Baro Sicil Numarası",
-        "14900"
+        "{barRegistrationNumber}"
       ],
       [
         "Uluslararası Hukuk Deneyimi",
@@ -231,7 +319,7 @@ window.irmakProfile = (() => {
     "role": "创始人及律师",
     "intro": [
       "Irmak Gürer Aksöz是一位土耳其律师，也是2022年成立的IGA Law Firm的创始人。",
-      "她毕业于伊斯坦布尔大学，在伊兹密尔律师协会注册，执业登记号为14900。",
+      "她毕业于伊斯坦布尔大学，在伊兹密尔律师协会注册，执业登记号为{barRegistrationNumber}。",
       "2017年，她在法国斯特拉斯堡的欧洲人权法院（ECtHR）完成了学习访问项目。",
       "自2018年起，她从事涉及外国人的法律事务，尤其关注土耳其投资入籍。",
       "她的执业工作包括为外国个人和国际投资者提供有关通过投资取得土耳其国籍所需法律条件、文件及程序的咨询。",
@@ -285,7 +373,7 @@ window.irmakProfile = (() => {
       ],
       [
         "执业登记号",
-        "14900"
+        "{barRegistrationNumber}"
       ],
       [
         "国际法律经历",
@@ -331,7 +419,7 @@ window.irmakProfile = (() => {
     "role": "المؤسسة والمحامية",
     "intro": [
       "Irmak Gürer Aksöz محامية تركية ومؤسسة مكتب IGA Law Firm الذي تأسس عام 2022.",
-      "تخرجت في جامعة إسطنبول، وهي مسجلة في نقابة المحامين بإزمير برقم قيد 14900.",
+      "تخرجت في جامعة إسطنبول، وهي مسجلة في نقابة المحامين بإزمير برقم قيد {barRegistrationNumber}.",
       "أكملت في عام 2017 زيارة دراسية لدى المحكمة الأوروبية لحقوق الإنسان في ستراسبورغ، فرنسا.",
       "تعمل منذ عام 2018 في المسائل القانونية المتعلقة بالأجانب، مع تركيز خاص على الجنسية التركية عن طريق الاستثمار.",
       "تشمل ممارستها المهنية تقديم المشورة للأفراد الأجانب والمستثمرين الدوليين بشأن المتطلبات القانونية والوثائق والإجراءات المرتبطة باكتساب الجنسية التركية من خلال الاستثمار.",
@@ -385,7 +473,7 @@ window.irmakProfile = (() => {
       ],
       [
         "رقم القيد",
-        "14900"
+        "{barRegistrationNumber}"
       ],
       [
         "الخبرة القانونية الدولية",
@@ -427,6 +515,11 @@ window.irmakProfile = (() => {
     "jobTitle": "محامية"
   }
 };
+ const registration=window.igaProfessionalRegistration.get(slug);
+ for(const d of Object.values(copy)){
+  const resolve=value=>typeof value==='string'?value.replaceAll('{barRegistrationNumber}',registration.barRegistrationNumber):Array.isArray(value)?value.map(resolve):value&&typeof value==='object'?Object.fromEntries(Object.entries(value).map(([k,v])=>[k,resolve(v)])):value;
+  Object.assign(d,resolve(d));
+ }
  const image='/public/assets/media/b7935952b6d8df3c.jpg';
  const linkedIn='https://www.linkedin.com/in/irmak-g%C3%BCrer-aks%C3%B6z-509148155/';
  const personId='https://igalawfirm.com/#irmak-gurer-aksoz';
@@ -440,7 +533,7 @@ window.irmakProfile = (() => {
   const chosen=['turkish-citizenship-e2-visa','turkish-citizenship-by-real-estate-investment-2025-complete-guide','how-to-check-property-eligibility-turkish-citizenship'];
   const published=chosen.map(slug=>articles.find(a=>a.slug===slug)).filter(a=>a&&a.author==='Irmak Gürer Aksöz'&&(!a.availableLanguages||a.availableLanguages.includes(lang)));
   const factList=rows=>`<dl class="irmak-facts">${rows.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl>`;
-  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" src="${esc(portrait)}" width="386" height="440" fetchpriority="high" decoding="async" alt="${esc(d.alt)}"><div><span class="eyebrow">IGA Law Firm</span><h1>${esc(d.h1)}</h1><p class="irmak-role">${esc(d.role)} | IGA Law Firm</p><p>${esc(d.areas[0])} | ${esc(d.areas[2])}</p><p>${esc(d.intro[0])}</p><a class="irmak-linkedin" href="${linkedIn}" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>${esc(d.linkedinLabel)}</span></a>${factList([d.facts[0],[d.facts[1][0],d.facts[1][1]+' — '+d.facts[2][1]],d.facts[4],d.facts[5],d.facts[6]])}</div></div></div></section><div class="shell irmak-body">${paragraphs(d.intro.slice(1))}${section(d.sections[0].title,paragraphs(d.sections[0].paragraphs))}${section(d.timelineTitle,`<ol class="irmak-timeline">${['2017','2018','2022','2026'].map((year,i)=>`<li><strong>${year}</strong><p>${esc(d.timeline[i])}</p></li>`).join('')}</ol>`)}${section(d.sections[1].title,paragraphs(d.sections[1].paragraphs)+`<p><a href="${seminar}">${esc(d.seminarLabel)} ↗</a></p>`)}${section(d.sections[2].title,`<ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul>`)}${section(d.sections[3].title,factList(d.facts))}${section(d.articlesTitle,`<ul>${published.map(a=>`<li><a href="${pathFor(lang,'journal',a.slug)}">${esc(articleTitle(a,lang))}</a></li>`).join('')}</ul>`)}${section(d.servicesTitle,`<ul>${['igaturkishcitizenshipbyinvestment','igalawrealestateduediligence'].map((page,i)=>`<li><a href="${pathFor(lang,page)}">${esc(d.serviceLabels[i])}</a></li>`).join('')}</ul>`)}${section(d.sections[4].title,paragraphs(d.sections[4].paragraphs)+`<p><a class="text-link" href="${pathFor(lang,'contact')}">${esc(t.contact)} ↗</a></p>`)}</div></main>`;
+  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" src="${esc(portrait)}" width="386" height="440" fetchpriority="high" decoding="async" alt="${esc(d.alt)}"><div><span class="eyebrow">IGA Law Firm</span><h1>${esc(d.h1)}</h1><p class="irmak-role">${esc(d.role)} | IGA Law Firm</p><p>${esc(d.areas[0])} | ${esc(d.areas[2])}</p><p>${esc(d.intro[0])}</p><a class="irmak-linkedin" href="${linkedIn}" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>${esc(d.linkedinLabel)}</span></a>${factList([d.facts[0],[d.facts[1][0],d.facts[1][1]+' — '+d.facts[2][1]],d.facts[4],d.facts[5],d.facts[6]])}</div></div></div></section><div class="shell irmak-body">${paragraphs(d.intro.slice(1))}${section(d.sections[0].title,paragraphs(d.sections[0].paragraphs))}${section(d.timelineTitle,`<ol class="irmak-timeline">${['2017','2018','2022','2026'].map((year,i)=>`<li><strong>${year}</strong><p>${esc(d.timeline[i])}</p></li>`).join('')}</ol>`)}${section(d.sections[1].title,paragraphs(d.sections[1].paragraphs)+`<p><a href="${seminar}">${esc(d.seminarLabel)} ↗</a></p>`)}${section(d.sections[2].title,`<ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul>`)}${section(d.sections[3].title,factList([d.facts[0],...window.igaProfessionalRegistration.rows(slug,lang,d.facts[1][1]),...d.facts.slice(3)])+window.igaProfessionalRegistration.verification(slug,lang,esc))}${section(d.articlesTitle,`<ul>${published.map(a=>`<li><a href="${pathFor(lang,'journal',a.slug)}">${esc(articleTitle(a,lang))}</a></li>`).join('')}</ul>`)}${section(d.servicesTitle,`<ul>${['igaturkishcitizenshipbyinvestment','igalawrealestateduediligence'].map((page,i)=>`<li><a href="${pathFor(lang,page)}">${esc(d.serviceLabels[i])}</a></li>`).join('')}</ul>`)}${section(d.sections[4].title,paragraphs(d.sections[4].paragraphs)+`<p><a class="text-link" href="${pathFor(lang,'contact')}">${esc(t.contact)} ↗</a></p>`)}</div></main>`;
  }
  return {slug,copy,image,linkedIn,personId,path,render};
 })();

@@ -82,7 +82,7 @@ window.teamProfiles = (() => {
     "image": "/public/assets/idil-dengiz-bucak-iga-law-firm.jpg",
     "width": 1086,
     "height": 1448,
-    "number": "7922",
+    "registrationKey": "idil-dengiz-bucak",
     "languages": [
       "tr",
       "en",
@@ -98,12 +98,12 @@ window.teamProfiles = (() => {
           "Turkish Citizenship by Investment"
         ],
         "intro": [
-          "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University.",
+          "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number {barRegistrationNumber}. She studied at Bahçeşehir University.",
           "Her practice focuses on litigation and legal matters related to Turkish citizenship by investment.",
           "She speaks Turkish, English and German."
         ],
         "title": "İdil Dengiz Bucak | Attorney-at-Law | IGA Law Firm",
-        "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number 7922. She studied at Bahçeşehir University."
+        "description": "İdil Dengiz Bucak is an attorney at IGA Law Firm, registered with the Bursa Bar Association under registration number {barRegistrationNumber}. She studied at Bahçeşehir University."
       },
       "tr": {
         "education": "Bahçeşehir Üniversitesi",
@@ -113,12 +113,12 @@ window.teamProfiles = (() => {
           "Yatırım Yoluyla Türk Vatandaşlığı"
         ],
         "intro": [
-          "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
+          "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na {barRegistrationNumber} sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır.",
           "Çalışmaları dava ve uyuşmazlıklar ile yatırım yoluyla Türk vatandaşlığına ilişkin hukuki konulara odaklanmaktadır.",
           "Türkçe, İngilizce ve Almanca konuşmaktadır."
         ],
         "title": "İdil Dengiz Bucak | Avukat | IGA Law Firm",
-        "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na 7922 sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır."
+        "description": "İdil Dengiz Bucak, IGA Law Firm bünyesinde çalışan ve Bursa Barosu’na {barRegistrationNumber} sicil numarasıyla kayıtlı bir avukattır. Bahçeşehir Üniversitesi’nde eğitim almıştır."
       },
       "zh": {
         "education": "巴赫切谢希尔大学（Bahçeşehir University）",
@@ -128,12 +128,12 @@ window.teamProfiles = (() => {
           "土耳其投资入籍"
         ],
         "intro": [
-          "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
+          "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为{barRegistrationNumber}。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。",
           "她的执业工作主要涉及诉讼以及土耳其投资入籍相关法律事务。",
           "她使用土耳其语、英语和德语。"
         ],
         "title": "İdil Dengiz Bucak | 律师 | IGA Law Firm",
-        "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为7922。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。"
+        "description": "İdil Dengiz Bucak是IGA Law Firm的律师，在布尔萨律师协会注册，执业登记号为{barRegistrationNumber}。她曾就读于巴赫切谢希尔大学（Bahçeşehir University）。"
       },
       "ar": {
         "education": "جامعة بهتشه شهير (Bahçeşehir University)",
@@ -143,12 +143,12 @@ window.teamProfiles = (() => {
           "الجنسية التركية عن طريق الاستثمار"
         ],
         "intro": [
-          "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير.",
+          "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد {barRegistrationNumber}. درست في جامعة بهتشه شهير.",
           "تركز ممارستها على التقاضي والمسائل القانونية المتعلقة بالجنسية التركية عن طريق الاستثمار.",
           "تتحدث التركية والإنجليزية والألمانية."
         ],
         "title": "İdil Dengiz Bucak | محامية | IGA Law Firm",
-        "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد 7922. درست في جامعة بهتشه شهير."
+        "description": "İdil Dengiz Bucak محامية في IGA Law Firm، ومسجلة في نقابة المحامين في بورصة برقم قيد {barRegistrationNumber}. درست في جامعة بهتشه شهير."
       }
     }
   },
@@ -159,7 +159,7 @@ window.teamProfiles = (() => {
     "image": "/public/assets/team-latife-office.webp",
     "width": 887,
     "height": 887,
-    "number": "84410",
+    "registrationKey": "latife-kucukalpelli",
     "languages": [
       "tr",
       "en"
@@ -177,12 +177,12 @@ window.teamProfiles = (() => {
           "Inheritance Law"
         ],
         "intro": [
-          "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University.",
+          "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number {barRegistrationNumber}. She studied at Istanbul University.",
           "Her areas of practice include legal due diligence, litigation, Turkish citizenship by investment, real estate law and inheritance law.",
           "She speaks Turkish and English."
         ],
         "title": "Latife Küçükalpelli | Attorney-at-Law | IGA Law Firm",
-        "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 84410. She studied at Istanbul University."
+        "description": "Latife Küçükalpelli is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number {barRegistrationNumber}. She studied at Istanbul University."
       },
       "tr": {
         "education": "İstanbul Üniversitesi",
@@ -195,12 +195,12 @@ window.teamProfiles = (() => {
           "Miras Hukuku"
         ],
         "intro": [
-          "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
+          "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na {barRegistrationNumber} sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır.",
           "Çalışma alanları hukuki inceleme, dava ve uyuşmazlıklar, yatırım yoluyla Türk vatandaşlığı, gayrimenkul hukuku ve miras hukukunu kapsamaktadır.",
           "Türkçe ve İngilizce konuşmaktadır."
         ],
         "title": "Latife Küçükalpelli | Avukat | IGA Law Firm",
-        "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 84410 sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır."
+        "description": "Latife Küçükalpelli, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na {barRegistrationNumber} sicil numarasıyla kayıtlı bir avukattır. İstanbul Üniversitesi’nde eğitim almıştır."
       },
       "zh": {
         "education": "伊斯坦布尔大学",
@@ -213,12 +213,12 @@ window.teamProfiles = (() => {
           "继承法"
         ],
         "intro": [
-          "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。",
+          "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为{barRegistrationNumber}。她曾就读于伊斯坦布尔大学。",
           "她的执业领域包括法律尽职调查、诉讼、土耳其投资入籍、房地产法和继承法。",
           "她使用土耳其语和英语。"
         ],
         "title": "Latife Küçükalpelli | 律师 | IGA Law Firm",
-        "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为84410。她曾就读于伊斯坦布尔大学。"
+        "description": "Latife Küçükalpelli是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为{barRegistrationNumber}。她曾就读于伊斯坦布尔大学。"
       },
       "ar": {
         "education": "جامعة إسطنبول",
@@ -231,12 +231,12 @@ window.teamProfiles = (() => {
           "قانون الميراث"
         ],
         "intro": [
-          "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول.",
+          "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد {barRegistrationNumber}. درست في جامعة إسطنبول.",
           "تشمل مجالات ممارستها الفحص القانوني النافي للجهالة والتقاضي والجنسية التركية عن طريق الاستثمار والقانون العقاري وقانون الميراث.",
           "تتحدث التركية والإنجليزية."
         ],
         "title": "Latife Küçükalpelli | محامية | IGA Law Firm",
-        "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 84410. درست في جامعة إسطنبول."
+        "description": "Latife Küçükalpelli محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد {barRegistrationNumber}. درست في جامعة إسطنبول."
       }
     }
   },
@@ -373,7 +373,7 @@ window.teamProfiles = (() => {
     "image": "/public/assets/dilan-caman-iga-law-firm.png",
     "width": 1145,
     "height": 1374,
-    "number": "66974",
+    "registrationKey": "dilan-caman",
     "languages": [
       "tr",
       "en"
@@ -388,12 +388,12 @@ window.teamProfiles = (() => {
           "Turkish Citizenship by Investment"
         ],
         "intro": [
-          "Dilan Caman is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number 66974. She graduated from Marmara University Faculty of Law.",
+          "Dilan Caman is an attorney at IGA Law Firm, registered with the Istanbul Bar Association under registration number {barRegistrationNumber}. She graduated from Marmara University Faculty of Law.",
           "Her practice focuses on real estate law, criminal law and Turkish citizenship by investment.",
           "She speaks Turkish and English."
         ],
         "title": "Dilan Caman | Attorney | IGA Law Firm",
-        "description": "Dilan Caman, Istanbul Bar attorney no. 66974 and Marmara Law graduate. Practice areas: real estate law, criminal law and Turkish citizenship by investment."
+        "description": "Dilan Caman, Istanbul Bar attorney no. {barRegistrationNumber} and Marmara Law graduate. Practice areas: real estate law, criminal law and Turkish citizenship by investment."
       },
       "tr": {
         "education": "Marmara Üniversitesi Hukuk Fakültesi",
@@ -404,12 +404,12 @@ window.teamProfiles = (() => {
           "Yatırım Yoluyla Türk Vatandaşlığı"
         ],
         "intro": [
-          "Dilan Caman, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na 66974 sicil numarasıyla kayıtlı bir avukattır. Marmara Üniversitesi Hukuk Fakültesi mezunudur.",
+          "Dilan Caman, IGA Law Firm bünyesinde çalışan ve İstanbul Barosu’na {barRegistrationNumber} sicil numarasıyla kayıtlı bir avukattır. Marmara Üniversitesi Hukuk Fakültesi mezunudur.",
           "Çalışmaları gayrimenkul hukuku, ceza hukuku ve yatırım yoluyla Türk vatandaşlığı alanlarına odaklanmaktadır.",
           "Türkçe ve İngilizce konuşmaktadır."
         ],
         "title": "Av. Dilan Caman | IGA Law Firm",
-        "description": "İstanbul Barosu 66974 sicil numaralı Av. Dilan Caman, Marmara Hukuk mezunudur. Gayrimenkul, ceza ve yatırım yoluyla vatandaşlık alanlarında çalışır."
+        "description": "İstanbul Barosu {barRegistrationNumber} sicil numaralı Av. Dilan Caman, Marmara Hukuk mezunudur. Gayrimenkul, ceza ve yatırım yoluyla vatandaşlık alanlarında çalışır."
       },
       "zh": {
         "education": "马尔马拉大学法学院",
@@ -420,12 +420,12 @@ window.teamProfiles = (() => {
           "土耳其投资入籍"
         ],
         "intro": [
-          "Dilan Caman是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为66974。她毕业于马尔马拉大学法学院。",
+          "Dilan Caman是IGA Law Firm的律师，在伊斯坦布尔律师协会注册，执业登记号为{barRegistrationNumber}。她毕业于马尔马拉大学法学院。",
           "她的执业工作主要涉及房地产法、刑法和土耳其投资入籍。",
           "她使用土耳其语和英语。"
         ],
         "title": "Dilan Caman 律师 | IGA Law Firm",
-        "description": "Dilan Caman律师毕业于马尔马拉大学法学院，在伊斯坦布尔律师协会注册，执业登记号66974。工作领域包括房地产法、刑法和土耳其投资入籍。"
+        "description": "Dilan Caman律师毕业于马尔马拉大学法学院，在伊斯坦布尔律师协会注册，执业登记号{barRegistrationNumber}。工作领域包括房地产法、刑法和土耳其投资入籍。"
       },
       "ar": {
         "education": "كلية الحقوق بجامعة مرمرة",
@@ -436,24 +436,31 @@ window.teamProfiles = (() => {
           "الجنسية التركية عن طريق الاستثمار"
         ],
         "intro": [
-          "Dilan Caman محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد 66974. تخرجت في كلية الحقوق بجامعة مرمرة.",
+          "Dilan Caman محامية في IGA Law Firm، ومسجلة في نقابة المحامين في إسطنبول برقم قيد {barRegistrationNumber}. تخرجت في كلية الحقوق بجامعة مرمرة.",
           "تركز ممارستها على القانون العقاري والقانون الجنائي والجنسية التركية عن طريق الاستثمار.",
           "تتحدث التركية والإنجليزية."
         ],
         "title": "المحامية Dilan Caman | IGA Law Firm",
-        "description": "Dilan Caman محامية مسجلة في نقابة إسطنبول برقم 66974 وخريجة حقوق مرمرة. تعمل في القانون العقاري والجنائي والجنسية التركية عن طريق الاستثمار."
+        "description": "Dilan Caman محامية مسجلة في نقابة إسطنبول برقم {barRegistrationNumber} وخريجة حقوق مرمرة. تعمل في القانون العقاري والجنائي والجنسية التركية عن طريق الاستثمار."
       }
     }
   }
 ];
+ for(const p of profiles){
+  const registration=window.igaProfessionalRegistration.get(p.slug);
+  if(p.role!=='lawyer'||!registration)continue;
+  p.number=registration.barRegistrationNumber;
+  const resolve=value=>typeof value==='string'?value.replaceAll('{barRegistrationNumber}',p.number):Array.isArray(value)?value.map(resolve):value&&typeof value==='object'?Object.fromEntries(Object.entries(value).map(([k,v])=>[k,resolve(v)])):value;
+  p.copy=resolve(p.copy);
+ }
  const get=slug=>profiles.find(p=>p.slug===slug);
  const forName=name=>profiles.find(p=>p.name===name);
  const path=(lang,slug)=>'/'+lang+'/team/'+slug+'/';
  for(const p of profiles)for(const [lang,d] of Object.entries(p.copy))window.finalSeoMetadata[path(lang,p.slug)]={title:d.title,description:d.description};
  function render(slug,lang,{esc,pathFor}){
   const p=get(slug),d=p.copy[lang],l=labels[lang];
-  const facts=[[l.education,d.education],...(p.number?[[l.bar,d.bar],[l.number,p.number]]:[]),[l.languages,l.languageNames.slice(0,p.languages.length).join(' · ')]];
-  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" style="aspect-ratio:${p.width}/${p.height}" src="${esc(p.image)}" width="${p.width}" height="${p.height}" fetchpriority="high" decoding="async" alt="${esc(p.name+', '+l[p.role]+' — IGA Law Firm')}"><div><span class="eyebrow">IGA Law Firm</span><h1><bdi>${esc(p.name)}</bdi></h1><p class="irmak-role">${esc(l[p.role])} | IGA Law Firm</p>${p.linkedIn?`<a class="irmak-linkedin" href="${esc(p.linkedIn)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(p.name+' '+l.linkedin)}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>LinkedIn</span></a>`:''}<dl class="irmak-facts">${facts.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl></div></div></div></section><div class="shell irmak-body"><section><h2>${esc(l.bio)}</h2>${d.intro.map(s=>`<p>${esc(s)}</p>`).join('')}</section><section class="irmak-section"><h2>${esc(l[p.role==='trainee'?'focus':'areas'])}</h2><ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul></section><p><a href="${pathFor(lang,'team')}">${esc(l.back)}</a></p></div></main>`;
+  const facts=[[l.education,d.education],...(p.role==='lawyer'?window.igaProfessionalRegistration.rows(p.slug,lang,d.bar):[]),[l.languages,l.languageNames.slice(0,p.languages.length).join(' · ')]];
+  return `<main class="irmak-profile"><section class="section irmak-hero"><div class="shell"><div class="crumb"></div><div class="irmak-hero-grid"><img class="irmak-portrait" style="aspect-ratio:${p.width}/${p.height}" src="${esc(p.image)}" width="${p.width}" height="${p.height}" fetchpriority="high" decoding="async" alt="${esc(p.name+', '+l[p.role]+' — IGA Law Firm')}"><div><span class="eyebrow">IGA Law Firm</span><h1><bdi>${esc(p.name)}</bdi></h1><p class="irmak-role">${esc(l[p.role])} | IGA Law Firm</p>${p.linkedIn?`<a class="irmak-linkedin" href="${esc(p.linkedIn)}" target="_blank" rel="noopener noreferrer" aria-label="${esc(p.name+' '+l.linkedin)}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M20.45 2H3.55C2.7 2 2 2.67 2 3.5v17c0 .83.7 1.5 1.55 1.5h16.9c.85 0 1.55-.67 1.55-1.5v-17c0-.83-.7-1.5-1.55-1.5ZM8 19H5V9h3v10ZM6.5 7.7a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5ZM19 19h-3v-5.3c0-1.3-.5-2-1.5-2s-1.5.7-1.5 2V19h-3V9h3v1.3c.5-.9 1.4-1.5 2.7-1.5 2.2 0 3.3 1.4 3.3 4.1V19Z"/></svg><span>LinkedIn</span></a>`:''}<dl class="irmak-facts">${facts.map(([label,value])=>`<div><dt>${esc(label)}</dt><dd>${esc(value)}</dd></div>`).join('')}</dl>${p.role==='lawyer'?window.igaProfessionalRegistration.verification(p.slug,lang,esc):''}</div></div></div></section><div class="shell irmak-body"><section><h2>${esc(l.bio)}</h2>${d.intro.map(s=>`<p>${esc(s)}</p>`).join('')}</section><section class="irmak-section"><h2>${esc(l[p.role==='trainee'?'focus':'areas'])}</h2><ul>${d.areas.map(a=>`<li>${esc(a)}</li>`).join('')}</ul></section><p><a href="${pathFor(lang,'team')}">${esc(l.back)}</a></p></div></main>`;
  }
  return {profiles,get,forName,path,labels,render};
 })();
